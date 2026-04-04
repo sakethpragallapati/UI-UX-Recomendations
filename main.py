@@ -3,7 +3,7 @@ import easyocr
 from ultralytics import YOLO
 from auditor import UIAuditor
 
-def run_ui_audit(image_path, predicted_category, yolo_weights_path="runs/detect/ui_detector/weights/best.pt"):
+def run_ui_audit(image_path, predicted_category, yolo_weights_path="runs/detect/ui_detector2/weights/best.pt"):
     print(f"\n🚀 Starting AI UI Audit for: {image_path}")
     print(f"📂 Website Category: {predicted_category}")
     
@@ -86,8 +86,8 @@ def run_ui_audit(image_path, predicted_category, yolo_weights_path="runs/detect/
 
 if __name__ == "__main__":
     # Example Usage: Replace with a real screenshot from your test set!
-    TEST_IMAGE = "test_images/sample_homepage.png" 
+    TEST_IMAGE = "test_images/amazon.png" 
     CATEGORY = "e_commerce" # This would eventually come from your Classifier Model
     
-    # run_ui_audit(TEST_IMAGE, CATEGORY)
+    run_ui_audit(TEST_IMAGE, CATEGORY)
     print("Main script ready. Update TEST_IMAGE path and uncomment the run function to test.")
