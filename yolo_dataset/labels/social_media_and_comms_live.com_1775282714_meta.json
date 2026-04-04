@@ -1,0 +1,1112 @@
+{
+  "url": "https://live.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1775282715,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 141.5,
+        "y1": 1.0,
+        "x2": 278.5,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Microsoft",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 151.5,
+        "y1": 14.0,
+        "x2": 259.5,
+        "y2": 37.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 310.5,
+        "y1": 1.0,
+        "x2": 443.796875,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Microsoft 365",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 445.796875,
+        "y1": 1.0,
+        "x2": 530.703125,
+        "y2": 50.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Outlook",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 449.796875,
+        "y1": 2.0,
+        "x2": 526.703125,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Outlook",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 534.265625,
+        "y1": 0,
+        "x2": 626.625,
+        "y2": 52.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 534.265625,
+        "y1": 1.0,
+        "x2": 632.625,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 630.1875,
+        "y1": 0,
+        "x2": 727.09375,
+        "y2": 49.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For business",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: For business"
+    },
+    {
+      "coordinates": {
+        "x1": 634.1875,
+        "y1": 1.0,
+        "x2": 723.09375,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: For business"
+    },
+    {
+      "coordinates": {
+        "x1": 730.65625,
+        "y1": 0,
+        "x2": 870.8125,
+        "y2": 52.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plans and pricing",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Plans and pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 730.65625,
+        "y1": 1.0,
+        "x2": 876.8125,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plans and pricing",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Plans and pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 874.375,
+        "y1": 0,
+        "x2": 973.90625,
+        "y2": 52.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 874.375,
+        "y1": 1.0,
+        "x2": 979.90625,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 977.46875,
+        "y1": 0,
+        "x2": 1049.5625,
+        "y2": 49.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 981.46875,
+        "y1": 1.0,
+        "x2": 1045.5625,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1497.328125,
+        "y1": 3.0,
+        "x2": 1575.09375,
+        "y2": 48.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search Microsoft 365",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 1588.328125,
+        "y1": 1.0,
+        "x2": 1675.359375,
+        "y2": 44.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Buy now",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Buy now"
+    },
+    {
+      "coordinates": {
+        "x1": 1598.328125,
+        "y1": 12.0,
+        "x2": 1665.359375,
+        "y2": 43.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Buy now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Buy now"
+    },
+    {
+      "coordinates": {
+        "x1": 1675.359375,
+        "y1": 0,
+        "x2": 1740.5,
+        "y2": 49.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1679.359375,
+        "y1": 1.0,
+        "x2": 1736.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 56.0,
+        "x2": 1883.0,
+        "y2": 679.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 310.3125,
+        "y1": 416.0,
+        "x2": 900.703125,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in\nDownload",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Sign in\nDownload"
+    },
+    {
+      "coordinates": {
+        "x1": 310.3125,
+        "y1": 416.0,
+        "x2": 900.703125,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in\nDownload",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Sign in\nDownload"
+    },
+    {
+      "coordinates": {
+        "x1": 310.3125,
+        "y1": 416.0,
+        "x2": 390.890625,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in to Outlook",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign in to Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 328.3125,
+        "y1": 430.0,
+        "x2": 372.890625,
+        "y2": 454.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 398.890625,
+        "y1": 416.0,
+        "x2": 501.375,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Download",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 416.890625,
+        "y1": 430.0,
+        "x2": 483.375,
+        "y2": 454.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 310.3125,
+        "y1": 500.0,
+        "x2": 476.953125,
+        "y2": 535.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Create free account on Outlook",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create free account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Create free account on Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 310.3125,
+        "y1": 500.0,
+        "x2": 345.015625,
+        "y2": 535.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 281.5,
+        "y1": 695.0,
+        "x2": 340.59375,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Overview",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Overview"
+    },
+    {
+      "coordinates": {
+        "x1": 388.59375,
+        "y1": 695.0,
+        "x2": 471.953125,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Take the tour",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Take the tour"
+    },
+    {
+      "coordinates": {
+        "x1": 519.953125,
+        "y1": 695.0,
+        "x2": 636.765625,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Download the app",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Download the app"
+    },
+    {
+      "coordinates": {
+        "x1": 684.765625,
+        "y1": 695.0,
+        "x2": 797.734375,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Plans and pricing",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Plans and pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 845.734375,
+        "y1": 695.0,
+        "x2": 918.25,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Mobile app",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Mobile app"
+    },
+    {
+      "coordinates": {
+        "x1": 966.25,
+        "y1": 695.0,
+        "x2": 1088.53125,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Microsoft 365 Apps",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Microsoft 365 Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 1136.53125,
+        "y1": 695.0,
+        "x2": 1226.140625,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "News & tips ",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: News & tips"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.140625,
+        "y1": 695.0,
+        "x2": 1300.34375,
+        "y2": 731.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Frequently Asked Questions",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Frequently Asked Questions"
+    },
+    {
+      "coordinates": {
+        "x1": 1430.390625,
+        "y1": 685.0,
+        "x2": 1605.5,
+        "y2": 729.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "See Outlook email plans and pricing",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "See plans and pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: See Outlook email plans and..."
+    },
+    {
+      "coordinates": {
+        "x1": 1448.390625,
+        "y1": 695.0,
+        "x2": 1587.5,
+        "y2": 719.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "See plans and pricing",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: See plans and pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 735.0,
+        "x2": 1883.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 277.5,
+        "y1": 927.0,
+        "x2": 405.296875,
+        "y2": 967.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Key benefits",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Key benefits"
+    },
+    {
+      "coordinates": {
+        "x1": 413.296875,
+        "y1": 927.0,
+        "x2": 615.171875,
+        "y2": 967.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Get more from Outlook",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Get more from Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 623.171875,
+        "y1": 927.0,
+        "x2": 791.4375,
+        "y2": 967.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Copilot in Outlook",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Copilot in Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 914.0,
+        "x2": 117.875,
+        "y2": 962.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Feedback",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Feedback"
+    }
+  ],
+  "dataset_split": "raw"
+}

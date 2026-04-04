@@ -1,0 +1,987 @@
+{
+  "url": "https://20minutos.es",
+  "category": "news_and_journalism",
+  "timestamp": 1775283126,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 444.0,
+        "y1": 1.0,
+        "x2": 499.0,
+        "y2": 56.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Menu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 856.46875,
+        "y1": 14.1875,
+        "x2": 1032.296875,
+        "y2": 42.8125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Ir a p\u00e1gina principal",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "20minutos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ir a p\u00e1gina principal"
+    },
+    {
+      "coordinates": {
+        "x1": 1307.765625,
+        "y1": 23.0,
+        "x2": 1396.0,
+        "y2": 38.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "EDICIONES",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: EDICIONES"
+    },
+    {
+      "coordinates": {
+        "x1": 1307.765625,
+        "y1": 23.0,
+        "x2": 1396.0,
+        "y2": 38.0
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 1307.765625,
+        "y1": 23.0,
+        "x2": 1396.0,
+        "y2": 38.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open submenu Ediciones",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Open submenu Ediciones"
+    },
+    {
+      "coordinates": {
+        "x1": 1406.0,
+        "y1": 12.0,
+        "x2": 1439.0,
+        "y2": 45.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Iniciar sesi\u00f3n",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Iniciar sesi\u00f3n"
+    },
+    {
+      "coordinates": {
+        "x1": 1414.0,
+        "y1": 19.0,
+        "x2": 1431.0,
+        "y2": 38.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 1377.3125,
+        "y1": 48.0,
+        "x2": 1439.0,
+        "y2": 63.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1402.671875,
+        "y1": 48.0,
+        "x2": 1439.0,
+        "y2": 63.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 515.21875,
+        "y1": 79.0,
+        "x2": 590.875,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NACIONAL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: NACIONAL"
+    },
+    {
+      "coordinates": {
+        "x1": 612.875,
+        "y1": 79.0,
+        "x2": 730.84375,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "INTERNACIONAL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: INTERNACIONAL"
+    },
+    {
+      "coordinates": {
+        "x1": 752.84375,
+        "y1": 79.0,
+        "x2": 832.75,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ECONOM\u00cdA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ECONOM\u00cdA"
+    },
+    {
+      "coordinates": {
+        "x1": 854.75,
+        "y1": 79.0,
+        "x2": 916.46875,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "OPINI\u00d3N",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: OPINI\u00d3N"
+    },
+    {
+      "coordinates": {
+        "x1": 938.46875,
+        "y1": 79.0,
+        "x2": 957.21875,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TV",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: TV"
+    },
+    {
+      "coordinates": {
+        "x1": 979.21875,
+        "y1": 79.0,
+        "x2": 1026.90625,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "GENTE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: GENTE"
+    },
+    {
+      "coordinates": {
+        "x1": 1048.90625,
+        "y1": 79.0,
+        "x2": 1124.34375,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "DEPORTES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: DEPORTES"
+    },
+    {
+      "coordinates": {
+        "x1": 1146.34375,
+        "y1": 79.0,
+        "x2": 1238.265625,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ED. IMPRESA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ED. IMPRESA"
+    },
+    {
+      "coordinates": {
+        "x1": 1260.265625,
+        "y1": 74.0,
+        "x2": 1382.78125,
+        "y2": 102.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "pursuits",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PASATIEMPOS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: pursuits"
+    },
+    {
+      "coordinates": {
+        "x1": 609.0,
+        "y1": 401.0,
+        "x2": 1135.65625,
+        "y2": 417.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ir\u00e1n derriba un caza F-15 de EEUU por primera vez: un piloto ya ha sido rescatado",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ir\u00e1n derriba un caza F-15 de EEUU por primera vez: un piloto ya ha sido rescatado",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ir\u00e1n derriba un caza F-15 d..."
+    },
+    {
+      "coordinates": {
+        "x1": 454.0,
+        "y1": 442.0,
+        "x2": 748.09375,
+        "y2": 759.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ir\u00e1n derriba un caza F-15 de EEUU por primera vez desde el inicio de la guerra: un piloto ya ha sido rescatado",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ir\u00e1n derriba un caza F-15 de EEUU por primera vez desde el inicio de la guerra: un piloto ya ha sido rescatado",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ir\u00e1n derriba un caza F-15 d..."
+    },
+    {
+      "coordinates": {
+        "x1": 477.0,
+        "y1": 859.0,
+        "x2": 762.65625,
+        "y2": 916.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trump dice que Estados Unidos \"ni siquiera ha empezado a destruir lo que queda en Ir\u00e1n\"",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trump dice que Estados Unidos \"ni siquiera ha empezado a destruir lo que queda en Ir\u00e1n\"",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Trump dice que Estados Unid..."
+    },
+    {
+      "coordinates": {
+        "x1": 477.0,
+        "y1": 926.5625,
+        "x2": 762.65625,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "El mandatario propone aumentar un 40% el gasto en defensa a cambio de recortar programas sociales",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "El mandatario propone aumentar un 40% el gasto en defensa a cambio de recortar programas sociales",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: El mandatario propone aumen..."
+    },
+    {
+      "coordinates": {
+        "x1": 794.65625,
+        "y1": 447.0,
+        "x2": 1444.0,
+        "y2": 811.671875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A woman checks a destroyed house that was hit in an Israeli airstrike in Saksakiyeh village, south Lebanon, Friday, April 3, 2026. (AP Photo/Hussein Malla)",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: A woman checks a destroyed ..."
+    },
+    {
+      "coordinates": {
+        "x1": 804.65625,
+        "y1": 815.671875,
+        "x2": 1392.71875,
+        "y2": 951.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Israel ataca L\u00edbano e Ir\u00e1n, que responde con bombardeos a los aliados de EEUU en el golfo",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Israel ataca L\u00edbano e Ir\u00e1n, que responde con bombardeos a los aliados de EEUU en el golfo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Israel ataca L\u00edbano e Ir\u00e1n,..."
+    },
+    {
+      "coordinates": {
+        "x1": 689.0,
+        "y1": 69.4375,
+        "x2": 1209.0,
+        "y2": 94.4375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "cmp logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: cmp logo"
+    },
+    {
+      "coordinates": {
+        "x1": 862.984375,
+        "y1": 162.03125,
+        "x2": 1002.859375,
+        "y2": 181.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pol\u00edtica de cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: pol\u00edtica de cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 689.0,
+        "y1": 227.625,
+        "x2": 929.0,
+        "y2": 277.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechazar y pagar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Rechazar y pagar"
+    },
+    {
+      "coordinates": {
+        "x1": 745.84375,
+        "y1": 243.828125,
+        "x2": 872.140625,
+        "y2": 261.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechazar y pagar",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Rechazar y pagar"
+    },
+    {
+      "coordinates": {
+        "x1": 969.0,
+        "y1": 227.625,
+        "x2": 1209.0,
+        "y2": 277.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Aceptar y cerrar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Aceptar y cerrar"
+    },
+    {
+      "coordinates": {
+        "x1": 775.40625,
+        "y1": 348.21875,
+        "x2": 952.078125,
+        "y2": 364.21875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Condiciones de contrataci\u00f3n",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Condiciones de contrataci\u00f3n"
+    },
+    {
+      "coordinates": {
+        "x1": 689.0,
+        "y1": 419.609375,
+        "x2": 1159.8125,
+        "y2": 459.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pol\u00edtica de Cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pol\u00edtica de Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 886.671875,
+        "y1": 538.59375,
+        "x2": 1078.921875,
+        "y2": 554.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "conexi\u00f3n de internet soportada",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: conexi\u00f3n de internet soportada"
+    },
+    {
+      "coordinates": {
+        "x1": 720.921875,
+        "y1": 609.984375,
+        "x2": 951.296875,
+        "y2": 625.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "actividades de publicidad y anal\u00edticas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: actividades de publicidad y..."
+    },
+    {
+      "coordinates": {
+        "x1": 959.84375,
+        "y1": 633.78125,
+        "x2": 1149.75,
+        "y2": 649.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "nuestras propiedades digitales",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: nuestras propiedades digitales"
+    },
+    {
+      "coordinates": {
+        "x1": 689.0,
+        "y1": 657.578125,
+        "x2": 819.71875,
+        "y2": 673.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "rechazar Utiq ahora",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: rechazar Utiq ahora"
+    },
+    {
+      "coordinates": {
+        "x1": 907.203125,
+        "y1": 681.375,
+        "x2": 979.609375,
+        "y2": 697.375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "consenthub",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: consenthub"
+    },
+    {
+      "coordinates": {
+        "x1": 993.734375,
+        "y1": 728.96875,
+        "x2": 1200.75,
+        "y2": 744.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "declaraci\u00f3n de privacidad de Utiq",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: declaraci\u00f3n de privacidad d..."
+    },
+    {
+      "coordinates": {
+        "x1": 689.0,
+        "y1": 888.75,
+        "x2": 810.78125,
+        "y2": 912.546875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Configurar cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Configurar cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 820.78125,
+        "y1": 888.75,
+        "x2": 906.078125,
+        "y2": 912.546875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ver 483 socios",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ver 483 socios"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,837 @@
+{
+  "url": "https://people.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775283444,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 331.5,
+        "y1": 32.0,
+        "x2": 451.5,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Visit PEOPLE's homepage",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PEOPLE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Visit PEOPLE's homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 1082.859375,
+        "y1": 43.578125,
+        "x2": 1106.859375,
+        "y2": 68.421875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_search: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1082.859375,
+        "y1": 44.421875,
+        "x2": 1106.859375,
+        "y2": 68.421875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1082.859375,
+        "y1": 44.421875,
+        "x2": 1106.859375,
+        "y2": 68.421875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1118.859375,
+        "y1": 44.0,
+        "x2": 1197.53125,
+        "y2": 68.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1131.859375,
+        "y1": 44.0,
+        "x2": 1197.53125,
+        "y2": 68.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1131.859375,
+        "y1": 44.0,
+        "x2": 1155.859375,
+        "y2": 68.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 1209.53125,
+        "y1": 44.0,
+        "x2": 1310.828125,
+        "y2": 68.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Magazine",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Magazine"
+    },
+    {
+      "coordinates": {
+        "x1": 1222.53125,
+        "y1": 44.0,
+        "x2": 1310.828125,
+        "y2": 68.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Magazine",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Magazine"
+    },
+    {
+      "coordinates": {
+        "x1": 1322.828125,
+        "y1": 46.890625,
+        "x2": 1407.1875,
+        "y2": 65.09375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1335.828125,
+        "y1": 46.890625,
+        "x2": 1407.1875,
+        "y2": 64.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1419.1875,
+        "y1": 46.890625,
+        "x2": 1511.5,
+        "y2": 65.09375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sweepstakes",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Sweepstakes"
+    },
+    {
+      "coordinates": {
+        "x1": 1432.1875,
+        "y1": 46.890625,
+        "x2": 1511.5,
+        "y2": 64.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sweepstakes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sweepstakes"
+    },
+    {
+      "coordinates": {
+        "x1": 331.5,
+        "y1": 110.0,
+        "x2": 459.265625,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ENTERTAINMENT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ENTERTAINMENT"
+    },
+    {
+      "coordinates": {
+        "x1": 491.265625,
+        "y1": 110.0,
+        "x2": 540.015625,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CRIME",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: CRIME"
+    },
+    {
+      "coordinates": {
+        "x1": 572.015625,
+        "y1": 110.0,
+        "x2": 709.078125,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HUMAN INTEREST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: HUMAN INTEREST"
+    },
+    {
+      "coordinates": {
+        "x1": 741.078125,
+        "y1": 110.0,
+        "x2": 813.765625,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIFESTYLE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: LIFESTYLE"
+    },
+    {
+      "coordinates": {
+        "x1": 845.765625,
+        "y1": 110.0,
+        "x2": 903.828125,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ROYALS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ROYALS"
+    },
+    {
+      "coordinates": {
+        "x1": 935.828125,
+        "y1": 110.0,
+        "x2": 993.71875,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HEALTH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: HEALTH"
+    },
+    {
+      "coordinates": {
+        "x1": 1025.71875,
+        "y1": 110.0,
+        "x2": 1220.796875,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AMAZON'S SPRING SALE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: AMAZON'S SPRING SALE"
+    },
+    {
+      "coordinates": {
+        "x1": 1311.9375,
+        "y1": 108.0,
+        "x2": 1396.5,
+        "y2": 143.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SUBSCRIBE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: SUBSCRIBE"
+    },
+    {
+      "coordinates": {
+        "x1": 1424.5,
+        "y1": 83.0,
+        "x2": 1551.5,
+        "y2": 143.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 678.34375,
+        "y1": 168.796875,
+        "x2": 1172.65625,
+        "y2": 191.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Tired of losing recipes? Save your favorites on MyRecipes for free.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Tired of losing recipes? Sa..."
+    },
+    {
+      "coordinates": {
+        "x1": 1188.65625,
+        "y1": 174.0,
+        "x2": 1204.65625,
+        "y2": 190.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1188.65625,
+        "y1": 174.0,
+        "x2": 1204.65625,
+        "y2": 190.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 224.0,
+        "x2": 1883.0,
+        "y2": 694.75
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 585.5,
+        "y1": 744.75,
+        "x2": 1053.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TOP STORY\nBlake Lively Addresses \u2018Unfathomably Painful\u2019 Justin Baldoni Case Using Dragon Emoji, Vows to Keep \u2018Fighting\u2019 amid Setback\nby Jack Smart 5 hours ago\n27",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 585.5,
+        "y1": 744.75,
+        "x2": 1053.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Blake Lively leaves federal court following a court-ordered settlement conference in her civil lawsuit against actor and director Justin Baldoni related to the film ",
+        "role": ""
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Blake Lively leaves federal..."
+    },
+    {
+      "coordinates": {
+        "x1": 1093.5,
+        "y1": 744.75,
+        "x2": 1549.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "2",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Congresswoman Shares 'Deeply Personal' Letter Revealing Husband of 20 Years 'Suddenly Left' Their Family and Filed for Divorce\n3 hours ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 321.5,
+        "y1": 865.75,
+        "x2": 409.5,
+        "y2": 924.703125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Image 1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Image 1"
+    },
+    {
+      "coordinates": {
+        "x1": 321.5,
+        "y1": 865.75,
+        "x2": 409.5,
+        "y2": 924.75
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Henry Grainge's nursery, Sofia Richie Grainge at Variety Hitmakers 2025 on December 06, 2025 in Los Angeles, California.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Henry Grainge's nursery, So..."
+    },
+    {
+      "coordinates": {
+        "x1": 321.5,
+        "y1": 861.75,
+        "x2": 553.5,
+        "y2": 971.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Title 1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sofia Richie Grainge Gives a Before and After Look at Baby Henry\u2019s Serene Nursery",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Title 1"
+    },
+    {
+      "coordinates": {
+        "x1": 321.5,
+        "y1": 975.75,
+        "x2": 360.484375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 1"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,737 @@
+{
+  "url": "https://search.yahoo.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775283058,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 34.0,
+        "y1": 28.0,
+        "x2": 126.703125,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Yahoo.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Yahoo.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1738.0,
+        "y1": 21.0,
+        "x2": 1770.0,
+        "y2": 53.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Settings",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Settings",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1784.71875,
+        "y1": 18.0,
+        "x2": 1858.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 536.0,
+        "y1": 289.0,
+        "x2": 1290.0,
+        "y2": 343.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search the web",
+        "value": "",
+        "name": "p"
+      },
+      "descriptive_label": "general_input: Search the web"
+    },
+    {
+      "coordinates": {
+        "x1": 1290.0,
+        "y1": 298.0,
+        "x2": 1326.0,
+        "y2": 334.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Search by voice",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search by voice"
+    },
+    {
+      "coordinates": {
+        "x1": 1326.0,
+        "y1": 298.0,
+        "x2": 1362.0,
+        "y2": 334.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1854.0,
+        "y1": 20.0,
+        "x2": 1878.0,
+        "y2": 44.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Stop search by voice",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Stop search by voice"
+    },
+    {
+      "coordinates": {
+        "x1": 603.5,
+        "y1": 203.0,
+        "x2": 1294.5,
+        "y2": 205.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Search by voice",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search: Search by voice"
+    },
+    {
+      "coordinates": {
+        "x1": 528.0,
+        "y1": 488.0,
+        "x2": 782.0,
+        "y2": 560.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Missing US Pilot in Iran\nUS pilot rescued after Iran jet incident",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Missing US Pilot in Iran\nUS..."
+    },
+    {
+      "coordinates": {
+        "x1": 528.0,
+        "y1": 488.0,
+        "x2": 600.0,
+        "y2": 560.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Missing US Pilot in Iran",
+        "alt_text": "Missing US Pilot in Iran",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Missing US Pilot in Iran"
+    },
+    {
+      "coordinates": {
+        "x1": 822.0,
+        "y1": 488.0,
+        "x2": 1076.0,
+        "y2": 560.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Artemis II Moon Mission\nArtemis II crewed mission heads to the moon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Artemis II Moon Mission\nArt..."
+    },
+    {
+      "coordinates": {
+        "x1": 822.0,
+        "y1": 488.0,
+        "x2": 894.0,
+        "y2": 560.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Artemis II Moon Mission",
+        "alt_text": "Artemis II Moon Mission",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Artemis II Moon Mission"
+    },
+    {
+      "coordinates": {
+        "x1": 1116.0,
+        "y1": 488.0,
+        "x2": 1370.0,
+        "y2": 560.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Texas vs. UCLA Results\nTexas Longhorns lose to UCLA in Final Four.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Texas vs. UCLA Results\nTexa..."
+    },
+    {
+      "coordinates": {
+        "x1": 1116.0,
+        "y1": 488.0,
+        "x2": 1188.0,
+        "y2": 560.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Texas vs. UCLA Results",
+        "alt_text": "Texas vs. UCLA Results",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Texas vs. UCLA Results"
+    },
+    {
+      "coordinates": {
+        "x1": 528.0,
+        "y1": 584.0,
+        "x2": 782.0,
+        "y2": 656.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trump Signs Executive Order\nTrump signs order on college sports control",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Trump Signs Executive Order..."
+    },
+    {
+      "coordinates": {
+        "x1": 528.0,
+        "y1": 584.0,
+        "x2": 600.0,
+        "y2": 656.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trump Signs Executive Order",
+        "alt_text": "Trump Signs Executive Order",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Trump Signs Executive Order"
+    },
+    {
+      "coordinates": {
+        "x1": 822.0,
+        "y1": 584.0,
+        "x2": 1076.0,
+        "y2": 656.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Geno Auriemma Controversy\nAuriemma criticizes refs, clashes with Staley at Final Four",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Geno Auriemma Controversy\nA..."
+    },
+    {
+      "coordinates": {
+        "x1": 822.0,
+        "y1": 584.0,
+        "x2": 894.0,
+        "y2": 656.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Geno Auriemma Controversy",
+        "alt_text": "Geno Auriemma Controversy",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Geno Auriemma Controversy"
+    },
+    {
+      "coordinates": {
+        "x1": 1116.0,
+        "y1": 584.0,
+        "x2": 1370.0,
+        "y2": 656.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Gucci Mane Kidnapping Case\nGucci Mane kidnapped, robbed by Pooh Shiesty and others",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Gucci Mane Kidnapping Case\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1116.0,
+        "y1": 584.0,
+        "x2": 1188.0,
+        "y2": 656.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Gucci Mane Kidnapping Case",
+        "alt_text": "Gucci Mane Kidnapping Case",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Gucci Mane Kidnapping Case"
+    },
+    {
+      "coordinates": {
+        "x1": 853.4140625,
+        "y1": 684.0,
+        "x2": 1044.5859375,
+        "y2": 700.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "span",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Summaries may be generated by AI",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_link: Summaries may be generated ..."
+    },
+    {
+      "coordinates": {
+        "x1": 853.4140625,
+        "y1": 684.0,
+        "x2": 869.4140625,
+        "y2": 700.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "span",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 674.75,
+        "y1": 950.0,
+        "x2": 701.6875,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 717.6875,
+        "y1": 950.0,
+        "x2": 760.1875,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy"
+    },
+    {
+      "coordinates": {
+        "x1": 776.1875,
+        "y1": 950.0,
+        "x2": 811.328125,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 827.328125,
+        "y1": 950.0,
+        "x2": 965.203125,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Dashboard",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Dashboard"
+    },
+    {
+      "coordinates": {
+        "x1": 981.203125,
+        "y1": 950.0,
+        "x2": 1038.328125,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advertise",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Advertise"
+    },
+    {
+      "coordinates": {
+        "x1": 1054.328125,
+        "y1": 950.0,
+        "x2": 1115.015625,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About ads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About ads"
+    },
+    {
+      "coordinates": {
+        "x1": 1131.015625,
+        "y1": 950.0,
+        "x2": 1223.25,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About this page",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About this page"
+    }
+  ],
+  "dataset_split": "raw"
+}

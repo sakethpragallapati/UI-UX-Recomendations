@@ -1,0 +1,1437 @@
+{
+  "url": "https://home.pl",
+  "category": "domains_and_hosting",
+  "timestamp": 1775284380,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 309.0,
+        "y1": 39.921875,
+        "x2": 397.0,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 309.0,
+        "y1": 39.921875,
+        "x2": 397.0,
+        "y2": 64.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Logo undefined",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Logo undefined"
+    },
+    {
+      "coordinates": {
+        "x1": 1257.65625,
+        "y1": 35.0,
+        "x2": 1305.21875,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Poczta ",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Poczta",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Poczta"
+    },
+    {
+      "coordinates": {
+        "x1": 1329.21875,
+        "y1": 35.0,
+        "x2": 1375.0,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pomoc",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pomoc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pomoc"
+    },
+    {
+      "coordinates": {
+        "x1": 1399.0,
+        "y1": 25.0,
+        "x2": 1525.0,
+        "y2": 63.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Moje konto",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Moje konto"
+    },
+    {
+      "coordinates": {
+        "x1": 1549.0,
+        "y1": 24.0,
+        "x2": 1589.0,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Przejd\u017a do koszyka",
+        "title": "Przejd\u017a do koszyka",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Przejd\u017a do koszyka"
+    },
+    {
+      "coordinates": {
+        "x1": 309.0,
+        "y1": 72.0,
+        "x2": 392.234375,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Domeny",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Domeny"
+    },
+    {
+      "coordinates": {
+        "x1": 392.234375,
+        "y1": 72.0,
+        "x2": 492.109375,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hosting",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Hosting"
+    },
+    {
+      "coordinates": {
+        "x1": 492.109375,
+        "y1": 72.0,
+        "x2": 594.078125,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Serwery",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Serwery"
+    },
+    {
+      "coordinates": {
+        "x1": 594.078125,
+        "y1": 72.0,
+        "x2": 716.90625,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WordPress",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: WordPress"
+    },
+    {
+      "coordinates": {
+        "x1": 716.90625,
+        "y1": 72.0,
+        "x2": 861.125,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Strony WWW",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Strony WWW"
+    },
+    {
+      "coordinates": {
+        "x1": 861.125,
+        "y1": 72.0,
+        "x2": 964.15625,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "E-sklepy",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: E-sklepy"
+    },
+    {
+      "coordinates": {
+        "x1": 964.15625,
+        "y1": 72.0,
+        "x2": 1031.453125,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SSL",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: SSL"
+    },
+    {
+      "coordinates": {
+        "x1": 1031.453125,
+        "y1": 72.0,
+        "x2": 1213.109375,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Poczta i Office 365",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Poczta i Office 365"
+    },
+    {
+      "coordinates": {
+        "x1": 1213.109375,
+        "y1": 72.0,
+        "x2": 1326.671875,
+        "y2": 136.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Programy",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Programy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Programy"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 479.4375,
+        "y2": 196.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Domeny internetowe",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Domeny internetowe"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 220.0,
+        "x2": 453.90625,
+        "y2": 240.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Przenie\u015b domen\u0119",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Przenie\u015b domen\u0119"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 439.71875,
+        "y2": 196.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hosting WWW",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Hosting WWW"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 220.0,
+        "x2": 560.265625,
+        "y2": 244.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hosting dla WordPressa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Hosting dla WordPressa"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 268.0,
+        "x2": 471.59375,
+        "y2": 288.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hosting PrestaShop",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Hosting PrestaShop"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 312.0,
+        "x2": 454.25,
+        "y2": 332.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Managed hosting",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Managed hosting"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 396.0,
+        "x2": 478.296875,
+        "y2": 416.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Us\u0142ugi informatyczne",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Us\u0142ugi informatyczne"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 440.0,
+        "x2": 448.28125,
+        "y2": 460.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Przenie\u015b hosting",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Przenie\u015b hosting"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 463.234375,
+        "y2": 196.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Serwery VPS Linux",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Serwery VPS Linux"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 220.0,
+        "x2": 489.28125,
+        "y2": 240.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Serwery VPS Windows",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Serwery VPS Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 264.0,
+        "x2": 480.921875,
+        "y2": 284.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Serwery dedykowane",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Serwery dedykowane"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 353.0,
+        "x2": 486.75,
+        "y2": 371.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Por\u00f3wnaj serwery VPS",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Por\u00f3wnaj serwery VPS"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 436.0,
+        "x2": 469.6875,
+        "y2": 456.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Serwery w promocji",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Serwery w promocji"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 480.0,
+        "x2": 499.0,
+        "y2": 500.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wsparcie administratora",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Wsparcie administratora"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 560.265625,
+        "y2": 200.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hosting dla WordPressa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Hosting dla WordPressa"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 224.0,
+        "x2": 465.9375,
+        "y2": 244.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "WordPress dla firm",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WordPress dla firm"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 308.0,
+        "x2": 573.0,
+        "y2": 348.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Zbudujemy Ci stron\u0119 na WordPressie",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Zbudujemy Ci stron\u0119 na Word..."
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 372.0,
+        "x2": 573.0,
+        "y2": 412.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Przeniesiemy Twojego WordPressa do home.pl",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Przeniesiemy Twojego WordPr..."
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 436.0,
+        "x2": 485.984375,
+        "y2": 456.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Us\u0142ugi dla WordPressa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Us\u0142ugi dla WordPressa"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 536.578125,
+        "y2": 200.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Kreator stron WWW",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Kreator stron WWW"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 244.0,
+        "x2": 430.828125,
+        "y2": 264.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Strona WWW",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Strona WWW"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 308.0,
+        "x2": 471.671875,
+        "y2": 328.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Projektowanie Logo",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Projektowanie Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 392.0,
+        "x2": 477.765625,
+        "y2": 412.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Reklama internetowa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Reklama internetowa"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 436.0,
+        "x2": 445.484375,
+        "y2": 456.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pozycjonowanie",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pozycjonowanie"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 467.046875,
+        "y2": 196.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sklepy Internetowe",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sklepy Internetowe"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 240.0,
+        "x2": 434.796875,
+        "y2": 260.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sklep Sellastik",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sklep Sellastik"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 304.0,
+        "x2": 518.703125,
+        "y2": 324.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Stworzenie sklepu Sellastik",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Stworzenie sklepu Sellastik"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 368.0,
+        "x2": 426.640625,
+        "y2": 388.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sklep Shoper",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sklep Shoper"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 412.0,
+        "x2": 443.6875,
+        "y2": 432.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "WooCommerce",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WooCommerce"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 456.0,
+        "x2": 560.1875,
+        "y2": 476.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Produkty i us\u0142ugi dla e-commerce",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Produkty i us\u0142ugi dla e-com..."
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 560.0,
+        "x2": 479.171875,
+        "y2": 580.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Reklama w internecie",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Reklama w internecie"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 604.0,
+        "x2": 445.484375,
+        "y2": 624.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pozycjonowanie",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pozycjonowanie"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 471.203125,
+        "y2": 196.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Certyfikat homeSSL",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Certyfikat homeSSL"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 220.0,
+        "x2": 475.0,
+        "y2": 240.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Multidomenowy SSL",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Multidomenowy SSL"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 264.0,
+        "x2": 404.9375,
+        "y2": 284.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Rapid SSL",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Rapid SSL"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 308.0,
+        "x2": 427.40625,
+        "y2": 328.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "GeoTrust SSL",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: GeoTrust SSL"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 352.0,
+        "x2": 527.25,
+        "y2": 372.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Certyfikat dla Kreatora stron",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Certyfikat dla Kreatora stron"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 176.0,
+        "x2": 490.671875,
+        "y2": 200.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Poczta e-mail",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Poczta e-mail"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 224.0,
+        "x2": 475.15625,
+        "y2": 244.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Microsoft Office 365",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Microsoft Office 365"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 268.0,
+        "x2": 464.59375,
+        "y2": 288.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Google Workspace",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Google Workspace"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 312.0,
+        "x2": 517.21875,
+        "y2": 332.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Poczta Microsoft Exchange",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Poczta Microsoft Exchange"
+    },
+    {
+      "coordinates": {
+        "x1": 341.0,
+        "y1": 396.0,
+        "x2": 479.1875,
+        "y2": 416.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Logowanie do Poczty",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Logowanie do Poczty"
+    }
+  ],
+  "dataset_split": "raw"
+}

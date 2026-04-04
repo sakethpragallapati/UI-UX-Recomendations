@@ -1,0 +1,512 @@
+{
+  "url": "https://huawei.com",
+  "category": "tech_and_software",
+  "timestamp": 1775284090,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1159.9375,
+        "y1": 15.0,
+        "x2": 1328.375,
+        "y2": 34.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read our privacy policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Read our privacy policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1793.71875,
+        "y1": 9.0,
+        "x2": 1823.71875,
+        "y2": 39.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "close",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_close: close"
+    },
+    {
+      "coordinates": {
+        "x1": 1587.90625,
+        "y1": 51.59375,
+        "x2": 1690.921875,
+        "y2": 76.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Corporate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Corporate"
+    },
+    {
+      "coordinates": {
+        "x1": 1700.921875,
+        "y1": 51.59375,
+        "x2": 1808.71875,
+        "y2": 76.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Worldwide",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Worldwide"
+    },
+    {
+      "coordinates": {
+        "x1": 74.265625,
+        "y1": 98.59375,
+        "x2": 207.265625,
+        "y2": 148.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 74.265625,
+        "y1": 98.59375,
+        "x2": 207.265625,
+        "y2": 128.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "huawei logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: huawei logo"
+    },
+    {
+      "coordinates": {
+        "x1": 551.140625,
+        "y1": 76.59375,
+        "x2": 693.703125,
+        "y2": 154.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Consumer Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Consumer Products"
+    },
+    {
+      "coordinates": {
+        "x1": 738.796875,
+        "y1": 76.59375,
+        "x2": 868.984375,
+        "y2": 154.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Business Products"
+    },
+    {
+      "coordinates": {
+        "x1": 914.078125,
+        "y1": 76.59375,
+        "x2": 972.09375,
+        "y2": 154.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1017.1875,
+        "y1": 76.59375,
+        "x2": 1181.03125,
+        "y2": 154.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Partners & Developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Partners & Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 1226.125,
+        "y1": 76.59375,
+        "x2": 1331.84375,
+        "y2": 154.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About Huawei",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: About Huawei"
+    },
+    {
+      "coordinates": {
+        "x1": 1777.71875,
+        "y1": 105.59375,
+        "x2": 1801.71875,
+        "y2": 125.59375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1777.71875,
+        "y1": 105.59375,
+        "x2": 1801.71875,
+        "y2": 129.59375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 154.59375,
+        "x2": 1883.0,
+        "y2": 789.125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Annual report 2025",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Annual report 2025"
+    },
+    {
+      "coordinates": {
+        "x1": 255.34375,
+        "y1": 459.15625,
+        "x2": 435.34375,
+        "y2": 501.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 834.5,
+        "y1": 764.421875,
+        "x2": 934.5,
+        "y2": 767.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 1",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 1"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 764.421875,
+        "x2": 1048.5,
+        "y2": 767.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 2",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 2"
+    },
+    {
+      "coordinates": {
+        "x1": 37.65625,
+        "y1": 449.859375,
+        "x2": 77.65625,
+        "y2": 489.859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous slide",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Previous slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.34375,
+        "y1": 449.859375,
+        "x2": 1845.34375,
+        "y2": 489.859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next slide",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 877.28125,
+        "x2": 1883.0,
+        "y2": 917.28125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Online Services",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Online Services"
+    }
+  ],
+  "dataset_split": "raw"
+}

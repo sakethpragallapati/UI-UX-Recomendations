@@ -1,0 +1,337 @@
+{
+  "url": "https://dropcatch.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1775284375,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 364.0,
+        "y1": 15.0,
+        "x2": 544.78125,
+        "y2": 45.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 364.0,
+        "y1": 15.0,
+        "x2": 544.78125,
+        "y2": 45.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "DropCatch.com",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: DropCatch.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1317.546875,
+        "y1": 10.0,
+        "x2": 1375.953125,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1377.953125,
+        "y1": 51.0,
+        "x2": 1494.0,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Create Account"
+    },
+    {
+      "coordinates": {
+        "x1": 1488.5,
+        "y1": 47.0,
+        "x2": 1536.5,
+        "y2": 95.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Language Menu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "language",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Language Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1488.5,
+        "y1": 47.0,
+        "x2": 1536.5,
+        "y2": 95.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1488.5,
+        "y1": 47.0,
+        "x2": 1536.5,
+        "y2": 95.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 118.0,
+        "x2": 429.390625,
+        "y2": 158.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Auctions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Auctions"
+    },
+    {
+      "coordinates": {
+        "x1": 431.390625,
+        "y1": 118.0,
+        "x2": 530.875,
+        "y2": 158.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Downloads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Downloads"
+    },
+    {
+      "coordinates": {
+        "x1": 532.875,
+        "y1": 118.0,
+        "x2": 647.828125,
+        "y2": 158.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How It Works",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How It Works"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.5,
+        "y1": 118.5,
+        "x2": 1526.5,
+        "y2": 158.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search for domains",
+        "title": "Search for domains",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for domains",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search for domains"
+    },
+    {
+      "coordinates": {
+        "x1": 1485.5,
+        "y1": 122.5,
+        "x2": 1521.5,
+        "y2": 158.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submit",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Submit"
+    },
+    {
+      "coordinates": {
+        "x1": 1491.5,
+        "y1": 126.5,
+        "x2": 1515.5,
+        "y2": 150.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "mat-icon",
+      "element_type": "img",
+      "accessibility": {
+        "aria_label": "Search Icon",
+        "title": "",
+        "alt_text": "",
+        "role": "img"
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search: Search Icon"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,1812 @@
+{
+  "url": "https://ebay.com",
+  "category": "e_commerce",
+  "timestamp": 1775282914,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 197.5,
+        "y1": 0,
+        "x2": 198.5,
+        "y2": 1.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 197.5,
+        "y1": 0,
+        "x2": 205.5,
+        "y2": 24.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 215.65625,
+        "y1": 9.0,
+        "x2": 253.828125,
+        "y2": 23.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 270.90625,
+        "y1": 9.0,
+        "x2": 315.328125,
+        "y2": 23.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: register"
+    },
+    {
+      "coordinates": {
+        "x1": 339.328125,
+        "y1": 5.0,
+        "x2": 388.015625,
+        "y2": 27.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Deals",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Deals"
+    },
+    {
+      "coordinates": {
+        "x1": 396.015625,
+        "y1": 5.0,
+        "x2": 484.765625,
+        "y2": 27.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Brand Outlet",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Brand Outlet",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Brand Outlet"
+    },
+    {
+      "coordinates": {
+        "x1": 492.765625,
+        "y1": 5.0,
+        "x2": 567.484375,
+        "y2": 27.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Gift Cards",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Gift Cards",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Gift Cards"
+    },
+    {
+      "coordinates": {
+        "x1": 575.484375,
+        "y1": 5.0,
+        "x2": 680.125,
+        "y2": 27.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Help & Contact",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help & Contact",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Help & Contact"
+    },
+    {
+      "coordinates": {
+        "x1": 1347.390625,
+        "y1": 5.0,
+        "x2": 1384.359375,
+        "y2": 27.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sell",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sell",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sell"
+    },
+    {
+      "coordinates": {
+        "x1": 1404.359375,
+        "y1": 0,
+        "x2": 1497.171875,
+        "y2": 32.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Watchlist",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Watchlist"
+    },
+    {
+      "coordinates": {
+        "x1": 1389.484375,
+        "y1": 32.0,
+        "x2": 1497.171875,
+        "y2": 57.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Expand Watch List",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Expand Watch List"
+    },
+    {
+      "coordinates": {
+        "x1": 1509.171875,
+        "y1": 0,
+        "x2": 1597.5,
+        "y2": 32.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My eBay",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: My eBay"
+    },
+    {
+      "coordinates": {
+        "x1": 1509.171875,
+        "y1": 32.0,
+        "x2": 1607.328125,
+        "y2": 57.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Expand My eBay",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Expand My eBay"
+    },
+    {
+      "coordinates": {
+        "x1": 1601.5,
+        "y1": 0,
+        "x2": 1653.5,
+        "y2": 32.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.5,
+        "y1": 0,
+        "x2": 1701.5,
+        "y2": 32.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1665.5,
+        "y1": 5.0,
+        "x2": 1685.5,
+        "y2": 25.0
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Your shopping cart contains 0 items",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_cart: Your shopping cart contains..."
+    },
+    {
+      "coordinates": {
+        "x1": 1608.671875,
+        "y1": 32.0,
+        "x2": 1685.5,
+        "y2": 57.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Expand Cart",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Expand Cart"
+    },
+    {
+      "coordinates": {
+        "x1": 197.5,
+        "y1": 44.0,
+        "x2": 314.5,
+        "y2": 98.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "eBay Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: eBay Home"
+    },
+    {
+      "coordinates": {
+        "x1": 330.5,
+        "y1": 51.0,
+        "x2": 398.28125,
+        "y2": 91.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop by category",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Shop by category"
+    },
+    {
+      "coordinates": {
+        "x1": 420.5,
+        "y1": 51.0,
+        "x2": 1278.71875,
+        "y2": 91.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search for anything",
+        "title": "Search",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for anything",
+        "value": "",
+        "name": "_nkw"
+      },
+      "descriptive_label": "icon_search: Search for anything"
+    },
+    {
+      "coordinates": {
+        "x1": 436.5,
+        "y1": 63.0,
+        "x2": 452.5,
+        "y2": 79.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1238.71875,
+        "y1": 55.0,
+        "x2": 1270.71875,
+        "y2": 87.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Clear search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Clear search"
+    },
+    {
+      "coordinates": {
+        "x1": 1246.71875,
+        "y1": 63.0,
+        "x2": 1262.71875,
+        "y2": 79.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1279.71875,
+        "y1": 51.0,
+        "x2": 1439.71875,
+        "y2": 91.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "select",
+      "element_type": "select-one",
+      "accessibility": {
+        "aria_label": "Select a category for search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "All Categories\nAntiques\nArt\nBaby\nBooks\nBusiness & Industrial\nCameras & Photo\nCell Phones & Accessories\nClothing, Shoes & Accessories\nCoins & Paper Money\nCollectibles\nComputers/Tablets & Networking\nConsumer Electronics\nCrafts\nDolls & Bears\nMovies & TV\neBay Motors\nEntertainment Memorabilia\nGift Cards & Coupons\nHealth & Beauty\nHome & Garden\nJewelry & Watches\nMusic\nMusical Instruments & Gear\nPet Supplies\nPottery & Glass\nReal Estate\nSpecialty Services\nSporting Goods\nSports Mem, Cards & Fan Shop\nStamps\nTickets & Experiences\nToys & Hobbies\nTravel\nVideo Games & Consoles\nEverything Else",
+        "placeholder": null,
+        "value": "0",
+        "name": "_sacat"
+      },
+      "descriptive_label": "icon_search: Select a category for search"
+    },
+    {
+      "coordinates": {
+        "x1": 1455.71875,
+        "y1": 49.0,
+        "x2": 1685.5,
+        "y2": 93.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search\nAdvanced",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search: Search\nAdvanced"
+    },
+    {
+      "coordinates": {
+        "x1": 1455.71875,
+        "y1": 49.0,
+        "x2": 1623.71875,
+        "y2": 93.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "Search",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1476.71875,
+        "y1": 63.0,
+        "x2": 1602.71875,
+        "y2": 79.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1631.71875,
+        "y1": 62.75,
+        "x2": 1685.5,
+        "y2": 79.25
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advanced",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Advanced"
+    },
+    {
+      "coordinates": {
+        "x1": 268.171875,
+        "y1": 119.0,
+        "x2": 350.03125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "eBay Live",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: eBay Live"
+    },
+    {
+      "coordinates": {
+        "x1": 352.03125,
+        "y1": 119.0,
+        "x2": 415.921875,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Saved",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Saved"
+    },
+    {
+      "coordinates": {
+        "x1": 417.921875,
+        "y1": 119.0,
+        "x2": 486.453125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Motors",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Motors"
+    },
+    {
+      "coordinates": {
+        "x1": 488.453125,
+        "y1": 119.0,
+        "x2": 580.453125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Electronics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Electronics"
+    },
+    {
+      "coordinates": {
+        "x1": 582.453125,
+        "y1": 119.0,
+        "x2": 679.8125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Collectibles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Collectibles"
+    },
+    {
+      "coordinates": {
+        "x1": 681.8125,
+        "y1": 119.0,
+        "x2": 813.40625,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home and garden",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home and garden"
+    },
+    {
+      "coordinates": {
+        "x1": 815.40625,
+        "y1": 119.0,
+        "x2": 1029.390625,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Clothing, shoes and accessories",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Clothing, shoes and accesso..."
+    },
+    {
+      "coordinates": {
+        "x1": 1031.390625,
+        "y1": 119.0,
+        "x2": 1085.328125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Toys",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Toys"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.328125,
+        "y1": 119.0,
+        "x2": 1204.453125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sporting goods",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sporting goods"
+    },
+    {
+      "coordinates": {
+        "x1": 1206.453125,
+        "y1": 119.0,
+        "x2": 1365.328125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business and industrial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Business and industrial"
+    },
+    {
+      "coordinates": {
+        "x1": 1367.328125,
+        "y1": 119.0,
+        "x2": 1514.75,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jewelry and watches",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jewelry and watches"
+    },
+    {
+      "coordinates": {
+        "x1": 1516.75,
+        "y1": 119.0,
+        "x2": 1614.8125,
+        "y2": 146.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Refurbished",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Refurbished"
+    },
+    {
+      "coordinates": {
+        "x1": 1525.5,
+        "y1": 505.5,
+        "x2": 1557.5,
+        "y2": 537.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous Slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Previous Slide"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 193.5,
+        "x2": 348.36865234375,
+        "y2": 553.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 151.37200927734375,
+        "y1": 161.10000610351562,
+        "x2": 1898,
+        "y2": 585.9000244140625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 291.5,
+        "y1": 405.5,
+        "x2": 376.390625,
+        "y2": 449.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1565.5,
+        "y1": 505.5,
+        "x2": 1597.5,
+        "y2": 537.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next Slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next Slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1605.5,
+        "y1": 505.5,
+        "x2": 1637.5,
+        "y2": 537.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Pause",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Pause"
+    },
+    {
+      "coordinates": {
+        "x1": 229.5,
+        "y1": 635.5,
+        "x2": 539.4375,
+        "y2": 671.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "heading",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "heading"
+      },
+      "content": {
+        "text": "Shopping made easy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Shopping made easy"
+    },
+    {
+      "coordinates": {
+        "x1": 1547.890625,
+        "y1": 647.5,
+        "x2": 1653.5,
+        "y2": 687.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Start now"
+    },
+    {
+      "coordinates": {
+        "x1": 197.5,
+        "y1": 782.5,
+        "x2": 535.734375,
+        "y2": 811.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "48 Hours of Drops you\u2019ll love",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 48 Hours of Drops you\u2019ll love"
+    },
+    {
+      "coordinates": {
+        "x1": 1641.140625,
+        "y1": 790.5,
+        "x2": 1685.5,
+        "y2": 810.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "See all",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: See all"
+    },
+    {
+      "coordinates": {
+        "x1": 197.5,
+        "y1": 852.34375,
+        "x2": 442.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "MR MB'S BIRTHDAY\ud83c\udf89 ! $99 BIRKIN & KELLY AUCTION, DROPS & MORE\ud83e\udd73",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: MR MB'S BIRTHDAY\ud83c\udf89 ! $99 BIR..."
+    },
+    {
+      "coordinates": {
+        "x1": 205.5,
+        "y1": 860.34375,
+        "x2": 284.640625,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 195 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 195",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 195 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 197.5,
+        "y1": 852.34375,
+        "x2": 442.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 458.5,
+        "y1": 852.34375,
+        "x2": 703.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "99\u00a2 METAL MELTDOWN! \ud83d\udd25 Huge Silver & Gold Slabs w/ Amy & Christian",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: 99\u00a2 METAL MELTDOWN! \ud83d\udd25 Huge ..."
+    },
+    {
+      "coordinates": {
+        "x1": 466.5,
+        "y1": 860.34375,
+        "x2": 546.046875,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 149 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 149",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 149 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 458.5,
+        "y1": 852.34375,
+        "x2": 703.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 719.5,
+        "y1": 852.34375,
+        "x2": 964.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\ud83d\udc8e\ud83d\udcabPRISMATIC EVOLUTIONS ETB DROPS @ $144.88!!\ud83d\udcab\ud83d\udc8e",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \ud83d\udc8e\ud83d\udcabPRISMATIC EVOLUTIONS ETB ..."
+    },
+    {
+      "coordinates": {
+        "x1": 727.5,
+        "y1": 860.34375,
+        "x2": 807.265625,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 148 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 148",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 148 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 719.5,
+        "y1": 852.34375,
+        "x2": 964.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 980.5,
+        "y1": 852.34375,
+        "x2": 1225.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Friday Evening Memorabilia & Cards",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Friday Evening Memorabilia ..."
+    },
+    {
+      "coordinates": {
+        "x1": 988.5,
+        "y1": 860.34375,
+        "x2": 1067.046875,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 127 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 127",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 127 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 980.5,
+        "y1": 852.34375,
+        "x2": 1225.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.5,
+        "y1": 852.34375,
+        "x2": 1486.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Coins, Currency, & Bullion w/ Brian! - 4/3",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Coins, Currency, & Bullion ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1249.5,
+        "y1": 860.34375,
+        "x2": 1323.796875,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 96 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 96",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 96 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.5,
+        "y1": 852.34375,
+        "x2": 1486.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 1502.5,
+        "y1": 852.34375,
+        "x2": 1747.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "FULL CASE 2025 NATIONAL TREASURES FOOTBALL PYT & DOLLAR AUCTIONS WITH KIKO!",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: FULL CASE 2025 NATIONAL TRE..."
+    },
+    {
+      "coordinates": {
+        "x1": 1510.5,
+        "y1": 860.34375,
+        "x2": 1584.921875,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 73 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 73",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 73 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 1502.5,
+        "y1": 852.34375,
+        "x2": 1747.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 1763.5,
+        "y1": 852.34375,
+        "x2": 1898,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "$1 AND GO COIN AUCTIONS W/NVCOIN 04/03/26 PM",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: $1 AND GO COIN AUCTIONS W/N..."
+    },
+    {
+      "coordinates": {
+        "x1": 1771.5,
+        "y1": 860.34375,
+        "x2": 1843.328125,
+        "y2": 892.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "LIVE \u2022 41 watching",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE \u2022 41",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE \u2022 41 watching"
+    },
+    {
+      "coordinates": {
+        "x1": 1763.5,
+        "y1": 852.34375,
+        "x2": 1898,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View live event details",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View live event details"
+    },
+    {
+      "coordinates": {
+        "x1": 1820.0,
+        "y1": 918.0,
+        "x2": 1858.0,
+        "y2": 958.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Help, opens dialogs",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Help, opens dialogs"
+    }
+  ],
+  "dataset_split": "raw"
+}

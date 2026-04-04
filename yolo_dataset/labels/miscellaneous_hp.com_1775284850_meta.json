@@ -1,0 +1,1237 @@
+{
+  "url": "https://hp.com",
+  "category": "miscellaneous",
+  "timestamp": 1775284850,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 286.5,
+        "y1": 0,
+        "x2": 334.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "HP\u00ae India | Laptops, Computers, Desktops , Printers, and more",
+        "title": "HP\u00ae India | Laptops, Computers, Desktops , Printers, and more",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: HP\u00ae India | Laptops, Comput..."
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 0,
+        "x2": 445.75,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Laptops",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Laptops"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 0,
+        "x2": 445.75,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Laptops",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Laptops"
+    },
+    {
+      "coordinates": {
+        "x1": 473.75,
+        "y1": 0,
+        "x2": 538.640625,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Desktops",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Desktops"
+    },
+    {
+      "coordinates": {
+        "x1": 473.75,
+        "y1": 0,
+        "x2": 538.640625,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Desktops",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Desktops"
+    },
+    {
+      "coordinates": {
+        "x1": 566.640625,
+        "y1": 0,
+        "x2": 621.109375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Printers",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Printers"
+    },
+    {
+      "coordinates": {
+        "x1": 566.640625,
+        "y1": 0,
+        "x2": 621.109375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Printers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Printers"
+    },
+    {
+      "coordinates": {
+        "x1": 649.109375,
+        "y1": 0,
+        "x2": 733.09375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Accessories",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Accessories"
+    },
+    {
+      "coordinates": {
+        "x1": 649.109375,
+        "y1": 0,
+        "x2": 733.09375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accessories",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Accessories"
+    },
+    {
+      "coordinates": {
+        "x1": 761.09375,
+        "y1": 0,
+        "x2": 887.84375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Business Solutions",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Business Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 761.09375,
+        "y1": 0,
+        "x2": 887.84375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business Solutions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Business Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 915.84375,
+        "y1": 0,
+        "x2": 971.9375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 915.84375,
+        "y1": 0,
+        "x2": 971.9375,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1230.5,
+        "y1": 14.0,
+        "x2": 1441.5,
+        "y2": 34.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "search",
+        "title": "",
+        "alt_text": "",
+        "role": "searchbox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "What are you looking for?",
+        "value": "",
+        "name": "search-bar"
+      },
+      "descriptive_label": "icon_search: search"
+    },
+    {
+      "coordinates": {
+        "x1": 1447.5,
+        "y1": 12.0,
+        "x2": 1471.5,
+        "y2": 36.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.5,
+        "y1": 0,
+        "x2": 1596.5,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.5,
+        "y1": 0,
+        "x2": 1548.5,
+        "y2": 48.0
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "cart",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_cart: cart"
+    },
+    {
+      "coordinates": {
+        "x1": 1548.5,
+        "y1": 0,
+        "x2": 1596.5,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "sign In",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 7.0,
+        "y1": 371.75,
+        "x2": 37.0,
+        "y2": 401.75
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Previous slide",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Previous slide"
+    },
+    {
+      "coordinates": {
+        "x1": 332.5,
+        "y1": 561.5,
+        "x2": 440.1875,
+        "y2": 604.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 365.5,
+        "y1": 562.5,
+        "x2": 407.1875,
+        "y2": 603.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 456.1875,
+        "y1": 561.5,
+        "x2": 560.234375,
+        "y2": 604.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Shop"
+    },
+    {
+      "coordinates": {
+        "x1": 489.1875,
+        "y1": 562.5,
+        "x2": 527.234375,
+        "y2": 603.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 49.5,
+        "x2": 132.2919921875,
+        "y2": 685.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "hp-worldstores-benefits",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: hp-worldstores-benefits"
+    },
+    {
+      "coordinates": {
+        "x1": 332.5,
+        "y1": 485.5,
+        "x2": 440.1875,
+        "y2": 528.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 365.5,
+        "y1": 486.5,
+        "x2": 407.1875,
+        "y2": 527.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 456.1875,
+        "y1": 485.5,
+        "x2": 560.234375,
+        "y2": 528.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Shop"
+    },
+    {
+      "coordinates": {
+        "x1": 489.1875,
+        "y1": 486.5,
+        "x2": 527.234375,
+        "y2": 527.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Shop"
+    },
+    {
+      "coordinates": {
+        "x1": 749.5,
+        "y1": 49.5,
+        "x2": 1883.0,
+        "y2": 685.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "future-learning",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: future-learning"
+    },
+    {
+      "coordinates": {
+        "x1": 1846.0,
+        "y1": 371.75,
+        "x2": 1876.0,
+        "y2": 401.75
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next slide",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 860.5,
+        "y1": 692.5,
+        "x2": 869.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 1",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 1"
+    },
+    {
+      "coordinates": {
+        "x1": 877.5,
+        "y1": 692.5,
+        "x2": 886.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 2",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 2"
+    },
+    {
+      "coordinates": {
+        "x1": 894.5,
+        "y1": 692.5,
+        "x2": 954.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 3",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 3"
+    },
+    {
+      "coordinates": {
+        "x1": 962.5,
+        "y1": 692.5,
+        "x2": 971.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 4",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 4"
+    },
+    {
+      "coordinates": {
+        "x1": 979.5,
+        "y1": 692.5,
+        "x2": 988.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 5",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 5"
+    },
+    {
+      "coordinates": {
+        "x1": 996.5,
+        "y1": 692.5,
+        "x2": 1005.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 6",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 6"
+    },
+    {
+      "coordinates": {
+        "x1": 1013.5,
+        "y1": 692.5,
+        "x2": 1022.5,
+        "y2": 701.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to slide 7",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Go to slide 7"
+    },
+    {
+      "coordinates": {
+        "x1": 457.296875,
+        "y1": 921.5,
+        "x2": 593.6875,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 457.296875,
+        "y1": 921.5,
+        "x2": 593.671875,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "HP OmniBook Ultra AI PC",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: HP OmniBook Ultra AI PC"
+    },
+    {
+      "coordinates": {
+        "x1": 623.6875,
+        "y1": 921.5,
+        "x2": 760.078125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 623.6875,
+        "y1": 921.5,
+        "x2": 760.0625,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "HP OmniDesk Desktop PC",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: HP OmniDesk Desktop PC"
+    },
+    {
+      "coordinates": {
+        "x1": 790.078125,
+        "y1": 921.5,
+        "x2": 926.46875,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 790.078125,
+        "y1": 921.5,
+        "x2": 926.453125,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "HP Smart Tank Printer",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: HP Smart Tank Printer"
+    },
+    {
+      "coordinates": {
+        "x1": 956.46875,
+        "y1": 921.5,
+        "x2": 1092.859375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 956.46875,
+        "y1": 921.5,
+        "x2": 1092.84375,
+        "y2": 982
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Ink and Toner Cartridges and Paper",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_cart: Ink and Toner Cartridges an..."
+    },
+    {
+      "coordinates": {
+        "x1": 1122.859375,
+        "y1": 921.5,
+        "x2": 1259.25,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1122.859375,
+        "y1": 921.5,
+        "x2": 1259.234375,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "HP 725 Multi-Device Rechargeable Wireless Keyboard and Mouse Combo + Poly Voyager Surround 80 UC Microsoft Teams Certified USB-C Headset",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: HP 725 Multi-Device Recharg..."
+    },
+    {
+      "coordinates": {
+        "x1": 1289.25,
+        "y1": 921.5,
+        "x2": 1425.640625,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1289.25,
+        "y1": 921.5,
+        "x2": 1425.625,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "HP Elitebook Ultra G1q AI PC",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: HP Elitebook Ultra G1q AI PC"
+    }
+  ],
+  "dataset_split": "raw"
+}

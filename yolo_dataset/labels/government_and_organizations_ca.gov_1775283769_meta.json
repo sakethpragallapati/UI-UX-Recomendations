@@ -1,0 +1,637 @@
+{
+  "url": "https://ca.gov",
+  "category": "government_and_organizations",
+  "timestamp": 1775283769,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 365.5,
+        "y1": 4.0,
+        "x2": 570.3125,
+        "y2": 32.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Official California website",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Official California website"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.59375,
+        "y1": 8.0,
+        "x2": 1182.90625,
+        "y2": 36.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Espa\u00f1ol",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 1198.90625,
+        "y1": 8.0,
+        "x2": 1244.515625,
+        "y2": 36.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\ud55c\uad6d\uc5b4",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \ud55c\uad6d\uc5b4"
+    },
+    {
+      "coordinates": {
+        "x1": 1260.515625,
+        "y1": 8.0,
+        "x2": 1316.921875,
+        "y2": 36.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Tagalog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Tagalog"
+    },
+    {
+      "coordinates": {
+        "x1": 1332.921875,
+        "y1": 8.0,
+        "x2": 1403.078125,
+        "y2": 36.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ti\u1ebfng Vi\u1ec7t",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ti\u1ebfng Vi\u1ec7t"
+    },
+    {
+      "coordinates": {
+        "x1": 1419.078125,
+        "y1": 8.0,
+        "x2": 1479.890625,
+        "y2": 36.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u7e41\u9ad4\u4e2d\u6587",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u7e41\u9ad4\u4e2d\u6587"
+    },
+    {
+      "coordinates": {
+        "x1": 1495.890625,
+        "y1": 6.0,
+        "x2": 1517.5,
+        "y2": 35.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Translate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Translate"
+    },
+    {
+      "coordinates": {
+        "x1": 369.5,
+        "y1": 58.0,
+        "x2": 585.5,
+        "y2": 122.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 369.5,
+        "y1": 60.0,
+        "x2": 585.5,
+        "y2": 120.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "CA.gov official logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: CA.gov official logo"
+    },
+    {
+      "coordinates": {
+        "x1": 353.5,
+        "y1": 139.0,
+        "x2": 457.109375,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Services",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Services"
+    },
+    {
+      "coordinates": {
+        "x1": 457.109375,
+        "y1": 139.0,
+        "x2": 597.3125,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Departments",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Departments"
+    },
+    {
+      "coordinates": {
+        "x1": 597.3125,
+        "y1": 139.0,
+        "x2": 765.046875,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About California",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About California"
+    },
+    {
+      "coordinates": {
+        "x1": 765.046875,
+        "y1": 139.0,
+        "x2": 867.625,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get help"
+    },
+    {
+      "coordinates": {
+        "x1": 365.5,
+        "y1": 461.765625,
+        "x2": 879.5,
+        "y2": 511.765625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search CA.gov",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "icon_search: Search CA.gov"
+    },
+    {
+      "coordinates": {
+        "x1": 871.5,
+        "y1": 461.765625,
+        "x2": 921.5,
+        "y2": 511.765625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Submit",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Submit"
+    },
+    {
+      "coordinates": {
+        "x1": 882.203125,
+        "y1": 471.328125,
+        "x2": 910.78125,
+        "y2": 500.328125
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 941.5,
+        "y1": 195.0,
+        "x2": 1529.484375,
+        "y2": 623.34375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A California beach at sunset showing rock formations on the sand.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: A California beach at sunse..."
+    },
+    {
+      "coordinates": {
+        "x1": 429.328125,
+        "y1": 648.5625,
+        "x2": 659.5625,
+        "y2": 671.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "what you need to recover",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: what you need to recover"
+    },
+    {
+      "coordinates": {
+        "x1": 365.5,
+        "y1": 913.328125,
+        "x2": 518.0625,
+        "y2": 954.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Real ID/license",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Real ID/license"
+    },
+    {
+      "coordinates": {
+        "x1": 534.0625,
+        "y1": 913.328125,
+        "x2": 701.921875,
+        "y2": 954.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Birth certificates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Birth certificates"
+    },
+    {
+      "coordinates": {
+        "x1": 717.921875,
+        "y1": 913.328125,
+        "x2": 899.015625,
+        "y2": 954.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Check your refund",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Check your refund"
+    },
+    {
+      "coordinates": {
+        "x1": 915.015625,
+        "y1": 913.328125,
+        "x2": 1058.09375,
+        "y2": 954.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Traffic tickets",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Traffic tickets"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.09375,
+        "y1": 913.328125,
+        "x2": 1239.953125,
+        "y2": 954.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business license",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Business license"
+    },
+    {
+      "coordinates": {
+        "x1": 1255.953125,
+        "y1": 913.328125,
+        "x2": 1405.140625,
+        "y2": 954.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Seller\u2019s permit",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Seller\u2019s permit"
+    },
+    {
+      "coordinates": {
+        "x1": 1837.78125,
+        "y1": 843.0,
+        "x2": 1898,
+        "y2": 892.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    }
+  ],
+  "dataset_split": "raw"
+}

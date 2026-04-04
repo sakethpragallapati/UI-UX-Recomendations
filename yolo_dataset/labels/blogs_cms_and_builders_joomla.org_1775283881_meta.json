@@ -1,0 +1,737 @@
+{
+  "url": "https://joomla.org",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775283881,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 294.5,
+        "y1": 0,
+        "x2": 420.84375,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Joomla!\u00ae",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Joomla!\u00ae"
+    },
+    {
+      "coordinates": {
+        "x1": 421.84375,
+        "y1": 0,
+        "x2": 605.609375,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download & Extend",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Download & Extend"
+    },
+    {
+      "coordinates": {
+        "x1": 606.609375,
+        "y1": 0,
+        "x2": 769.546875,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Discover & Learn",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Discover & Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 770.546875,
+        "y1": 0,
+        "x2": 973.296875,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Community & Support",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Community & Support"
+    },
+    {
+      "coordinates": {
+        "x1": 974.296875,
+        "y1": 0,
+        "x2": 1164.140625,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1381.5,
+        "y1": 5.0,
+        "x2": 1382.5,
+        "y2": 6.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1382.5,
+        "y1": 6.0,
+        "x2": 1589.5,
+        "y2": 44.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search \u2026",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "icon_search: Search \u2026"
+    },
+    {
+      "coordinates": {
+        "x1": 303.5,
+        "y1": 63.0,
+        "x2": 507.578125,
+        "y2": 108.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 303.5,
+        "y1": 63.046875,
+        "x2": 499.578125,
+        "y2": 113.046875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Joomla!",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Joomla!"
+    },
+    {
+      "coordinates": {
+        "x1": 1051.5,
+        "y1": 59.0,
+        "x2": 1601.5,
+        "y2": 111.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download\nLaunch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Download\nLaunch"
+    },
+    {
+      "coordinates": {
+        "x1": 1051.5,
+        "y1": 63.0,
+        "x2": 1326.5,
+        "y2": 111.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1063.5,
+        "y1": 63.0,
+        "x2": 1314.5,
+        "y2": 111.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1326.5,
+        "y1": 63.0,
+        "x2": 1601.5,
+        "y2": 111.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Launch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Launch"
+    },
+    {
+      "coordinates": {
+        "x1": 1338.5,
+        "y1": 63.0,
+        "x2": 1589.5,
+        "y2": 111.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Launch",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Launch"
+    },
+    {
+      "coordinates": {
+        "x1": 293.5,
+        "y1": 126.046875,
+        "x2": 362.390625,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 363.390625,
+        "y1": 126.046875,
+        "x2": 492.15625,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About Joomla!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About Joomla!"
+    },
+    {
+      "coordinates": {
+        "x1": 493.15625,
+        "y1": 126.046875,
+        "x2": 656.296875,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Benefits & Features",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Benefits & Features"
+    },
+    {
+      "coordinates": {
+        "x1": 657.296875,
+        "y1": 126.046875,
+        "x2": 751.109375,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Joomla! 6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Joomla! 6"
+    },
+    {
+      "coordinates": {
+        "x1": 752.109375,
+        "y1": 126.046875,
+        "x2": 816.796875,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 817.796875,
+        "y1": 126.046875,
+        "x2": 919.25,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contribute",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Contribute"
+    },
+    {
+      "coordinates": {
+        "x1": 920.25,
+        "y1": 126.046875,
+        "x2": 1051.203125,
+        "y2": 168.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Press Enquiries",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Press Enquiries"
+    },
+    {
+      "coordinates": {
+        "x1": 479.0,
+        "y1": 556.421875,
+        "x2": 524.0,
+        "y2": 577.421875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Download Joomla!",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download Joomla!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Download Joomla!"
+    },
+    {
+      "coordinates": {
+        "x1": 293.5,
+        "y1": 749.015625,
+        "x2": 709.5,
+        "y2": 819.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Download Joomla!",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download Joomla! \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Download Joomla!"
+    },
+    {
+      "coordinates": {
+        "x1": 919.0,
+        "y1": 556.421875,
+        "x2": 964.0,
+        "y2": 577.421875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Free hosted Joomla! website",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Use launch.joomla.org",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Free hosted Joomla! website"
+    },
+    {
+      "coordinates": {
+        "x1": 733.5,
+        "y1": 749.015625,
+        "x2": 1149.5,
+        "y2": 819.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Free hosted Joomla! website",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Launch Joomla! \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Free hosted Joomla! website"
+    },
+    {
+      "coordinates": {
+        "x1": 1359.0,
+        "y1": 556.421875,
+        "x2": 1404.0,
+        "y2": 577.421875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Joomla! Training",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Joomla! Training",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Joomla! Training"
+    },
+    {
+      "coordinates": {
+        "x1": 1173.5,
+        "y1": 749.015625,
+        "x2": 1589.5,
+        "y2": 819.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Joomla! Training",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn Joomla! \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Joomla! Training"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 929.015625,
+        "x2": 926.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Joomla 6.0 is here!",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Joomla 6.0 is here!"
+    },
+    {
+      "coordinates": {
+        "x1": 953.5,
+        "y1": 957.40625,
+        "x2": 1581.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Joomla 6.0.4 & 5.4.4 Security & Bugfix Release",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Joomla 6.0.4 & 5.4.4 Securi..."
+    }
+  ],
+  "dataset_split": "raw"
+}

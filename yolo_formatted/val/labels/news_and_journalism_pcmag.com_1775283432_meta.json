@@ -1,0 +1,1112 @@
+{
+  "url": "https://pcmag.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775283432,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 260.5,
+        "y1": 21.0,
+        "x2": 261.5,
+        "y2": 22.0
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 22.0,
+        "x2": 281.5,
+        "y2": 42.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Hamburger Menu Toggle",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Hamburger Menu Toggle"
+    },
+    {
+      "coordinates": {
+        "x1": 293.5,
+        "y1": 0,
+        "x2": 357.5,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "PCMag Logo",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: PCMag Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 301.5,
+        "y1": 8.0,
+        "x2": 349.5,
+        "y2": 56.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "PCMag Nav Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: PCMag Nav Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 301.5,
+        "y1": 8.0,
+        "x2": 349.5,
+        "y2": 56.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "PCMag Nav Logo Hover",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: PCMag Nav Logo Hover"
+    },
+    {
+      "coordinates": {
+        "x1": 369.5,
+        "y1": 24.25,
+        "x2": 483.828125,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "#50YearsofApple",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "#50YearsofApple",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: #50YearsofApple"
+    },
+    {
+      "coordinates": {
+        "x1": 499.828125,
+        "y1": 24.25,
+        "x2": 591.25,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Best Products",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Best Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Best Products"
+    },
+    {
+      "coordinates": {
+        "x1": 607.25,
+        "y1": 24.25,
+        "x2": 695.0,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Comparisons",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Comparisons",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Comparisons"
+    },
+    {
+      "coordinates": {
+        "x1": 711.0,
+        "y1": 24.25,
+        "x2": 765.40625,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Reviews",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reviews",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Reviews"
+    },
+    {
+      "coordinates": {
+        "x1": 781.40625,
+        "y1": 24.25,
+        "x2": 831.625,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "How-To",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How-To",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How-To"
+    },
+    {
+      "coordinates": {
+        "x1": 847.625,
+        "y1": 24.25,
+        "x2": 884.46875,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 900.46875,
+        "y1": 24.25,
+        "x2": 937.546875,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Deals",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Deals"
+    },
+    {
+      "coordinates": {
+        "x1": 953.546875,
+        "y1": 24.25,
+        "x2": 1031.875,
+        "y2": 43.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Newsletters",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1047.875,
+        "y1": 19.0,
+        "x2": 1258.890625,
+        "y2": 49.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Maggie: AI Product Finder",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Maggie: AI Product Finder",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Maggie: AI Product Finder"
+    },
+    {
+      "coordinates": {
+        "x1": 1055.875,
+        "y1": 25.0,
+        "x2": 1073.875,
+        "y2": 43.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Maggie AI Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Maggie AI Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1055.875,
+        "y1": 25.0,
+        "x2": 1073.875,
+        "y2": 43.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Maggie AI White Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Maggie AI White Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1589.5,
+        "y1": 16.0,
+        "x2": 1621.5,
+        "y2": 48.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Toggle Search"
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 166.5,
+        "x2": 533.5,
+        "y2": 214.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Meet Maggie, PCMag's AI-Powered Product FinderBETA",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Meet Maggie, PCMag's AI-Pow..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 249.5,
+        "x2": 532.515625,
+        "y2": 268.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Best Ergonomic Keyboards for 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Best Ergonomic Keyboard..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 330.5,
+        "x2": 487.765625,
+        "y2": 349.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Best Computer Mice for 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Best Computer Mice for ..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 411.5,
+        "x2": 511.765625,
+        "y2": 454.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Copilot Terms Claim Microsoft's AI Is for 'Entertainment Purposes Only'",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Copilot Terms Claim Microso..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 516.5,
+        "x2": 523.234375,
+        "y2": 583.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The 5 Best Easter Weekend Tech Deals From Google, Hisense, Lenovo, Razer, and More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The 5 Best Easter Weekend T..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 621.5,
+        "x2": 505.140625,
+        "y2": 664.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Best Movies to Watch on Netflix Right Now (April 3-10, 2026)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Best Movies to Watch on..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 726.5,
+        "x2": 513.15625,
+        "y2": 769.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hackers Are Using Claude Code Leak As Bait to Spread Malware",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Hackers Are Using Claude Co..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 807.5,
+        "x2": 499.796875,
+        "y2": 874.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Unlimited Access To a Massive 100TB of Internxt Cloud Storage for 90% Off",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get Unlimited Access To a M..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 912.5,
+        "x2": 498.484375,
+        "y2": 955.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What's New to Watch on Netflix the Week of April 3, 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What's New to Watch on Netf..."
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 975.5,
+        "x2": 533.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Read More"
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 128.0,
+        "x2": 1621.5,
+        "y2": 501.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Seniors Are Losing Billions to Online Scammers\u2014and Most Don't Even Know It\nNew research shows nearly three-quarters of adults over 55 have been targeted or know someone who has fallen victim to online scams. Here's what you can do about it.\nBY KIM KEY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Seniors Are Losing Billions..."
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 128.0,
+        "x2": 1199.09375,
+        "y2": 484.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Seniors Are Losing Billions to Online Scammers\u2014and Most Don't Even Know It",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Seniors Are Losing Billions..."
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 549.390625,
+        "x2": 1093.5,
+        "y2": 664.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Even Astronauts Need IT Help. Artemis II Faces Microsoft Outlook Login Issues\nBY JIBIN JOSEPH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Even Astronauts Need IT Hel..."
+    },
+    {
+      "coordinates": {
+        "x1": 939.6015625,
+        "y1": 549.390625,
+        "x2": 1109.8046875,
+        "y2": 645.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Even Astronauts Need IT Help. Artemis II Faces Microsoft Outlook Login Issues",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Even Astronauts Need IT Hel..."
+    },
+    {
+      "coordinates": {
+        "x1": 1093.5,
+        "y1": 549.390625,
+        "x2": 1621.5,
+        "y2": 664.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Spam Calls Are Out of Control. Here's How I Silenced Them for Good\nBY KIM KEY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Spam Calls Are Out of Contr..."
+    },
+    {
+      "coordinates": {
+        "x1": 1465.75,
+        "y1": 549.390625,
+        "x2": 1639.65625,
+        "y2": 645.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Spam Calls Are Out of Control. Here's How I Silenced Them for Good",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Spam Calls Are Out of Contr..."
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 728.890625,
+        "x2": 1093.5,
+        "y2": 844.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I Gave Up on Windows 11. Linux Mint Is Simply Better in 7 Big Ways\nBY MICHAEL MUCHMORE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: I Gave Up on Windows 11. Li..."
+    },
+    {
+      "coordinates": {
+        "x1": 939.6015625,
+        "y1": 728.890625,
+        "x2": 1109.8046875,
+        "y2": 824.890625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "I Gave Up on Windows 11. Linux Mint Is Simply Better in 7 Big Ways",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: I Gave Up on Windows 11. Li..."
+    },
+    {
+      "coordinates": {
+        "x1": 1093.5,
+        "y1": 728.890625,
+        "x2": 1621.5,
+        "y2": 874.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I Stress-Tested Apple's $599 MacBook Neo With Lightroom and 8K Video. Here's What Happened\nBY JIM FISHER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: I Stress-Tested Apple's $59..."
+    },
+    {
+      "coordinates": {
+        "x1": 1467.6015625,
+        "y1": 728.890625,
+        "x2": 1637.8046875,
+        "y2": 824.890625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "I Stress-Tested Apple's $599 MacBook Neo With Lightroom and 8K Video. Here's What Happened",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: I Stress-Tested Apple's $59..."
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 938.390625,
+        "x2": 1093.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Which Brands Will Be Hardest Hit by FCC's Foreign Router Ban? Here's the List\nBY MICHAEL KAN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Which Brands Will Be Hardes..."
+    },
+    {
+      "coordinates": {
+        "x1": 938.9921875,
+        "y1": 938.390625,
+        "x2": 1110.4140625,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Which Brands Will Be Hardest Hit by FCC's Foreign Router Ban? Here's the List",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Which Brands Will Be Hardes..."
+    },
+    {
+      "coordinates": {
+        "x1": 1093.5,
+        "y1": 938.390625,
+        "x2": 1621.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How Do You Feel About Your High-Speed Internet? Rate Your Provider for a Chance to Win",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How Do You Feel About Your ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1467.6015625,
+        "y1": 938.390625,
+        "x2": 1637.8046875,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "How Do You Feel About Your High-Speed Internet? Rate Your Provider for a Chance to Win",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: How Do You Feel About Your ..."
+    },
+    {
+      "coordinates": {
+        "x1": 350.421875,
+        "y1": 866.875,
+        "x2": 435.875,
+        "y2": 881.875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 368.0,
+        "y1": 904.390625,
+        "x2": 543.0,
+        "y2": 946.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More Options, Opens the preference center dialog",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More Options",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More Options, Opens the pre..."
+    },
+    {
+      "coordinates": {
+        "x1": 556.0,
+        "y1": 904.390625,
+        "x2": 686.0,
+        "y2": 946.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I Consent",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: I Consent"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,1212 @@
+{
+  "url": "https://bandcamp.com",
+  "category": "video_and_streaming",
+  "timestamp": 1775282832,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 998.5625,
+        "y1": 406.6000061035156,
+        "x2": 1098.140625,
+        "y2": 423.6000061035156
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 770.0,
+        "y1": 555.5999755859375,
+        "x2": 1128.0,
+        "y2": 667.5999755859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all\nAccept necessary only",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Accept all\nAccept necessary..."
+    },
+    {
+      "coordinates": {
+        "x1": 770.0,
+        "y1": 565.5999755859375,
+        "x2": 1128.0,
+        "y2": 609.5999755859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 770.0,
+        "y1": 617.5999755859375,
+        "x2": 1128.0,
+        "y2": 661.5999755859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept necessary only",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Accept necessary only"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 2.0,
+        "y2": 32.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Skip to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Skip to content"
+    },
+    {
+      "coordinates": {
+        "x1": 121.0,
+        "y1": 0,
+        "x2": 1777.0,
+        "y2": 53.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "ul",
+      "element_type": "menubar",
+      "accessibility": {
+        "aria_label": "Main menu",
+        "title": "",
+        "alt_text": "",
+        "role": "menubar"
+      },
+      "content": {
+        "text": "Bandcamp home\nSearch for artist, album or track\nSearch\nSign up\nLog in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Main menu"
+    },
+    {
+      "coordinates": {
+        "x1": 161.0,
+        "y1": 17.0625,
+        "x2": 281.0,
+        "y2": 35.921875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Bandcamp home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Bandcamp home"
+    },
+    {
+      "coordinates": {
+        "x1": 305.0,
+        "y1": 7.5,
+        "x2": 625.0,
+        "y2": 45.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Search for artist, album or track\nSearch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search: Search for artist, album or..."
+    },
+    {
+      "coordinates": {
+        "x1": 305.0,
+        "y1": 7.5,
+        "x2": 306.0,
+        "y2": 8.5
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search for artist, album or track",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Search for artist, album or..."
+    },
+    {
+      "coordinates": {
+        "x1": 305.0,
+        "y1": 7.5,
+        "x2": 617.0,
+        "y2": 45.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search and discover music",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search and discover music"
+    },
+    {
+      "coordinates": {
+        "x1": 623.0,
+        "y1": 43.5,
+        "x2": 625.0,
+        "y2": 45.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1609.359375,
+        "y1": 0,
+        "x2": 1684.84375,
+        "y2": 53.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 1684.84375,
+        "y1": 0,
+        "x2": 1751.0,
+        "y2": 53.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 455.40625,
+        "y1": 54.0,
+        "x2": 588.765625,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Digital music",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Digital music"
+    },
+    {
+      "coordinates": {
+        "x1": 596.765625,
+        "y1": 54.0,
+        "x2": 680.859375,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Vinyl",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Vinyl"
+    },
+    {
+      "coordinates": {
+        "x1": 688.859375,
+        "y1": 54.0,
+        "x2": 834.671875,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Compact discs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Compact discs"
+    },
+    {
+      "coordinates": {
+        "x1": 842.671875,
+        "y1": 54.0,
+        "x2": 958.921875,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Cassettes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Cassettes"
+    },
+    {
+      "coordinates": {
+        "x1": 966.921875,
+        "y1": 54.0,
+        "x2": 1066.8125,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "T-shirts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: T-shirts"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.8125,
+        "y1": 54.0,
+        "x2": 1188.71875,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Gift cards",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Gift cards"
+    },
+    {
+      "coordinates": {
+        "x1": 1196.71875,
+        "y1": 54.0,
+        "x2": 1301.3125,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Editorial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Editorial"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.3125,
+        "y1": 54.0,
+        "x2": 1373.109375,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Clubs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Clubs"
+    },
+    {
+      "coordinates": {
+        "x1": 1381.109375,
+        "y1": 54.0,
+        "x2": 1442.578125,
+        "y2": 106.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Store",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Store"
+    },
+    {
+      "coordinates": {
+        "x1": 947.296875,
+        "y1": 119.0,
+        "x2": 1041.484375,
+        "y2": 135.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "See open roles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: See open roles"
+    },
+    {
+      "coordinates": {
+        "x1": 1503.40625,
+        "y1": 541.59375,
+        "x2": 1547.0,
+        "y2": 565.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pause",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: pause"
+    },
+    {
+      "coordinates": {
+        "x1": 1503.40625,
+        "y1": 544.59375,
+        "x2": 1547.0,
+        "y2": 561.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pause",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: pause"
+    },
+    {
+      "coordinates": {
+        "x1": 476.1875,
+        "y1": 574.78125,
+        "x2": 581.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $5\n37 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for $5\n37 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 476.1875,
+        "y1": 574.78125,
+        "x2": 581.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "WAVO FOREVER (LP)",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: WAVO FOREVER (LP)"
+    },
+    {
+      "coordinates": {
+        "x1": 596.1875,
+        "y1": 574.78125,
+        "x2": 701.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for \u20ac15\n39 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for \u20ac15\n39 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 596.1875,
+        "y1": 574.78125,
+        "x2": 701.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Jah Live & Dubs - Bunnington Judah",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Jah Live & Dubs - Bunningto..."
+    },
+    {
+      "coordinates": {
+        "x1": 836.1875,
+        "y1": 574.78125,
+        "x2": 941.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for \u00a37\n47 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for \u00a37\n47 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 836.1875,
+        "y1": 574.78125,
+        "x2": 941.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Echoes",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Echoes"
+    },
+    {
+      "coordinates": {
+        "x1": 956.1875,
+        "y1": 574.78125,
+        "x2": 1061.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $1\n47 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for $1\n47 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 956.1875,
+        "y1": 574.78125,
+        "x2": 1061.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "TWISTED",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: TWISTED"
+    },
+    {
+      "coordinates": {
+        "x1": 1076.1875,
+        "y1": 574.78125,
+        "x2": 1181.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for \u00a31.50\n52 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for \u00a31.50\n52 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1076.1875,
+        "y1": 574.78125,
+        "x2": 1181.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "B1 - Pour Your Heart",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: B1 - Pour Your Heart"
+    },
+    {
+      "coordinates": {
+        "x1": 1196.1875,
+        "y1": 574.78125,
+        "x2": 1301.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for \u20ac3.50\n52 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for \u20ac3.50\n52 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1196.1875,
+        "y1": 574.78125,
+        "x2": 1301.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "7th Heaven - Tribute to the Energy of Frankie Knuckles",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: 7th Heaven - Tribute to the..."
+    },
+    {
+      "coordinates": {
+        "x1": 1316.1875,
+        "y1": 574.78125,
+        "x2": 1421.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for \u20ac1\n52 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for \u20ac1\n52 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.1875,
+        "y1": 574.78125,
+        "x2": 1421.8125,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Fresh",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Fresh"
+    },
+    {
+      "coordinates": {
+        "x1": 1436.1875,
+        "y1": 574.78125,
+        "x2": 1541.8125,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sold for \u00a31.60\n56 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sold for \u00a31.60\n56 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1493.28125,
+        "y1": 574.78125,
+        "x2": 1598.90625,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Reflection",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Reflection"
+    },
+    {
+      "coordinates": {
+        "x1": 1792.75,
+        "y1": 574.78125,
+        "x2": 1898,
+        "y2": 730.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1796.1875,
+        "y1": 574.78125,
+        "x2": 1898,
+        "y2": 680.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Mangge Mangge",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Mangge Mangge"
+    },
+    {
+      "coordinates": {
+        "x1": 1393.375,
+        "y1": 859.484375,
+        "x2": 1549.0,
+        "y2": 883.484375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore more editorial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Explore more editorial"
+    },
+    {
+      "coordinates": {
+        "x1": 349.0,
+        "y1": 907.484375,
+        "x2": 1237.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 349.0,
+        "y1": 907.484375,
+        "x2": 1237.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1270.0,
+        "y1": 907.484375,
+        "x2": 1549.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1270.0,
+        "y1": 907.484375,
+        "x2": 1549.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,1137 @@
+{
+  "url": "https://fifa.com",
+  "category": "miscellaneous",
+  "timestamp": 1775284744,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 867.578125,
+        "y1": 543.890625,
+        "x2": 1030.40625,
+        "y2": 598.296875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Buy Now",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "BUY NOW",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Buy Now"
+    },
+    {
+      "coordinates": {
+        "x1": 867.578125,
+        "y1": 543.890625,
+        "x2": 1030.40625,
+        "y2": 582.296875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "BUY NOW",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: BUY NOW"
+    },
+    {
+      "coordinates": {
+        "x1": 1383.03125,
+        "y1": 7.5,
+        "x2": 1523.984375,
+        "y2": 22.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TICKETS & HOSPITALITY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: TICKETS & HOSPITALITY"
+    },
+    {
+      "coordinates": {
+        "x1": 1547.984375,
+        "y1": 7.5,
+        "x2": 1578.8125,
+        "y2": 22.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FIFA+",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: FIFA+"
+    },
+    {
+      "coordinates": {
+        "x1": 1602.8125,
+        "y1": 7.5,
+        "x2": 1668.890625,
+        "y2": 22.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FIFA STORE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: FIFA STORE"
+    },
+    {
+      "coordinates": {
+        "x1": 1692.890625,
+        "y1": 7.5,
+        "x2": 1775.265625,
+        "y2": 22.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FIFA COLLECT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: FIFA COLLECT"
+    },
+    {
+      "coordinates": {
+        "x1": 1799.265625,
+        "y1": 7.5,
+        "x2": 1866.0,
+        "y2": 22.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "INSIDE FIFA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: INSIDE FIFA"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 50.0,
+        "x2": 48.0,
+        "y2": 78.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 27.0,
+        "y1": 57.0,
+        "x2": 41.0,
+        "y2": 59.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 27.0,
+        "y1": 62.0,
+        "x2": 41.0,
+        "y2": 64.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 27.0,
+        "y1": 67.0,
+        "x2": 41.0,
+        "y2": 69.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 72.0,
+        "y1": 32.0,
+        "x2": 176.0,
+        "y2": 96.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 72.0,
+        "y1": 32.0,
+        "x2": 176.0,
+        "y2": 96.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "FIFA",
+        "alt_text": "FIFA",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: FIFA"
+    },
+    {
+      "coordinates": {
+        "x1": 340.40625,
+        "y1": 57.0,
+        "x2": 450.390625,
+        "y2": 71.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "MATCH CENTRE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: MATCH CENTRE"
+    },
+    {
+      "coordinates": {
+        "x1": 482.390625,
+        "y1": 57.0,
+        "x2": 523.84375,
+        "y2": 71.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NEWS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: NEWS"
+    },
+    {
+      "coordinates": {
+        "x1": 555.84375,
+        "y1": 57.0,
+        "x2": 626.828125,
+        "y2": 71.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "RANKINGS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: RANKINGS"
+    },
+    {
+      "coordinates": {
+        "x1": 725.625,
+        "y1": 57.0,
+        "x2": 826.625,
+        "y2": 71.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FIFA REWARDS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: FIFA REWARDS"
+    },
+    {
+      "coordinates": {
+        "x1": 1785.5,
+        "y1": 49.0,
+        "x2": 1815.5,
+        "y2": 79.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1833.0,
+        "y1": 44.0,
+        "x2": 1874.0,
+        "y2": 84.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "My Account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: My Account"
+    },
+    {
+      "coordinates": {
+        "x1": 997.0,
+        "y1": 288.0,
+        "x2": 1701.0,
+        "y2": 384.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 136.0,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 547.875,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Edin Dzeko celebrating after the victory against Italy",
+        "alt_text": "ZENICA, BOSNIA AND HERZEGOVINA - MARCH 31: Edin Dzeko of Bosnia Herzegovina celebrates during the FIFA World Cup 2026 European Qualifiers KO play-offs  match between Bosnia & Herzegovina and Italy at Stadion Bilino Polje on March 31, 2026 in Zenica, Bosnia and Herzegovina. (Photo by Image Photo Agency/Getty Images)",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Edin Dzeko celebrating afte..."
+    },
+    {
+      "coordinates": {
+        "x1": 197.0,
+        "y1": 288.0,
+        "x2": 901.0,
+        "y2": 336.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Qualified teams for the FIFA World Cup 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Qualified teams for the FIF..."
+    },
+    {
+      "coordinates": {
+        "x1": 197.0,
+        "y1": 660.640625,
+        "x2": 316.25,
+        "y2": 708.640625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Read more"
+    },
+    {
+      "coordinates": {
+        "x1": 919.59375,
+        "y1": 136.0,
+        "x2": 1540.234375,
+        "y2": 756.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 919.59375,
+        "y1": 136.0,
+        "x2": 1540.234375,
+        "y2": 756.640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "FIFA World Cup 2026 qualified teams wallchart graphic",
+        "alt_text": "FIFA World Cup 2026 qualified teams wallchart graphic 4x3.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: FIFA World Cup 2026 qualifi..."
+    },
+    {
+      "coordinates": {
+        "x1": 997.0,
+        "y1": 288.0,
+        "x2": 1701.0,
+        "y2": 384.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 136.0,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Next Up\nSweden",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Next Up\nSweden"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 547.875,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sweden's English coach Graham Potter",
+        "alt_text": "FIFA",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Sweden's English coach Grah..."
+    },
+    {
+      "coordinates": {
+        "x1": 997.0,
+        "y1": 288.0,
+        "x2": 1701.0,
+        "y2": 384.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 136.0,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Next Up\nTicketing Information",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Next Up\nTicketing Information"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 547.875,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Fans cheer at a stadium.",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Fans cheer at a stadium."
+    },
+    {
+      "coordinates": {
+        "x1": 997.0,
+        "y1": 288.0,
+        "x2": 1701.0,
+        "y2": 432.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 136.0,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 547.875,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Players of Puerto Rico celebrate winning the FIFA Series 2026 ",
+        "alt_text": "BAYAMON, PUERTO RICO - MARCH 28: Players of Puerto Rico celebrate with the first place trophy after winning the FIFA Series 2026 final match between US Virgin Islands and Puerto Rico at Estadio Juan Ram\u00f3n Loubriel on March 28, 2026 in Bayamon, Puerto Rico. (Photo by Raul Sifuentes - FIFA/FIFA via Getty Images)",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Players of Puerto Rico cele..."
+    },
+    {
+      "coordinates": {
+        "x1": 997.0,
+        "y1": 288.0,
+        "x2": 1701.0,
+        "y2": 336.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 136.0,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.234375,
+        "y1": 547.875,
+        "x2": 1749.0,
+        "y2": 756.640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "All FWC 2026 matches 4x3",
+        "alt_text": "FIFA",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: All FWC 2026 matches 4x3"
+    },
+    {
+      "coordinates": {
+        "x1": 1723.0,
+        "y1": 780.640625,
+        "x2": 1741.0,
+        "y2": 859.640625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next Slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next Slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1676.953125,
+        "y1": 932.640625,
+        "x2": 1749.0,
+        "y2": 956.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "See all",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: See all"
+    },
+    {
+      "coordinates": {
+        "x1": 775.90625,
+        "y1": 953.484375,
+        "x2": 909.234375,
+        "y2": 970.484375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Data Protection Portal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 1043.890625,
+        "y1": 894.6953125,
+        "x2": 1879.0,
+        "y2": 965.3046875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Preference Center Reject All I'm OK with that",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Preference Center Reject Al..."
+    },
+    {
+      "coordinates": {
+        "x1": 1246.671875,
+        "y1": 907.6953125,
+        "x2": 1379.875,
+        "y2": 949.3046875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Preference Center, Opens the preference center dialog",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Preference Center",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Preference Center, Opens th..."
+    },
+    {
+      "coordinates": {
+        "x1": 1396.546875,
+        "y1": 907.6953125,
+        "x2": 1521.546875,
+        "y2": 949.3046875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Reject All"
+    },
+    {
+      "coordinates": {
+        "x1": 1538.21875,
+        "y1": 907.6953125,
+        "x2": 1663.21875,
+        "y2": 949.3046875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I'm OK with that",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: I'm OK with that"
+    }
+  ],
+  "dataset_split": "raw"
+}

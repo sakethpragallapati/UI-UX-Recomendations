@@ -1,0 +1,1662 @@
+{
+  "url": "https://interia.pl",
+  "category": "miscellaneous",
+  "timestamp": 1775284664,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 0,
+        "x2": 495.5,
+        "y2": 111.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 0,
+        "x2": 495.5,
+        "y2": 111.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Logo specjalne",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Logo specjalne"
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 0,
+        "x2": 455.5,
+        "y2": 48.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Logo specjalne",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Logo specjalne"
+    },
+    {
+      "coordinates": {
+        "x1": 525.828125,
+        "y1": 24.0,
+        "x2": 635.828125,
+        "y2": 72.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Prognoza szczeg\u00f3\u0142owa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TERAZ\n5C",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Prognoza szczeg\u00f3\u0142owa"
+    },
+    {
+      "coordinates": {
+        "x1": 546.46875,
+        "y1": 20.0,
+        "x2": 598.46875,
+        "y2": 72.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Ikona pogody",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Ikona pogody"
+    },
+    {
+      "coordinates": {
+        "x1": 546.3125,
+        "y1": 74.0,
+        "x2": 635.828125,
+        "y2": 89.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Warszawa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WARSZAWA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Warszawa"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 102.0,
+        "x2": 980.828125,
+        "y2": 173.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 109.0,
+        "x2": 980.828125,
+        "y2": 172.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Wpisz miejscowo\u015b\u0107",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Wpisz miejscowo\u015b\u0107"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 182.0,
+        "x2": 980.828125,
+        "y2": 230.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Zlokalizuj mnie",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Zlokalizuj mnie"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 234.0,
+        "x2": 975.828125,
+        "y2": 285.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 285.0,
+        "x2": 975.828125,
+        "y2": 336.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 336.0,
+        "x2": 975.828125,
+        "y2": 387.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 387.0,
+        "x2": 975.828125,
+        "y2": 438.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 438.0,
+        "x2": 975.828125,
+        "y2": 489.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 489.0,
+        "x2": 975.828125,
+        "y2": 540.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 540.0,
+        "x2": 975.828125,
+        "y2": 591.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 591.0,
+        "x2": 975.828125,
+        "y2": 642.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 642.0,
+        "x2": 975.828125,
+        "y2": 693.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 693.0,
+        "x2": 975.828125,
+        "y2": 744.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 744.0,
+        "x2": 975.828125,
+        "y2": 795.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 795.0,
+        "x2": 975.828125,
+        "y2": 846.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 846.0,
+        "x2": 975.828125,
+        "y2": 897.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 897.0,
+        "x2": 975.828125,
+        "y2": 948.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 530.828125,
+        "y1": 948.0,
+        "x2": 975.828125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 992.828125,
+        "y1": 122.0,
+        "x2": 1032.828125,
+        "y2": 162.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 654.828125,
+        "y1": 24.0,
+        "x2": 710.96875,
+        "y2": 67.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Prognoza szczeg\u00f3\u0142owa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "POWIETRZE\nDobre",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Prognoza szczeg\u00f3\u0142owa"
+    },
+    {
+      "coordinates": {
+        "x1": 654.828125,
+        "y1": 72.0,
+        "x2": 719.84375,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Prognoza szczeg\u00f3\u0142owa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "120 GODZ.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Prognoza szczeg\u00f3\u0142owa"
+    },
+    {
+      "coordinates": {
+        "x1": 729.84375,
+        "y1": 72.0,
+        "x2": 771.15625,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Prognoza d\u0142ugoterminowa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "45 DNI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Prognoza d\u0142ugoterminowa"
+    },
+    {
+      "coordinates": {
+        "x1": 830.5,
+        "y1": 32.0,
+        "x2": 831.5,
+        "y2": 33.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Szukaj:",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Szukaj:"
+    },
+    {
+      "coordinates": {
+        "x1": 830.5,
+        "y1": 32.0,
+        "x2": 1090.5,
+        "y2": 82.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Szukaj",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "icon_search: Szukaj"
+    },
+    {
+      "coordinates": {
+        "x1": 1048.5,
+        "y1": 21.0,
+        "x2": 1108.5,
+        "y2": 81.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wyszukaj",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Szukaj",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Wyszukaj"
+    },
+    {
+      "coordinates": {
+        "x1": 1149.5,
+        "y1": 16.0,
+        "x2": 1209.5,
+        "y2": 88.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Poczta",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "POCZTA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Poczta"
+    },
+    {
+      "coordinates": {
+        "x1": 1235.5,
+        "y1": 16.0,
+        "x2": 1295.5,
+        "y2": 88.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Plotki",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PLOTKI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Plotki"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.5,
+        "y1": 16.0,
+        "x2": 1387.5,
+        "y2": 88.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sport",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SPORT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sport"
+    },
+    {
+      "coordinates": {
+        "x1": 1407.5,
+        "y1": 16.0,
+        "x2": 1467.5,
+        "y2": 88.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Zielona",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ZIELONA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Zielona"
+    },
+    {
+      "coordinates": {
+        "x1": 1496.5,
+        "y1": 16.0,
+        "x2": 1556.5,
+        "y2": 88.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Podcasty",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PODCASTY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Podcasty"
+    },
+    {
+      "coordinates": {
+        "x1": 1578.5,
+        "y1": 16.0,
+        "x2": 1638.5,
+        "y2": 88.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "MENU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 379.0,
+        "x2": 580.71875,
+        "y2": 429.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "WYDARZENIA DNIA",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WYDARZENIA DNIA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WYDARZENIA DNIA"
+    },
+    {
+      "coordinates": {
+        "x1": 1053.796875,
+        "y1": 389.0,
+        "x2": 1160.5625,
+        "y2": 419.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "OKIEM INTERII",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: OKIEM INTERII"
+    },
+    {
+      "coordinates": {
+        "x1": 1170.5625,
+        "y1": 389.0,
+        "x2": 1327.671875,
+        "y2": 419.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "INTERIA BLI\u017bEJ \u015aWIATA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: INTERIA BLI\u017bEJ \u015aWIATA"
+    },
+    {
+      "coordinates": {
+        "x1": 1337.671875,
+        "y1": 389.0,
+        "x2": 1453.90625,
+        "y2": 419.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "BLISKI WSCH\u00d3D",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: BLISKI WSCH\u00d3D"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.90625,
+        "y1": 389.0,
+        "x2": 1627.5,
+        "y2": 419.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "REPREZENTACJA POLSKI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: REPREZENTACJA POLSKI"
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 456.0,
+        "x2": 931.5,
+        "y2": 846.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Media: Alarmuj\u0105ce dane wywiadu USA. Chodzi o zdolno\u015bci bojowe Iranu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Media: Alarmuj\u0105ce dane wywiadu USA. Chodzi o zdolno\u015bci bojowe Iranu",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Media: Alarmuj\u0105ce dane wywi..."
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 456.0,
+        "x2": 931.5,
+        "y2": 846.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 951.5,
+        "y1": 456.0,
+        "x2": 1279.5,
+        "y2": 641.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Tysi\u0105c kierowc\u00f3w bez prawa jazdy. Nowe przepisy zbieraj\u0105 \u017cniwo",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CZYTAJ W INTERII\nTysi\u0105c kierowc\u00f3w bez prawa jazdy. Nowe przepisy zbieraj\u0105 \u017cniwo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Tysi\u0105c kierowc\u00f3w bez prawa ..."
+    },
+    {
+      "coordinates": {
+        "x1": 951.5,
+        "y1": 456.0,
+        "x2": 1279.5,
+        "y2": 641.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1299.5,
+        "y1": 456.0,
+        "x2": 1627.5,
+        "y2": 641.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ruch by\u0142ego ministra, wskazuje na Morawieckiego. \"Rozmawiali\u015bmy\"",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ruch by\u0142ego ministra, wskazuje na Morawieckiego. \"Rozmawiali\u015bmy\"",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ruch by\u0142ego ministra, wskaz..."
+    },
+    {
+      "coordinates": {
+        "x1": 1299.5,
+        "y1": 456.0,
+        "x2": 1627.5,
+        "y2": 641.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 951.5,
+        "y1": 661.0,
+        "x2": 1279.5,
+        "y2": 846.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Setki rannych \u017co\u0142nierzy, komunikat Pentagonu. \"Wi\u0119kszo\u015b\u0107 wr\u00f3ci\u0142a do s\u0142u\u017cby\"",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Setki rannych \u017co\u0142nierzy, komunikat Pentagonu. \"Wi\u0119kszo\u015b\u0107 wr\u00f3ci\u0142a do s\u0142u\u017cby\"",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Setki rannych \u017co\u0142nierzy, ko..."
+    },
+    {
+      "coordinates": {
+        "x1": 951.5,
+        "y1": 661.0,
+        "x2": 1279.5,
+        "y2": 846.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1299.5,
+        "y1": 661.0,
+        "x2": 1627.5,
+        "y2": 846.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "W wyborach na W\u0119grzech mo\u017ce pa\u015b\u0107 rekord. To b\u0119dzie cios dla Orbana",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "W wyborach na W\u0119grzech mo\u017ce pa\u015b\u0107 rekord. To b\u0119dzie cios dla Orbana",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: W wyborach na W\u0119grzech mo\u017ce..."
+    },
+    {
+      "coordinates": {
+        "x1": 1299.5,
+        "y1": 661.0,
+        "x2": 1627.5,
+        "y2": 846.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 866.0,
+        "x2": 583.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Niespodziewana wizyta Meloni. Kryzys nie zostawi\u0142 jej wyboru",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Niespodziewana wizyta Meloni. Kryzys nie zostawi\u0142 jej wyboru",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Niespodziewana wizyta Melon..."
+    },
+    {
+      "coordinates": {
+        "x1": 255.5,
+        "y1": 866.0,
+        "x2": 583.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 603.5,
+        "y1": 866.0,
+        "x2": 931.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Po ile b\u0119dzie ropa? Wyj\u0119li na st\u00f3\u0142 trzy scenariusze. Jeden jest dotkliwy",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CZYTAJ W INTERII\nPo ile b\u0119dzie ropa? Wyj\u0119li na st\u00f3\u0142 trzy scenariusze. Jeden jest dotkliwy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Po ile b\u0119dzie ropa? Wyj\u0119li ..."
+    },
+    {
+      "coordinates": {
+        "x1": 603.5,
+        "y1": 866.0,
+        "x2": 931.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 951.5,
+        "y1": 866.0,
+        "x2": 1279.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Krzysztof Ibisz: Karate by\u0142o cz\u0119\u015bci\u0105 mojego dorastania",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ROZMOWA INTERII\nKrzysztof Ibisz: Karate by\u0142o cz\u0119\u015bci\u0105 mojego dorastania",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Krzysztof Ibisz: Karate by\u0142..."
+    },
+    {
+      "coordinates": {
+        "x1": 951.5,
+        "y1": 866.0,
+        "x2": 1279.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1299.5,
+        "y1": 866.0,
+        "x2": 1627.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wypadek na \u017bywiecczy\u017anie. Jedno z aut wjecha\u0142o w grup\u0119 id\u0105c\u0105 z ko\u015bcio\u0142a",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wypadek na \u017bywiecczy\u017anie. Jedno z aut wjecha\u0142o w grup\u0119 id\u0105c\u0105 z ko\u015bcio\u0142a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Wypadek na \u017bywiecczy\u017anie. J..."
+    },
+    {
+      "coordinates": {
+        "x1": 1299.5,
+        "y1": 866.0,
+        "x2": 1627.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1797.0,
+        "y1": 894.0,
+        "x2": 1858.0,
+        "y2": 957.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 481.5,
+        "y1": 284.0,
+        "x2": 1302.984375,
+        "y2": 323.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "naszych partner\u00f3w reklamowych (1018)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: naszych partner\u00f3w reklamowy..."
+    },
+    {
+      "coordinates": {
+        "x1": 481.5,
+        "y1": 714.0,
+        "x2": 1357.625,
+        "y2": 753.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Polityce cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Polityce cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 439.5,
+        "y1": 711.0,
+        "x2": 1441.5,
+        "y2": 768.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "USTAWIENIA PRYWATNO\u015aCI\nPRZEJD\u0179 DO SERWISU",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: USTAWIENIA PRYWATNO\u015aCI\nPRZE..."
+    },
+    {
+      "coordinates": {
+        "x1": 481.5,
+        "y1": 723.0,
+        "x2": 692.625,
+        "y2": 768.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Ustawienia prywatno\u015bci",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "USTAWIENIA PRYWATNO\u015aCI",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Ustawienia prywatno\u015bci"
+    },
+    {
+      "coordinates": {
+        "x1": 1221.109375,
+        "y1": 723.0,
+        "x2": 1399.5,
+        "y2": 768.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Przejd\u017a do serwisu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PRZEJD\u0179 DO SERWISU",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Przejd\u017a do serwisu"
+    }
+  ],
+  "dataset_split": "raw"
+}

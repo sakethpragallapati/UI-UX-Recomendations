@@ -1,0 +1,1562 @@
+{
+  "url": "https://wikia.com",
+  "category": "education_and_reference",
+  "timestamp": 1775283704,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 18.0,
+        "y1": 3.0,
+        "x2": 130.0,
+        "y2": 43.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Fandom homepage",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Fandom homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 1238.15625,
+        "y1": 6.0,
+        "x2": 1558.15625,
+        "y2": 40.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1250.15625,
+        "y1": 14.0,
+        "x2": 1268.15625,
+        "y2": 32.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1576.15625,
+        "y1": 6.0,
+        "x2": 1659.390625,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign In",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SIGN IN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 1671.390625,
+        "y1": 6.0,
+        "x2": 1865.0,
+        "y2": 40.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Create a Free Account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CREATE A FREE ACCOUNT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Create a Free Account"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 58.0,
+        "x2": 62.0,
+        "y2": 124.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 62.0,
+        "x2": 62.0,
+        "y2": 120.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 124.0,
+        "x2": 62.0,
+        "y2": 190.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Explore"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 190.0,
+        "x2": 62.0,
+        "y2": 256.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Saved",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Saved"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 194.0,
+        "x2": 62.0,
+        "y2": 252.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Saved",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Saved"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 256.0,
+        "x2": 62.0,
+        "y2": 322.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Progress",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Progress"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 260.0,
+        "x2": 62.0,
+        "y2": 318.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Progress",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Progress"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 322.0,
+        "x2": 62.0,
+        "y2": 388.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "History",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: History"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 910.0,
+        "x2": 62.0,
+        "y2": 976.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: More"
+    },
+    {
+      "coordinates": {
+        "x1": 4.0,
+        "y1": 910.0,
+        "x2": 62.0,
+        "y2": 976.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 64.0,
+        "x2": 395.5,
+        "y2": 98.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SKIP TO CONTENT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: SKIP TO CONTENT"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 94.0,
+        "x2": 428.546875,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 94.0,
+        "x2": 428.546875,
+        "y2": 194.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Community Central",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Community Central"
+    },
+    {
+      "coordinates": {
+        "x1": 446.546875,
+        "y1": 124.0,
+        "x2": 670.90625,
+        "y2": 154.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Community Central",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Community Central"
+    },
+    {
+      "coordinates": {
+        "x1": 1528.5,
+        "y1": 124.0,
+        "x2": 1592.5,
+        "y2": 154.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1528.5,
+        "y1": 124.0,
+        "x2": 1560.5,
+        "y2": 154.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Discuss",
+        "title": "Discuss",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Discuss"
+    },
+    {
+      "coordinates": {
+        "x1": 1559.5,
+        "y1": 124.0,
+        "x2": 1591.5,
+        "y2": 154.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Switch to Dark Theme",
+        "title": "Switch to Dark Theme",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Switch to Dark Theme"
+    },
+    {
+      "coordinates": {
+        "x1": 522.1875,
+        "y1": 168.0,
+        "x2": 534.1875,
+        "y2": 180.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_dropdown: Expand"
+    },
+    {
+      "coordinates": {
+        "x1": 558.1875,
+        "y1": 166.5,
+        "x2": 726.171875,
+        "y2": 181.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "GET STARTED WITH FANDOM",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: GET STARTED WITH FANDOM"
+    },
+    {
+      "coordinates": {
+        "x1": 730.171875,
+        "y1": 168.0,
+        "x2": 742.171875,
+        "y2": 180.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_dropdown: Expand"
+    },
+    {
+      "coordinates": {
+        "x1": 766.171875,
+        "y1": 166.5,
+        "x2": 839.625,
+        "y2": 181.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I NEED HELP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: I NEED HELP"
+    },
+    {
+      "coordinates": {
+        "x1": 843.625,
+        "y1": 168.0,
+        "x2": 855.625,
+        "y2": 180.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_dropdown: Expand"
+    },
+    {
+      "coordinates": {
+        "x1": 879.625,
+        "y1": 166.5,
+        "x2": 981.28125,
+        "y2": 181.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I WANT TO LEARN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: I WANT TO LEARN"
+    },
+    {
+      "coordinates": {
+        "x1": 985.28125,
+        "y1": 168.0,
+        "x2": 997.28125,
+        "y2": 180.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_dropdown: Expand"
+    },
+    {
+      "coordinates": {
+        "x1": 1130.390625,
+        "y1": 168.0,
+        "x2": 1142.390625,
+        "y2": 180.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_dropdown: Expand"
+    },
+    {
+      "coordinates": {
+        "x1": 338.5,
+        "y1": 224.0,
+        "x2": 374.5,
+        "y2": 260.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": "content-size-toggle"
+      },
+      "descriptive_label": "general_button: Expand"
+    },
+    {
+      "coordinates": {
+        "x1": 338.5,
+        "y1": 269.0,
+        "x2": 374.5,
+        "y2": 305.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "View source",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View source"
+    },
+    {
+      "coordinates": {
+        "x1": 338.5,
+        "y1": 314.0,
+        "x2": 374.5,
+        "y2": 350.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign In to Save",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign In to Save"
+    },
+    {
+      "coordinates": {
+        "x1": 1534.5,
+        "y1": 235.0,
+        "x2": 1546.5,
+        "y2": 247.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Toggle",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_dropdown: Toggle"
+    },
+    {
+      "coordinates": {
+        "x1": 1225.0,
+        "y1": 274.0,
+        "x2": 1375.984375,
+        "y2": 308.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign In to Save",
+        "title": "Sign In to Save",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SIGN IN TO SAVE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign In to Save"
+    },
+    {
+      "coordinates": {
+        "x1": 1380.984375,
+        "y1": 275.0,
+        "x2": 1512.5,
+        "y2": 307.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "VIEW SOURCE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: VIEW SOURCE"
+    },
+    {
+      "coordinates": {
+        "x1": 1517.5,
+        "y1": 273.0,
+        "x2": 1553.5,
+        "y2": 309.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Page Tools",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Page Tools"
+    },
+    {
+      "coordinates": {
+        "x1": 464.5,
+        "y1": 349.0,
+        "x2": 1164.5,
+        "y2": 505.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "MainPageCCHeader",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: MainPageCCHeader"
+    },
+    {
+      "coordinates": {
+        "x1": 416.5,
+        "y1": 640.5,
+        "x2": 592.015625,
+        "y2": 659.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Special:Forum",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "community discussions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Special:Forum"
+    },
+    {
+      "coordinates": {
+        "x1": 599.921875,
+        "y1": 640.5,
+        "x2": 715.046875,
+        "y2": 659.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Blog:FANDOM Staff Blog",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "staff blog posts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Blog:FANDOM Staff Blog"
+    },
+    {
+      "coordinates": {
+        "x1": 722.953125,
+        "y1": 640.5,
+        "x2": 804.046875,
+        "y2": 659.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Help:Contents",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "help pages",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Help:Contents"
+    },
+    {
+      "coordinates": {
+        "x1": 1036.5,
+        "y1": 569.0,
+        "x2": 1196.5,
+        "y2": 704.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Mainpage-avatars",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Mainpage-avatars"
+    },
+    {
+      "coordinates": {
+        "x1": 408.5,
+        "y1": 857.09375,
+        "x2": 463.5,
+        "y2": 912.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Jasonsandwich",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Jasonsandwich"
+    },
+    {
+      "coordinates": {
+        "x1": 483.5,
+        "y1": 856.0,
+        "x2": 592.90625,
+        "y2": 873.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User:Jasonsandwich",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jasonsandwich",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User:Jasonsandwich"
+    },
+    {
+      "coordinates": {
+        "x1": 483.5,
+        "y1": 878.0,
+        "x2": 768.0,
+        "y2": 912.59375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User blog:Jasonsandwich/Introducing \"Collections\" on Fandom (Beta)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Introducing \"Collections\" on Fandom (Beta)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User blog:Jasonsandwich/Int..."
+    },
+    {
+      "coordinates": {
+        "x1": 842.5,
+        "y1": 857.09375,
+        "x2": 897.5,
+        "y2": 912.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Antonio R. Castro",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Antonio R. Castro"
+    },
+    {
+      "coordinates": {
+        "x1": 917.5,
+        "y1": 856.0,
+        "x2": 1043.78125,
+        "y2": 873.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User:Antonio R. Castro",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Antonio R. Castro",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User:Antonio R. Castro"
+    },
+    {
+      "coordinates": {
+        "x1": 917.5,
+        "y1": 878.0,
+        "x2": 1217.953125,
+        "y2": 912.59375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User blog:Antonio R. Castro/Introducing the Animal Crossing: New Horizons Game Companion on Fandom",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Introducing the Animal Crossing: New Horizons Game Companion on Fandom",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User blog:Antonio R. Castro..."
+    },
+    {
+      "coordinates": {
+        "x1": 392.5,
+        "y1": 954.1875,
+        "x2": 1236.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Read more"
+    },
+    {
+      "coordinates": {
+        "x1": 774.921875,
+        "y1": 960.1875,
+        "x2": 854.078125,
+        "y2": 977.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Community Central:Staff Blog/Product Updates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Community Central:Staff Blo..."
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 472.0,
+        "x2": 1390.78125,
+        "y2": 489.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User:CuBaN VeRcEttI",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CuBaN VeRcEttI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User:CuBaN VeRcEttI"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 496.0,
+        "x2": 1536.3125,
+        "y2": 513.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User blog:CuBaN VeRcEttI/Technical Updates: March 10, 2026",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Technical Updates: March 10, 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User blog:CuBaN VeRcEttI/Te..."
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 550.59375,
+        "x2": 1398.78125,
+        "y2": 567.59375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User:Antonio R. Castro",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Antonio R. Castro",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User:Antonio R. Castro"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 574.59375,
+        "x2": 1517.625,
+        "y2": 609.1875
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User blog:Antonio R. Castro/Technical Updates: February 24, 2026",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Technical Updates: February 24, 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User blog:Antonio R. Castro..."
+    },
+    {
+      "coordinates": {
+        "x1": 1256.5,
+        "y1": 630.78125,
+        "x2": 1556.5,
+        "y2": 660.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Read more"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.921875,
+        "y1": 636.78125,
+        "x2": 1446.078125,
+        "y2": 653.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Community Central:Staff Blog/Technical Updates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Community Central:Staff Blo..."
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 772.78125,
+        "x2": 1356.09375,
+        "y2": 789.78125
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User:OishiiOnIno",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "OishiiOnIno",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User:OishiiOnIno"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 796.78125,
+        "x2": 1478.53125,
+        "y2": 813.78125
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User blog:OishiiOnIno/Trans Day of Visibility 2026",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trans Day of Visibility 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User blog:OishiiOnIno/Trans..."
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 851.375,
+        "x2": 1356.09375,
+        "y2": 868.375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User:OishiiOnIno",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "OishiiOnIno",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User:OishiiOnIno"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 875.375,
+        "x2": 1478.53125,
+        "y2": 892.375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "User blog:OishiiOnIno/Trans Day of Visibility 2026",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trans Day of Visibility 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: User blog:OishiiOnIno/Trans..."
+    },
+    {
+      "coordinates": {
+        "x1": 1256.5,
+        "y1": 913.96875,
+        "x2": 1556.5,
+        "y2": 943.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Read more"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.921875,
+        "y1": 919.96875,
+        "x2": 1446.078125,
+        "y2": 936.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Community Central:Staff Blog/Diversity, Equality and Inclusion",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Community Central:Staff Blo..."
+    }
+  ],
+  "dataset_split": "raw"
+}

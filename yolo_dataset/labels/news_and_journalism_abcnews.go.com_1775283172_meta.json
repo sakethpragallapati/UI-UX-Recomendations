@@ -1,0 +1,1612 @@
+{
+  "url": "https://abcnews.go.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775283172,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 122.0,
+        "x2": 331.5,
+        "y2": 162.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Site Menu",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Site Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 347.5,
+        "y1": 118.0,
+        "x2": 463.5,
+        "y2": 164.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "ABCN Logo",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ABC News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ABCN Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 486.5,
+        "y1": 121.0,
+        "x2": 553.03125,
+        "y2": 163.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Live",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Live"
+    },
+    {
+      "coordinates": {
+        "x1": 555.03125,
+        "y1": 121.0,
+        "x2": 620.109375,
+        "y2": 163.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Video",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Video"
+    },
+    {
+      "coordinates": {
+        "x1": 622.109375,
+        "y1": 121.0,
+        "x2": 709.234375,
+        "y2": 163.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open shows Dropdown",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shows",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Open shows Dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 684.234375,
+        "y1": 121.0,
+        "x2": 709.234375,
+        "y2": 163.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 711.234375,
+        "y1": 121.0,
+        "x2": 772.375,
+        "y2": 163.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Shop"
+    },
+    {
+      "coordinates": {
+        "x1": 1430.5,
+        "y1": 122.265625,
+        "x2": 1575.953125,
+        "y2": 161.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Stream on",
+        "placeholder": null,
+        "value": null,
+        "name": "Stream on disney plus"
+      },
+      "descriptive_label": "general_link: Stream on"
+    },
+    {
+      "coordinates": {
+        "x1": 1518.953125,
+        "y1": 128.265625,
+        "x2": 1563.953125,
+        "y2": 152.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "stream logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: stream logo"
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 198.0,
+        "x2": 386.71875,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "131605072",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Eye drop recall",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 131605072"
+    },
+    {
+      "coordinates": {
+        "x1": 518.484375,
+        "y1": 198.0,
+        "x2": 636.28125,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "123088823",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Artemis II mission",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 123088823"
+    },
+    {
+      "coordinates": {
+        "x1": 669.28125,
+        "y1": 198.0,
+        "x2": 696.859375,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "131642168",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "TSA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 131642168"
+    },
+    {
+      "coordinates": {
+        "x1": 729.859375,
+        "y1": 198.0,
+        "x2": 805.46875,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "131642169",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Jobs report",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 131642169"
+    },
+    {
+      "coordinates": {
+        "x1": 937.234375,
+        "y1": 198.0,
+        "x2": 990.78125,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "106391605",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Iran war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 106391605"
+    },
+    {
+      "coordinates": {
+        "x1": 1023.78125,
+        "y1": 198.0,
+        "x2": 1143.59375,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "131533527",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Army chief ousted",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 131533527"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.59375,
+        "y1": 198.0,
+        "x2": 1284.0,
+        "y2": 216.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "131605159",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Deadly stabbing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: 131605159"
+    },
+    {
+      "coordinates": {
+        "x1": 643.953125,
+        "y1": 291.0,
+        "x2": 1149.953125,
+        "y2": 575.625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "'No air defenses': Trump, Hegseth touted American dominance before jet was downed",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Will Oliver/EPA/Bloomberg via Getty Images",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 'No air defenses': Trump, H..."
+    },
+    {
+      "coordinates": {
+        "x1": 643.953125,
+        "y1": 291.0,
+        "x2": 1149.953125,
+        "y2": 575.625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 313.5,
+        "y1": 322.3125,
+        "x2": 356.828125,
+        "y2": 336.3125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Politics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Politics"
+    },
+    {
+      "coordinates": {
+        "x1": 313.5,
+        "y1": 344.3125,
+        "x2": 619.953125,
+        "y2": 464.3125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "'No air defenses': Trump, Hegseth touted American dominance before jet was downed",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 'No air defenses': Trump, H..."
+    },
+    {
+      "coordinates": {
+        "x1": 326.5,
+        "y1": 470.3125,
+        "x2": 580.671875,
+        "y2": 505.3125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "2 US jets downed by Iranian fire; search and rescue mission for 1 crew member",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 2 US jets downed by Iranian..."
+    },
+    {
+      "coordinates": {
+        "x1": 326.5,
+        "y1": 510.3125,
+        "x2": 586.15625,
+        "y2": 545.3125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What to know about the A-10 and F-15E, the 2 American planes downed by Iranian fire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What to know about the A-10..."
+    },
+    {
+      "coordinates": {
+        "x1": 1165.953125,
+        "y1": 291.0,
+        "x2": 1588.171875,
+        "y2": 528.484375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1347.0625,
+        "y1": 379.734375,
+        "x2": 1407.0625,
+        "y2": 439.734375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Play video",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Play video"
+    },
+    {
+      "coordinates": {
+        "x1": 1222.046875,
+        "y1": 538.140625,
+        "x2": 1292.0625,
+        "y2": 558.828125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Nightline",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Nightline",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Nightline"
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 591.625,
+        "x2": 492.609375,
+        "y2": 705.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Iran live updates: Trump's national security team gathered after US warplanes hit",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Iran live updates: Trump's ..."
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 591.625,
+        "x2": 492.609375,
+        "y2": 705.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 713.859375,
+        "x2": 365.375,
+        "y2": 727.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "International",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: International"
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 731.859375,
+        "x2": 492.609375,
+        "y2": 803.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Iran live updates: Trump's national security team gathered after US warplanes hit",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Iran live updates: Trump's ..."
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 591.625,
+        "x2": 711.71875,
+        "y2": 705.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "White House asks for record-breaking $1.5 trillion for defense in new budget request",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: White House asks for record..."
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 591.625,
+        "x2": 711.71875,
+        "y2": 705.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 713.859375,
+        "x2": 551.9375,
+        "y2": 727.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Politics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Politics"
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 731.859375,
+        "x2": 711.71875,
+        "y2": 803.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "White House asks for record-breaking $1.5 trillion for defense in new budget request",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: White House asks for record..."
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 591.625,
+        "x2": 930.828125,
+        "y2": 705.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Artemis II live updates: Astronauts nearly halfway to the moon, NASA says",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Artemis II live updates: As..."
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 591.625,
+        "x2": 930.828125,
+        "y2": 705.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 713.859375,
+        "x2": 795.3125,
+        "y2": 727.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Technology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Technology"
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 731.859375,
+        "x2": 930.828125,
+        "y2": 785.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Artemis II live updates: Astronauts nearly halfway to the moon, NASA says",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Artemis II live updates: As..."
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 591.625,
+        "x2": 1149.9375,
+        "y2": 705.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Millions of eyedrops sold at major pharmacies and stores voluntarily recalled",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Millions of eyedrops sold a..."
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 591.625,
+        "x2": 1149.9375,
+        "y2": 705.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 713.859375,
+        "x2": 996.78125,
+        "y2": 727.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 731.859375,
+        "x2": 1149.9375,
+        "y2": 785.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Millions of eyedrops sold at major pharmacies and stores voluntarily recalled",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Millions of eyedrops sold a..."
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 819.859375,
+        "x2": 492.609375,
+        "y2": 934.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mom and teenage son help save neighbor from house fire",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Mom and teenage son help sa..."
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 819.859375,
+        "x2": 492.609375,
+        "y2": 934.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 942.09375,
+        "x2": 339.453125,
+        "y2": 956.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 289.5,
+        "y1": 960.09375,
+        "x2": 492.609375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mom and teenage son help save neighbor from house fire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Mom and teenage son help sa..."
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 819.859375,
+        "x2": 711.71875,
+        "y2": 934.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Jobs report shows strong hiring in March",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jobs report shows strong hi..."
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 819.859375,
+        "x2": 711.71875,
+        "y2": 934.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 942.09375,
+        "x2": 562.171875,
+        "y2": 956.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 508.609375,
+        "y1": 960.09375,
+        "x2": 711.71875,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jobs report shows strong hiring in March",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jobs report shows strong hi..."
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 819.859375,
+        "x2": 930.828125,
+        "y2": 934.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "2 airlines raise baggage fees: What to know",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 2 airlines raise baggage fe..."
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 819.859375,
+        "x2": 930.828125,
+        "y2": 934.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 942.09375,
+        "x2": 777.671875,
+        "y2": 956.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 727.71875,
+        "y1": 960.09375,
+        "x2": 930.828125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "2 airlines raise baggage fees: What to know",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 2 airlines raise baggage fe..."
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 819.859375,
+        "x2": 1149.9375,
+        "y2": 934.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "How a Florida mother of 4 lost her life after neighbor dispute turned deadly",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How a Florida mother of 4 l..."
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 819.859375,
+        "x2": 1149.9375,
+        "y2": 934.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 942.09375,
+        "x2": 971.328125,
+        "y2": 956.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "U.S.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: U.S."
+    },
+    {
+      "coordinates": {
+        "x1": 946.828125,
+        "y1": 960.09375,
+        "x2": 1149.9375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How a Florida mother of 4 lost her life after neighbor dispute turned deadly",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How a Florida mother of 4 l..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 651.625,
+        "x2": 1485.578125,
+        "y2": 670.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Fast-growing wildfire triggers evacuations",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Fast-growing wildfire triggers evacuations",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Fast-growing wildfire trigg..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 702.515625,
+        "x2": 1488.609375,
+        "y2": 720.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Alito taken to hospital last month: Sources",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Alito taken to hospital last month: Sources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Alito taken to hospital las..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 753.40625,
+        "x2": 1509.3125,
+        "y2": 771.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Inspectors find safety violations at ICE facility",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Inspectors find safety violations at ICE facility",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Inspectors find safety viol..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 804.296875,
+        "x2": 1550.515625,
+        "y2": 822.6875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Woman stabbed to death while walking dog: Sheriff",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Woman stabbed to death while walking dog: Sheriff",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Woman stabbed to death whil..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 855.1875,
+        "x2": 1468.109375,
+        "y2": 873.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Pope Leo to carry cross for Good Friday",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pope Leo to carry cross for Good Friday",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pope Leo to carry cross for..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 906.078125,
+        "x2": 1507.640625,
+        "y2": 924.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Raw dairy farm recalls some cheese products",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Raw dairy farm recalls some cheese products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Raw dairy farm recalls some..."
+    },
+    {
+      "coordinates": {
+        "x1": 1199.953125,
+        "y1": 956.96875,
+        "x2": 1559.765625,
+        "y2": 975.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Kids race for marshmallows dropped from helicopter",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Kids race for marshmallows dropped from helicopter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Kids race for marshmallows ..."
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,912 @@
+{
+  "url": "https://icann.org",
+  "category": "government_and_organizations",
+  "timestamp": 1775283778,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1057.296875,
+        "y1": 10.0,
+        "x2": 1087.546875,
+        "y2": 30.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "coordinates": {
+        "x1": 1127.546875,
+        "y1": 10.0,
+        "x2": 1155.546875,
+        "y2": 30.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u4e2d\u6587",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u4e2d\u6587"
+    },
+    {
+      "coordinates": {
+        "x1": 1195.546875,
+        "y1": 10.0,
+        "x2": 1246.15625,
+        "y2": 30.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: English"
+    },
+    {
+      "coordinates": {
+        "x1": 1286.15625,
+        "y1": 10.0,
+        "x2": 1340.328125,
+        "y2": 30.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Fran\u00e7ais",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Fran\u00e7ais"
+    },
+    {
+      "coordinates": {
+        "x1": 1380.328125,
+        "y1": 10.0,
+        "x2": 1434.796875,
+        "y2": 30.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "P\u0443\u0441\u0441\u043a\u0438\u0439",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "coordinates": {
+        "x1": 1474.796875,
+        "y1": 10.0,
+        "x2": 1526.5,
+        "y2": 30.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Espa\u00f1ol",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 70.0,
+        "x2": 814.0,
+        "y2": 144.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 70.0,
+        "x2": 691.953125,
+        "y2": 144.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ICANN",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: ICANN"
+    },
+    {
+      "coordinates": {
+        "x1": 1230.296875,
+        "y1": 97.484375,
+        "x2": 1311.296875,
+        "y2": 115.484375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SEARCH",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: SEARCH"
+    },
+    {
+      "coordinates": {
+        "x1": 1297.109375,
+        "y1": 101.484375,
+        "x2": 1316.296875,
+        "y2": 117.484375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1350.296875,
+        "y1": 95.484375,
+        "x2": 1406.734375,
+        "y2": 119.484375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LOG IN",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: LOG IN"
+    },
+    {
+      "coordinates": {
+        "x1": 1445.5625,
+        "y1": 99.484375,
+        "x2": 1511.5,
+        "y2": 115.484375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SIGN UP",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: SIGN UP"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 179.984375,
+        "x2": 459.09375,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "GET STARTED",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: GET STARTED"
+    },
+    {
+      "coordinates": {
+        "x1": 529.8125,
+        "y1": 179.984375,
+        "x2": 673.4375,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "NEWS AND MEDIA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: NEWS AND MEDIA"
+    },
+    {
+      "coordinates": {
+        "x1": 744.171875,
+        "y1": 179.984375,
+        "x2": 802.40625,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "POLICY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: POLICY"
+    },
+    {
+      "coordinates": {
+        "x1": 873.125,
+        "y1": 179.984375,
+        "x2": 1019.65625,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "PUBLIC COMMENT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: PUBLIC COMMENT"
+    },
+    {
+      "coordinates": {
+        "x1": 1090.375,
+        "y1": 179.984375,
+        "x2": 1182.078125,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "RESOURCES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: RESOURCES"
+    },
+    {
+      "coordinates": {
+        "x1": 1252.8125,
+        "y1": 179.984375,
+        "x2": 1356.1875,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "COMMUNITY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: COMMUNITY"
+    },
+    {
+      "coordinates": {
+        "x1": 1426.90625,
+        "y1": 179.984375,
+        "x2": 1526.5,
+        "y2": 239.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "QUICKLINKS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: QUICKLINKS"
+    },
+    {
+      "coordinates": {
+        "x1": 396.5,
+        "y1": 449.984375,
+        "x2": 871.5,
+        "y2": 491.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 396.5,
+        "y1": 458.359375,
+        "x2": 581.046875,
+        "y2": 480.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 396.5,
+        "y1": 449.984375,
+        "x2": 581.046875,
+        "y2": 491.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 356.5,
+        "y1": 706.984375,
+        "x2": 626.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Chair\u2019s Blog: March Board Workshop and ICANN85 Recap\nOn behalf of the ICANN Board of Directors, I would like to thank everyone who took part in the ICANN85 Community Forum in Mumbai, India. ICANN85 came at a busy and consequential time for ICANN, as our last Public Meeting before the launch of the New Generic Top-Level Domains (gTLD) Program: 2026 Round. Click the title to read more from Tripti Sinha, ICANN Board Chair.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Chair\u2019s Blog: March Board W..."
+    },
+    {
+      "coordinates": {
+        "x1": 357.5,
+        "y1": 707.984375,
+        "x2": 625.5,
+        "y2": 858.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Chair\u2019s Blog: March Board Workshop and ICANN85 Recap",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Chair\u2019s Blog: March Board W..."
+    },
+    {
+      "coordinates": {
+        "x1": 656.5,
+        "y1": 706.984375,
+        "x2": 926.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CEO's Blog: A Look Back at ICANN85\nI would like to thank everyone who contributed to the success of the ICANN85 Community Forum. In total, 1,517 people attended ICANN85 in person, including 332 first-time attendees, and 678 people participated virtually. ICANN85 resulted in meaningful progress on several priority areas of ICANN\u2019s work. Click the title to read more from Kurtis Lindqvist, ICANN President and CEO.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: CEO's Blog: A Look Back at ..."
+    },
+    {
+      "coordinates": {
+        "x1": 657.5,
+        "y1": 707.984375,
+        "x2": 925.5,
+        "y2": 858.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "CEO's Blog: A Look Back at ICANN85",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: CEO's Blog: A Look Back at ..."
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 706.984375,
+        "x2": 1226.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ICANN85 GAC Communiqu\u00e9 Now Available\nThe Governmental Advisory Committee (GAC) advises the ICANN Board on public issues, particularly in areas where ICANN policies intersect with both national laws and international agreements. The GAC has issued the ICANN85 GAC Communiqu\u00e9. Click the title to read the ICANN85 GAC Communiqu\u00e9, as well as access past advice.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ICANN85 GAC Communiqu\u00e9 Now ..."
+    },
+    {
+      "coordinates": {
+        "x1": 957.5,
+        "y1": 707.984375,
+        "x2": 1225.5,
+        "y2": 858.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ICANN85 GAC Communiqu\u00e9 Now Available",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: ICANN85 GAC Communiqu\u00e9 Now ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1256.5,
+        "y1": 706.984375,
+        "x2": 1526.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ICANN Board Approves 2026 Base Registry Agreement\nOn 12 March 2026, the ICANN Board of Directors approved the standard Registry Agreement (RA) that applicants in the New gTLD Program: 2026 Round would enter into with ICANN, should their application be successful. Applicants in the New gTLD Program: 2026 Round will find the 2026 Base RA of critical importance. Click the title to learn more.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ICANN Board Approves 2026 B..."
+    },
+    {
+      "coordinates": {
+        "x1": 1257.5,
+        "y1": 707.984375,
+        "x2": 1525.5,
+        "y2": 858.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ICANN Board Approves 2026 Base Registry Agreement",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: ICANN Board Approves 2026 B..."
+    },
+    {
+      "coordinates": {
+        "x1": 90.5625,
+        "y1": 952.484375,
+        "x2": 179.53125,
+        "y2": 970.484375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 1035.640625,
+        "y1": 902.4140625,
+        "x2": 1864.15625,
+        "y2": 973.0234375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage Cookies Reject Cookies Accept All Cookies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Manage Cookies Reject Cooki..."
+    },
+    {
+      "coordinates": {
+        "x1": 1227.421875,
+        "y1": 915.4140625,
+        "x2": 1357.59375,
+        "y2": 957.0234375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage Cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Manage Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1374.765625,
+        "y1": 915.4140625,
+        "x2": 1499.765625,
+        "y2": 957.0234375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject Cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Reject Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1516.9375,
+        "y1": 915.4140625,
+        "x2": 1659.375,
+        "y2": 957.0234375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept All Cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Accept All Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1829.0,
+        "y1": 913.21875,
+        "x2": 1873.0,
+        "y2": 957.21875
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Close"
+    }
+  ],
+  "dataset_split": "raw"
+}

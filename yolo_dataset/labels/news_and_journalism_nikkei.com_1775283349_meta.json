@@ -1,0 +1,1737 @@
+{
+  "url": "https://nikkei.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775283349,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 138.0,
+        "x2": 325.5,
+        "y2": 178.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "\u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+        "title": "\u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: \u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f"
+    },
+    {
+      "coordinates": {
+        "x1": 292.5,
+        "y1": 146.0,
+        "x2": 316.5,
+        "y2": 170.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 333.5,
+        "y1": 138.0,
+        "x2": 520.5,
+        "y2": 178.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "\u8a18\u4e8b\u30fb\u682a\u4fa1\u3092\u691c\u7d22",
+        "value": "",
+        "name": "keyword"
+      },
+      "descriptive_label": "icon_search: \u8a18\u4e8b\u30fb\u682a\u4fa1\u3092\u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 478.5,
+        "y1": 138.0,
+        "x2": 520.5,
+        "y2": 178.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u691c\u7d22",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: \u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 771.0,
+        "y1": 136.0,
+        "x2": 1112.0,
+        "y2": 180.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 771.0,
+        "y1": 136.0,
+        "x2": 1112.0,
+        "y2": 180.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u65e5\u672c\u7d4c\u6e08\u65b0\u805e\u30c8\u30c3\u30d7",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u65e5\u672c\u7d4c\u6e08\u65b0\u805e\u30c8\u30c3\u30d7"
+    },
+    {
+      "coordinates": {
+        "x1": 1430.578125,
+        "y1": 138.0,
+        "x2": 1516.578125,
+        "y2": 178.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u304a\u7533\u3057\u8fbc\u307f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: \u304a\u7533\u3057\u8fbc\u307f"
+    },
+    {
+      "coordinates": {
+        "x1": 1443.578125,
+        "y1": 148.09375,
+        "x2": 1503.578125,
+        "y2": 167.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u304a\u7533\u3057\u8fbc\u307f",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u304a\u7533\u3057\u8fbc\u307f"
+    },
+    {
+      "coordinates": {
+        "x1": 1524.578125,
+        "y1": 138.0,
+        "x2": 1597.5,
+        "y2": 178.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b0\u30a4\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: \u30ed\u30b0\u30a4\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 1537.578125,
+        "y1": 148.09375,
+        "x2": 1584.5,
+        "y2": 167.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b0\u30a4\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u30ed\u30b0\u30a4\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 641.234375,
+        "y1": 208.0,
+        "x2": 732.234375,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u671d\u520a\u30fb\u5915\u520a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u671d\u520a\u30fb\u5915\u520a"
+    },
+    {
+      "coordinates": {
+        "x1": 654.234375,
+        "y1": 209.28125,
+        "x2": 719.234375,
+        "y2": 230.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u671d\u520a\u30fb\u5915\u520a",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u671d\u520a\u30fb\u5915\u520a"
+    },
+    {
+      "coordinates": {
+        "x1": 736.234375,
+        "y1": 208.0,
+        "x2": 788.59375,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: LIVE"
+    },
+    {
+      "coordinates": {
+        "x1": 749.234375,
+        "y1": 209.28125,
+        "x2": 775.59375,
+        "y2": 230.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIVE",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: LIVE"
+    },
+    {
+      "coordinates": {
+        "x1": 792.59375,
+        "y1": 208.0,
+        "x2": 890.03125,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My\u30cb\u30e5\u30fc\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: My\u30cb\u30e5\u30fc\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 805.59375,
+        "y1": 209.28125,
+        "x2": 877.03125,
+        "y2": 230.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My\u30cb\u30e5\u30fc\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: My\u30cb\u30e5\u30fc\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 894.03125,
+        "y1": 208.0,
+        "x2": 998.03125,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7d4c\u4f1a\u793e\u60c5\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u65e5\u7d4c\u4f1a\u793e\u60c5\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 907.03125,
+        "y1": 209.28125,
+        "x2": 985.03125,
+        "y2": 230.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7d4c\u4f1a\u793e\u60c5\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u65e5\u7d4c\u4f1a\u793e\u60c5\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 1002.03125,
+        "y1": 208.0,
+        "x2": 1106.03125,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.03125,
+        "y1": 209.28125,
+        "x2": 1093.03125,
+        "y2": 230.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1"
+    },
+    {
+      "coordinates": {
+        "x1": 1110.03125,
+        "y1": 208.0,
+        "x2": 1241.765625,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NIKKEI Prime",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: NIKKEI Prime"
+    },
+    {
+      "coordinates": {
+        "x1": 1123.03125,
+        "y1": 209.28125,
+        "x2": 1204.765625,
+        "y2": 230.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NIKKEI Prime",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: NIKKEI Prime"
+    },
+    {
+      "coordinates": {
+        "x1": 456.125,
+        "y1": 252.0,
+        "x2": 533.125,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30c8\u30c3\u30d7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30c8\u30c3\u30d7"
+    },
+    {
+      "coordinates": {
+        "x1": 533.125,
+        "y1": 252.0,
+        "x2": 597.125,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u901f\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u901f\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 597.125,
+        "y1": 252.0,
+        "x2": 686.609375,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30d3\u30b8\u30cd\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30d3\u30b8\u30cd\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 686.609375,
+        "y1": 252.0,
+        "x2": 789.609375,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30de\u30fc\u30b1\u30c3\u30c8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30de\u30fc\u30b1\u30c3\u30c8"
+    },
+    {
+      "coordinates": {
+        "x1": 789.609375,
+        "y1": 252.0,
+        "x2": 853.609375,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u7d4c\u6e08",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u7d4c\u6e08"
+    },
+    {
+      "coordinates": {
+        "x1": 853.609375,
+        "y1": 252.0,
+        "x2": 917.609375,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u56fd\u969b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u56fd\u969b"
+    },
+    {
+      "coordinates": {
+        "x1": 917.609375,
+        "y1": 252.0,
+        "x2": 1019.96875,
+        "y2": 292.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30aa\u30d4\u30cb\u30aa\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30aa\u30d4\u30cb\u30aa\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 1147.96875,
+        "y1": 252.0,
+        "x2": 1257.671875,
+        "y2": 284.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "#\u30c8\u30e9\u30f3\u30d7\u653f\u6a29",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: #\u30c8\u30e9\u30f3\u30d7\u653f\u6a29"
+    },
+    {
+      "coordinates": {
+        "x1": 1257.671875,
+        "y1": 252.0,
+        "x2": 1426.859375,
+        "y2": 284.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "#3\u6b73\u304b\u3089\u59cb\u307e\u308b\u56fd\u5bb6\u6226\u7565",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: #3\u6b73\u304b\u3089\u59cb\u307e\u308b\u56fd\u5bb6\u6226\u7565"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 305.5,
+        "x2": 477.46875,
+        "y2": 318.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "4\u67083\u65e5 15:45 \u5927\u5f15",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7d4c\u5e73\u5747\n53,123.49\n+660.22",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 4\u67083\u65e5 15:45 \u5927\u5f15"
+    },
+    {
+      "coordinates": {
+        "x1": 501.46875,
+        "y1": 305.5,
+        "x2": 671.296875,
+        "y2": 318.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "4\u67082\u65e5 17:40 \u7d42\u5024",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NY\u30c0\u30a6\n46,504.67\n-61.07",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 4\u67082\u65e5 17:40 \u7d42\u5024"
+    },
+    {
+      "coordinates": {
+        "x1": 695.296875,
+        "y1": 305.5,
+        "x2": 884.390625,
+        "y2": 318.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "4\u67084\u65e5 5:49",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30c9\u30eb\u5186\n159.66-68\n+0.10\u5186\u5b89",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 4\u67084\u65e5 5:49"
+    },
+    {
+      "coordinates": {
+        "x1": 908.390625,
+        "y1": 305.5,
+        "x2": 1067.453125,
+        "y2": 318.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "4\u67082\u65e5 16:59",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NY\u539f\u6cb9\n112.06\n+11.94",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 4\u67082\u65e5 16:59"
+    },
+    {
+      "coordinates": {
+        "x1": 1091.453125,
+        "y1": 305.5,
+        "x2": 1243.671875,
+        "y2": 318.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "4\u67083\u65e5 15:07",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u9577\u671f\u91d1\u5229\n2.380\n-0.010",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 4\u67083\u65e5 15:07"
+    },
+    {
+      "coordinates": {
+        "x1": 1267.671875,
+        "y1": 305.5,
+        "x2": 1319.671875,
+        "y2": 318.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u6307\u6570\u4e00\u89a7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u6307\u6570\u4e00\u89a7"
+    },
+    {
+      "coordinates": {
+        "x1": 1543.5,
+        "y1": 304.0,
+        "x2": 1597.5,
+        "y2": 320.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Quick",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Quick"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 356.0,
+        "x2": 1261.5,
+        "y2": 593.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 356.0,
+        "x2": 665.5,
+        "y2": 593.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "NIKKEI montage/\u30ed\u30a4\u30bf\u30fc",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: NIKKEI montage/\u30ed\u30a4\u30bf\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 697.5,
+        "y1": 356.0,
+        "x2": 1223.671875,
+        "y2": 428.4375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u90314\u52e4\u52d9\u3084\u8eca\u5236\u9650\u2026\u6d77\u5916\u306e\u300c\u77f3\u6cb9\u5371\u6a5f\u300d\u5bfe\u7b56\u306f\u9996\u76f8\u3001\u7bc0\u96fb\u3082\u6392\u9664\u305b\u305a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u90314\u52e4\u52d9\u3084\u8eca\u5236\u9650\u2026\u6d77\u5916\u306e\u300c\u77f3\u6cb9\u5371\u6a5f\u300d\u5bfe\u7b56\u306f\u9996\u76f8\u3001\u7bc0\u96fb\u3082..."
+    },
+    {
+      "coordinates": {
+        "x1": 1018.5,
+        "y1": 403.3125,
+        "x2": 1034.5,
+        "y2": 419.3125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 293.5,
+        "y1": 621.5,
+        "x2": 1253.5,
+        "y2": 646.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30aa\u30d5\u30a3\u30b9\u30fb\u793e\u5b85\u3078\u306e\u6295\u8cc7\u304c\u30a4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3\u3092\u5275\u51fa\u3059\u308b/\u65e5\u7d4c\u30aa\u30f3\u30e9\u30a4\u30f3\u30bb\u30df\u30ca\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30aa\u30d5\u30a3\u30b9\u30fb\u793e\u5b85\u3078\u306e\u6295\u8cc7\u304c\u30a4\u30ce\u30d9\u30fc\u30b7\u30e7\u30f3\u3092\u5275\u51fa\u3059\u308b/\u65e5\u7d4c..."
+    },
+    {
+      "coordinates": {
+        "x1": 293.5,
+        "y1": 621.5,
+        "x2": 313.5,
+        "y2": 646.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "PR",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: PR"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 727.609375,
+        "x2": 1261.421875,
+        "y2": 748.609375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 674.5,
+        "x2": 1261.421875,
+        "y2": 750.609375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u30a4\u30e9\u30f3\u8ecd\u4e8b\u885d\u7a81\u3000\u30cb\u30e5\u30fc\u30b9\u30fb\u89e3\u8aac\u306f\u3053\u3061\u3089",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u30a4\u30e9\u30f3\u8ecd\u4e8b\u885d\u7a81\u3000\u30cb\u30e5\u30fc\u30b9\u30fb\u89e3\u8aac\u306f\u3053\u3061\u3089"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 799.609375,
+        "x2": 761.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 800.609375,
+        "x2": 560.5,
+        "y2": 896.609375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30a6\u30a9\u30fc\u30eb\u8857\u652f\u3048\u308b\u300c\u4f0a\u85e4\u306e\u516c\u5f0f\u300d\u65e5\u672c\u767a\u306e\u6570\u5b66\u3001\u91d1\u878dAI\u88dc\u3046",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30a6\u30a9\u30fc\u30eb\u8857\u652f\u3048\u308b\u300c\u4f0a\u85e4\u306e\u516c\u5f0f\u300d\u65e5\u672c\u767a\u306e\u6570\u5b66\u3001\u91d1\u878dAI\u88dc\u3046"
+    },
+    {
+      "coordinates": {
+        "x1": 359.953125,
+        "y1": 874.359375,
+        "x2": 375.953125,
+        "y2": 890.359375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 285.5,
+        "y1": 906.609375,
+        "x2": 329.5,
+        "y2": 922.609375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Think!",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Think!"
+    },
+    {
+      "coordinates": {
+        "x1": 579.109375,
+        "y1": 799.609375,
+        "x2": 761.5,
+        "y2": 913.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 785.5,
+        "y1": 799.609375,
+        "x2": 1261.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 785.5,
+        "y1": 799.609375,
+        "x2": 876.5,
+        "y2": 821.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30a4\u30e9\u30f3\u8ecd\u4e8b\u885d\u7a81",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30a4\u30e9\u30f3\u8ecd\u4e8b\u885d\u7a81"
+    },
+    {
+      "coordinates": {
+        "x1": 785.5,
+        "y1": 826.046875,
+        "x2": 1049.5,
+        "y2": 922.046875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30a4\u30e9\u30f3\u9818\u5185\u3067\u7c73\u8ecd\u6226\u95d8\u6a5f\u3092\u6483\u589c\u3001\u5225\u6a5f\u3082\u88ab\u5f3e\u5bfe\u7c73\u653b\u6483\u306e\u610f\u601d\u3092\u7dad\u6301",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30a4\u30e9\u30f3\u9818\u5185\u3067\u7c73\u8ecd\u6226\u95d8\u6a5f\u3092\u6483\u589c\u3001\u5225\u6a5f\u3082\u88ab\u5f3e\u5bfe\u7c73\u653b\u6483\u306e\u610f\u601d\u3092\u7dad\u6301"
+    },
+    {
+      "coordinates": {
+        "x1": 947.5,
+        "y1": 899.796875,
+        "x2": 963.5,
+        "y2": 915.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 1079.109375,
+        "y1": 799.609375,
+        "x2": 1261.5,
+        "y2": 913.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u8ecd\u4e8b\u4f5c\u6226\u306b\u5411\u304b\u3046\u7c73\u7a7a\u8ecd\u306eF15\u6226\u95d8\u6a5f\uff083\u6708\uff09=\u7c73\u7a7a\u8ecd\u63d0\u4f9b\u30fb\u30ed\u30a4\u30bf\u30fc",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u8ecd\u4e8b\u4f5c\u6226\u306b\u5411\u304b\u3046\u7c73\u7a7a\u8ecd\u306eF15\u6226\u95d8\u6a5f\uff083\u6708\uff09=\u7c73\u7a7a\u8ecd\u63d0..."
+    },
+    {
+      "coordinates": {
+        "x1": 1333.5,
+        "y1": 364.0,
+        "x2": 1585.5,
+        "y2": 388.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u4eca\u306a\u3089\u65e5\u7d4c\u306e\u5c02\u9580\u30e1\u30c7\u30a3\u30a2\u304c2\u30ab\u6708\u7121\u6599",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u4eca\u306a\u3089\u65e5\u7d4c\u306e\u5c02\u9580\u30e1\u30c7\u30a3\u30a2\u304c2\u30ab\u6708\u7121\u6599"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.5,
+        "y1": 715.546875,
+        "x2": 1348.5,
+        "y2": 735.546875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Think!",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Think!"
+    },
+    {
+      "coordinates": {
+        "x1": 1348.5,
+        "y1": 714.0,
+        "x2": 1564.5,
+        "y2": 737.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u591a\u5f69\u306a\u89b3\u70b9\u304b\u3089\u30cb\u30e5\u30fc\u30b9\u3092\u8003\u3048\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u591a\u5f69\u306a\u89b3\u70b9\u304b\u3089\u30cb\u30e5\u30fc\u30b9\u3092\u8003\u3048\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.5,
+        "y1": 745.09375,
+        "x2": 1597.5,
+        "y2": 807.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u5e83\u702c\u967d\u5b50\n\u6176\u5fdc\u7fa9\u587e\u5927\u5b66\u7dcf\u5408\u653f\u7b56\u5b66\u90e8\u3000\u6559\u6388",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u5e83\u702c\u967d\u5b50\n\u6176\u5fdc\u7fa9\u587e\u5927\u5b66\u7dcf\u5408\u653f\u7b56\u5b66\u90e8\u3000\u6559\u6388"
+    },
+    {
+      "coordinates": {
+        "x1": 1301.5,
+        "y1": 753.09375,
+        "x2": 1333.5,
+        "y2": 785.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u5e83\u702c\u967d\u5b50",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u5e83\u702c\u967d\u5b50"
+    },
+    {
+      "coordinates": {
+        "x1": 1341.5,
+        "y1": 808.984375,
+        "x2": 1590.46875,
+        "y2": 853.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b7\u30a2\u8ecd\u6b7b\u50b7\u8005\u3001\u904e\u53bb\u6700\u591a\u6c34\u6e96\u30003\u6708\u306b3\u4e075000\u4eba\u8d85\u3068\u30bc\u30ec\u30f3\u30b9\u30ad\u30fc\u6c0f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30ed\u30b7\u30a2\u8ecd\u6b7b\u50b7\u8005\u3001\u904e\u53bb\u6700\u591a\u6c34\u6e96\u30003\u6708\u306b3\u4e075000\u4eba\u8d85\u3068..."
+    },
+    {
+      "coordinates": {
+        "x1": 1293.5,
+        "y1": 872.984375,
+        "x2": 1597.5,
+        "y2": 935.875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u5ca9\u9593\u967d\u5b50\n\u653f\u7b56\u7814\u7a76\u5927\u5b66\u9662\u5927\u5b66 \u653f\u7b56\u7814\u7a76\u79d1\u3000\u6559\u6388",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u5ca9\u9593\u967d\u5b50\n\u653f\u7b56\u7814\u7a76\u5927\u5b66\u9662\u5927\u5b66 \u653f\u7b56\u7814\u7a76\u79d1\u3000\u6559\u6388"
+    },
+    {
+      "coordinates": {
+        "x1": 1301.5,
+        "y1": 880.984375,
+        "x2": 1333.5,
+        "y2": 912.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u5ca9\u9593\u967d\u5b50",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u5ca9\u9593\u967d\u5b50"
+    },
+    {
+      "coordinates": {
+        "x1": 1341.5,
+        "y1": 936.875,
+        "x2": 1579.484375,
+        "y2": 981.875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NATO\u4e8b\u52d9\u7dcf\u9577\u3001\u30c8\u30e9\u30f3\u30d7\u6c0f\u30688\u65e5\u4f1a\u8ac7\u3000\u300c\u8131\u9000\u300d\u767a\u8a00\u53d7\u3051\u8aac\u5f97\u3078",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: NATO\u4e8b\u52d9\u7dcf\u9577\u3001\u30c8\u30e9\u30f3\u30d7\u6c0f\u30688\u65e5\u4f1a\u8ac7\u3000\u300c\u8131\u9000\u300d\u767a\u8a00\u53d7..."
+    },
+    {
+      "coordinates": {
+        "x1": 1488.5,
+        "y1": 965.875,
+        "x2": 1504.5,
+        "y2": 981.875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: \u4f1a\u54e1\u9650\u5b9a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 534.5,
+        "y1": 928.90625,
+        "x2": 656.5,
+        "y2": 947.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 534.5,
+        "y1": 910.0,
+        "x2": 656.5,
+        "y2": 950.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 664.5,
+        "y1": 910.0,
+        "x2": 726.5,
+        "y2": 950.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u9589\u3058\u308b",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u9589\u3058\u308b"
+    }
+  ],
+  "dataset_split": "raw"
+}

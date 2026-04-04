@@ -1,0 +1,487 @@
+{
+  "url": "https://java.com",
+  "category": "tech_and_software",
+  "timestamp": 1775284083,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 13.0,
+        "x2": 79.0,
+        "y2": 45.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "java.com",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: java.com"
+    },
+    {
+      "coordinates": {
+        "x1": 109.0,
+        "y1": 10.0,
+        "x2": 326.90625,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Developer Resources",
+        "title": "Developer Resources",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 346.90625,
+        "y1": 10.0,
+        "x2": 562.890625,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Enterprise Resources",
+        "title": "Enterprise Resources",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Enterprise Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 582.890625,
+        "y1": 10.0,
+        "x2": 815.46875,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Java for Desktop Apps",
+        "title": "Java for Desktop Apps",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Java for Desktop Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Java for Desktop Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 965.0,
+        "y1": 106.0,
+        "x2": 1453.0,
+        "y2": 381.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "image description here",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: image description here"
+    },
+    {
+      "coordinates": {
+        "x1": 470.0,
+        "y1": 594.390625,
+        "x2": 714.734375,
+        "y2": 638.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download Java for Desktops",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Download Java for Desktops"
+    },
+    {
+      "coordinates": {
+        "x1": 470.0,
+        "y1": 654.390625,
+        "x2": 558.546875,
+        "y2": 675.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What is Java",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What is Java"
+    },
+    {
+      "coordinates": {
+        "x1": 470.0,
+        "y1": 686.78125,
+        "x2": 600.296875,
+        "y2": 707.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help for end users",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Help for end users"
+    },
+    {
+      "coordinates": {
+        "x1": 990.0,
+        "y1": 600.78125,
+        "x2": 1145.671875,
+        "y2": 621.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Developer Downloads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Developer Downloads"
+    },
+    {
+      "coordinates": {
+        "x1": 990.0,
+        "y1": 633.171875,
+        "x2": 1139.65625,
+        "y2": 654.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 990.0,
+        "y1": 665.5625,
+        "x2": 1139.9375,
+        "y2": 686.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Enterprise Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 990.0,
+        "y1": 697.953125,
+        "x2": 1150.203125,
+        "y2": 718.953125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "OpenJDK Early Access",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: OpenJDK Early Access"
+    },
+    {
+      "coordinates": {
+        "x1": 349.0,
+        "y1": 891.34375,
+        "x2": 437.359375,
+        "y2": 915.34375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u00a9 2025 Oracle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u00a9 2025 Oracle"
+    },
+    {
+      "coordinates": {
+        "x1": 437.359375,
+        "y1": 895.5,
+        "x2": 536.765625,
+        "y2": 911.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Select Language",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Select Language",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Select Language"
+    },
+    {
+      "coordinates": {
+        "x1": 536.765625,
+        "y1": 895.5,
+        "x2": 593.421875,
+        "y2": 911.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Support",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 593.421875,
+        "y1": 895.5,
+        "x2": 645.6875,
+        "y2": 911.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Privacy",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy"
+    },
+    {
+      "coordinates": {
+        "x1": 645.6875,
+        "y1": 895.5,
+        "x2": 758.328125,
+        "y2": 911.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Cookie Preferences, opens a dedicated popup modal window",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Cookie Preferences",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Preferences, opens a..."
+    },
+    {
+      "coordinates": {
+        "x1": 758.328125,
+        "y1": 895.5,
+        "x2": 840.171875,
+        "y2": 911.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Terms of Use",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Use",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms of Use"
+    },
+    {
+      "coordinates": {
+        "x1": 840.171875,
+        "y1": 895.5,
+        "x2": 915.671875,
+        "y2": 911.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trademarks",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trademarks",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Trademarks"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,962 @@
+{
+  "url": "https://bloglovin.com",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775283869,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1898,
+        "y2": 949.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "body",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Forgot your Password?\nFollow your favorite blogs and discover new ones.\nForgot Password?\nBy creating an account, I accept Bloglovin's Terms of Service. Questions? Contact Us\nAbout Bloglovin\nAbout\nTerms of Service\nExplore\nFashion\nBeauty\nHome Decor\nBeauty Video\nLifestyle\nDIY\nFood & Drink\nMore Top Categories\nHelp\nFor Readers\nBlogger FAQ\nContact us\nApps\niPhone App\nAndroid App\nElsewhere\nFacebook\nTwitter\nInstagram\nPinterest\nTikTok\nTradeDoubler",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_profile: Forgot your Password?\nFollo..."
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 0,
+        "x2": 200.0,
+        "y2": 63.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 20.0,
+        "x2": 200.0,
+        "y2": 40.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.0,
+        "y1": 10.0,
+        "x2": 1543.0,
+        "y2": 42.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Email",
+        "value": "",
+        "name": "login_email"
+      },
+      "descriptive_label": "general_input: Email"
+    },
+    {
+      "coordinates": {
+        "x1": 1553.0,
+        "y1": 10.0,
+        "x2": 1803.0,
+        "y2": 42.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "password",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Password",
+        "value": "",
+        "name": "login_password"
+      },
+      "descriptive_label": "general_input: Password"
+    },
+    {
+      "coordinates": {
+        "x1": 1558.0,
+        "y1": 45.0,
+        "x2": 1803.0,
+        "y2": 57.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Forgot your Password?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Forgot your Password?"
+    },
+    {
+      "coordinates": {
+        "x1": 1813.0,
+        "y1": 10.0,
+        "x2": 1888.0,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Log In",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 253.0,
+        "x2": 1099.0,
+        "y2": 301.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Full Name",
+        "value": "",
+        "name": "first_name"
+      },
+      "descriptive_label": "general_input: Full Name"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 301.0,
+        "x2": 1099.0,
+        "y2": 349.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Email",
+        "value": "",
+        "name": "email"
+      },
+      "descriptive_label": "general_input: Email"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 349.0,
+        "x2": 1099.0,
+        "y2": 398.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "password",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Create password",
+        "value": "",
+        "name": "password"
+      },
+      "descriptive_label": "general_input: Create password"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 408.0,
+        "x2": 1099.0,
+        "y2": 445.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Sign up",
+        "name": ""
+      },
+      "descriptive_label": "general_input: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 904.359375,
+        "y1": 455.0,
+        "x2": 993.625,
+        "y2": 467.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Forgot Password?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Forgot Password?"
+    },
+    {
+      "coordinates": {
+        "x1": 871.03125,
+        "y1": 477.0,
+        "x2": 1077.53125,
+        "y2": 501.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 972.546875,
+        "y1": 489.0,
+        "x2": 1026.96875,
+        "y2": 501.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact Us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Contact Us"
+    },
+    {
+      "coordinates": {
+        "x1": 802.546875,
+        "y1": 576.0,
+        "x2": 952.546875,
+        "y2": 621.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 966.4375,
+        "y1": 615.0,
+        "x2": 1095.4375,
+        "y2": 631.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 966.4375,
+        "y1": 576.0,
+        "x2": 1095.4375,
+        "y2": 621.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Google Play Store",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Google Play Store"
+    },
+    {
+      "coordinates": {
+        "x1": 150.25,
+        "y1": 751.0,
+        "x2": 186.84375,
+        "y2": 767.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 150.25,
+        "y1": 772.0,
+        "x2": 254.5,
+        "y2": 788.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 751.0,
+        "x2": 584.8125,
+        "y2": 767.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Fashion",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Fashion"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 772.0,
+        "x2": 578.59375,
+        "y2": 788.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Beauty",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Beauty"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 793.0,
+        "x2": 613.59375,
+        "y2": 809.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home Decor",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home Decor"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 814.0,
+        "x2": 618.03125,
+        "y2": 830.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Beauty Video",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Beauty Video"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 835.0,
+        "x2": 586.359375,
+        "y2": 851.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 856.0,
+        "x2": 558.34375,
+        "y2": 872.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "DIY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: DIY"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 877.0,
+        "x2": 616.703125,
+        "y2": 893.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Food & Drink",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Food & Drink"
+    },
+    {
+      "coordinates": {
+        "x1": 535.0,
+        "y1": 898.0,
+        "x2": 664.703125,
+        "y2": 914.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More Top Categories",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: More Top Categories"
+    },
+    {
+      "coordinates": {
+        "x1": 945.203125,
+        "y1": 751.0,
+        "x2": 1023.015625,
+        "y2": 767.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For Readers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: For Readers"
+    },
+    {
+      "coordinates": {
+        "x1": 945.203125,
+        "y1": 772.0,
+        "x2": 1025.359375,
+        "y2": 788.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Blogger FAQ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Blogger FAQ"
+    },
+    {
+      "coordinates": {
+        "x1": 945.203125,
+        "y1": 793.0,
+        "x2": 1012.140625,
+        "y2": 809.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Contact us"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.859375,
+        "y1": 751.0,
+        "x2": 1377.484375,
+        "y2": 767.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "iPhone App",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: iPhone App"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.859375,
+        "y1": 772.0,
+        "x2": 1382.15625,
+        "y2": 788.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Android App",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Android App"
+    },
+    {
+      "coordinates": {
+        "x1": 1662.65625,
+        "y1": 751.0,
+        "x2": 1724.140625,
+        "y2": 767.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Facebook",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Facebook"
+    },
+    {
+      "coordinates": {
+        "x1": 1662.65625,
+        "y1": 772.0,
+        "x2": 1703.890625,
+        "y2": 788.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Twitter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Twitter"
+    },
+    {
+      "coordinates": {
+        "x1": 1662.65625,
+        "y1": 793.0,
+        "x2": 1724.90625,
+        "y2": 809.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Instagram",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Instagram"
+    },
+    {
+      "coordinates": {
+        "x1": 1662.65625,
+        "y1": 814.0,
+        "x2": 1717.90625,
+        "y2": 830.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pinterest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pinterest"
+    },
+    {
+      "coordinates": {
+        "x1": 1662.65625,
+        "y1": 835.0,
+        "x2": 1702.59375,
+        "y2": 851.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TikTok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: TikTok"
+    },
+    {
+      "coordinates": {
+        "x1": 1662.65625,
+        "y1": 856.0,
+        "x2": 1747.75,
+        "y2": 872.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TradeDoubler",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: TradeDoubler"
+    }
+  ],
+  "dataset_split": "raw"
+}
