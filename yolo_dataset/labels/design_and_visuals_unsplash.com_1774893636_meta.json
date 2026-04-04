@@ -1,0 +1,1492 @@
+{
+  "url": "https://unsplash.com",
+  "category": "design_and_visuals",
+  "timestamp": 1774893636,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 12.0,
+        "x2": 51.5,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home \u2014 Unsplash",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home \u2014 Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 64.0,
+        "x2": 51.5,
+        "y2": 104.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Photos",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Photos"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 112.0,
+        "x2": 51.5,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Illustrations",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Illustrations"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 201.0,
+        "x2": 51.5,
+        "y2": 241.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Explore",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Explore"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 249.0,
+        "x2": 51.5,
+        "y2": 289.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Collections",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Collections"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 297.0,
+        "x2": 51.5,
+        "y2": 337.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Download History",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Download History"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 386.0,
+        "x2": 51.5,
+        "y2": 426.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Bookmarks",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bookmarks"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 837.0,
+        "x2": 51.5,
+        "y2": 877.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Log in / Sign up",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log in / Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 885.0,
+        "x2": 51.5,
+        "y2": 925.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Language",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Language"
+    },
+    {
+      "coordinates": {
+        "x1": 11.5,
+        "y1": 933.0,
+        "x2": 51.5,
+        "y2": 973.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 89.0,
+        "y1": 13.0,
+        "x2": 121.0,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search Unsplash",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 121.0,
+        "y1": 13.0,
+        "x2": 1467.4375,
+        "y2": 51.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": "combobox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 121.0,
+        "y1": 13.0,
+        "x2": 1467.4375,
+        "y2": 51.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search Unsplash",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search photos and illustrations",
+        "value": "",
+        "name": "searchKeyword"
+      },
+      "descriptive_label": "input: Search Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 1467.4375,
+        "y1": 13.0,
+        "x2": 1519.4375,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Visual search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Visual search"
+    },
+    {
+      "coordinates": {
+        "x1": 1536.4375,
+        "y1": 16.0,
+        "x2": 1653.90625,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get Unsplash+",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Get Unsplash+"
+    },
+    {
+      "coordinates": {
+        "x1": 1653.90625,
+        "y1": 16.0,
+        "x2": 1717.234375,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1733.234375,
+        "y1": 16.0,
+        "x2": 1865.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Submit an image",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submit an image"
+    },
+    {
+      "coordinates": {
+        "x1": 88.0,
+        "y1": 52.0,
+        "x2": 143.953125,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Featured",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Featured"
+    },
+    {
+      "coordinates": {
+        "x1": 167.953125,
+        "y1": 52.0,
+        "x2": 209.46875,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "New\nSpring",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: New\nSpring"
+    },
+    {
+      "coordinates": {
+        "x1": 233.46875,
+        "y1": 52.0,
+        "x2": 303.84375,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Wallpapers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wallpapers"
+    },
+    {
+      "coordinates": {
+        "x1": 327.84375,
+        "y1": 52.0,
+        "x2": 400.640625,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "3D Renders",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3D Renders"
+    },
+    {
+      "coordinates": {
+        "x1": 424.640625,
+        "y1": 52.0,
+        "x2": 468.421875,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Nature",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Nature"
+    },
+    {
+      "coordinates": {
+        "x1": 492.421875,
+        "y1": 52.0,
+        "x2": 545.0,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Textures",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Textures"
+    },
+    {
+      "coordinates": {
+        "x1": 569.0,
+        "y1": 52.0,
+        "x2": 595.75,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Film",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Film"
+    },
+    {
+      "coordinates": {
+        "x1": 619.75,
+        "y1": 52.0,
+        "x2": 697.328125,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Architecture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Architecture"
+    },
+    {
+      "coordinates": {
+        "x1": 721.328125,
+        "y1": 52.0,
+        "x2": 845.109375,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Street Photography",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Street Photography"
+    },
+    {
+      "coordinates": {
+        "x1": 869.109375,
+        "y1": 52.0,
+        "x2": 952.125,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Experimental",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Experimental"
+    },
+    {
+      "coordinates": {
+        "x1": 976.125,
+        "y1": 52.0,
+        "x2": 1013.296875,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Travel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Travel"
+    },
+    {
+      "coordinates": {
+        "x1": 1037.296875,
+        "y1": 52.0,
+        "x2": 1080.34375,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "People",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: People"
+    },
+    {
+      "coordinates": {
+        "x1": 770.453125,
+        "y1": 382.0,
+        "x2": 964.5,
+        "y2": 406.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Supported by",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Supported by"
+    },
+    {
+      "coordinates": {
+        "x1": 329.5,
+        "y1": 423.0,
+        "x2": 369.5,
+        "y2": 477.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search Unsplash",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 369.5,
+        "y1": 423.0,
+        "x2": 907.5,
+        "y2": 477.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": "combobox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 369.5,
+        "y1": 423.0,
+        "x2": 907.5,
+        "y2": 477.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search Unsplash",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search photos and illustrations",
+        "value": "",
+        "name": "searchKeyword"
+      },
+      "descriptive_label": "input: Search Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 907.5,
+        "y1": 423.0,
+        "x2": 963.5,
+        "y2": 477.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Visual search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Visual search"
+    },
+    {
+      "coordinates": {
+        "x1": 988.5,
+        "y1": 172.0,
+        "x2": 1624.5,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create confidently with enhanced legal protection.\nPremium downloads backed by full coverage.\nGet Unsplash+\nWorry-free Licensing\nCleared for all uses",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Create confidently with enh..."
+    },
+    {
+      "coordinates": {
+        "x1": 1008.5,
+        "y1": 426.0,
+        "x2": 1132.5,
+        "y2": 458.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get Unsplash+",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Get Unsplash+"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 660.28125,
+        "x2": 744.5,
+        "y2": 680.28125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Elderly couple sitting together outdoors",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Elderly couple sitting toge..."
+    },
+    {
+      "coordinates": {
+        "x1": 348.5,
+        "y1": 554.0,
+        "x2": 403.65625,
+        "y2": 569.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 636.5,
+        "y1": 554.0,
+        "x2": 676.5,
+        "y2": 586.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 684.5,
+        "y1": 554.0,
+        "x2": 724.5,
+        "y2": 586.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Add to Collection",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Add to Collection"
+    },
+    {
+      "coordinates": {
+        "x1": 348.5,
+        "y1": 761.03125,
+        "x2": 380.5,
+        "y2": 793.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 388.5,
+        "y1": 759.046875,
+        "x2": 509.546875,
+        "y2": 779.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Land O'Lakes, Inc.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Land O'Lakes, Inc."
+    },
+    {
+      "coordinates": {
+        "x1": 388.5,
+        "y1": 779.046875,
+        "x2": 493.734375,
+        "y2": 795.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Repicturing Rural \u2197",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Repicturing Rural \u2197"
+    },
+    {
+      "coordinates": {
+        "x1": 684.5,
+        "y1": 759.046875,
+        "x2": 724.5,
+        "y2": 791.046875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Download",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 961.328125,
+        "x2": 744.5,
+        "y2": 981.328125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Modern living space with large window overlooking nature",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Modern living space with la..."
+    },
+    {
+      "coordinates": {
+        "x1": 636.5,
+        "y1": 855.046875,
+        "x2": 676.5,
+        "y2": 887.046875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 684.5,
+        "y1": 855.046875,
+        "x2": 724.5,
+        "y2": 887.046875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Add to Collection",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Add to Collection"
+    },
+    {
+      "coordinates": {
+        "x1": 768.5,
+        "y1": 833.75,
+        "x2": 1184.5,
+        "y2": 853.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hair care products and tools arranged on a light background.",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hair care products and tool..."
+    },
+    {
+      "coordinates": {
+        "x1": 788.5,
+        "y1": 554.0,
+        "x2": 820.5,
+        "y2": 586.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1076.5,
+        "y1": 554.0,
+        "x2": 1116.5,
+        "y2": 586.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 1124.5,
+        "y1": 554.0,
+        "x2": 1164.5,
+        "y2": 586.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Add to Collection",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Add to Collection"
+    },
+    {
+      "coordinates": {
+        "x1": 1208.5,
+        "y1": 677.75,
+        "x2": 1624.5,
+        "y2": 697.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Shadow of a person wearing a hat making peace sign",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Shadow of a person wearing ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1516.5,
+        "y1": 554.0,
+        "x2": 1556.5,
+        "y2": 586.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 1564.5,
+        "y1": 554.0,
+        "x2": 1604.5,
+        "y2": 586.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Add to Collection",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Add to Collection"
+    },
+    {
+      "coordinates": {
+        "x1": 1228.5,
+        "y1": 794.0,
+        "x2": 1260.5,
+        "y2": 826.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1268.5,
+        "y1": 800.0,
+        "x2": 1389.03125,
+        "y2": 820.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1564.5,
+        "y1": 794.0,
+        "x2": 1604.5,
+        "y2": 826.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Download",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1516.5,
+        "y1": 890.0,
+        "x2": 1556.5,
+        "y2": 922.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 1564.5,
+        "y1": 890.0,
+        "x2": 1604.5,
+        "y2": 922.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Add to Collection",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Add to Collection"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 59
+  }
+}

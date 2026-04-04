@@ -1,0 +1,117 @@
+{
+  "url": "https://canada.ca",
+  "category": "government_and_organizations",
+  "timestamp": 1774893324,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 274.515625,
+        "x2": 937.0,
+        "y2": 315.515625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: English"
+    },
+    {
+      "coordinates": {
+        "x1": 967.0,
+        "y1": 274.515625,
+        "x2": 1105.0,
+        "y2": 315.515625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Fran\u00e7ais",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Fran\u00e7ais"
+    },
+    {
+      "coordinates": {
+        "x1": 732.0,
+        "y1": 392.015625,
+        "x2": 913.234375,
+        "y2": 419.015625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms & conditions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms & conditions"
+    },
+    {
+      "coordinates": {
+        "x1": 928.640625,
+        "y1": 392.015625,
+        "x2": 966.328125,
+        "y2": 419.015625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Avis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Avis"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 4
+  }
+}

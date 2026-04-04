@@ -1,0 +1,417 @@
+{
+  "url": "https://vk.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1774891737,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1.0,
+        "y2": 1.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "div",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Mobile version with enhanced screen-reader support.",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Mobile version with enhance..."
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 8.0,
+        "x2": 265.0,
+        "y2": 40.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 8.0,
+        "x2": 229.0,
+        "y2": 40.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search VK",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search VK"
+    },
+    {
+      "coordinates": {
+        "x1": 265.0,
+        "y1": 8.0,
+        "x2": 301.0,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1699.53125,
+        "y1": 10.0,
+        "x2": 1856.0,
+        "y2": 38.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create business page",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Create business page"
+    },
+    {
+      "coordinates": {
+        "x1": 918.53125,
+        "y1": 534.5,
+        "x2": 985.4375,
+        "y2": 562.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 834.125,
+        "y1": 582.5,
+        "x2": 1069.859375,
+        "y2": 618.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Other sign-in options",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Other sign-in options"
+    },
+    {
+      "coordinates": {
+        "x1": 834.125,
+        "y1": 630.5,
+        "x2": 1069.859375,
+        "y2": 666.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 938.140625,
+        "y1": 718.5,
+        "x2": 965.84375,
+        "y2": 734.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 48.0,
+        "y1": 944.0,
+        "x2": 144.890625,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VK \u00a9 2006\u20132026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: VK \u00a9 2006\u20132026"
+    },
+    {
+      "coordinates": {
+        "x1": 164.890625,
+        "y1": 945.0,
+        "x2": 340.96875,
+        "y2": 961.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Information about content",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Information about content"
+    },
+    {
+      "coordinates": {
+        "x1": 360.96875,
+        "y1": 944.0,
+        "x2": 394.546875,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 414.546875,
+        "y1": 944.0,
+        "x2": 552.171875,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more about VK ID",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn more about VK ID"
+    },
+    {
+      "coordinates": {
+        "x1": 1121.25,
+        "y1": 944.0,
+        "x2": 1161.984375,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VK Ads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: VK Ads"
+    },
+    {
+      "coordinates": {
+        "x1": 1181.984375,
+        "y1": 944.0,
+        "x2": 1246.171875,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 1815.234375,
+        "y1": 944.0,
+        "x2": 1856.0,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: English"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 16
+  }
+}

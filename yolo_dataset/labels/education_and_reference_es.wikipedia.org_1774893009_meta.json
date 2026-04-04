@@ -1,0 +1,3367 @@
+{
+  "url": "https://es.wikipedia.org",
+  "category": "education_and_reference",
+  "timestamp": 1774893009,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Men\u00fa principal",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Men\u00fa principal",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Men\u00fa principal"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Men\u00fa principal",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: Men\u00fa principal"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Men\u00fa principal",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Men\u00fa principal"
+    },
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 32.5,
+        "x2": 209.0,
+        "y2": 33.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Men\u00fa principal",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Men\u00fa principal"
+    },
+    {
+      "coordinates": {
+        "x1": 191.5,
+        "y1": 49.0,
+        "x2": 423.5,
+        "y2": 81.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 89.5625,
+        "x2": 346.890625,
+        "y2": 111.5625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 124.5625,
+        "x2": 392.5,
+        "y2": 152.5625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Visitar la p\u00e1gina principal [alt-z]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Visitar la p\u00e1gina principal..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 153.953125,
+        "x2": 392.5,
+        "y2": 181.953125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Acerca del proyecto, lo que puedes hacer, d\u00f3nde encontrar informaci\u00f3n",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Acerca del proyecto, lo que..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 183.34375,
+        "x2": 392.5,
+        "y2": 211.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Encuentra informaci\u00f3n de contexto sobre acontecimientos actuales",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Encuentra informaci\u00f3n de co..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 212.734375,
+        "x2": 392.5,
+        "y2": 240.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Lista de cambios recientes en la wiki [alt-r]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Lista de cambios recientes ..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 242.125,
+        "x2": 392.5,
+        "y2": 270.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 271.515625,
+        "x2": 392.5,
+        "y2": 299.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cargar una p\u00e1gina al azar [alt-x]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cargar una p\u00e1gina al azar [..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 300.90625,
+        "x2": 392.5,
+        "y2": 328.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "El lugar para aprender",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: El lugar para aprender"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 330.296875,
+        "x2": 392.5,
+        "y2": 358.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Lista de todas las p\u00e1ginas especiales [alt-q]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Lista de todas las p\u00e1ginas ..."
+    },
+    {
+      "coordinates": {
+        "x1": 238.5,
+        "y1": 8.0,
+        "x2": 418.5,
+        "y2": 58.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "form",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buscar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Buscar"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 876.03125,
+        "y2": 49.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Buscar en Wikipedia",
+        "title": "Buscar en este wiki [alt-f]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Buscar en Wikipedia",
+        "value": "",
+        "name": "search"
+      },
+      "descriptive_label": "input: Buscar en Wikipedia"
+    },
+    {
+      "coordinates": {
+        "x1": 875.03125,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buscar",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Buscar"
+    },
+    {
+      "coordinates": {
+        "x1": 1437.015625,
+        "y1": 25.0,
+        "x2": 1510.953125,
+        "y2": 41.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Donaciones",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Donaciones"
+    },
+    {
+      "coordinates": {
+        "x1": 1518.953125,
+        "y1": 25.0,
+        "x2": 1627.140625,
+        "y2": 41.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Te recomendamos crear una cuenta e iniciar sesi\u00f3n; sin embargo, no es obligatorio",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Crear una cuenta",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Te recomendamos crear una c..."
+    },
+    {
+      "coordinates": {
+        "x1": 1635.140625,
+        "y1": 25.0,
+        "x2": 1686.5,
+        "y2": 41.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Te recomendamos iniciar sesi\u00f3n, aunque no es obligatorio [alt-o]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Acceder",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Te recomendamos iniciar ses..."
+    },
+    {
+      "coordinates": {
+        "x1": 198.5,
+        "y1": 90.046875,
+        "x2": 247.546875,
+        "y2": 127.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ver la p\u00e1gina del proyecto [alt-c]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Portada",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ver la p\u00e1gina del proyecto ..."
+    },
+    {
+      "coordinates": {
+        "x1": 263.546875,
+        "y1": 90.046875,
+        "x2": 324.25,
+        "y2": 127.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Discusi\u00f3n acerca de la p\u00e1gina [alt-t]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Discusi\u00f3n",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Discusi\u00f3n acerca de la p\u00e1gi..."
+    },
+    {
+      "coordinates": {
+        "x1": 1058.296875,
+        "y1": 90.046875,
+        "x2": 1086.328125,
+        "y2": 127.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Leer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Leer"
+    },
+    {
+      "coordinates": {
+        "x1": 1102.328125,
+        "y1": 90.046875,
+        "x2": 1211.3125,
+        "y2": 127.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Esta p\u00e1gina est\u00e1 protegida, pero puedes ver su c\u00f3digo fuente [alt-e]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ver c\u00f3digo fuente",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Esta p\u00e1gina est\u00e1 protegida,..."
+    },
+    {
+      "coordinates": {
+        "x1": 1227.3125,
+        "y1": 90.046875,
+        "x2": 1300.46875,
+        "y2": 127.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Versiones anteriores de esta p\u00e1gina [alt-h]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ver historial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Versiones anteriores de est..."
+    },
+    {
+      "coordinates": {
+        "x1": 1316.46875,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 124.046875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Herramientas",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Herramientas"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.46875,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 124.046875
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Herramientas",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: Herramientas"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.46875,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 125.046875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Herramientas",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Herramientas"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.46875,
+        "y1": 102.046875,
+        "x2": 1400.5,
+        "y2": 118.046875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Herramientas",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Herramientas"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.5,
+        "y1": 124.046875,
+        "x2": 1418.5,
+        "y2": 156.046875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 164.609375,
+        "x2": 1341.890625,
+        "y2": 186.609375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 234.609375,
+        "x2": 1387.5,
+        "y2": 262.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Lista de todas las p\u00e1ginas de la wiki que enlazan aqu\u00ed [alt-j]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Lista de todas las p\u00e1ginas ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 264.0,
+        "x2": 1387.5,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cambios recientes en las p\u00e1ginas que enlazan con esta [alt-k]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cambios recientes en las p\u00e1..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 293.390625,
+        "x2": 1387.5,
+        "y2": 321.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Subir archivos [alt-u]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Subir archivos [alt-u]"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 322.78125,
+        "x2": 1387.5,
+        "y2": 350.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Enlace permanente a esta versi\u00f3n de la p\u00e1gina",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Enlace permanente a esta ve..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 352.171875,
+        "x2": 1387.5,
+        "y2": 380.171875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "M\u00e1s informaci\u00f3n sobre esta p\u00e1gina",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: M\u00e1s informaci\u00f3n sobre esta ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 381.5625,
+        "x2": 1387.5,
+        "y2": 409.5625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 410.953125,
+        "x2": 1387.5,
+        "y2": 438.953125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Expandir todos los elementos plegables en la p\u00e1gina actual",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Expandir todos los elemento..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 479.953125,
+        "x2": 1387.5,
+        "y2": 507.953125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 509.34375,
+        "x2": 1387.5,
+        "y2": 537.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 538.734375,
+        "x2": 1387.5,
+        "y2": 566.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Versi\u00f3n imprimible de esta p\u00e1gina [alt-p]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Versi\u00f3n imprimible de esta ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 607.734375,
+        "x2": 1387.5,
+        "y2": 635.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 637.125,
+        "x2": 1387.5,
+        "y2": 665.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 666.515625,
+        "x2": 1387.5,
+        "y2": 694.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 695.90625,
+        "x2": 1387.5,
+        "y2": 723.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 725.296875,
+        "x2": 1387.5,
+        "y2": 753.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 754.6875,
+        "x2": 1387.5,
+        "y2": 782.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 784.078125,
+        "x2": 1387.5,
+        "y2": 812.078125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 813.46875,
+        "x2": 1387.5,
+        "y2": 841.46875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 842.859375,
+        "x2": 1387.5,
+        "y2": 870.859375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 872.25,
+        "x2": 1387.5,
+        "y2": 900.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 901.640625,
+        "x2": 1387.5,
+        "y2": 929.640625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 931.03125,
+        "x2": 1387.5,
+        "y2": 959.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 960.421875,
+        "x2": 1387.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1541.984375,
+        "y1": 136.84375,
+        "x2": 1594.015625,
+        "y2": 158.84375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ocultar",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: ocultar"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 214.40625,
+        "x2": 1478.5,
+        "y2": 234.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-wp25eastereggs-enable-group"
+      },
+      "descriptive_label": "radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 213.40625,
+        "x2": 1674.5,
+        "y2": 239.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Desactivado",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Desactivado"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 246.40625,
+        "x2": 1478.5,
+        "y2": 266.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-wp25eastereggs-enable-group"
+      },
+      "descriptive_label": "radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 245.40625,
+        "x2": 1674.5,
+        "y2": 271.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Activado",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Activado"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 277.40625,
+        "x2": 1674.5,
+        "y2": 321.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "M\u00e1s informaci\u00f3n sobre Modo aniversario",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: M\u00e1s informaci\u00f3n sobre Modo ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 369.40625,
+        "x2": 1478.5,
+        "y2": 389.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "descriptive_label": "radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 368.40625,
+        "x2": 1674.5,
+        "y2": 394.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Peque\u00f1o",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Peque\u00f1o"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 401.40625,
+        "x2": 1478.5,
+        "y2": 421.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "descriptive_label": "radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 400.40625,
+        "x2": 1674.5,
+        "y2": 426.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Est\u00e1ndar",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Est\u00e1ndar"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 433.40625,
+        "x2": 1478.5,
+        "y2": 453.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "2",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "descriptive_label": "radio: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 432.40625,
+        "x2": 1674.5,
+        "y2": 458.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Grande",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Grande"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 512.40625,
+        "x2": 1478.5,
+        "y2": 532.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "descriptive_label": "radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 511.40625,
+        "x2": 1674.5,
+        "y2": 537.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Est\u00e1ndar",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Est\u00e1ndar"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 544.40625,
+        "x2": 1478.5,
+        "y2": 564.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "descriptive_label": "radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 543.40625,
+        "x2": 1674.5,
+        "y2": 569.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ancho",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Ancho"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 623.40625,
+        "x2": 1478.5,
+        "y2": 643.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "os",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "descriptive_label": "radio: os"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 622.40625,
+        "x2": 1674.5,
+        "y2": 648.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Autom\u00e1tico",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Autom\u00e1tico"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 655.40625,
+        "x2": 1478.5,
+        "y2": 675.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "day",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "descriptive_label": "radio: day"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 654.40625,
+        "x2": 1674.5,
+        "y2": 680.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Claro",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Claro"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 687.40625,
+        "x2": 1478.5,
+        "y2": 707.40625
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "night",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "descriptive_label": "radio: night"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 686.40625,
+        "x2": 1674.5,
+        "y2": 712.40625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Oscuro",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Oscuro"
+    },
+    {
+      "coordinates": {
+        "x1": 223.5,
+        "y1": 179.046875,
+        "x2": 379.890625,
+        "y2": 211.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:Bienvenidos",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bienvenidos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:Bienvenidos"
+    },
+    {
+      "coordinates": {
+        "x1": 250.75,
+        "y1": 241.390625,
+        "x2": 373.75,
+        "y2": 257.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ayuda:Introducci\u00f3n",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "todos pueden editar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ayuda:Introducci\u00f3n"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.09375,
+        "y1": 193.71875,
+        "x2": 1248.390625,
+        "y2": 209.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Especial:Estad\u00edsticas",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "2 104 402",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Especial:Estad\u00edsticas"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.09375,
+        "y1": 193.71875,
+        "x2": 1377.609375,
+        "y2": 209.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia en espa\u00f1ol",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "en espa\u00f1ol",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia en espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 1337.140625,
+        "y1": 228.09375,
+        "x2": 1393.5,
+        "y2": 244.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:Caf\u00e9",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Caf\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:Caf\u00e9"
+    },
+    {
+      "coordinates": {
+        "x1": 1337.140625,
+        "y1": 221.46875,
+        "x2": 1393.5,
+        "y2": 253.46875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Caf\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Caf\u00e9"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.671875,
+        "y1": 228.09375,
+        "x2": 1337.140625,
+        "y2": 244.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ayuda:C\u00f3mo puedes colaborar",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00bfC\u00f3mo colaborar?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ayuda:C\u00f3mo puedes colaborar"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.671875,
+        "y1": 221.46875,
+        "x2": 1337.140625,
+        "y2": 253.46875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00bfC\u00f3mo colaborar?",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u00bfC\u00f3mo colaborar?"
+    },
+    {
+      "coordinates": {
+        "x1": 1055.609375,
+        "y1": 228.09375,
+        "x2": 1186.671875,
+        "y2": 244.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ayuda:Introducci\u00f3n",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Primeros pasos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ayuda:Introducci\u00f3n"
+    },
+    {
+      "coordinates": {
+        "x1": 1055.609375,
+        "y1": 221.46875,
+        "x2": 1186.671875,
+        "y2": 253.46875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Primeros pasos",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Primeros pasos"
+    },
+    {
+      "coordinates": {
+        "x1": 987.328125,
+        "y1": 228.09375,
+        "x2": 1055.609375,
+        "y2": 244.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ayuda:Contenidos",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ayuda",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ayuda:Contenidos"
+    },
+    {
+      "coordinates": {
+        "x1": 987.328125,
+        "y1": 221.46875,
+        "x2": 1055.609375,
+        "y2": 253.46875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ayuda",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Ayuda"
+    },
+    {
+      "coordinates": {
+        "x1": 900.65625,
+        "y1": 228.09375,
+        "x2": 987.328125,
+        "y2": 244.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:Contacto",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contacto",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:Contacto"
+    },
+    {
+      "coordinates": {
+        "x1": 900.65625,
+        "y1": 221.46875,
+        "x2": 987.328125,
+        "y2": 253.46875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contacto",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Contacto"
+    },
+    {
+      "coordinates": {
+        "x1": 215.5,
+        "y1": 348.140625,
+        "x2": 483.953125,
+        "y2": 375.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Summer Time Rendering",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Summer Time Rendering",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Summer Time Rendering"
+    },
+    {
+      "coordinates": {
+        "x1": 684.703125,
+        "y1": 394.140625,
+        "x2": 842.703125,
+        "y2": 601.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 690.703125,
+        "y1": 602.9375,
+        "x2": 754.375,
+        "y2": 618.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cosplay",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cosplayer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cosplay"
+    },
+    {
+      "coordinates": {
+        "x1": 556.453125,
+        "y1": 386.8125,
+        "x2": 565.09375,
+        "y2": 401.8125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ayuda:Idioma japon\u00e9s",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ayuda:Idioma japon\u00e9s"
+    },
+    {
+      "coordinates": {
+        "x1": 573.9375,
+        "y1": 443.140625,
+        "x2": 622.859375,
+        "y2": 460.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Manga",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "manga",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Manga"
+    },
+    {
+      "coordinates": {
+        "x1": 499.21875,
+        "y1": 625.140625,
+        "x2": 569.46875,
+        "y2": 642.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Drama",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "dram\u00e1tico",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Drama"
+    },
+    {
+      "coordinates": {
+        "x1": 578.359375,
+        "y1": 625.140625,
+        "x2": 634.375,
+        "y2": 642.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Literatura de misterio",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "misterio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Literatura de misterio"
+    },
+    {
+      "coordinates": {
+        "x1": 215.5,
+        "y1": 651.140625,
+        "x2": 284.0,
+        "y2": 668.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Suspenso",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "suspenso",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Suspenso"
+    },
+    {
+      "coordinates": {
+        "x1": 315.140625,
+        "y1": 729.140625,
+        "x2": 527.703125,
+        "y2": 746.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Bucle temporal",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "rebobinar los acontecimientos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bucle temporal"
+    },
+    {
+      "coordinates": {
+        "x1": 605.96875,
+        "y1": 771.140625,
+        "x2": 668.234375,
+        "y2": 788.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "One-shot",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "one-shot",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: One-shot"
+    },
+    {
+      "coordinates": {
+        "x1": 215.5,
+        "y1": 797.140625,
+        "x2": 323.09375,
+        "y2": 814.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Akamaru Jump",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Akamaru Jump",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Akamaru Jump"
+    },
+    {
+      "coordinates": {
+        "x1": 550.828125,
+        "y1": 849.140625,
+        "x2": 658.90625,
+        "y2": 866.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sh\u014dnen Jump+",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sh\u014dnen Jump+",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sh\u014dnen Jump+"
+    },
+    {
+      "coordinates": {
+        "x1": 237.75,
+        "y1": 875.140625,
+        "x2": 304.46875,
+        "y2": 892.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sh\u016beisha",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sh\u016beisha",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sh\u016beisha"
+    },
+    {
+      "coordinates": {
+        "x1": 536.59375,
+        "y1": 953.140625,
+        "x2": 712.6875,
+        "y2": 970.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pandemia de COVID-19 en Jap\u00f3n",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "pandemia por COVID-19",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pandemia de COVID-19 en Jap\u00f3n"
+    },
+    {
+      "coordinates": {
+        "x1": 893.703125,
+        "y1": 326.546875,
+        "x2": 1008.453125,
+        "y2": 353.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Portal:Actualidad",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Actualidad",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Portal:Actualidad"
+    },
+    {
+      "coordinates": {
+        "x1": 919.296875,
+        "y1": 367.546875,
+        "x2": 1060.6875,
+        "y2": 384.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Anexo:Guerras y conflictos actuales",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guerras y conflictos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Anexo:Guerras y conflictos ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1068.703125,
+        "y1": 367.546875,
+        "x2": 1211.015625,
+        "y2": 384.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerra afgano-pakistan\u00ed de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Afganist\u00e1n-Pakist\u00e1n",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guerra afgano-pakistan\u00ed de ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1235.90625,
+        "y1": 367.546875,
+        "x2": 1274.15625,
+        "y2": 384.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Crisis de Cuba de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cuba",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Crisis de Cuba de 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 919.296875,
+        "y1": 367.546875,
+        "x2": 1358.640625,
+        "y2": 410.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Conflicto diplom\u00e1tico entre Espa\u00f1a y Estados Unidos de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Espa\u00f1a-Estados Unidos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Conflicto diplom\u00e1tico entre..."
+    },
+    {
+      "coordinates": {
+        "x1": 1056.25,
+        "y1": 393.546875,
+        "x2": 1245.671875,
+        "y2": 410.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerra de Estados Unidos e Israel contra Ir\u00e1n",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Estados Unidos-Ir\u00e1n-Israel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guerra de Estados Unidos e ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1250.125,
+        "y1": 393.546875,
+        "x2": 1387.953125,
+        "y2": 410.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Crisis del estrecho de Ormuz de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Estrecho de Ormuz",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Crisis del estrecho de Ormu..."
+    },
+    {
+      "coordinates": {
+        "x1": 939.75,
+        "y1": 419.546875,
+        "x2": 1022.453125,
+        "y2": 436.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerra de Gaza",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gaza-Israel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guerra de Gaza"
+    },
+    {
+      "coordinates": {
+        "x1": 1047.34375,
+        "y1": 419.546875,
+        "x2": 1150.5,
+        "y2": 436.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerra del L\u00edbano de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hezbol\u00e1-Israel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guerra del L\u00edbano de 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1175.390625,
+        "y1": 419.546875,
+        "x2": 1276.765625,
+        "y2": 436.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Invasi\u00f3n rusa de Ucrania",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Rusia-Ucrania",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Invasi\u00f3n rusa de Ucrania"
+    },
+    {
+      "coordinates": {
+        "x1": 919.296875,
+        "y1": 447.140625,
+        "x2": 1098.9375,
+        "y2": 464.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Crisis energ\u00e9tica de Per\u00fa de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Crisis energ\u00e9tica de Per\u00fa",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Crisis energ\u00e9tica de Per\u00fa d..."
+    },
+    {
+      "coordinates": {
+        "x1": 1171.59375,
+        "y1": 474.734375,
+        "x2": 1222.3125,
+        "y2": 491.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Torneo WTA de Bogot\u00e1 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bogot\u00e1",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Torneo WTA de Bogot\u00e1 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1231.203125,
+        "y1": 474.734375,
+        "x2": 1294.34375,
+        "y2": 491.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Torneo de Bucarest 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bucarest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Torneo de Bucarest 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1303.234375,
+        "y1": 474.734375,
+        "x2": 1380.609375,
+        "y2": 491.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Torneo de Charleston 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Charleston",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Torneo de Charleston 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 919.296875,
+        "y1": 500.734375,
+        "x2": 978.890625,
+        "y2": 517.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Torneo de Houston 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Houston",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Torneo de Houston 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 995.78125,
+        "y1": 500.734375,
+        "x2": 1071.359375,
+        "y2": 517.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Torneo de Marrakech 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Marrakech",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Torneo de Marrakech 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1088.28125,
+        "y1": 528.328125,
+        "x2": 1394.234375,
+        "y2": 545.328125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Campeonato Mundial de Curling Masculino de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Campeonato Mundial de Curling Masculino",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Campeonato Mundial de Curli..."
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 555.921875,
+        "x2": 1388.84375,
+        "y2": 572.921875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Gran Premio de Estados Unidos de Motociclismo de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gran Premio de Estados Unidos de motociclismo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gran Premio de Estados Unid..."
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 583.515625,
+        "x2": 1299.9375,
+        "y2": 600.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Anexo:Gran Premio de Jap\u00f3n de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gran Premio de Jap\u00f3n de F\u00f3rmula 1",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Anexo:Gran Premio de Jap\u00f3n ..."
+    },
+    {
+      "coordinates": {
+        "x1": 919.296875,
+        "y1": 611.109375,
+        "x2": 1382.671875,
+        "y2": 654.109375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Campeonato Mundial de Patinaje Art\u00edstico sobre Hielo de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Campeonato Mundial de Patinaje Art\u00edstico sobre Hielo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Campeonato Mundial de Patin..."
+    },
+    {
+      "coordinates": {
+        "x1": 1016.84375,
+        "y1": 664.703125,
+        "x2": 1271.5,
+        "y2": 681.703125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Tiroteo escolar de L\u00e1zaro C\u00e1rdenas",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tiroteo escolar de L\u00e1zaro C\u00e1rdenas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tiroteo escolar de L\u00e1zaro C..."
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 692.296875,
+        "x2": 1157.671875,
+        "y2": 709.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Volta a Catalu\u00f1a 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Volta a Catalu\u00f1a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Volta a Catalu\u00f1a 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 919.296875,
+        "y1": 719.890625,
+        "x2": 1373.8125,
+        "y2": 762.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Accidente del Lockheed C-130 de la Fuerza A\u00e9rea Colombiana de 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accidente del Lockheed C-130 de la Fuerza A\u00e9rea Colombiana",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Accidente del Lockheed C-13..."
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 773.484375,
+        "x2": 1166.5,
+        "y2": 790.484375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Masters de Miami 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Masters de Miami",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Masters de Miami 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 893.703125,
+        "y1": 813.875,
+        "x2": 1004.859375,
+        "y2": 830.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Anexo:Fallecidos en 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Fallecimientos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Anexo:Fallecidos en 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1017.125,
+        "y1": 847.875,
+        "x2": 1180.78125,
+        "y2": 864.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Eduardo Cruz Johnson",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Eduardo Cruz Johnson",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Eduardo Cruz Johnson"
+    },
+    {
+      "coordinates": {
+        "x1": 1281.5,
+        "y1": 941.625,
+        "x2": 1401.5,
+        "y2": 958.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "El actor azer\u00ed Rasim Balayev",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: El actor azer\u00ed Rasim Balayev"
+    },
+    {
+      "coordinates": {
+        "x1": 1017.125,
+        "y1": 878.671875,
+        "x2": 1122.640625,
+        "y2": 895.671875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Rasim Balayev",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Rasim Balayev",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Rasim Balayev"
+    },
+    {
+      "coordinates": {
+        "x1": 1017.125,
+        "y1": 935.46875,
+        "x2": 1124.71875,
+        "y2": 952.46875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Mary Beth Hurt",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mary Beth Hurt",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mary Beth Hurt"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 134
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "url": "https://theconversation.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892890,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 254.5,
+        "y1": 1.0,
+        "x2": 302.5,
+        "y2": 49.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 358.25,
+        "y1": 1.0,
+        "x2": 441.765625,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Global",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Global"
+    },
+    {
+      "coordinates": {
+        "x1": 454.765625,
+        "y1": 8.0,
+        "x2": 566.953125,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1304.546875,
+        "y1": 0,
+        "x2": 1430.390625,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Become an author",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Become an author"
+    },
+    {
+      "coordinates": {
+        "x1": 1430.390625,
+        "y1": 0,
+        "x2": 1561.359375,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign up as a reader",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign up as a reader"
+    },
+    {
+      "coordinates": {
+        "x1": 1561.359375,
+        "y1": 0,
+        "x2": 1621.5,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 266.5,
+        "y1": 69.0,
+        "x2": 616.5,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1162.515625,
+        "y1": 85.0,
+        "x2": 1614.5,
+        "y2": 129.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search analysis, research, academics\u2026",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "input: Search analysis, research, ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1574.5,
+        "y1": 94.0,
+        "x2": 1606.5,
+        "y2": 118.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "Search",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 266.5,
+        "y1": 183.0,
+        "x2": 928.5,
+        "y2": 754.375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Why hasn\u2019t the US military used force to secure the Strait of Hormuz?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Why hasn\u2019t the US military ..."
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 183.0,
+        "x2": 1275.5,
+        "y2": 464.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "A war without accountability: why the Middle East crisis is also a legal quagmire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: A war without accountabilit..."
+    },
+    {
+      "coordinates": {
+        "x1": 1307.5,
+        "y1": 183.0,
+        "x2": 1622.5,
+        "y2": 464.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Donald Trump\u2019s \u2018new\u2019 15-point plan is the biggest sign yet that Washington fears it is losing this war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Donald Trump\u2019s \u2018new\u2019 15-poi..."
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 497.1875,
+        "x2": 1275.5,
+        "y2": 754.375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "God on their side: how the US, Israel and Iran are all using religion to garner support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: God on their side: how the ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1307.5,
+        "y1": 497.1875,
+        "x2": 1622.5,
+        "y2": 754.375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Olympics\u2019 transgender athlete ban is a legal and moral minefield",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Olympics\u2019 transgender a..."
+    },
+    {
+      "coordinates": {
+        "x1": 266.5,
+        "y1": 787.375,
+        "x2": 928.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "A host nation at war with a participant: uncertainty and tension swirl around soccer\u2019s World Cup",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: A host nation at war with a..."
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 787.375,
+        "x2": 1622.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gold is meant to be a \u2018safe haven\u2019 in uncertain times. Why is it crashing amid a war?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gold is meant to be a \u2018safe..."
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 16
+  }
+}

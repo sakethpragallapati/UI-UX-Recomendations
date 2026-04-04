@@ -1,0 +1,1992 @@
+{
+  "url": "https://europa.eu",
+  "category": "government_and_organizations",
+  "timestamp": 1774893239,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 23.0,
+        "y1": 23.0,
+        "x2": 67.0,
+        "y2": 67.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 642.859375,
+        "y1": 891.0,
+        "x2": 782.5,
+        "y2": 908.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "cookies policy page",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: cookies policy page"
+    },
+    {
+      "coordinates": {
+        "x1": 1120.4375,
+        "y1": 885.0,
+        "x2": 1280.5,
+        "y2": 929.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept all cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Accept all cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1288.5,
+        "y1": 885.0,
+        "x2": 1529.5,
+        "y2": 929.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept only essential cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Accept only essential cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 311.796875,
+        "y1": 0,
+        "x2": 470.09375,
+        "y2": 28.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "How do you know?",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: How do you know?"
+    },
+    {
+      "coordinates": {
+        "x1": 292.5,
+        "y1": 52.0,
+        "x2": 493.15625,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home - European Union",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home - European Union"
+    },
+    {
+      "coordinates": {
+        "x1": 1002.015625,
+        "y1": 63.0,
+        "x2": 1114.5,
+        "y2": 107.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Change language, current language is English - English",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Change language, current la..."
+    },
+    {
+      "coordinates": {
+        "x1": 1137.5,
+        "y1": 61.0,
+        "x2": 1138.5,
+        "y2": 62.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1138.5,
+        "y1": 62.0,
+        "x2": 1550.5,
+        "y2": 108.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "keys"
+      },
+      "descriptive_label": "input: keys"
+    },
+    {
+      "coordinates": {
+        "x1": 1550.5,
+        "y1": 62.0,
+        "x2": 1596.5,
+        "y2": 108.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1561.0,
+        "y1": 73.0,
+        "x2": 1585.0,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1561.0,
+        "y1": 73.0,
+        "x2": 1585.0,
+        "y2": 97.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1560.0,
+        "y1": 84.5,
+        "x2": 1561.0,
+        "y2": 85.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 293.5,
+        "y1": 132.0,
+        "x2": 352.1875,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 353.1875,
+        "y1": 132.0,
+        "x2": 564.375,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Principles, countries, history",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Principles, countries, history"
+    },
+    {
+      "coordinates": {
+        "x1": 564.375,
+        "y1": 132.0,
+        "x2": 596.375,
+        "y2": 188.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Access item's children",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Access item's children"
+    },
+    {
+      "coordinates": {
+        "x1": 568.375,
+        "y1": 152.0,
+        "x2": 584.375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 568.375,
+        "y1": 152.0,
+        "x2": 584.375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 190.0,
+        "x2": 597.375,
+        "y2": 238.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 238.0,
+        "x2": 597.375,
+        "y2": 310.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 310.0,
+        "x2": 597.375,
+        "y2": 358.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 358.0,
+        "x2": 597.375,
+        "y2": 406.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 406.0,
+        "x2": 597.375,
+        "y2": 454.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 454.0,
+        "x2": 597.375,
+        "y2": 502.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 502.0,
+        "x2": 597.375,
+        "y2": 550.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 550.0,
+        "x2": 597.375,
+        "y2": 598.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 352.1875,
+        "y1": 598.0,
+        "x2": 597.375,
+        "y2": 646.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 597.375,
+        "y1": 132.0,
+        "x2": 775.703125,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Institutions, law, budget",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Institutions, law, budget"
+    },
+    {
+      "coordinates": {
+        "x1": 775.703125,
+        "y1": 132.0,
+        "x2": 807.703125,
+        "y2": 188.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Access item's children",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Access item's children"
+    },
+    {
+      "coordinates": {
+        "x1": 779.703125,
+        "y1": 152.0,
+        "x2": 795.703125,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 779.703125,
+        "y1": 152.0,
+        "x2": 795.703125,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 596.375,
+        "y1": 190.0,
+        "x2": 813.328125,
+        "y2": 238.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 596.375,
+        "y1": 238.0,
+        "x2": 813.328125,
+        "y2": 286.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 596.375,
+        "y1": 286.0,
+        "x2": 813.328125,
+        "y2": 334.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 596.375,
+        "y1": 334.0,
+        "x2": 813.328125,
+        "y2": 382.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 596.375,
+        "y1": 382.0,
+        "x2": 813.328125,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 808.703125,
+        "y1": 132.0,
+        "x2": 969.21875,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Priorities and actions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Priorities and actions"
+    },
+    {
+      "coordinates": {
+        "x1": 969.21875,
+        "y1": 132.0,
+        "x2": 1001.21875,
+        "y2": 188.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Access item's children",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Access item's children"
+    },
+    {
+      "coordinates": {
+        "x1": 973.21875,
+        "y1": 152.0,
+        "x2": 989.21875,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 973.21875,
+        "y1": 152.0,
+        "x2": 989.21875,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 807.703125,
+        "y1": 190.0,
+        "x2": 1024.65625,
+        "y2": 238.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 807.703125,
+        "y1": 238.0,
+        "x2": 1024.65625,
+        "y2": 286.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 807.703125,
+        "y1": 286.0,
+        "x2": 1024.65625,
+        "y2": 334.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1002.21875,
+        "y1": 132.0,
+        "x2": 1133.375,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Live, work, study",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Live, work, study"
+    },
+    {
+      "coordinates": {
+        "x1": 1133.375,
+        "y1": 132.0,
+        "x2": 1165.375,
+        "y2": 188.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Access item's children",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Access item's children"
+    },
+    {
+      "coordinates": {
+        "x1": 1137.375,
+        "y1": 152.0,
+        "x2": 1153.375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1137.375,
+        "y1": 152.0,
+        "x2": 1153.375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 190.0,
+        "x2": 1218.171875,
+        "y2": 238.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 238.0,
+        "x2": 1218.171875,
+        "y2": 286.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 286.0,
+        "x2": 1218.171875,
+        "y2": 334.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 334.0,
+        "x2": 1218.171875,
+        "y2": 382.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 382.0,
+        "x2": 1218.171875,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 430.0,
+        "x2": 1218.171875,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 478.0,
+        "x2": 1218.171875,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 526.0,
+        "x2": 1218.171875,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 574.0,
+        "x2": 1218.171875,
+        "y2": 622.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 622.0,
+        "x2": 1218.171875,
+        "y2": 694.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.21875,
+        "y1": 694.0,
+        "x2": 1218.171875,
+        "y2": 766.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1166.375,
+        "y1": 132.0,
+        "x2": 1301.109375,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News and events",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News and events"
+    },
+    {
+      "coordinates": {
+        "x1": 1301.109375,
+        "y1": 132.0,
+        "x2": 1333.109375,
+        "y2": 188.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Access item's children",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Access item's children"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.109375,
+        "y1": 152.0,
+        "x2": 1321.109375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.109375,
+        "y1": 152.0,
+        "x2": 1321.109375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1165.375,
+        "y1": 190.0,
+        "x2": 1382.328125,
+        "y2": 238.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1165.375,
+        "y1": 238.0,
+        "x2": 1382.328125,
+        "y2": 310.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1165.375,
+        "y1": 310.0,
+        "x2": 1382.328125,
+        "y2": 358.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1165.375,
+        "y1": 358.0,
+        "x2": 1382.328125,
+        "y2": 406.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1334.109375,
+        "y1": 132.0,
+        "x2": 1454.609375,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact the EU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Contact the EU"
+    },
+    {
+      "coordinates": {
+        "x1": 1454.609375,
+        "y1": 132.0,
+        "x2": 1486.609375,
+        "y2": 188.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Access item's children",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Access item's children"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.609375,
+        "y1": 152.0,
+        "x2": 1474.609375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.609375,
+        "y1": 152.0,
+        "x2": 1474.609375,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 190.0,
+        "x2": 1550.0625,
+        "y2": 238.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 238.0,
+        "x2": 1550.0625,
+        "y2": 286.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 286.0,
+        "x2": 1550.0625,
+        "y2": 334.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 334.0,
+        "x2": 1550.0625,
+        "y2": 406.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 406.0,
+        "x2": 1550.0625,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 478.0,
+        "x2": 1550.0625,
+        "y2": 550.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 550.0,
+        "x2": 1550.0625,
+        "y2": 598.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 598.0,
+        "x2": 1550.0625,
+        "y2": 646.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.109375,
+        "y1": 646.0,
+        "x2": 1550.0625,
+        "y2": 694.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 79
+  }
+}

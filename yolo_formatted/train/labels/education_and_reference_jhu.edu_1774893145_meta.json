@@ -1,0 +1,317 @@
+{
+  "url": "https://jhu.edu",
+  "category": "education_and_reference",
+  "timestamp": 1774893146,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 68.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "JOHNS HOPKINS UNIVERSITY\nEST. 1876\nAMERICA\u2019S FIRST RESEARCH UNIVERSITY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: JOHNS HOPKINS UNIVERSITY\nES..."
+    },
+    {
+      "coordinates": {
+        "x1": 42.0,
+        "y1": 909.5,
+        "x2": 105.0,
+        "y2": 951.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PAUSE BACKGROUND VIDEO",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: PAUSE BACKGROUND VIDEO"
+    },
+    {
+      "coordinates": {
+        "x1": 1889.0,
+        "y1": 0,
+        "x2": 1904,
+        "y2": 63.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Open Menu",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Open Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.59375,
+        "y1": 136.5,
+        "x2": 1888.984375,
+        "y2": 189.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "MENU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: MENU"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.59375,
+        "y1": 196.875,
+        "x2": 1888.984375,
+        "y2": 249.375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "SEARCH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SEARCH"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.59375,
+        "y1": 257.25,
+        "x2": 1888.984375,
+        "y2": 309.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "NEWS & EVENTS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: NEWS & EVENTS"
+    },
+    {
+      "coordinates": {
+        "x1": 1637.0,
+        "y1": 318.9375,
+        "x2": 1889.0,
+        "y2": 360.9375
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "APPLY",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: APPLY"
+    },
+    {
+      "coordinates": {
+        "x1": 1689.5,
+        "y1": 318.9375,
+        "x2": 1889.0,
+        "y2": 360.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "APPLY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: APPLY"
+    },
+    {
+      "coordinates": {
+        "x1": 1637.0,
+        "y1": 371.4375,
+        "x2": 1889.0,
+        "y2": 413.4375
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VISIT",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: VISIT"
+    },
+    {
+      "coordinates": {
+        "x1": 1689.5,
+        "y1": 371.4375,
+        "x2": 1889.0,
+        "y2": 413.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VISIT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: VISIT"
+    },
+    {
+      "coordinates": {
+        "x1": 1637.0,
+        "y1": 423.9375,
+        "x2": 1889.0,
+        "y2": 465.9375
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SEE PROGRAMS",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: SEE PROGRAMS"
+    },
+    {
+      "coordinates": {
+        "x1": 1689.5,
+        "y1": 423.9375,
+        "x2": 1889.0,
+        "y2": 465.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SEE PROGRAMS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SEE PROGRAMS"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 12
+  }
+}

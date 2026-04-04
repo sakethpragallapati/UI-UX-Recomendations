@@ -1,0 +1,392 @@
+{
+  "url": "https://photos.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1774891627,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 17.0,
+        "y1": 12.0,
+        "x2": 189.0,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Visit the Google Photos Overview page",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Visit the Google Photos Ove..."
+    },
+    {
+      "coordinates": {
+        "x1": 229.0,
+        "y1": 13.5,
+        "x2": 308.015625,
+        "y2": 50.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Visit the Google Photos overview page",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Overview",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Visit the Google Photos ove..."
+    },
+    {
+      "coordinates": {
+        "x1": 332.015625,
+        "y1": 13.5,
+        "x2": 437.984375,
+        "y2": 50.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Visit the photo editing page",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Photo editing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Visit the photo editing page"
+    },
+    {
+      "coordinates": {
+        "x1": 1539.703125,
+        "y1": 8.0,
+        "x2": 1864.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Visit Google Photos\nGet the app",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Visit Google Photos\nGet the..."
+    },
+    {
+      "coordinates": {
+        "x1": 1539.703125,
+        "y1": 8.0,
+        "x2": 1712.75,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Visit Google Photos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Visit Google Photos"
+    },
+    {
+      "coordinates": {
+        "x1": 1724.75,
+        "y1": 8.0,
+        "x2": 1864.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Download the Google Photos app",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get the app",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Download the Google Photos app"
+    },
+    {
+      "coordinates": {
+        "x1": 1604.5,
+        "y1": 683.0,
+        "x2": 1664.5,
+        "y2": 743.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Pause video: An animation showcasing various features of the Google Photos app.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Pause video: An animation s..."
+    },
+    {
+      "coordinates": {
+        "x1": 649.09375,
+        "y1": 805.0,
+        "x2": 743.546875,
+        "y2": 853.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to section: Create",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to section: Create"
+    },
+    {
+      "coordinates": {
+        "x1": 751.546875,
+        "y1": 805.0,
+        "x2": 846.65625,
+        "y2": 853.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to section: Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to section: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 854.65625,
+        "y1": 805.0,
+        "x2": 927.15625,
+        "y2": 853.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to section: Edit",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Edit",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to section: Edit"
+    },
+    {
+      "coordinates": {
+        "x1": 935.15625,
+        "y1": 805.0,
+        "x2": 1046.65625,
+        "y2": 853.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to section: Organize",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Organize",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to section: Organize"
+    },
+    {
+      "coordinates": {
+        "x1": 1054.65625,
+        "y1": 805.0,
+        "x2": 1140.921875,
+        "y2": 853.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to section: Share",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Share",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to section: Share"
+    },
+    {
+      "coordinates": {
+        "x1": 1148.921875,
+        "y1": 805.0,
+        "x2": 1239.890625,
+        "y2": 853.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to section: Safety",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Safety",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go to section: Safety"
+    },
+    {
+      "coordinates": {
+        "x1": 1255.890625,
+        "y1": 805.0,
+        "x2": 1395.140625,
+        "y2": 853.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Download the Google Photos app",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Download the Google Photos app"
+    },
+    {
+      "coordinates": {
+        "x1": 1868.0,
+        "y1": 775.0,
+        "x2": 1876.0,
+        "y2": 787.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 15
+  }
+}

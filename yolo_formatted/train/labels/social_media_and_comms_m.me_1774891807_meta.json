@@ -1,0 +1,317 @@
+{
+  "url": "https://m.me",
+  "category": "social_media_and_comms",
+  "timestamp": 1774891807,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 347.0,
+        "y1": 30.0,
+        "x2": 387.0,
+        "y2": 70.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1030.046875,
+        "y1": 40.0,
+        "x2": 1105.453125,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Features",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Features"
+    },
+    {
+      "coordinates": {
+        "x1": 1135.453125,
+        "y1": 40.0,
+        "x2": 1271.46875,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy and safety",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy and safety"
+    },
+    {
+      "coordinates": {
+        "x1": 1301.46875,
+        "y1": 40.0,
+        "x2": 1409.921875,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "For developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: For developers"
+    },
+    {
+      "coordinates": {
+        "x1": 1439.921875,
+        "y1": 40.0,
+        "x2": 1527.0,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help Centre",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help Centre"
+    },
+    {
+      "coordinates": {
+        "x1": 347.0,
+        "y1": 631.5,
+        "x2": 667.0,
+        "y2": 667.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Email address or phone number",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Email address or phone number",
+        "value": "",
+        "name": "email"
+      },
+      "descriptive_label": "input: Email address or phone number"
+    },
+    {
+      "coordinates": {
+        "x1": 347.0,
+        "y1": 679.5,
+        "x2": 667.0,
+        "y2": 715.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "password",
+      "accessibility": {
+        "aria_label": "Password",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Password",
+        "value": "",
+        "name": "pass"
+      },
+      "descriptive_label": "input: Password"
+    },
+    {
+      "coordinates": {
+        "x1": 347.0,
+        "y1": 747.5,
+        "x2": 445.859375,
+        "y2": 791.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": "1",
+        "name": "login"
+      },
+      "descriptive_label": "button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 465.859375,
+        "y1": 761.5,
+        "x2": 657.796875,
+        "y2": 781.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Forgotten your password?",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Forgotten your password?"
+    },
+    {
+      "coordinates": {
+        "x1": 347.0,
+        "y1": 829.5,
+        "x2": 363.0,
+        "y2": 845.5
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label"
+    },
+    {
+      "coordinates": {
+        "x1": 351.0,
+        "y1": 832.5,
+        "x2": 364.0,
+        "y2": 845.5
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "persistent"
+      },
+      "descriptive_label": "checkbox: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 375.0,
+        "y1": 828.5,
+        "x2": 483.75,
+        "y2": 846.5
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Keep me signed in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Keep me signed in"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 12
+  }
+}

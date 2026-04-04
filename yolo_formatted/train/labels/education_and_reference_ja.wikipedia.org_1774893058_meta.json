@@ -1,0 +1,3992 @@
+{
+  "url": "https://ja.wikipedia.org",
+  "category": "education_and_reference",
+  "timestamp": 1774893059,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 16.0,
+        "x2": 224.5,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 16.0,
+        "x2": 224.5,
+        "y2": 50.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: \u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 16.0,
+        "x2": 224.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 31.5,
+        "x2": 209.0,
+        "y2": 32.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: \u30e1\u30a4\u30f3\u30e1\u30cb\u30e5\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 191.5,
+        "y1": 50.0,
+        "x2": 423.5,
+        "y2": 82.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 89.53125,
+        "x2": 319.03125,
+        "y2": 117.53125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 130.53125,
+        "x2": 392.5,
+        "y2": 164.53125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30e1\u30a4\u30f3\u30da\u30fc\u30b8\u306b\u79fb\u52d5\u3059\u308b [alt-z]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30e1\u30a4\u30f3\u30da\u30fc\u30b8\u306b\u79fb\u52d5\u3059\u308b [alt-z]"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 165.921875,
+        "x2": 392.5,
+        "y2": 199.921875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066\u3001\u3067\u304d\u308b\u3053\u3068\u3001\u60c5\u5831\u3092\u5165\u624b\u3059\u308b\u5834\u6240",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066\u3001\u3067\u304d\u308b\u3053\u3068\u3001\u60c5\u5831\u3092\u5165\u624b\u3059\u308b\u5834\u6240"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 201.3125,
+        "x2": 392.5,
+        "y2": 235.3125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6700\u8fd1\u306e\u51fa\u6765\u4e8b\u306e\u80cc\u666f\u3092\u77e5\u308b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6700\u8fd1\u306e\u51fa\u6765\u4e8b\u306e\u80cc\u666f\u3092\u77e5\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 236.703125,
+        "x2": 392.5,
+        "y2": 270.703125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6700\u8fd1\u65b0\u898f\u306b\u4f5c\u6210\u3055\u308c\u305f\u30da\u30fc\u30b8\u306e\u4e00\u89a7",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6700\u8fd1\u65b0\u898f\u306b\u4f5c\u6210\u3055\u308c\u305f\u30da\u30fc\u30b8\u306e\u4e00\u89a7"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 272.09375,
+        "x2": 392.5,
+        "y2": 306.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30a6\u30a3\u30ad\u306b\u304a\u3051\u308b\u6700\u8fd1\u306e\u66f4\u65b0\u306e\u4e00\u89a7 [alt-r]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30a6\u30a3\u30ad\u306b\u304a\u3051\u308b\u6700\u8fd1\u306e\u66f4\u65b0\u306e\u4e00\u89a7 [alt-r]"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 307.484375,
+        "x2": 392.5,
+        "y2": 341.484375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7121\u4f5c\u70ba\u306b\u9078\u629e\u3055\u308c\u305f\u30da\u30fc\u30b8\u3092\u8aad\u307f\u8fbc\u3080 [alt-x]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7121\u4f5c\u70ba\u306b\u9078\u629e\u3055\u308c\u305f\u30da\u30fc\u30b8\u3092\u8aad\u307f\u8fbc\u3080 [alt-x]"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 342.875,
+        "x2": 392.5,
+        "y2": 376.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7df4\u7fd2\u7528\u306e\u30da\u30fc\u30b8",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7df4\u7fd2\u7528\u306e\u30da\u30fc\u30b8"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 378.265625,
+        "x2": 392.5,
+        "y2": 434.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u753b\u50cf\u3084\u30e1\u30c7\u30a3\u30a2\u30d5\u30a1\u30a4\u30eb\u3092\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30fb\u30b3\u30e2\u30f3\u30ba\u306b\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u753b\u50cf\u3084\u30e1\u30c7\u30a3\u30a2\u30d5\u30a1\u30a4\u30eb\u3092\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30fb\u30b3\u30e2\u30f3\u30ba\u306b\u30a2\u30c3..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 435.65625,
+        "x2": 392.5,
+        "y2": 469.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7279\u5225\u30da\u30fc\u30b8\u306e\u4e00\u89a7 [alt-q]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7279\u5225\u30da\u30fc\u30b8\u306e\u4e00\u89a7 [alt-q]"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 516.65625,
+        "x2": 392.5,
+        "y2": 550.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u60c5\u5831\u3092\u5f97\u308b\u5834\u6240",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u60c5\u5831\u3092\u5f97\u308b\u5834\u6240"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 552.046875,
+        "x2": 392.5,
+        "y2": 586.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 587.4375,
+        "x2": 392.5,
+        "y2": 621.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066\u306e\u610f\u898b\u4ea4\u63db",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066\u306e\u610f\u898b\u4ea4\u63db"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 622.828125,
+        "x2": 392.5,
+        "y2": 656.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066\u306e\u304a\u77e5\u3089\u305b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u3064\u3044\u3066\u306e\u304a\u77e5\u3089\u305b"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 658.21875,
+        "x2": 392.5,
+        "y2": 692.21875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u30fb\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u30d0\u30b0\u5831\u544a",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u30fb\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306e\u30d0\u30b0\u5831\u544a"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 693.609375,
+        "x2": 392.5,
+        "y2": 749.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u3084\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3\u306b\u95a2\u3059\u308b\u9023\u7d61\u5148",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u3084\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3\u306b\u95a2\u3059\u308b\u9023\u7d61\u5148"
+    },
+    {
+      "coordinates": {
+        "x1": 238.5,
+        "y1": 8.0,
+        "x2": 418.5,
+        "y2": 58.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "form",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u691c\u7d22",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: \u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 895.5,
+        "y2": 49.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Wikipedia\u5185\u3092\u691c\u7d22",
+        "title": "Wikipedia\u5185\u3092\u691c\u7d22 [alt-f]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Wikipedia\u5185\u3092\u691c\u7d22",
+        "value": "",
+        "name": "search"
+      },
+      "descriptive_label": "input: Wikipedia\u5185\u3092\u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 894.5,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u691c\u7d22",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 1489.75,
+        "y1": 24.0,
+        "x2": 1517.75,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5bc4\u4ed8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5bc4\u4ed8"
+    },
+    {
+      "coordinates": {
+        "x1": 1525.75,
+        "y1": 24.0,
+        "x2": 1623.75,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u4f5c\u6210\u3057\u3066\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u3053\u3068\u3092\u304a\u52e7\u3081\u3057\u307e\u3059\u304c\u3001\u5fc5\u9808\u3067\u306f\u3042\u308a\u307e\u305b\u3093",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u4f5c\u6210\u3057\u3066\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u3053\u3068\u3092\u304a\u52e7\u3081\u3057\u307e\u3059\u304c\u3001..."
+    },
+    {
+      "coordinates": {
+        "x1": 1631.75,
+        "y1": 24.0,
+        "x2": 1686.5,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u3053\u3068\u3092\u63a8\u5968\u3057\u307e\u3059\u3002\u305f\u3060\u3057\u3001\u5fc5\u9808\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 [alt-o]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b0\u30a4\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30ed\u30b0\u30a4\u30f3\u3059\u308b\u3053\u3068\u3092\u63a8\u5968\u3057\u307e\u3059\u3002\u305f\u3060\u3057\u3001\u5fc5\u9808\u3067\u306f\u3042\u308a\u307e\u305b..."
+    },
+    {
+      "coordinates": {
+        "x1": 198.5,
+        "y1": 90.046875,
+        "x2": 282.5,
+        "y2": 133.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30da\u30fc\u30b8\u3092\u8868\u793a [alt-c]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30e1\u30a4\u30f3\u30da\u30fc\u30b8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30b3\u30f3\u30c6\u30f3\u30c4\u30da\u30fc\u30b8\u3092\u8868\u793a [alt-c]"
+    },
+    {
+      "coordinates": {
+        "x1": 298.5,
+        "y1": 90.046875,
+        "x2": 340.5,
+        "y2": 133.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30da\u30fc\u30b8\u306b\u3064\u3044\u3066\u306e\u8b70\u8ad6 [alt-t]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ce\u30fc\u30c8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30b3\u30f3\u30c6\u30f3\u30c4\u30da\u30fc\u30b8\u306b\u3064\u3044\u3066\u306e\u8b70\u8ad6 [alt-t]"
+    },
+    {
+      "coordinates": {
+        "x1": 1128.5,
+        "y1": 90.046875,
+        "x2": 1156.5,
+        "y2": 133.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u95b2\u89a7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u95b2\u89a7"
+    },
+    {
+      "coordinates": {
+        "x1": 1172.5,
+        "y1": 90.046875,
+        "x2": 1256.5,
+        "y2": 133.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30da\u30fc\u30b8\u306f\u4fdd\u8b77\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\u30da\u30fc\u30b8\u306e\u30bd\u30fc\u30b9\u3092\u95b2\u89a7\u3067\u304d\u307e\u3059\u3002 [alt-e]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30bd\u30fc\u30b9\u3092\u95b2\u89a7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30da\u30fc\u30b8\u306f\u4fdd\u8b77\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\u30da\u30fc\u30b8\u306e\u30bd\u30fc\u30b9\u3092\u95b2\u89a7\u3067..."
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 90.046875,
+        "x2": 1342.5,
+        "y2": 133.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30da\u30fc\u30b8\u306e\u904e\u53bb\u306e\u7248 [alt-h]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5c65\u6b74\u3092\u8868\u793a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30da\u30fc\u30b8\u306e\u904e\u53bb\u306e\u7248 [alt-h]"
+    },
+    {
+      "coordinates": {
+        "x1": 1358.5,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 130.046875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30c4\u30fc\u30eb",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: \u30c4\u30fc\u30eb"
+    },
+    {
+      "coordinates": {
+        "x1": 1358.5,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 130.046875
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "\u30c4\u30fc\u30eb",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: \u30c4\u30fc\u30eb"
+    },
+    {
+      "coordinates": {
+        "x1": 1358.5,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 131.046875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30c4\u30fc\u30eb",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30c4\u30fc\u30eb"
+    },
+    {
+      "coordinates": {
+        "x1": 1358.5,
+        "y1": 102.046875,
+        "x2": 1400.5,
+        "y2": 124.046875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30c4\u30fc\u30eb",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: \u30c4\u30fc\u30eb"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.5,
+        "y1": 130.046875,
+        "x2": 1418.5,
+        "y2": 162.046875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 1256.5,
+        "y1": 146.046875,
+        "x2": 1368.03125,
+        "y2": 174.046875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 228.046875,
+        "x2": 1387.5,
+        "y2": 262.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u3053\u306b\u30ea\u30f3\u30af\u3057\u3066\u3044\u308b\u5168\u30a6\u30a3\u30ad\u30da\u30fc\u30b8\u306e\u4e00\u89a7 [alt-j]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u3053\u306b\u30ea\u30f3\u30af\u3057\u3066\u3044\u308b\u5168\u30a6\u30a3\u30ad\u30da\u30fc\u30b8\u306e\u4e00\u89a7 [alt-j]"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 263.4375,
+        "x2": 1387.5,
+        "y2": 297.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30da\u30fc\u30b8\u304b\u3089\u30ea\u30f3\u30af\u3057\u3066\u3044\u308b\u30da\u30fc\u30b8\u306e\u6700\u8fd1\u306e\u66f4\u65b0 [alt-k]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30da\u30fc\u30b8\u304b\u3089\u30ea\u30f3\u30af\u3057\u3066\u3044\u308b\u30da\u30fc\u30b8\u306e\u6700\u8fd1\u306e\u66f4\u65b0 [al..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 298.828125,
+        "x2": 1387.5,
+        "y2": 332.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30d5\u30a1\u30a4\u30eb\u3092\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3059\u308b [alt-u]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d5\u30a1\u30a4\u30eb\u3092\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3059\u308b [alt-u]"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 334.21875,
+        "x2": 1387.5,
+        "y2": 368.21875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30da\u30fc\u30b8\u306e\u3053\u306e\u7248\u3078\u306e\u56fa\u5b9a\u30ea\u30f3\u30af",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30da\u30fc\u30b8\u306e\u3053\u306e\u7248\u3078\u306e\u56fa\u5b9a\u30ea\u30f3\u30af"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 369.609375,
+        "x2": 1387.5,
+        "y2": 403.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30da\u30fc\u30b8\u306b\u3064\u3044\u3066\u306e\u8a73\u7d30\u60c5\u5831",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30da\u30fc\u30b8\u306b\u3064\u3044\u3066\u306e\u8a73\u7d30\u60c5\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 405.0,
+        "x2": 1387.5,
+        "y2": 439.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 486.0,
+        "x2": 1387.5,
+        "y2": 520.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 521.390625,
+        "x2": 1387.5,
+        "y2": 555.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 556.78125,
+        "x2": 1387.5,
+        "y2": 590.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u3053\u306e\u30da\u30fc\u30b8\u306e\u5370\u5237\u7528\u30da\u30fc\u30b8 [alt-p]",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3053\u306e\u30da\u30fc\u30b8\u306e\u5370\u5237\u7528\u30da\u30fc\u30b8 [alt-p]"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 637.78125,
+        "x2": 1387.5,
+        "y2": 671.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 673.171875,
+        "x2": 1387.5,
+        "y2": 707.171875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 708.5625,
+        "x2": 1387.5,
+        "y2": 742.5625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 743.953125,
+        "x2": 1387.5,
+        "y2": 777.953125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 779.34375,
+        "x2": 1387.5,
+        "y2": 835.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 836.734375,
+        "x2": 1387.5,
+        "y2": 870.734375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 872.125,
+        "x2": 1387.5,
+        "y2": 906.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 907.515625,
+        "x2": 1387.5,
+        "y2": 941.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 942.90625,
+        "x2": 1387.5,
+        "y2": 976.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 978.296875,
+        "x2": 1387.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1498.5,
+        "y1": 135.84375,
+        "x2": 1550.5,
+        "y2": 163.84375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u975e\u8868\u793a",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u975e\u8868\u793a"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 224.84375,
+        "x2": 1478.5,
+        "y2": 244.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "descriptive_label": "radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 223.84375,
+        "x2": 1674.5,
+        "y2": 249.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5c0f",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u5c0f"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 256.84375,
+        "x2": 1478.5,
+        "y2": 276.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "descriptive_label": "radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 255.84375,
+        "x2": 1674.5,
+        "y2": 281.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6a19\u6e96",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u6a19\u6e96"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 288.84375,
+        "x2": 1478.5,
+        "y2": 308.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "2",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "descriptive_label": "radio: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 287.84375,
+        "x2": 1674.5,
+        "y2": 313.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5927",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u5927"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 373.84375,
+        "x2": 1478.5,
+        "y2": 393.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "descriptive_label": "radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 372.84375,
+        "x2": 1674.5,
+        "y2": 398.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6a19\u6e96",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u6a19\u6e96"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 405.84375,
+        "x2": 1478.5,
+        "y2": 425.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "descriptive_label": "radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 404.84375,
+        "x2": 1674.5,
+        "y2": 430.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5e83\u3081",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u5e83\u3081"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 490.84375,
+        "x2": 1478.5,
+        "y2": 510.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "os",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "descriptive_label": "radio: os"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 489.84375,
+        "x2": 1674.5,
+        "y2": 515.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u81ea\u52d5",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u81ea\u52d5"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 522.84375,
+        "x2": 1478.5,
+        "y2": 542.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "day",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "descriptive_label": "radio: day"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 521.84375,
+        "x2": 1674.5,
+        "y2": 547.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30e9\u30a4\u30c8",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u30e9\u30a4\u30c8"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 554.84375,
+        "x2": 1478.5,
+        "y2": 574.84375
+      },
+      "class_id": 7,
+      "class_name": "radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "night",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "descriptive_label": "radio: night"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 553.84375,
+        "x2": 1674.5,
+        "y2": 579.84375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30c0\u30fc\u30af",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: \u30c0\u30fc\u30af"
+    },
+    {
+      "coordinates": {
+        "x1": 369.5,
+        "y1": 167.046875,
+        "x2": 567.078125,
+        "y2": 204.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u306b\u3064\u3044\u3066",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u306b\u3064\u3044\u3066"
+    },
+    {
+      "coordinates": {
+        "x1": 483.203125,
+        "y1": 212.65625,
+        "x2": 592.015625,
+        "y2": 229.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u3078\u3088\u3046\u3053\u305d",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u8ab0\u3067\u3082\u7de8\u96c6\u3067\u304d\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u3078\u3088\u3046\u3053\u305d"
+    },
+    {
+      "coordinates": {
+        "x1": 592.015625,
+        "y1": 212.65625,
+        "x2": 632.828125,
+        "y2": 229.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30f3\u30c8",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30d5\u30ea\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30f3\u30c8"
+    },
+    {
+      "coordinates": {
+        "x1": 632.828125,
+        "y1": 212.65625,
+        "x2": 687.234375,
+        "y2": 229.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u767e\u79d1\u4e8b\u5178",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u767e\u79d1\u4e8b\u5178",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u767e\u79d1\u4e8b\u5178"
+    },
+    {
+      "coordinates": {
+        "x1": 1198.21875,
+        "y1": 245.34375,
+        "x2": 1267.6875,
+        "y2": 265.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7279\u5225:\u7d71\u8a08",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1,495,982",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7279\u5225:\u7d71\u8a08"
+    },
+    {
+      "coordinates": {
+        "x1": 1298.09375,
+        "y1": 245.34375,
+        "x2": 1328.5,
+        "y2": 265.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Help:\u8a18\u4e8b\u3068\u306f\u4f55\u304b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u8a18\u4e8b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help:\u8a18\u4e8b\u3068\u306f\u4f55\u304b"
+    },
+    {
+      "coordinates": {
+        "x1": 1179.75,
+        "y1": 270.890625,
+        "x2": 1404.5,
+        "y2": 287.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:Help for Non-Japanese Speakers",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help for Non-Japanese Speakers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:Help for Non-Japa..."
+    },
+    {
+      "coordinates": {
+        "x1": 215.5,
+        "y1": 323.296875,
+        "x2": 253.5,
+        "y2": 354.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u306a\u8a18\u4e8b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u306a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 218.5,
+        "y1": 415.5,
+        "x2": 368.5,
+        "y2": 436.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 376.5,
+        "y1": 368.421875,
+        "x2": 461.0625,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4e09\u5cf6\u7531\u7d00\u592b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4e09\u5cf6 \u7531\u7d00\u592b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4e09\u5cf6\u7531\u7d00\u592b"
+    },
+    {
+      "coordinates": {
+        "x1": 471.8125,
+        "y1": 368.421875,
+        "x2": 523.40625,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1925\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1925\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1925\u5e74"
+    },
+    {
+      "coordinates": {
+        "x1": 539.5,
+        "y1": 368.421875,
+        "x2": 591.09375,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1970\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1970\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1970\u5e74"
+    },
+    {
+      "coordinates": {
+        "x1": 639.09375,
+        "y1": 368.421875,
+        "x2": 671.09375,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u65e5\u672c",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u672c",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u65e5\u672c"
+    },
+    {
+      "coordinates": {
+        "x1": 687.09375,
+        "y1": 368.421875,
+        "x2": 735.09375,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5c0f\u8aac\u5bb6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5c0f\u8aac\u5bb6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5c0f\u8aac\u5bb6"
+    },
+    {
+      "coordinates": {
+        "x1": 751.09375,
+        "y1": 368.421875,
+        "x2": 799.09375,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5287\u4f5c\u5bb6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5287\u4f5c\u5bb6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5287\u4f5c\u5bb6"
+    },
+    {
+      "coordinates": {
+        "x1": 815.09375,
+        "y1": 368.421875,
+        "x2": 863.09375,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u968f\u7b46\u5bb6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u968f\u7b46\u5bb6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u968f\u7b46\u5bb6"
+    },
+    {
+      "coordinates": {
+        "x1": 376.5,
+        "y1": 368.421875,
+        "x2": 911.09375,
+        "y2": 415.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u8a55\u8ad6\u5bb6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u8a55\u8ad6\u5bb6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u8a55\u8ad6\u5bb6"
+    },
+    {
+      "coordinates": {
+        "x1": 408.5,
+        "y1": 394.421875,
+        "x2": 488.5,
+        "y2": 415.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u653f\u6cbb\u6d3b\u52d5\u5bb6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u653f\u6cbb\u6d3b\u52d5\u5bb6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u653f\u6cbb\u6d3b\u52d5\u5bb6"
+    },
+    {
+      "coordinates": {
+        "x1": 504.5,
+        "y1": 394.421875,
+        "x2": 536.5,
+        "y2": 415.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7687\u56fd\u53f2\u89b3",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u7687\u56fd",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7687\u56fd\u53f2\u89b3"
+    },
+    {
+      "coordinates": {
+        "x1": 648.5,
+        "y1": 394.421875,
+        "x2": 712.5,
+        "y2": 415.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u65e5\u672c\u6587\u5b66",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u672c\u6587\u5b66",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u65e5\u672c\u6587\u5b66"
+    },
+    {
+      "coordinates": {
+        "x1": 456.5,
+        "y1": 420.421875,
+        "x2": 568.5,
+        "y2": 441.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30ce\u30fc\u30d9\u30eb\u6587\u5b66\u8cde",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ce\u30fc\u30d9\u30eb\u6587\u5b66\u8cde",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30ce\u30fc\u30d9\u30eb\u6587\u5b66\u8cde"
+    },
+    {
+      "coordinates": {
+        "x1": 680.5,
+        "y1": 446.421875,
+        "x2": 760.5,
+        "y2": 467.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4eee\u9762\u306e\u544a\u767d",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4eee\u9762\u306e\u544a\u767d",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4eee\u9762\u306e\u544a\u767d"
+    },
+    {
+      "coordinates": {
+        "x1": 784.5,
+        "y1": 446.421875,
+        "x2": 816.5,
+        "y2": 467.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6f6e\u9a12 (\u5c0f\u8aac)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6f6e\u9a12",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6f6e\u9a12 (\u5c0f\u8aac)"
+    },
+    {
+      "coordinates": {
+        "x1": 840.5,
+        "y1": 446.421875,
+        "x2": 888.5,
+        "y2": 467.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u91d1\u95a3\u5bfa (\u5c0f\u8aac)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u91d1\u95a3\u5bfa",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u91d1\u95a3\u5bfa (\u5c0f\u8aac)"
+    },
+    {
+      "coordinates": {
+        "x1": 376.5,
+        "y1": 446.421875,
+        "x2": 928.5,
+        "y2": 493.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u8fd1\u4ee3\u80fd\u697d\u96c6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u8fd1\u4ee3\u80fd\u697d\u96c6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u8fd1\u4ee3\u80fd\u697d\u96c6"
+    },
+    {
+      "coordinates": {
+        "x1": 464.5,
+        "y1": 472.421875,
+        "x2": 560.5,
+        "y2": 493.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30b5\u30c9\u4faf\u7235\u592b\u4eba",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30b5\u30c9\u4faf\u7235\u592b\u4eba",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30b5\u30c9\u4faf\u7235\u592b\u4eba"
+    },
+    {
+      "coordinates": {
+        "x1": 672.03125,
+        "y1": 472.421875,
+        "x2": 704.03125,
+        "y2": 493.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4fee\u8f9e",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4fee\u8f9e",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4fee\u8f9e"
+    },
+    {
+      "coordinates": {
+        "x1": 218.5,
+        "y1": 472.421875,
+        "x2": 912.03125,
+        "y2": 519.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6587\u4f53",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6587\u4f53",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6587\u4f53"
+    },
+    {
+      "coordinates": {
+        "x1": 250.5,
+        "y1": 498.421875,
+        "x2": 282.5,
+        "y2": 519.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u53e4\u5178",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u53e4\u5178",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u53e4\u5178"
+    },
+    {
+      "coordinates": {
+        "x1": 330.5,
+        "y1": 524.421875,
+        "x2": 378.5,
+        "y2": 545.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u696f\u306e\u4f1a",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u696f\u306e\u4f1a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u696f\u306e\u4f1a"
+    },
+    {
+      "coordinates": {
+        "x1": 711.0,
+        "y1": 524.421875,
+        "x2": 807.0,
+        "y2": 545.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5e02\u30f6\u8c37\u99d0\u5c6f\u5730",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5e02\u30f6\u8c37\u99d0\u5c6f\u5730",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5e02\u30f6\u8c37\u99d0\u5c6f\u5730"
+    },
+    {
+      "coordinates": {
+        "x1": 855.0,
+        "y1": 524.421875,
+        "x2": 919.0,
+        "y2": 545.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6771\u90e8\u65b9\u9762\u968a (\u9678\u4e0a\u81ea\u885b\u968a)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6771\u90e8\u65b9\u9762",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6771\u90e8\u65b9\u9762\u968a (\u9678\u4e0a\u81ea\u885b\u968a)"
+    },
+    {
+      "coordinates": {
+        "x1": 633.859375,
+        "y1": 550.421875,
+        "x2": 665.859375,
+        "y2": 571.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5272\u8179",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5272\u8179",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5272\u8179"
+    },
+    {
+      "coordinates": {
+        "x1": 777.390625,
+        "y1": 550.421875,
+        "x2": 825.390625,
+        "y2": 571.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6e80\u5e74\u9f62",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6e80\u5e74\u9f62",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6e80\u5e74\u9f62"
+    },
+    {
+      "coordinates": {
+        "x1": 234.5,
+        "y1": 602.421875,
+        "x2": 266.5,
+        "y2": 623.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u662d\u548c",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u662d\u548c",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u662d\u548c"
+    },
+    {
+      "coordinates": {
+        "x1": 603.375,
+        "y1": 662.421875,
+        "x2": 683.375,
+        "y2": 683.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u306a\u8a18\u4e8b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u79c0\u9038\u306a\u8a18\u4e8b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u306a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 700.25,
+        "y1": 662.421875,
+        "x2": 796.25,
+        "y2": 683.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7279\u5225:\u30ab\u30c6\u30b4\u30ea\u5185\u304a\u307e\u304b\u305b\u8868\u793a/\u79c0\u9038\u306a\u8a18\u4e8b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u304a\u307e\u304b\u305b\u8868\u793a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7279\u5225:\u30ab\u30c6\u30b4\u30ea\u5185\u304a\u307e\u304b\u305b\u8868\u793a/\u79c0\u9038\u306a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 813.125,
+        "y1": 662.421875,
+        "x2": 893.125,
+        "y2": 683.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u30d4\u30c3\u30af\u30a2\u30c3\u30d7",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u3064\u307e\u307f\u8aad\u307f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u30d4\u30c3\u30af\u30a2\u30c3\u30d7"
+    },
+    {
+      "coordinates": {
+        "x1": 910.0,
+        "y1": 662.421875,
+        "x2": 942.0,
+        "y2": 683.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u306a\u8a18\u4e8b\u306e\u9078\u8003",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u9078\u8003",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u306a\u8a18\u4e8b\u306e\u9078\u8003"
+    },
+    {
+      "coordinates": {
+        "x1": 244.09375,
+        "y1": 697.40625,
+        "x2": 419.453125,
+        "y2": 718.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30ab\u30fc\u30eb\u30fb\u30df\u30e5\u30f3\u30d2\u30f3\u30ac\u30fc",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ab\u30fc\u30eb\u30fb\u30df\u30e5\u30f3\u30d2\u30f3\u30ac\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30ab\u30fc\u30eb\u30fb\u30df\u30e5\u30f3\u30d2\u30f3\u30ac\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 611.453125,
+        "y1": 697.40625,
+        "x2": 819.453125,
+        "y2": 718.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30d8\u30eb\u30de\u30f3\u30fb\u30a2\u30fc\u30d9\u30f3\u30c8\u30ed\u30fc\u30c8",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30d8\u30eb\u30de\u30f3\u30fb\u30a2\u30fc\u30d9\u30f3\u30c8\u30ed\u30fc\u30c8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d8\u30eb\u30de\u30f3\u30fb\u30a2\u30fc\u30d9\u30f3\u30c8\u30ed\u30fc\u30c8"
+    },
+    {
+      "coordinates": {
+        "x1": 276.09375,
+        "y1": 723.40625,
+        "x2": 514.984375,
+        "y2": 744.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30b7\u30e5\u30c8\u30a5\u30c3\u30c8\u30ac\u30eb\u30c8\u5ba4\u5185\u7ba1\u5f26\u697d\u56e3",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e5\u30c8\u30a5\u30c3\u30c8\u30ac\u30eb\u30c8\u5ba4\u5185\u7ba1\u5f26\u697d\u56e3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30b7\u30e5\u30c8\u30a5\u30c3\u30c8\u30ac\u30eb\u30c8\u5ba4\u5185\u7ba1\u5f26\u697d\u56e3"
+    },
+    {
+      "coordinates": {
+        "x1": 260.09375,
+        "y1": 777.0,
+        "x2": 324.09375,
+        "y2": 798.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u8001\u4eba\u3068\u6d77",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u8001\u4eba\u3068\u6d77",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u8001\u4eba\u3068\u6d77"
+    },
+    {
+      "coordinates": {
+        "x1": 372.09375,
+        "y1": 777.0,
+        "x2": 421.890625,
+        "y2": 798.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "20\u4e16\u7d00",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "20\u4e16\u7d00",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 20\u4e16\u7d00"
+    },
+    {
+      "coordinates": {
+        "x1": 421.890625,
+        "y1": 777.0,
+        "x2": 484.296875,
+        "y2": 798.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30a2\u30e1\u30ea\u30ab",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd"
+    },
+    {
+      "coordinates": {
+        "x1": 532.296875,
+        "y1": 777.0,
+        "x2": 739.1875,
+        "y2": 798.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30a2\u30fc\u30cd\u30b9\u30c8\u30fb\u30d8\u30df\u30f3\u30b0\u30a6\u30a7\u30a4",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30a2\u30fc\u30cd\u30b9\u30c8\u30fb\u30d8\u30df\u30f3\u30b0\u30a6\u30a7\u30a4",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a2\u30fc\u30cd\u30b9\u30c8\u30fb\u30d8\u30df\u30f3\u30b0\u30a6\u30a7\u30a4"
+    },
+    {
+      "coordinates": {
+        "x1": 787.1875,
+        "y1": 777.0,
+        "x2": 851.1875,
+        "y2": 798.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4e2d\u7de8\u5c0f\u8aac",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4e2d\u7de8\u5c0f\u8aac",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4e2d\u7de8\u5c0f\u8aac"
+    },
+    {
+      "coordinates": {
+        "x1": 581.296875,
+        "y1": 803.0,
+        "x2": 677.296875,
+        "y2": 824.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30d9\u30b9\u30c8\u30bb\u30e9\u30fc",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30d9\u30b9\u30c8\u30bb\u30e9\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d9\u30b9\u30c8\u30bb\u30e9\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 244.09375,
+        "y1": 856.59375,
+        "x2": 308.09375,
+        "y2": 877.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4e39\u5f8c\u675c\u6c0f",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4e39\u5f8c\u675c\u6c0f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4e39\u5f8c\u675c\u6c0f"
+    },
+    {
+      "coordinates": {
+        "x1": 340.09375,
+        "y1": 856.59375,
+        "x2": 388.09375,
+        "y2": 877.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4eac\u90fd\u5e9c",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4eac\u90fd\u5e9c",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4eac\u90fd\u5e9c"
+    },
+    {
+      "coordinates": {
+        "x1": 436.09375,
+        "y1": 856.59375,
+        "x2": 500.09375,
+        "y2": 877.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u4e39\u5f8c\u56fd",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4e39\u5f8c\u5730\u65b9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u4e39\u5f8c\u56fd"
+    },
+    {
+      "coordinates": {
+        "x1": 548.09375,
+        "y1": 856.59375,
+        "x2": 580.09375,
+        "y2": 877.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u675c\u6c0f",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u675c\u6c0f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u675c\u6c0f"
+    },
+    {
+      "coordinates": {
+        "x1": 676.09375,
+        "y1": 856.59375,
+        "x2": 708.09375,
+        "y2": 877.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5b87\u5ddd (\u5730\u540d)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5b87\u5ddd",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5b87\u5ddd (\u5730\u540d)"
+    },
+    {
+      "coordinates": {
+        "x1": 531.453125,
+        "y1": 882.59375,
+        "x2": 595.453125,
+        "y2": 903.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u6c5f\u6238\u6642\u4ee3",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6c5f\u6238\u6642\u4ee3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6c5f\u6238\u6642\u4ee3"
+    },
+    {
+      "coordinates": {
+        "x1": 260.09375,
+        "y1": 908.59375,
+        "x2": 308.09375,
+        "y2": 929.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u51fa\u7a3c\u304e",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u51fa\u7a3c\u304e",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u51fa\u7a3c\u304e"
+    },
+    {
+      "coordinates": {
+        "x1": 603.375,
+        "y1": 942.59375,
+        "x2": 683.375,
+        "y2": 963.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u826f\u8cea\u306a\u8a18\u4e8b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u826f\u8cea\u306a\u8a18\u4e8b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u826f\u8cea\u306a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 700.25,
+        "y1": 942.59375,
+        "x2": 796.25,
+        "y2": 963.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7279\u5225:\u30ab\u30c6\u30b4\u30ea\u5185\u304a\u307e\u304b\u305b\u8868\u793a/\u826f\u8cea\u306a\u8a18\u4e8b",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u304a\u307e\u304b\u305b\u8868\u793a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7279\u5225:\u30ab\u30c6\u30b4\u30ea\u5185\u304a\u307e\u304b\u305b\u8868\u793a/\u826f\u8cea\u306a\u8a18\u4e8b"
+    },
+    {
+      "coordinates": {
+        "x1": 813.125,
+        "y1": 942.59375,
+        "x2": 893.125,
+        "y2": 963.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u826f\u8cea\u30d4\u30c3\u30af\u30a2\u30c3\u30d7",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u3064\u307e\u307f\u8aad\u307f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u826f\u8cea\u30d4\u30c3\u30af\u30a2\u30c3\u30d7"
+    },
+    {
+      "coordinates": {
+        "x1": 910.0,
+        "y1": 942.59375,
+        "x2": 942.0,
+        "y2": 963.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u826f\u8cea\u306a\u8a18\u4e8b/\u826f\u8cea\u306a\u8a18\u4e8b\u306e\u9078\u8003",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u9078\u8003",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u826f\u8cea\u306a\u8a18\u4e8b/\u826f\u8cea\u306a\u8a18\u4e8b\u306e\u9078\u8003"
+    },
+    {
+      "coordinates": {
+        "x1": 979.0,
+        "y1": 323.296875,
+        "x2": 1017.0,
+        "y2": 354.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u306a\u753b\u50cf",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u306a\u753b\u50cf"
+    },
+    {
+      "coordinates": {
+        "x1": 1021.0,
+        "y1": 330.6875,
+        "x2": 1117.0,
+        "y2": 355.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u4eca\u65e5\u306e\u4e00\u679a",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4eca\u65e5\u306e\u4e00\u679a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u4eca\u65e5\u306e\u4e00\u679a"
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 467.09375,
+        "x2": 1340.25,
+        "y2": 488.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30aa\u30b7\u30c9\u30ea (Aix galericulata) \u306e\u30aa\u30b9\uff08\u53f3\uff09\u3068\u30e1\u30b9\uff08\u5de6\uff09\u3001\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9\u306e\u91ce\u9ce5\u4fdd\u8b77\u533a\u30de\u30fc\u30c6\u30a3\u30f3\u30fb\u30df\u30a2\u306b\u3066",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30aa\u30b7\u30c9\u30ea (Aix galericulata) \u306e\u30aa\u30b9..."
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 593.421875,
+        "x2": 1104.25,
+        "y2": 614.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30aa\u30b7\u30c9\u30ea",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30aa\u30b7\u30c9\u30ea",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30aa\u30b7\u30c9\u30ea"
+    },
+    {
+      "coordinates": {
+        "x1": 1040.25,
+        "y1": 645.421875,
+        "x2": 1167.78125,
+        "y2": 666.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30de\u30fc\u30c6\u30a3\u30f3\u30fb\u30df\u30a2 (\u5b58\u5728\u3057\u306a\u3044\u30da\u30fc\u30b8)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30de\u30fc\u30c6\u30a3\u30f3\u30fb\u30df\u30a2",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30de\u30fc\u30c6\u30a3\u30f3\u30fb\u30df\u30a2 (\u5b58\u5728\u3057\u306a\u3044\u30da\u30fc\u30b8)"
+    },
+    {
+      "coordinates": {
+        "x1": 1221.625,
+        "y1": 679.421875,
+        "x2": 1301.625,
+        "y2": 700.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u306a\u753b\u50cf",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u79c0\u9038\u306a\u753b\u50cf",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u306a\u753b\u50cf"
+    },
+    {
+      "coordinates": {
+        "x1": 1318.5,
+        "y1": 679.421875,
+        "x2": 1398.5,
+        "y2": 700.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u79c0\u9038\u306a\u753b\u50cf\u306e\u63a8\u85a6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6295\u7968\u30fb\u63a8\u85a6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u79c0\u9038\u306a\u753b\u50cf\u306e\u63a8\u85a6"
+    },
+    {
+      "coordinates": {
+        "x1": 979.0,
+        "y1": 725.828125,
+        "x2": 1017.0,
+        "y2": 756.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u4eca\u65e5\u306f\u4f55\u306e\u65e5 3\u6708",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u4eca\u65e5\u306f\u4f55\u306e\u65e5 3\u6708"
+    },
+    {
+      "coordinates": {
+        "x1": 1021.0,
+        "y1": 733.21875,
+        "x2": 1136.203125,
+        "y2": 758.21875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikipedia:\u4eca\u65e5\u306f\u4f55\u306e\u65e5 3\u6708",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4eca\u65e5\u306f\u4f55\u306e\u65e5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Wikipedia:\u4eca\u65e5\u306f\u4f55\u306e\u65e5 3\u6708"
+    },
+    {
+      "coordinates": {
+        "x1": 1141.6875,
+        "y1": 733.21875,
+        "x2": 1213.109375,
+        "y2": 758.21875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "3\u670831\u65e5",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "3\u670831\u65e5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3\u670831\u65e5"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 771.75,
+        "x2": 1039.59375,
+        "y2": 792.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5e74\u5ea6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5e74\u5ea6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5e74\u5ea6"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 799.34375,
+        "x2": 1246.3125,
+        "y2": 820.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u56fd\u969b\u30c8\u30e9\u30f3\u30b9\u30b8\u30a7\u30f3\u30c0\u30fc\u8a8d\u77e5\u306e\u65e5",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u56fd\u969b\u30c8\u30e9\u30f3\u30b9\u30b8\u30a7\u30f3\u30c0\u30fc\u8a8d\u77e5\u306e\u65e5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u56fd\u969b\u30c8\u30e9\u30f3\u30b9\u30b8\u30a7\u30f3\u30c0\u30fc\u8a8d\u77e5\u306e\u65e5"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 826.9375,
+        "x2": 1119.59375,
+        "y2": 847.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30ca\u30dd\u30ec\u30aa\u30f3\u6226\u4e89",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ca\u30dd\u30ec\u30aa\u30f3\u6226\u4e89",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30ca\u30dd\u30ec\u30aa\u30f3\u6226\u4e89"
+    },
+    {
+      "coordinates": {
+        "x1": 1231.59375,
+        "y1": 826.9375,
+        "x2": 1263.59375,
+        "y2": 847.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30d1\u30ea",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30d1\u30ea",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d1\u30ea"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 826.9375,
+        "x2": 1391.59375,
+        "y2": 873.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30ca\u30dd\u30ec\u30aa\u30f3\u30fb\u30dc\u30ca\u30d1\u30eb\u30c8",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ca\u30dd\u30ec\u30aa\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30ca\u30dd\u30ec\u30aa\u30f3\u30fb\u30dc\u30ca\u30d1\u30eb\u30c8"
+    },
+    {
+      "coordinates": {
+        "x1": 1135.59375,
+        "y1": 852.9375,
+        "x2": 1187.1875,
+        "y2": 873.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1814\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1814\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1814\u5e74"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 880.53125,
+        "x2": 1103.59375,
+        "y2": 901.53125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u65e5\u7c73\u548c\u89aa\u6761\u7d04",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7c73\u548c\u89aa\u6761\u7d04",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u65e5\u7c73\u548c\u89aa\u6761\u7d04"
+    },
+    {
+      "coordinates": {
+        "x1": 1151.59375,
+        "y1": 880.53125,
+        "x2": 1203.1875,
+        "y2": 901.53125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1854\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1854\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1854\u5e74"
+    },
+    {
+      "coordinates": {
+        "x1": 1219.28125,
+        "y1": 880.53125,
+        "x2": 1251.28125,
+        "y2": 901.53125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u5609\u6c38",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5609\u6c38",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5609\u6c38"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 908.125,
+        "x2": 1103.125,
+        "y2": 929.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u30a8\u30c3\u30d5\u30a7\u30eb\u5854",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30a8\u30c3\u30d5\u30a7\u30eb\u5854",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a8\u30c3\u30d5\u30a7\u30eb\u5854"
+    },
+    {
+      "coordinates": {
+        "x1": 1151.125,
+        "y1": 908.125,
+        "x2": 1202.71875,
+        "y2": 929.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1889\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1889\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1889\u5e74"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 935.71875,
+        "x2": 1151.59375,
+        "y2": 956.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u7b2c\u4e00\u6b21\u30e2\u30ed\u30c3\u30b3\u4e8b\u4ef6",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u7b2c\u4e00\u6b21\u30e2\u30ed\u30c3\u30b3\u4e8b\u4ef6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7b2c\u4e00\u6b21\u30e2\u30ed\u30c3\u30b3\u4e8b\u4ef6"
+    },
+    {
+      "coordinates": {
+        "x1": 1303.59375,
+        "y1": 935.71875,
+        "x2": 1355.1875,
+        "y2": 956.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1905\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1905\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1905\u5e74"
+    },
+    {
+      "coordinates": {
+        "x1": 1007.59375,
+        "y1": 963.3125,
+        "x2": 1087.59375,
+        "y2": 984.3125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u9244\u9053\u56fd\u6709\u6cd5",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u9244\u9053\u56fd\u6709\u6cd5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u9244\u9053\u56fd\u6709\u6cd5"
+    },
+    {
+      "coordinates": {
+        "x1": 1135.59375,
+        "y1": 963.3125,
+        "x2": 1187.1875,
+        "y2": 984.3125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1906\u5e74",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1906\u5e74",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1906\u5e74"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 159
+  }
+}

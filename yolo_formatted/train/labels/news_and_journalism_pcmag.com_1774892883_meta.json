@@ -1,0 +1,842 @@
+{
+  "url": "https://pcmag.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892883,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 263.5,
+        "y1": 21.0,
+        "x2": 264.5,
+        "y2": 22.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 22.0,
+        "x2": 284.5,
+        "y2": 42.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Hamburger Menu Toggle",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Hamburger Menu Toggle"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 0,
+        "x2": 360.5,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "PCMag Logo",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PCMag Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 372.5,
+        "y1": 24.25,
+        "x2": 530.34375,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "#AmazonBigSpringSale",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "#AmazonBigSpringSale",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: #AmazonBigSpringSale"
+    },
+    {
+      "coordinates": {
+        "x1": 546.34375,
+        "y1": 24.25,
+        "x2": 637.765625,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Best Products",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Best Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Best Products"
+    },
+    {
+      "coordinates": {
+        "x1": 653.765625,
+        "y1": 24.25,
+        "x2": 741.515625,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Comparisons",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Comparisons",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Comparisons"
+    },
+    {
+      "coordinates": {
+        "x1": 757.515625,
+        "y1": 24.25,
+        "x2": 811.921875,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Reviews",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Reviews",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Reviews"
+    },
+    {
+      "coordinates": {
+        "x1": 827.921875,
+        "y1": 24.25,
+        "x2": 878.140625,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "How-To",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "How-To",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: How-To"
+    },
+    {
+      "coordinates": {
+        "x1": 894.140625,
+        "y1": 24.25,
+        "x2": 930.984375,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 946.984375,
+        "y1": 24.25,
+        "x2": 984.0625,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Deals",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Deals"
+    },
+    {
+      "coordinates": {
+        "x1": 1000.0625,
+        "y1": 24.25,
+        "x2": 1078.390625,
+        "y2": 43.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Newsletters",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1094.390625,
+        "y1": 19.0,
+        "x2": 1305.40625,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Maggie: AI Product Finder",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Maggie: AI Product Finder",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Maggie: AI Product Finder"
+    },
+    {
+      "coordinates": {
+        "x1": 1592.5,
+        "y1": 16.0,
+        "x2": 1624.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle Search"
+    },
+    {
+      "coordinates": {
+        "x1": 772.609375,
+        "y1": 80.0,
+        "x2": 848.453125,
+        "y2": 94.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "How We Test Everything We Review",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "independently",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: How We Test Everything We R..."
+    },
+    {
+      "coordinates": {
+        "x1": 1306.453125,
+        "y1": 80.0,
+        "x2": 1343.625,
+        "y2": 94.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "testing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: testing"
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 213.5,
+        "x2": 536.5,
+        "y2": 261.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Meet Maggie, PCMag's AI-Powered Product FinderBETA",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Meet Maggie, PCMag's AI-Pow..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 296.5,
+        "x2": 515.34375,
+        "y2": 339.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EarFun Clip Review: Solid Sound and Situational Awareness on a Budget",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: EarFun Clip Review: Solid S..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 401.5,
+        "x2": 520.859375,
+        "y2": 444.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Samsung Galaxy Buds 4 Pro Review: Superb Sound for Galaxy Phone Users",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Samsung Galaxy Buds 4 Pro R..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 506.5,
+        "x2": 521.34375,
+        "y2": 549.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Human or AI? These 7 Clues Will Help You Spot Fake Images Immediately",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Human or AI? These 7 Clues ..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 611.5,
+        "x2": 528.90625,
+        "y2": 678.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Take Up to 50% Off on Wi-Fi Mesh and Routers With These Amazon Big Spring Sale Discounts, While You Still Can",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Take Up to 50% Off on Wi-Fi..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 740.5,
+        "x2": 530.75,
+        "y2": 807.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "HP FilmScan 7-Inch Touch Screen Film Scanner Review: Casual Digitizing Gets an Upgrade",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: HP FilmScan 7-Inch Touch Sc..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 845.5,
+        "x2": 511.71875,
+        "y2": 912.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Amazon's Spring Sale Brings Big Savings Up to 60% Off SSD and HDD Storage",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Amazon's Spring Sale Brings..."
+    },
+    {
+      "coordinates": {
+        "x1": 264.5,
+        "y1": 950.5,
+        "x2": 527.78125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Your Digital Life Called, It Wants Better Security: Webroot Total Protection Is 50% Off Right Now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Your Digital Life Called, I..."
+    },
+    {
+      "coordinates": {
+        "x1": 568.5,
+        "y1": 175.0,
+        "x2": 1624.5,
+        "y2": 548.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PlayStation 5 vs. PlayStation 5 Pro: Which Should You Buy Before the Price Hike?\nThe $749.99 PS5 Pro costs significantly more than the base PS5\u2014but both consoles will see steep price increases on April 2. If you want to save money now, here's how to decide which console is right for you.\nBY WILL GREENWALD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PlayStation 5 vs. PlayStati..."
+    },
+    {
+      "coordinates": {
+        "x1": 568.5,
+        "y1": 596.390625,
+        "x2": 1096.5,
+        "y2": 711.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "We Found Almost 100 of the Best Tech Deals From Amazon's Big Spring Sale\nBY K. THOR JENSEN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: We Found Almost 100 of the ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1096.5,
+        "y1": 596.390625,
+        "x2": 1624.5,
+        "y2": 711.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Machine That Changed Everything: How The Apple II Kickstarted the PC Era\nBY JAMIE LENDINO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Machine That Changed Ev..."
+    },
+    {
+      "coordinates": {
+        "x1": 568.5,
+        "y1": 775.890625,
+        "x2": 1096.5,
+        "y2": 871.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Windows Update Hype vs. Reality: Why I'm Skeptical\nBY CHRIS HOFFMAN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Windows Update Hype vs. Rea..."
+    },
+    {
+      "coordinates": {
+        "x1": 1096.5,
+        "y1": 775.890625,
+        "x2": 1624.5,
+        "y2": 891.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Thanks to the Starlink Mini, I Survived a 246-Mile Road Trip With Two Kids\nBY BRIAN WESTOVER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Thanks to the Starlink Mini..."
+    },
+    {
+      "coordinates": {
+        "x1": 568.5,
+        "y1": 955.390625,
+        "x2": 1096.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Is My Router Banned? Everything You Need to Know About the New FCC Rules\nBY MICHAEL KAN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Is My Router Banned? Everyt..."
+    },
+    {
+      "coordinates": {
+        "x1": 1096.5,
+        "y1": 955.390625,
+        "x2": 1624.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Protect Yourself Online With 75% off Proton VPN ($2.49 per month)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Protect Yourself Online With 75% off Proton VPN ($2.49 per month)\nDAILY DEAL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Protect Yourself Online Wit..."
+    },
+    {
+      "coordinates": {
+        "x1": 350.421875,
+        "y1": 869.875,
+        "x2": 435.875,
+        "y2": 884.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 368.0,
+        "y1": 907.390625,
+        "x2": 543.0,
+        "y2": 949.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More Options, Opens the preference center dialog",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "More Options",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More Options, Opens the pre..."
+    },
+    {
+      "coordinates": {
+        "x1": 556.0,
+        "y1": 907.390625,
+        "x2": 686.0,
+        "y2": 949.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "I Consent",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: I Consent"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 33
+  }
+}

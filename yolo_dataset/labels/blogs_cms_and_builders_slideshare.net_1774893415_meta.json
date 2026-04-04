@@ -1,0 +1,442 @@
+{
+  "url": "https://slideshare.net",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1774893415,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1862.34375,
+        "y1": 898.65625,
+        "x2": 1886.34375,
+        "y2": 922.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 446.40625,
+        "y1": 938.0,
+        "x2": 541.46875,
+        "y2": 955.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 24.0,
+        "x2": 48.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Open navigation menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open navigation menu"
+    },
+    {
+      "coordinates": {
+        "x1": 88.0,
+        "y1": 24.0,
+        "x2": 254.0,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Slideshare a Scribd company logo",
+        "title": "Return to the homepage",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Slideshare a Scribd company..."
+    },
+    {
+      "coordinates": {
+        "x1": 410.9375,
+        "y1": 16.0,
+        "x2": 1210.9375,
+        "y2": 56.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search Slideshare",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "input: Search Slideshare"
+    },
+    {
+      "coordinates": {
+        "x1": 1164.9375,
+        "y1": 20.0,
+        "x2": 1196.9375,
+        "y2": 52.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1367.875,
+        "y1": 16.0,
+        "x2": 1436.984375,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Change Language",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Change Language"
+    },
+    {
+      "coordinates": {
+        "x1": 1460.984375,
+        "y1": 18.0,
+        "x2": 1549.125,
+        "y2": 54.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upload",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Upload"
+    },
+    {
+      "coordinates": {
+        "x1": 1573.125,
+        "y1": 18.0,
+        "x2": 1784.140625,
+        "y2": 54.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Signup now for a Slideshare account",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download free for 30 days",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Signup now for a Slideshare..."
+    },
+    {
+      "coordinates": {
+        "x1": 1808.140625,
+        "y1": 18.0,
+        "x2": 1870.0,
+        "y2": 54.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 155.0,
+        "y1": 457.796875,
+        "x2": 284.625,
+        "y2": 489.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Nail your pitch",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Nail your pitch"
+    },
+    {
+      "coordinates": {
+        "x1": 292.625,
+        "y1": 457.796875,
+        "x2": 440.109375,
+        "y2": 489.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore AI trends",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Explore AI trends"
+    },
+    {
+      "coordinates": {
+        "x1": 448.109375,
+        "y1": 457.796875,
+        "x2": 629.5,
+        "y2": 489.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Present your research",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Present your research"
+    },
+    {
+      "coordinates": {
+        "x1": 637.5,
+        "y1": 457.796875,
+        "x2": 767.71875,
+        "y2": 489.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Future of work",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Future of work"
+    },
+    {
+      "coordinates": {
+        "x1": 1056.34375,
+        "y1": 617.796875,
+        "x2": 1739.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1038.34375,
+        "y1": 791.78125,
+        "x2": 1074.34375,
+        "y2": 827.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1721.0,
+        "y1": 791.78125,
+        "x2": 1757.0,
+        "y2": 827.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Next"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 17
+  }
+}

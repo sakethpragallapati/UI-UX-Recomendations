@@ -1,0 +1,442 @@
+{
+  "url": "https://dropcatch.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1774893775,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 56.0,
+        "x2": 540.28125,
+        "y2": 86.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1313.046875,
+        "y1": 51.0,
+        "x2": 1371.453125,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.453125,
+        "y1": 51.0,
+        "x2": 1489.5,
+        "y2": 91.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Create Account"
+    },
+    {
+      "coordinates": {
+        "x1": 1491.5,
+        "y1": 47.0,
+        "x2": 1539.5,
+        "y2": 95.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Language Menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "language",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Language Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1491.5,
+        "y1": 47.0,
+        "x2": 1539.5,
+        "y2": 95.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1491.5,
+        "y1": 47.0,
+        "x2": 1539.5,
+        "y2": 95.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 349.5,
+        "y1": 118.0,
+        "x2": 432.390625,
+        "y2": 158.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Auctions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Auctions"
+    },
+    {
+      "coordinates": {
+        "x1": 434.390625,
+        "y1": 118.0,
+        "x2": 533.875,
+        "y2": 158.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Downloads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Downloads"
+    },
+    {
+      "coordinates": {
+        "x1": 535.875,
+        "y1": 118.0,
+        "x2": 650.828125,
+        "y2": 158.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "How It Works",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: How It Works"
+    },
+    {
+      "coordinates": {
+        "x1": 1129.5,
+        "y1": 118.5,
+        "x2": 1529.5,
+        "y2": 158.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search for domains",
+        "title": "Search for domains",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for domains",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search for domains"
+    },
+    {
+      "coordinates": {
+        "x1": 1488.5,
+        "y1": 122.5,
+        "x2": 1524.5,
+        "y2": 158.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submit",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submit"
+    },
+    {
+      "coordinates": {
+        "x1": 526.5,
+        "y1": 307.390625,
+        "x2": 551.5,
+        "y2": 332.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "arrow_left",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: arrow_left"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 307.390625,
+        "x2": 637.703125,
+        "y2": 332.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "name",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Domain",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: name"
+    },
+    {
+      "coordinates": {
+        "x1": 864.1875,
+        "y1": 307.390625,
+        "x2": 895.65625,
+        "y2": 332.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "expirationDate",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Time",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: expirationDate"
+    },
+    {
+      "coordinates": {
+        "x1": 972.3125,
+        "y1": 307.390625,
+        "x2": 1002.09375,
+        "y2": 332.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "recordType",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Type",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: recordType"
+    },
+    {
+      "coordinates": {
+        "x1": 1080.4375,
+        "y1": 307.390625,
+        "x2": 1132.90625,
+        "y2": 332.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "highBid",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "High Bid",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: highBid"
+    },
+    {
+      "coordinates": {
+        "x1": 1188.5625,
+        "y1": 307.390625,
+        "x2": 1244.234375,
+        "y2": 332.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "numberOfBids",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "# of Bids",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: numberOfBids"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 17
+  }
+}

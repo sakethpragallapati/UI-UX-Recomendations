@@ -1,0 +1,792 @@
+{
+  "url": "https://play.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1774891713,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 28.0,
+        "y1": 0,
+        "x2": 195.515625,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Google Play logo",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "google_logo Play",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Play logo"
+    },
+    {
+      "coordinates": {
+        "x1": 209.515625,
+        "y1": 0,
+        "x2": 288.8125,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Games",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Games"
+    },
+    {
+      "coordinates": {
+        "x1": 288.8125,
+        "y1": 0,
+        "x2": 355.46875,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Apps",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 355.46875,
+        "y1": 0,
+        "x2": 428.515625,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Books",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Books"
+    },
+    {
+      "coordinates": {
+        "x1": 428.515625,
+        "y1": 0,
+        "x2": 489.5625,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Kids",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Kids"
+    },
+    {
+      "coordinates": {
+        "x1": 1735.0,
+        "y1": 8.0,
+        "x2": 1783.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1783.0,
+        "y1": 8.0,
+        "x2": 1831.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Help Center",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "help_outline",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Help Center"
+    },
+    {
+      "coordinates": {
+        "x1": 1831.0,
+        "y1": 8.0,
+        "x2": 1879.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open account menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open account menu"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 88.0,
+        "x2": 420.09375,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Windows",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "desktop_windows\nWindows",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 432.09375,
+        "y1": 88.0,
+        "x2": 536.390625,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Phone",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "phone_android\nPhone",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Phone"
+    },
+    {
+      "coordinates": {
+        "x1": 548.390625,
+        "y1": 88.0,
+        "x2": 651.46875,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Tablet",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "tablet_android\nTablet",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tablet"
+    },
+    {
+      "coordinates": {
+        "x1": 663.46875,
+        "y1": 88.0,
+        "x2": 743.046875,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "TV",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "tv\nTV",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TV"
+    },
+    {
+      "coordinates": {
+        "x1": 755.046875,
+        "y1": 88.0,
+        "x2": 905.015625,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Chromebook",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "laptop_chromebook\nChromebook",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Chromebook"
+    },
+    {
+      "coordinates": {
+        "x1": 917.015625,
+        "y1": 88.0,
+        "x2": 1021.890625,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Watch",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "watch\nWatch",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Watch"
+    },
+    {
+      "coordinates": {
+        "x1": 1033.890625,
+        "y1": 88.0,
+        "x2": 1172.109375,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "XR headset",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "head_mounted_device\nXR headset",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: XR headset"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 174.0,
+        "x2": 822.5,
+        "y2": 567.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ragnarok: Origin Classic, now on PC!\nGet started with Google Play Games",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ragnarok: Origin Classic, n..."
+    },
+    {
+      "coordinates": {
+        "x1": 320.5,
+        "y1": 491.875,
+        "x2": 622.5,
+        "y2": 541.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Seven Deadly Sins: Origin\nNetmarble\n\u2022",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Seven Deadly Sins: Orig..."
+    },
+    {
+      "coordinates": {
+        "x1": 622.5,
+        "y1": 489.875,
+        "x2": 798.5,
+        "y2": 525.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Install on Windows",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Install on Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 846.5,
+        "y1": 174.0,
+        "x2": 1372.5,
+        "y2": 567.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Last War:Survival Game, on PC!\nGet started with Google Play Games",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Last War:Survival Game, on ..."
+    },
+    {
+      "coordinates": {
+        "x1": 870.5,
+        "y1": 491.875,
+        "x2": 1172.5,
+        "y2": 541.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Last War:Survival Game\nFUNFLY PTE. LTD.\n\u2022",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Last War:Survival Game\nFUNF..."
+    },
+    {
+      "coordinates": {
+        "x1": 1172.5,
+        "y1": 489.875,
+        "x2": 1348.5,
+        "y2": 525.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Install on Windows",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Install on Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 1396.5,
+        "y1": 174.0,
+        "x2": 1904,
+        "y2": 567.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Clash Royale, on PC!\nGet started with Google Play Games",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Clash Royale, on PC!\nGet st..."
+    },
+    {
+      "coordinates": {
+        "x1": 1420.5,
+        "y1": 491.875,
+        "x2": 1722.5,
+        "y2": 541.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Clash Royale\nSupercell\n\u2022",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Clash Royale\nSupercell\n\u2022"
+    },
+    {
+      "coordinates": {
+        "x1": 1722.5,
+        "y1": 489.875,
+        "x2": 1898.5,
+        "y2": 525.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Install on Windows",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Install on Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 685.875,
+        "x2": 712.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Free Fire MAX: Lost Treasure\nAction\n\u2022\nTactical shooter\n4.3\nstar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Free Fire MAX: Lost Treasur..."
+    },
+    {
+      "coordinates": {
+        "x1": 468.5,
+        "y1": 766.875,
+        "x2": 540.5,
+        "y2": 838.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Free Fire MAX: Lost Treasure",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Play Free Fire MAX: Lost Tr..."
+    },
+    {
+      "coordinates": {
+        "x1": 736.5,
+        "y1": 685.875,
+        "x2": 1152.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ludo King\u00ae\nBoard\n\u2022\nLudo\n4.0\nstar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ludo King\u00ae\nBoard\n\u2022\nLudo\n4.0..."
+    },
+    {
+      "coordinates": {
+        "x1": 908.5,
+        "y1": 766.875,
+        "x2": 980.5,
+        "y2": 838.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Ludo King\u00ae",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Play Ludo King\u00ae"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 685.875,
+        "x2": 1592.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Chess - Play and Learn Online\nBoard\n\u2022\nChess\n4.7\nstar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Chess - Play and Learn Onli..."
+    },
+    {
+      "coordinates": {
+        "x1": 1616.5,
+        "y1": 685.875,
+        "x2": 1904,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Clash of Clans\nStrategy\n\u2022\nBuild & battle\n4.5\nstar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Clash of Clans\nStrategy\n\u2022\nB..."
+    },
+    {
+      "coordinates": {
+        "x1": 1788.5,
+        "y1": 766.875,
+        "x2": 1860.5,
+        "y2": 838.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Clash of Clans",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Play Clash of Clans"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 31
+  }
+}

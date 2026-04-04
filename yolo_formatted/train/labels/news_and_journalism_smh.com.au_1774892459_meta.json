@@ -1,0 +1,867 @@
+{
+  "url": "https://smh.com.au",
+  "category": "news_and_journalism",
+  "timestamp": 1774892459,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1593.0,
+        "y1": 111.953125,
+        "x2": 1639.6875,
+        "y2": 127.953125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1455.515625,
+        "y1": 287.5,
+        "x2": 1508.5,
+        "y2": 326.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 380.5,
+        "y1": 347.0,
+        "x2": 420.5,
+        "y2": 385.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OPEN NAVIGATION\nMENU",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: OPEN NAVIGATION\nMENU"
+    },
+    {
+      "coordinates": {
+        "x1": 424.5,
+        "y1": 347.0,
+        "x2": 464.5,
+        "y2": 385.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "metro-search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: metro-search"
+    },
+    {
+      "coordinates": {
+        "x1": 760.125,
+        "y1": 308.0,
+        "x2": 1128.875,
+        "y2": 348.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Sydney Morning Herald",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Sydney Morning Herald"
+    },
+    {
+      "coordinates": {
+        "x1": 602.71875,
+        "y1": 396.0,
+        "x2": 657.359375,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SYDNEY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SYDNEY"
+    },
+    {
+      "coordinates": {
+        "x1": 681.359375,
+        "y1": 396.0,
+        "x2": 745.140625,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "POLITICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: POLITICS"
+    },
+    {
+      "coordinates": {
+        "x1": 769.140625,
+        "y1": 396.0,
+        "x2": 837.421875,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "BUSINESS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: BUSINESS"
+    },
+    {
+      "coordinates": {
+        "x1": 861.421875,
+        "y1": 396.0,
+        "x2": 911.28125,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WORLD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WORLD"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 396.0,
+        "x2": 1019.515625,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "GOOD FOOD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: GOOD FOOD"
+    },
+    {
+      "coordinates": {
+        "x1": 1043.515625,
+        "y1": 396.0,
+        "x2": 1116.125,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LIFESTYLE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: LIFESTYLE"
+    },
+    {
+      "coordinates": {
+        "x1": 1140.125,
+        "y1": 396.0,
+        "x2": 1217.765625,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TRAVELLER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TRAVELLER"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.765625,
+        "y1": 396.0,
+        "x2": 1286.265625,
+        "y2": 413.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SPORT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SPORT"
+    },
+    {
+      "coordinates": {
+        "x1": 380.5,
+        "y1": 439.0,
+        "x2": 440.5,
+        "y2": 499.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 448.5,
+        "y1": 443.0,
+        "x2": 671.484375,
+        "y2": 459.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Live Well newsletter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Live Well newsletter"
+    },
+    {
+      "coordinates": {
+        "x1": 704.484375,
+        "y1": 439.0,
+        "x2": 764.484375,
+        "y2": 499.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 772.484375,
+        "y1": 443.0,
+        "x2": 995.46875,
+        "y2": 459.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Interactive: Search for uni courses",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Interactive: Search for uni..."
+    },
+    {
+      "coordinates": {
+        "x1": 1028.46875,
+        "y1": 439.0,
+        "x2": 1088.46875,
+        "y2": 499.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1096.46875,
+        "y1": 443.0,
+        "x2": 1319.453125,
+        "y2": 459.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mini Crossword",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mini Crossword"
+    },
+    {
+      "coordinates": {
+        "x1": 1343.453125,
+        "y1": 470.0,
+        "x2": 1500.78125,
+        "y2": 487.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sydney\nWeather forecast",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sydney\nWeather forecast"
+    },
+    {
+      "coordinates": {
+        "x1": 439.953125,
+        "y1": 537.0,
+        "x2": 495.203125,
+        "y2": 553.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Education",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Education"
+    },
+    {
+      "coordinates": {
+        "x1": 380.5,
+        "y1": 565.0,
+        "x2": 729.734375,
+        "y2": 725.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sydney\u2019s alternative school goes mainstream \u2013 and gets a new name",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sydney\u2019s alternative school..."
+    },
+    {
+      "coordinates": {
+        "x1": 380.5,
+        "y1": 733.0,
+        "x2": 729.734375,
+        "y2": 965.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 778.734375,
+        "y1": 537.0,
+        "x2": 896.4375,
+        "y2": 553.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Porepunkah shooting",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Porepunkah shooting"
+    },
+    {
+      "coordinates": {
+        "x1": 778.734375,
+        "y1": 565.0,
+        "x2": 1126.96875,
+        "y2": 661.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Inside the squalid bush encampment where Dezi Freeman died",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Inside the squalid bush enc..."
+    },
+    {
+      "coordinates": {
+        "x1": 962.96875,
+        "y1": 669.0,
+        "x2": 1126.96875,
+        "y2": 778.328125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 830.609375,
+        "y1": 840.0,
+        "x2": 933.765625,
+        "y2": 856.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Middle East at war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Middle East at war"
+    },
+    {
+      "coordinates": {
+        "x1": 778.734375,
+        "y1": 868.0,
+        "x2": 1126.96875,
+        "y2": 932.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Trump is steering the world into a food crisis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump is steering the world..."
+    },
+    {
+      "coordinates": {
+        "x1": 1174.96875,
+        "y1": 578.0,
+        "x2": 1508.5,
+        "y2": 800.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1228.875,
+        "y1": 814.359375,
+        "x2": 1332.03125,
+        "y2": 830.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Middle East at war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Middle East at war"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.96875,
+        "y1": 842.359375,
+        "x2": 1508.5,
+        "y2": 914.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The PM is on a collision course with the RBA, and he\u2019s dragging you with him",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The PM is on a collision co..."
+    },
+    {
+      "coordinates": {
+        "x1": 1174.96875,
+        "y1": 922.359375,
+        "x2": 1249.015625,
+        "y2": 938.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Articles by Shane Wright",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Shane Wright",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Articles by Shane Wright"
+    },
+    {
+      "coordinates": {
+        "x1": 1364.5,
+        "y1": 971.359375,
+        "x2": 1508.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.421875,
+        "y1": 973.359375,
+        "x2": 1257.953125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CBD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: CBD"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 34
+  }
+}

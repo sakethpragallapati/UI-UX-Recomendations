@@ -1,0 +1,1667 @@
+{
+  "url": "https://cpanel.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893470,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 20.0,
+        "y2": 10.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 20.0,
+        "y2": 10.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to footer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to footer"
+    },
+    {
+      "coordinates": {
+        "x1": 1215.3125,
+        "y1": 6.796875,
+        "x2": 1363.625,
+        "y2": 43.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Discover the promo",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download Now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Discover the promo"
+    },
+    {
+      "coordinates": {
+        "x1": 224.5,
+        "y1": 70.0,
+        "x2": 386.984375,
+        "y2": 118.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 567.625,
+        "y1": 82.796875,
+        "x2": 658.203125,
+        "y2": 105.1875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Product",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Product"
+    },
+    {
+      "coordinates": {
+        "x1": 642.203125,
+        "y1": 85.984375,
+        "x2": 658.203125,
+        "y2": 101.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle dropdown",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 567.625,
+        "y1": 141.1875,
+        "x2": 807.625,
+        "y2": 373.140625
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "ul",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 161.1875,
+        "x2": 783.625,
+        "y2": 199.578125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 161.1875,
+        "x2": 783.625,
+        "y2": 199.578125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 199.578125,
+        "x2": 783.625,
+        "y2": 237.96875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 199.578125,
+        "x2": 783.625,
+        "y2": 237.96875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 237.96875,
+        "x2": 783.625,
+        "y2": 276.359375
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 237.96875,
+        "x2": 783.625,
+        "y2": 276.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 276.359375,
+        "x2": 783.625,
+        "y2": 314.75
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 276.359375,
+        "x2": 783.625,
+        "y2": 314.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Releases link (opens in new tab)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Releases link (opens in new..."
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 314.75,
+        "x2": 783.625,
+        "y2": 353.140625
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 591.625,
+        "y1": 314.75,
+        "x2": 783.625,
+        "y2": 353.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 690.203125,
+        "y1": 82.796875,
+        "x2": 790.59375,
+        "y2": 105.1875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 774.59375,
+        "y1": 85.984375,
+        "x2": 790.59375,
+        "y2": 101.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle dropdown",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 690.203125,
+        "y1": 141.1875,
+        "x2": 930.203125,
+        "y2": 526.703125
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "ul",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 161.1875,
+        "x2": 906.203125,
+        "y2": 199.578125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 161.1875,
+        "x2": 875.453125,
+        "y2": 199.578125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 199.578125,
+        "x2": 906.203125,
+        "y2": 237.96875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 199.578125,
+        "x2": 906.203125,
+        "y2": 237.96875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 237.96875,
+        "x2": 906.203125,
+        "y2": 276.359375
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 237.96875,
+        "x2": 906.203125,
+        "y2": 276.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 276.359375,
+        "x2": 906.203125,
+        "y2": 314.75
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 276.359375,
+        "x2": 906.203125,
+        "y2": 314.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 314.75,
+        "x2": 906.203125,
+        "y2": 353.140625
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 314.75,
+        "x2": 906.203125,
+        "y2": 353.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 353.140625,
+        "x2": 906.203125,
+        "y2": 391.53125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 353.140625,
+        "x2": 906.203125,
+        "y2": 391.53125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 391.53125,
+        "x2": 906.203125,
+        "y2": 429.921875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 391.53125,
+        "x2": 906.203125,
+        "y2": 429.921875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 429.921875,
+        "x2": 906.203125,
+        "y2": 468.3125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 429.921875,
+        "x2": 906.203125,
+        "y2": 468.3125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 468.3125,
+        "x2": 906.203125,
+        "y2": 506.703125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 714.203125,
+        "y1": 468.3125,
+        "x2": 906.203125,
+        "y2": 506.703125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 822.59375,
+        "y1": 82.796875,
+        "x2": 879.28125,
+        "y2": 105.1875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 822.59375,
+        "y1": 82.796875,
+        "x2": 879.28125,
+        "y2": 105.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 911.28125,
+        "y1": 82.796875,
+        "x2": 1019.65625,
+        "y2": 105.1875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1003.65625,
+        "y1": 85.984375,
+        "x2": 1019.65625,
+        "y2": 101.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle dropdown",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 911.28125,
+        "y1": 141.1875,
+        "x2": 1151.28125,
+        "y2": 373.140625
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "ul",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 161.1875,
+        "x2": 1127.28125,
+        "y2": 199.578125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 161.1875,
+        "x2": 1127.28125,
+        "y2": 199.578125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 199.578125,
+        "x2": 1127.28125,
+        "y2": 237.96875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 199.578125,
+        "x2": 1127.28125,
+        "y2": 237.96875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 237.96875,
+        "x2": 1127.28125,
+        "y2": 276.359375
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 237.96875,
+        "x2": 1127.28125,
+        "y2": 276.359375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Roadmap link (opens in new tab)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Roadmap link (opens in new ..."
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 276.359375,
+        "x2": 1127.28125,
+        "y2": 314.75
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 276.359375,
+        "x2": 1127.28125,
+        "y2": 314.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 314.75,
+        "x2": 1127.28125,
+        "y2": 353.140625
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 935.28125,
+        "y1": 314.75,
+        "x2": 1127.28125,
+        "y2": 353.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "cPanel University link (opens in new tab)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: cPanel University link (ope..."
+    },
+    {
+      "coordinates": {
+        "x1": 1051.65625,
+        "y1": 82.796875,
+        "x2": 1129.0625,
+        "y2": 105.1875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Company",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Company"
+    },
+    {
+      "coordinates": {
+        "x1": 1051.65625,
+        "y1": 82.796875,
+        "x2": 1129.0625,
+        "y2": 105.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Company",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Company"
+    },
+    {
+      "coordinates": {
+        "x1": 1161.0625,
+        "y1": 82.796875,
+        "x2": 1255.578125,
+        "y2": 105.1875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Partners",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Partners"
+    },
+    {
+      "coordinates": {
+        "x1": 1239.578125,
+        "y1": 85.984375,
+        "x2": 1255.578125,
+        "y2": 101.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle dropdown",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 1161.0625,
+        "y1": 141.1875,
+        "x2": 1401.0625,
+        "y2": 257.96875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "ul",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.0625,
+        "y1": 161.1875,
+        "x2": 1377.0625,
+        "y2": 199.578125
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.0625,
+        "y1": 161.1875,
+        "x2": 1377.0625,
+        "y2": 199.578125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.0625,
+        "y1": 199.578125,
+        "x2": 1377.0625,
+        "y2": 237.96875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.0625,
+        "y1": 199.578125,
+        "x2": 1377.0625,
+        "y2": 237.96875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1404.234375,
+        "y1": 73.203125,
+        "x2": 1501.90625,
+        "y2": 114.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Login to cPanel client area link (opens in new tab)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Login to cPanel client area..."
+    },
+    {
+      "coordinates": {
+        "x1": 1533.90625,
+        "y1": 73.203125,
+        "x2": 1664.5,
+        "y2": 114.796875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Free trial of cPanel",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Free Trial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Free trial of cPanel"
+    },
+    {
+      "coordinates": {
+        "x1": 224.5,
+        "y1": 572.75,
+        "x2": 413.09375,
+        "y2": 628.34375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Free Trial of cPanel",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Free Trial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Free Trial of cPanel"
+    },
+    {
+      "coordinates": {
+        "x1": 453.09375,
+        "y1": 572.75,
+        "x2": 658.265625,
+        "y2": 628.34375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buy cPanel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Buy cPanel"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 66
+  }
+}

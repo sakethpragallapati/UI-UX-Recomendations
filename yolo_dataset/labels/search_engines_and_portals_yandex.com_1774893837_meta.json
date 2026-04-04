@@ -1,0 +1,367 @@
+{
+  "url": "https://yandex.com",
+  "category": "search_engines_and_portals",
+  "timestamp": 1774893837,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1815.203125,
+        "y1": 35.984375,
+        "x2": 1863.203125,
+        "y2": 83.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Profile, not logged in",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Profile, not logged in"
+    },
+    {
+      "coordinates": {
+        "x1": 432.0,
+        "y1": 298.125,
+        "x2": 555.703125,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Images",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Images"
+    },
+    {
+      "coordinates": {
+        "x1": 562.890625,
+        "y1": 298.125,
+        "x2": 686.609375,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Video",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Video"
+    },
+    {
+      "coordinates": {
+        "x1": 693.796875,
+        "y1": 298.125,
+        "x2": 817.5,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Maps",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Maps"
+    },
+    {
+      "coordinates": {
+        "x1": 824.6875,
+        "y1": 298.125,
+        "x2": 948.40625,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Translate",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Translate"
+    },
+    {
+      "coordinates": {
+        "x1": 955.59375,
+        "y1": 298.125,
+        "x2": 1079.296875,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Weather",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Weather"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.484375,
+        "y1": 298.125,
+        "x2": 1210.203125,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mail",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mail"
+    },
+    {
+      "coordinates": {
+        "x1": 1217.390625,
+        "y1": 298.125,
+        "x2": 1341.09375,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Games",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Games"
+    },
+    {
+      "coordinates": {
+        "x1": 1348.28125,
+        "y1": 298.125,
+        "x2": 1472.0,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "All services",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: All services"
+    },
+    {
+      "coordinates": {
+        "x1": 449.59375,
+        "y1": 446.484375,
+        "x2": 1392.0625,
+        "y2": 495.296875
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Request",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search with Yandex AI",
+        "value": "",
+        "name": "text"
+      },
+      "descriptive_label": "input: Request"
+    },
+    {
+      "coordinates": {
+        "x1": 449.59375,
+        "y1": 457.890625,
+        "x2": 664.9375,
+        "y2": 483.890625
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search with Yandex AI",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search with Yandex AI"
+    },
+    {
+      "coordinates": {
+        "x1": 1353.65625,
+        "y1": 446.484375,
+        "x2": 1404.03125,
+        "y2": 495.296875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Keyboard",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Keyboard"
+    },
+    {
+      "coordinates": {
+        "x1": 1404.03125,
+        "y1": 446.484375,
+        "x2": 1454.40625,
+        "y2": 495.296875
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "file",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input"
+    },
+    {
+      "coordinates": {
+        "x1": 1404.03125,
+        "y1": 446.484375,
+        "x2": 1454.40625,
+        "y2": 495.296875
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Image search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Image search"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 14
+  }
+}

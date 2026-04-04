@@ -1,0 +1,2117 @@
+{
+  "url": "https://cnbc.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892606,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 299.5,
+        "y1": 0,
+        "x2": 352.921875,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LIVE",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: LIVE"
+    },
+    {
+      "coordinates": {
+        "x1": 401.921875,
+        "y1": 0,
+        "x2": 1361.921875,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LIVE: White House press secretary Karoline Leavitt holds a briefing with reporters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: LIVE: White House press sec..."
+    },
+    {
+      "coordinates": {
+        "x1": 1572.5,
+        "y1": 11.0,
+        "x2": 1587.5,
+        "y2": 26.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 299.5,
+        "y1": 53.0,
+        "x2": 407.5,
+        "y2": 81.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 307.5,
+        "y1": 95.5,
+        "x2": 323.5,
+        "y2": 118.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Navigation Menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open Navigation Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 329.5,
+        "y1": 85.5,
+        "x2": 416.546875,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "MARKETS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: MARKETS"
+    },
+    {
+      "coordinates": {
+        "x1": 329.5,
+        "y1": 85.5,
+        "x2": 416.546875,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MARKETS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: MARKETS"
+    },
+    {
+      "coordinates": {
+        "x1": 344.5,
+        "y1": 90.5,
+        "x2": 408.546875,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MARKETS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: MARKETS"
+    },
+    {
+      "coordinates": {
+        "x1": 416.546875,
+        "y1": 85.5,
+        "x2": 506.390625,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "BUSINESS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: BUSINESS"
+    },
+    {
+      "coordinates": {
+        "x1": 416.546875,
+        "y1": 85.5,
+        "x2": 506.390625,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "BUSINESS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: BUSINESS"
+    },
+    {
+      "coordinates": {
+        "x1": 431.546875,
+        "y1": 90.5,
+        "x2": 498.390625,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "BUSINESS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: BUSINESS"
+    },
+    {
+      "coordinates": {
+        "x1": 506.390625,
+        "y1": 85.5,
+        "x2": 601.703125,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "INVESTING",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: INVESTING"
+    },
+    {
+      "coordinates": {
+        "x1": 506.390625,
+        "y1": 85.5,
+        "x2": 601.703125,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INVESTING",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: INVESTING"
+    },
+    {
+      "coordinates": {
+        "x1": 521.390625,
+        "y1": 90.5,
+        "x2": 593.703125,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INVESTING",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: INVESTING"
+    },
+    {
+      "coordinates": {
+        "x1": 601.703125,
+        "y1": 85.5,
+        "x2": 660.859375,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "TECH",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: TECH"
+    },
+    {
+      "coordinates": {
+        "x1": 601.703125,
+        "y1": 85.5,
+        "x2": 660.859375,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TECH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: TECH"
+    },
+    {
+      "coordinates": {
+        "x1": 616.703125,
+        "y1": 90.5,
+        "x2": 652.859375,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TECH",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: TECH"
+    },
+    {
+      "coordinates": {
+        "x1": 660.859375,
+        "y1": 85.5,
+        "x2": 744.4375,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "POLITICS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: POLITICS"
+    },
+    {
+      "coordinates": {
+        "x1": 660.859375,
+        "y1": 85.5,
+        "x2": 744.4375,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "POLITICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: POLITICS"
+    },
+    {
+      "coordinates": {
+        "x1": 675.859375,
+        "y1": 90.5,
+        "x2": 736.4375,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "POLITICS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: POLITICS"
+    },
+    {
+      "coordinates": {
+        "x1": 744.4375,
+        "y1": 85.5,
+        "x2": 809.765625,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "VIDEO",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: VIDEO"
+    },
+    {
+      "coordinates": {
+        "x1": 744.4375,
+        "y1": 85.5,
+        "x2": 809.765625,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VIDEO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: VIDEO"
+    },
+    {
+      "coordinates": {
+        "x1": 759.4375,
+        "y1": 90.5,
+        "x2": 801.765625,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VIDEO",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: VIDEO"
+    },
+    {
+      "coordinates": {
+        "x1": 809.765625,
+        "y1": 85.5,
+        "x2": 944.71875,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "INVESTING CLUB",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: INVESTING CLUB"
+    },
+    {
+      "coordinates": {
+        "x1": 809.765625,
+        "y1": 85.5,
+        "x2": 944.71875,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INVESTING CLUB",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: INVESTING CLUB"
+    },
+    {
+      "coordinates": {
+        "x1": 824.765625,
+        "y1": 90.5,
+        "x2": 936.71875,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INVESTING CLUB",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: INVESTING CLUB"
+    },
+    {
+      "coordinates": {
+        "x1": 965.71875,
+        "y1": 85.5,
+        "x2": 1017.15625,
+        "y2": 120.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "PRO",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: PRO"
+    },
+    {
+      "coordinates": {
+        "x1": 965.71875,
+        "y1": 85.5,
+        "x2": 1017.15625,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PRO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: PRO"
+    },
+    {
+      "coordinates": {
+        "x1": 980.71875,
+        "y1": 90.5,
+        "x2": 1009.15625,
+        "y2": 120.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PRO",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: PRO"
+    },
+    {
+      "coordinates": {
+        "x1": 1359.5,
+        "y1": 97.0,
+        "x2": 1426.0625,
+        "y2": 120.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MAKE IT",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "button: MAKE IT"
+    },
+    {
+      "coordinates": {
+        "x1": 1359.5,
+        "y1": 97.0,
+        "x2": 1409.0625,
+        "y2": 113.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "makeit",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MAKE IT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: makeit"
+    },
+    {
+      "coordinates": {
+        "x1": 1434.0625,
+        "y1": 97.0,
+        "x2": 1496.1875,
+        "y2": 114.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "SELECT",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: SELECT"
+    },
+    {
+      "coordinates": {
+        "x1": 1523.4599609375,
+        "y1": 96.0,
+        "x2": 1548.5068359375,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "USA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: USA"
+    },
+    {
+      "coordinates": {
+        "x1": 1564.1005859375,
+        "y1": 96.0,
+        "x2": 1591.2880859375,
+        "y2": 114.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INTL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: INTL"
+    },
+    {
+      "coordinates": {
+        "x1": 960.984375,
+        "y1": 50.0,
+        "x2": 1210.984375,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search quotes, news & videos",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1233.984375,
+        "y1": 55.5,
+        "x2": 1309.46875,
+        "y2": 73.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WATCHLIST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WATCHLIST"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.46875,
+        "y1": 55.0,
+        "x2": 1338.46875,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Show Notifications",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Show Notifications"
+    },
+    {
+      "coordinates": {
+        "x1": 1364.46875,
+        "y1": 58.0,
+        "x2": 1415.25,
+        "y2": 70.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SIGN IN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SIGN IN"
+    },
+    {
+      "coordinates": {
+        "x1": 1431.25,
+        "y1": 54.0,
+        "x2": 1589.5,
+        "y2": 74.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CREATE FREE ACCOUNT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: CREATE FREE ACCOUNT"
+    },
+    {
+      "coordinates": {
+        "x1": 299.5,
+        "y1": 160.0,
+        "x2": 323.5,
+        "y2": 177.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Add markets banner",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Add markets banner"
+    },
+    {
+      "coordinates": {
+        "x1": 333.5,
+        "y1": 158.203125,
+        "x2": 362.84375,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "EUR",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: EUR"
+    },
+    {
+      "coordinates": {
+        "x1": 376.84375,
+        "y1": 158.203125,
+        "x2": 410.125,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "ASIA",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: ASIA"
+    },
+    {
+      "coordinates": {
+        "x1": 424.125,
+        "y1": 158.203125,
+        "x2": 443.71875,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "US",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: US"
+    },
+    {
+      "coordinates": {
+        "x1": 457.71875,
+        "y1": 158.203125,
+        "x2": 520.3125,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "PRE-MKT",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: PRE-MKT"
+    },
+    {
+      "coordinates": {
+        "x1": 534.3125,
+        "y1": 158.203125,
+        "x2": 557.6875,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "OIL",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: OIL"
+    },
+    {
+      "coordinates": {
+        "x1": 571.6875,
+        "y1": 158.203125,
+        "x2": 622.8125,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "BONDS",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: BONDS"
+    },
+    {
+      "coordinates": {
+        "x1": 636.8125,
+        "y1": 158.203125,
+        "x2": 676.96875,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "GOLD",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: GOLD"
+    },
+    {
+      "coordinates": {
+        "x1": 690.96875,
+        "y1": 158.203125,
+        "x2": 709.3125,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "FX",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: FX"
+    },
+    {
+      "coordinates": {
+        "x1": 723.3125,
+        "y1": 158.203125,
+        "x2": 780.9375,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "CRYPTO",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: CRYPTO"
+    },
+    {
+      "coordinates": {
+        "x1": 299.5,
+        "y1": 192.0,
+        "x2": 489.5,
+        "y2": 258.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "STOXX600*\n580.73\n+5.43\n+0.94%\nLAST | 4:00:00 PM GMT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: STOXX600*\n580.73\n+5.43\n+0.9..."
+    },
+    {
+      "coordinates": {
+        "x1": 539.5,
+        "y1": 192.0,
+        "x2": 729.5,
+        "y2": 258.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "DAX*\n22,562.88\n+262.13\n+1.18%\nLAST | 6:00:00 PM CEST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: DAX*\n22,562.88\n+262.13\n+1.1..."
+    },
+    {
+      "coordinates": {
+        "x1": 779.5,
+        "y1": 192.0,
+        "x2": 969.5,
+        "y2": 258.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FTSE*\n10,127.96\n+160.61\n+1.61%\nLAST | 4:40:00 PM BST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: FTSE*\n10,127.96\n+160.61\n+1...."
+    },
+    {
+      "coordinates": {
+        "x1": 1019.5,
+        "y1": 192.0,
+        "x2": 1209.5,
+        "y2": 258.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CAC*\n7,772.45\n+70.50\n+0.92%\nLAST | 6:05:02 PM CEST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: CAC*\n7,772.45\n+70.50\n+0.92%..."
+    },
+    {
+      "coordinates": {
+        "x1": 1259.5,
+        "y1": 192.0,
+        "x2": 1449.5,
+        "y2": 258.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FTSE MIB*\n43,823.24\n+444.14\n+1.02%\nLAST | 4:35:00 PM BST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: FTSE MIB*\n43,823.24\n+444.14..."
+    },
+    {
+      "coordinates": {
+        "x1": 299.5,
+        "y1": 268.0,
+        "x2": 949.34375,
+        "y2": 288.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "European markets close higher as Iran war intensifies and economic sentiment sours",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: European markets close high..."
+    },
+    {
+      "coordinates": {
+        "x1": 404.625,
+        "y1": 444.5,
+        "x2": 557.203125,
+        "y2": 466.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Europe market moves",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Europe market moves",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Europe market moves"
+    },
+    {
+      "coordinates": {
+        "x1": 607.203125,
+        "y1": 444.5,
+        "x2": 689.203125,
+        "y2": 466.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "U.S. futures",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "U.S. futures",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: U.S. futures"
+    },
+    {
+      "coordinates": {
+        "x1": 739.203125,
+        "y1": 444.5,
+        "x2": 874.984375,
+        "y2": 466.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Mistral's AI funding",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mistral\u2019s AI funding",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mistral's AI funding"
+    },
+    {
+      "coordinates": {
+        "x1": 924.984375,
+        "y1": 444.5,
+        "x2": 1114.859375,
+        "y2": 466.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pessimism for EU economy",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pessimism for EU economy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pessimism for EU economy"
+    },
+    {
+      "coordinates": {
+        "x1": 1164.859375,
+        "y1": 444.5,
+        "x2": 1293.21875,
+        "y2": 466.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cuba's oil delivery",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cuba\u2019s oil delivery",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cuba's oil delivery"
+    },
+    {
+      "coordinates": {
+        "x1": 1343.21875,
+        "y1": 444.5,
+        "x2": 1445.484375,
+        "y2": 466.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Quantum IPOs",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quantum IPOs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quantum IPOs"
+    },
+    {
+      "coordinates": {
+        "x1": 298.5,
+        "y1": 493.0,
+        "x2": 928.5,
+        "y2": 913.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump says U.S. will destro..."
+    },
+    {
+      "coordinates": {
+        "x1": 330.5,
+        "y1": 773.0,
+        "x2": 876.28125,
+        "y2": 893.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to \u2018immediately\u2019 reopen Hormuz Strait",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump says U.S. will destro..."
+    },
+    {
+      "coordinates": {
+        "x1": 330.5,
+        "y1": 908.0,
+        "x2": 822.171875,
+        "y2": 947.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "European markets close higher as Iran war intensifies and economic sentiment sours",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "European markets close higher as Iran war intensifies and economic sentiment sours",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: European markets close high..."
+    },
+    {
+      "coordinates": {
+        "x1": 375.953125,
+        "y1": 968.0,
+        "x2": 662.859375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Dow rises as fears of Fed rate hike ease: Live updates",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Dow rises as fears of Fed rate hike ease",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Dow rises as fears of Fed r..."
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 493.0,
+        "x2": 1256.5,
+        "y2": 662.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Iran's attacks on aluminum ..."
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 669.0,
+        "x2": 1251.46875,
+        "y2": 735.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Iran\u2019s attacks on aluminum producers are sending \u2018shockwaves\u2019 through the metals market",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Iran's attacks on aluminum ..."
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 762.0,
+        "x2": 1256.5,
+        "y2": 931.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Samsung-backed AI chip firm..."
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 938.0,
+        "x2": 1256.140625,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Samsung-backed AI chip firm..."
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 554.0,
+        "x2": 1348.765625,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 553.0,
+        "x2": 1546.84375,
+        "y2": 614.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Watch the S&P 500 after other indexes fall into correction, says Jay Woods",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Watch the S&P 500 after other indexes fall into correction, says Jay Woods",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Watch the S&P 500 after oth..."
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 655.0,
+        "x2": 1348.765625,
+        "y2": 675.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 654.0,
+        "x2": 1524.53125,
+        "y2": 734.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Private credit fears have ripped through Wall Street in 2026. Why they may be overblown",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Private credit fears have ripped through Wall Street in 2026. Why they may be overblown",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Private credit fears have r..."
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 775.0,
+        "x2": 1353.859375,
+        "y2": 795.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 774.0,
+        "x2": 1515.796875,
+        "y2": 835.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Why our cybersecurity stocks are rebounding after getting hammered last week ",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Why our cybersecurity stocks are rebounding after getting hammered last week",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Why our cybersecurity stock..."
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 874.0,
+        "x2": 1548.96875,
+        "y2": 935.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "We can't predict recessions. Stop trying, this former Trump economist says.",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "We can\u2019t predict recessions. Stop trying, this former Trump economist says.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: We can't predict recessions..."
+    },
+    {
+      "coordinates": {
+        "x1": 1309.5,
+        "y1": 974.0,
+        "x2": 1555.046875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Stocks making big moves midday: Fannie Mae, Boston Scientific, Blackstone",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Stocks making big moves midday: Fannie Mae, Boston Scientific, Blackstone",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Stocks making big moves mid..."
+    },
+    {
+      "coordinates": {
+        "x1": 162.375,
+        "y1": 870.9375,
+        "x2": 208.484375,
+        "y2": 889.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Versant",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Versant"
+    },
+    {
+      "coordinates": {
+        "x1": 502.15625,
+        "y1": 870.9375,
+        "x2": 538.328125,
+        "y2": 889.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 773.78125,
+        "y1": 870.9375,
+        "x2": 856.90625,
+        "y2": 889.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 314.796875,
+        "y1": 890.453125,
+        "x2": 341.640625,
+        "y2": 909.453125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "here",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: here"
+    },
+    {
+      "coordinates": {
+        "x1": 592.625,
+        "y1": 942.484375,
+        "x2": 675.75,
+        "y2": 961.484375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 703.9375,
+        "y1": 942.484375,
+        "x2": 787.765625,
+        "y2": 961.484375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Notice",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cookie Notice"
+    },
+    {
+      "coordinates": {
+        "x1": 1385.515625,
+        "y1": 895.6640625,
+        "x2": 1510.515625,
+        "y2": 937.2734375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Continue",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Continue"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 84
+  }
+}

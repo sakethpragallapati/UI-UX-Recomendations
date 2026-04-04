@@ -1,0 +1,1467 @@
+{
+  "url": "https://youtu.be",
+  "category": "video_and_streaming",
+  "timestamp": 1774891853,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 16.0,
+        "x2": 48.0,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Guide",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Guide"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 8.0,
+        "x2": 56.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-interaction",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 56.0,
+        "y1": 0,
+        "x2": 179.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "YouTube Home",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: YouTube Home"
+    },
+    {
+      "coordinates": {
+        "x1": 643.5,
+        "y1": 16.0,
+        "x2": 1158.5,
+        "y2": 40.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "search_query"
+      },
+      "descriptive_label": "input: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1162.5,
+        "y1": 8.0,
+        "x2": 1226.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "Search",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1242.5,
+        "y1": 8.0,
+        "x2": 1282.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search with your voice",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search with your voice"
+    },
+    {
+      "coordinates": {
+        "x1": 1250.5,
+        "y1": 16.0,
+        "x2": 1274.5,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-icon-button",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1734.375,
+        "y1": 16.0,
+        "x2": 1758.375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Settings",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1734.375,
+        "y1": 16.0,
+        "x2": 1758.375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-icon",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-interaction",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1774.375,
+        "y1": 10.0,
+        "x2": 1873.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1784.375,
+        "y1": 16.0,
+        "x2": 1808.375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1814.375,
+        "y1": 10.0,
+        "x2": 1857.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 68.0,
+        "x2": 216.0,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 68.0,
+        "x2": 216.0,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 108.0,
+        "x2": 216.0,
+        "y2": 148.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Shorts",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Shorts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Shorts"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 108.0,
+        "x2": 216.0,
+        "y2": 148.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Shorts",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Shorts"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 148.0,
+        "x2": 216.0,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Subscriptions",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Subscriptions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Subscriptions"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 148.0,
+        "x2": 216.0,
+        "y2": 188.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Subscriptions",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Subscriptions"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 188.0,
+        "x2": 216.0,
+        "y2": 228.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "You",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "You",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: You"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 188.0,
+        "x2": 216.0,
+        "y2": 228.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "You",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: You"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 228.0,
+        "x2": 216.0,
+        "y2": 268.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "History",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "History",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: History"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 228.0,
+        "x2": 216.0,
+        "y2": 268.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "History",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: History"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 349.0,
+        "x2": 130.625,
+        "y2": 385.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 42.0,
+        "y1": 355.0,
+        "x2": 66.0,
+        "y2": 379.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 72.0,
+        "y1": 349.0,
+        "x2": 114.625,
+        "y2": 385.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 446.0,
+        "x2": 216.0,
+        "y2": 486.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Shopping",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Shopping",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Shopping"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 446.0,
+        "x2": 216.0,
+        "y2": 486.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Shopping",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Shopping"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 486.0,
+        "x2": 216.0,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Music",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Music",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Music"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 486.0,
+        "x2": 216.0,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Music",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Music"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 526.0,
+        "x2": 216.0,
+        "y2": 566.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Movies",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Movies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Movies"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 526.0,
+        "x2": 216.0,
+        "y2": 566.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Movies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Movies"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 566.0,
+        "x2": 216.0,
+        "y2": 606.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "ytd-guide-entry-renderer",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Show more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Show more"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 566.0,
+        "x2": 216.0,
+        "y2": 606.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Show more",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Show more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Show more"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 566.0,
+        "x2": 216.0,
+        "y2": 606.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Show more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Show more"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 663.0,
+        "x2": 216.0,
+        "y2": 703.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "YouTube Premium",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "YouTube Premium",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: YouTube Premium"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 663.0,
+        "x2": 216.0,
+        "y2": 703.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "YouTube Premium",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: YouTube Premium"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 703.0,
+        "x2": 216.0,
+        "y2": 743.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "YouTube Music",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "YouTube Music",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: YouTube Music"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 703.0,
+        "x2": 216.0,
+        "y2": 743.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "YouTube Music",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: YouTube Music"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 743.0,
+        "x2": 216.0,
+        "y2": 783.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "YouTube Kids",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "YouTube Kids",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: YouTube Kids"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 743.0,
+        "x2": 216.0,
+        "y2": 783.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "YouTube Kids",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: YouTube Kids"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 808.0,
+        "x2": 216.0,
+        "y2": 848.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Report history",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Report history",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Report history"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 808.0,
+        "x2": 216.0,
+        "y2": 848.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "tp-yt-paper-item",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "link"
+      },
+      "content": {
+        "text": "Report history",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "link: Report history"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 877.0,
+        "x2": 58.875,
+        "y2": 895.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 66.875,
+        "y1": 877.0,
+        "x2": 100.0,
+        "y2": 895.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Press",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Press"
+    },
+    {
+      "coordinates": {
+        "x1": 108.0,
+        "y1": 877.0,
+        "x2": 164.3125,
+        "y2": 895.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Copyright",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Copyright"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 895.0,
+        "x2": 86.703125,
+        "y2": 913.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Contact us"
+    },
+    {
+      "coordinates": {
+        "x1": 94.703125,
+        "y1": 895.0,
+        "x2": 144.484375,
+        "y2": 913.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Creators",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Creators"
+    },
+    {
+      "coordinates": {
+        "x1": 152.484375,
+        "y1": 895.0,
+        "x2": 207.984375,
+        "y2": 913.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Advertise",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Advertise"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 913.0,
+        "x2": 88.953125,
+        "y2": 931.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 943.0,
+        "x2": 60.890625,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 68.890625,
+        "y1": 943.0,
+        "x2": 111.625,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy"
+    },
+    {
+      "coordinates": {
+        "x1": 119.625,
+        "y1": 943.0,
+        "x2": 206.765625,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Policy & Safety",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Policy & Safety"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 961.0,
+        "x2": 142.828125,
+        "y2": 979.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "How YouTube works",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: How YouTube works"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 979.0,
+        "x2": 127.71875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Test new features",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Test new features"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 58
+  }
+}

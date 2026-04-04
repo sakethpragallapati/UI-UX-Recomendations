@@ -1,0 +1,542 @@
+{
+  "url": "https://adobe.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893446,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 232.0,
+        "y1": 0,
+        "x2": 314.40625,
+        "y2": 63.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Adobe",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Adobe"
+    },
+    {
+      "coordinates": {
+        "x1": 314.40625,
+        "y1": 0,
+        "x2": 478.515625,
+        "y2": 63.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Creativity & Design",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Creativity & Design"
+    },
+    {
+      "coordinates": {
+        "x1": 478.515625,
+        "y1": 0,
+        "x2": 640.578125,
+        "y2": 63.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PDF & E-signatures",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: PDF & E-signatures"
+    },
+    {
+      "coordinates": {
+        "x1": 640.578125,
+        "y1": 0,
+        "x2": 829.046875,
+        "y2": 63.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Marketing & Commerce",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Marketing & Commerce"
+    },
+    {
+      "coordinates": {
+        "x1": 829.046875,
+        "y1": 0,
+        "x2": 975.890625,
+        "y2": 63.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn & Support",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Learn & Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1536.0,
+        "y1": 15.5,
+        "x2": 1568.0,
+        "y2": 47.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "App switcher",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: App switcher"
+    },
+    {
+      "coordinates": {
+        "x1": 1576.0,
+        "y1": 15.5,
+        "x2": 1653.125,
+        "y2": 47.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 873.53125,
+        "y1": 258.0,
+        "x2": 1030.46875,
+        "y2": 308.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "See all plans",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: See all plans"
+    },
+    {
+      "coordinates": {
+        "x1": 56.0,
+        "y1": 380.0,
+        "x2": 1240.0,
+        "y2": 880.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Save 50% on Creative Cloud Pro.\nGet Photoshop, Illustrator, and more apps plus creative AI. And save for the first 3 months. Terms apply.*\nBuy now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Save 50% on Creative Cloud ..."
+    },
+    {
+      "coordinates": {
+        "x1": 80.0,
+        "y1": 485.0,
+        "x2": 183.984375,
+        "y2": 525.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Buy now Creative Cloud",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buy now",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Buy now Creative Cloud"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.0,
+        "y1": 380.0,
+        "x2": 1848.0,
+        "y2": 880.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ADOBE FIREFLY\nSave 50% and go unlimited until Apr 22.\nGet unlimited generations on select models and save 50% on our biggest Firefly plans.\nLearn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: ADOBE FIREFLY\nSave 50% and ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1296.0,
+        "y1": 548.0,
+        "x2": 1423.3125,
+        "y2": 588.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Learn more - Save 50% and go unlimited until Apr 22.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Learn more - Save 50% and g..."
+    },
+    {
+      "coordinates": {
+        "x1": 814.0,
+        "y1": 913.0,
+        "x2": 1090.0,
+        "y2": 961.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "section",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ask a question",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Ask a question"
+    },
+    {
+      "coordinates": {
+        "x1": 814.0,
+        "y1": 913.0,
+        "x2": 1090.0,
+        "y2": 961.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ask a question",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Ask a question"
+    },
+    {
+      "coordinates": {
+        "x1": 56.0,
+        "y1": 944.0,
+        "x2": 632.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ADOBE ACROBAT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: ADOBE ACROBAT"
+    },
+    {
+      "coordinates": {
+        "x1": 664.0,
+        "y1": 944.0,
+        "x2": 1240.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "STUDENTS AND TEACHERS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: STUDENTS AND TEACHERS"
+    },
+    {
+      "coordinates": {
+        "x1": 1281.0,
+        "y1": 323.0,
+        "x2": 1307.0,
+        "y2": 349.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 650.0,
+        "y1": 376.0,
+        "x2": 706.0625,
+        "y2": 434.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: English"
+    },
+    {
+      "coordinates": {
+        "x1": 730.0625,
+        "y1": 376.0,
+        "x2": 770.1875,
+        "y2": 434.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "\u0939\u093f\u0928\u094d\u0926\u0940",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "coordinates": {
+        "x1": 648.0,
+        "y1": 584.78125,
+        "x2": 770.828125,
+        "y2": 625.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "India",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: India"
+    },
+    {
+      "coordinates": {
+        "x1": 794.828125,
+        "y1": 593.0,
+        "x2": 895.78125,
+        "y2": 613.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "United States",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: United States"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 21
+  }
+}

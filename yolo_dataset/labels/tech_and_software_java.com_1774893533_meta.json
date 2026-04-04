@@ -1,0 +1,342 @@
+{
+  "url": "https://java.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893533,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 13.0,
+        "x2": 79.0,
+        "y2": 45.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "java.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: java.com"
+    },
+    {
+      "coordinates": {
+        "x1": 109.0,
+        "y1": 10.0,
+        "x2": 326.90625,
+        "y2": 53.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Developer Resources",
+        "title": "Developer Resources",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 346.90625,
+        "y1": 10.0,
+        "x2": 562.890625,
+        "y2": 53.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Enterprise Resources",
+        "title": "Enterprise Resources",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Enterprise Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 582.890625,
+        "y1": 10.0,
+        "x2": 815.46875,
+        "y2": 53.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Java for Desktop Apps",
+        "title": "Java for Desktop Apps",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Java for Desktop Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Java for Desktop Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 1198.3125,
+        "y1": 461.0,
+        "x2": 1283.15625,
+        "y2": 504.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Register"
+    },
+    {
+      "coordinates": {
+        "x1": 465.5,
+        "y1": 749.390625,
+        "x2": 710.234375,
+        "y2": 793.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download Java for Desktops",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Download Java for Desktops"
+    },
+    {
+      "coordinates": {
+        "x1": 465.5,
+        "y1": 809.390625,
+        "x2": 554.046875,
+        "y2": 830.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "What is Java",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: What is Java"
+    },
+    {
+      "coordinates": {
+        "x1": 465.5,
+        "y1": 841.78125,
+        "x2": 595.796875,
+        "y2": 862.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help for end users",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help for end users"
+    },
+    {
+      "coordinates": {
+        "x1": 985.5,
+        "y1": 755.78125,
+        "x2": 1138.15625,
+        "y2": 776.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Attend JavaOne 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Attend JavaOne 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 985.5,
+        "y1": 788.171875,
+        "x2": 1141.171875,
+        "y2": 809.171875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Downloads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developer Downloads"
+    },
+    {
+      "coordinates": {
+        "x1": 985.5,
+        "y1": 820.5625,
+        "x2": 1135.15625,
+        "y2": 841.5625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 985.5,
+        "y1": 852.953125,
+        "x2": 1135.4375,
+        "y2": 873.953125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Enterprise Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 985.5,
+        "y1": 885.34375,
+        "x2": 1145.703125,
+        "y2": 906.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OpenJDK Early Access",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: OpenJDK Early Access"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 13
+  }
+}

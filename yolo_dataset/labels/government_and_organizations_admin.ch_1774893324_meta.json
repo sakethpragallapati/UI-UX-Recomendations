@@ -1,0 +1,1192 @@
+{
+  "url": "https://admin.ch",
+  "category": "government_and_organizations",
+  "timestamp": 1774893324,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 28.984375,
+        "x2": 504.625,
+        "y2": 55.984375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Der Bundesrat",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Der Bundesrat"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 28.984375,
+        "x2": 504.625,
+        "y2": 55.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Der Bundesrat",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Der Bundesrat",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Der Bundesrat"
+    },
+    {
+      "coordinates": {
+        "x1": 1381.265625,
+        "y1": 30.984375,
+        "x2": 1406.109375,
+        "y2": 54.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Deutsch selected",
+        "title": "Deutsch selected",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "DE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Deutsch selected"
+    },
+    {
+      "coordinates": {
+        "x1": 1409.25,
+        "y1": 30.984375,
+        "x2": 1432.171875,
+        "y2": 54.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Franz\u00f6sisch",
+        "title": "Franz\u00f6sisch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Franz\u00f6sisch"
+    },
+    {
+      "coordinates": {
+        "x1": 1435.3125,
+        "y1": 30.984375,
+        "x2": 1454.46875,
+        "y2": 54.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Italienisch",
+        "title": "Italienisch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "IT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Italienisch"
+    },
+    {
+      "coordinates": {
+        "x1": 1457.609375,
+        "y1": 30.984375,
+        "x2": 1486.265625,
+        "y2": 54.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "R\u00e4toromanisch",
+        "title": "R\u00e4toromanisch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "RM",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: R\u00e4toromanisch"
+    },
+    {
+      "coordinates": {
+        "x1": 1489.40625,
+        "y1": 30.984375,
+        "x2": 1514.5,
+        "y2": 54.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Englisch",
+        "title": "Englisch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Englisch"
+    },
+    {
+      "coordinates": {
+        "x1": 1308.328125,
+        "y1": 36.984375,
+        "x2": 1350.265625,
+        "y2": 50.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Kontakt",
+        "title": "Kontakt",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Kontakt",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Kontakt"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 70.984375,
+        "x2": 944.5,
+        "y2": 127.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Startseite",
+        "title": "Startseite",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Der Bundesrat\nDas Portal der Schweizer Regierung",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Startseite"
+    },
+    {
+      "coordinates": {
+        "x1": 1313.5,
+        "y1": 69.984375,
+        "x2": 1314.5,
+        "y2": 70.984375
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Suche",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Suche"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.5,
+        "y1": 70.984375,
+        "x2": 1514.5,
+        "y2": 95.984375
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Suchen",
+        "value": "",
+        "name": "query"
+      },
+      "descriptive_label": "input: Suchen"
+    },
+    {
+      "coordinates": {
+        "x1": 1317.5,
+        "y1": 71.984375,
+        "x2": 1344.5,
+        "y2": 97.375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Suche",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Suche"
+    },
+    {
+      "coordinates": {
+        "x1": 1486.5,
+        "y1": 71.984375,
+        "x2": 1508.5,
+        "y2": 92.578125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.5,
+        "y1": 107.34375,
+        "x2": 1514.5,
+        "y2": 132.515625
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Themen A-Z",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Themen A-Z"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.5,
+        "y1": 108.34375,
+        "x2": 1514.5,
+        "y2": 132.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Themen A-Z",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Themen A-Z"
+    },
+    {
+      "coordinates": {
+        "x1": 382.890625,
+        "y1": 162.34375,
+        "x2": 461.34375,
+        "y2": 232.34375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundesrat",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Bundesrat"
+    },
+    {
+      "coordinates": {
+        "x1": 383.890625,
+        "y1": 162.34375,
+        "x2": 460.34375,
+        "y2": 232.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Bundesrat",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundesrat",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bundesrat"
+    },
+    {
+      "coordinates": {
+        "x1": 461.34375,
+        "y1": 162.34375,
+        "x2": 580.65625,
+        "y2": 232.34375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundespr\u00e4sidium",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Bundespr\u00e4sidium"
+    },
+    {
+      "coordinates": {
+        "x1": 462.34375,
+        "y1": 162.34375,
+        "x2": 579.65625,
+        "y2": 232.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Bundespr\u00e4sidium",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundespr\u00e4sidium",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bundespr\u00e4sidium"
+    },
+    {
+      "coordinates": {
+        "x1": 580.65625,
+        "y1": 162.34375,
+        "x2": 684.5625,
+        "y2": 232.34375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Departemente",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Departemente"
+    },
+    {
+      "coordinates": {
+        "x1": 581.65625,
+        "y1": 162.34375,
+        "x2": 683.5625,
+        "y2": 232.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Departemente",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Departemente",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Departemente"
+    },
+    {
+      "coordinates": {
+        "x1": 684.5625,
+        "y1": 162.34375,
+        "x2": 787.8125,
+        "y2": 232.34375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundeskanzlei",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Bundeskanzlei"
+    },
+    {
+      "coordinates": {
+        "x1": 685.5625,
+        "y1": 162.34375,
+        "x2": 786.8125,
+        "y2": 232.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Bundeskanzlei",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundeskanzlei",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bundeskanzlei"
+    },
+    {
+      "coordinates": {
+        "x1": 787.8125,
+        "y1": 162.34375,
+        "x2": 879.546875,
+        "y2": 232.34375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundesrecht",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Bundesrecht"
+    },
+    {
+      "coordinates": {
+        "x1": 788.8125,
+        "y1": 162.34375,
+        "x2": 878.546875,
+        "y2": 232.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Bundesrecht",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundesrecht",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bundesrecht"
+    },
+    {
+      "coordinates": {
+        "x1": 879.546875,
+        "y1": 162.34375,
+        "x2": 990.984375,
+        "y2": 232.34375
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Dokumentation",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Dokumentation"
+    },
+    {
+      "coordinates": {
+        "x1": 880.546875,
+        "y1": 162.34375,
+        "x2": 989.984375,
+        "y2": 232.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Dokumentation",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Dokumentation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Dokumentation"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 349.90625,
+        "x2": 537.34375,
+        "y2": 469.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Beat Jans",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Beat Jans"
+    },
+    {
+      "coordinates": {
+        "x1": 537.34375,
+        "y1": 349.90625,
+        "x2": 700.1875,
+        "y2": 469.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Albert R\u00f6sti",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Albert R\u00f6sti"
+    },
+    {
+      "coordinates": {
+        "x1": 700.1875,
+        "y1": 349.90625,
+        "x2": 863.03125,
+        "y2": 469.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ignazio Cassis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ignazio Cassis"
+    },
+    {
+      "coordinates": {
+        "x1": 863.03125,
+        "y1": 349.90625,
+        "x2": 1025.875,
+        "y2": 486.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guy Parmelin\nBundespr\u00e4sident",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guy Parmelin\nBundespr\u00e4sident"
+    },
+    {
+      "coordinates": {
+        "x1": 1025.875,
+        "y1": 349.90625,
+        "x2": 1188.71875,
+        "y2": 469.34375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Karin Keller-Sutter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Karin Keller-Sutter"
+    },
+    {
+      "coordinates": {
+        "x1": 1188.71875,
+        "y1": 349.90625,
+        "x2": 1351.5625,
+        "y2": 486.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Elisabeth Baume-Schneider",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Elisabeth Baume-Schneider"
+    },
+    {
+      "coordinates": {
+        "x1": 1351.5625,
+        "y1": 349.90625,
+        "x2": 1514.40625,
+        "y2": 486.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Martin Pfister",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Martin Pfister"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.0,
+        "y1": 516.625,
+        "x2": 1513.5,
+        "y2": 572.21875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Armeebotschaft",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Armeebotschaft"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.0,
+        "y1": 573.21875,
+        "x2": 1513.5,
+        "y2": 628.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Medikamente",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Medikamente"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.0,
+        "y1": 629.828125,
+        "x2": 1513.5,
+        "y2": 685.421875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Partnerschaft mit UNO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Partnerschaft mit UNO"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.0,
+        "y1": 686.421875,
+        "x2": 1513.5,
+        "y2": 742.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Schweiz - EU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Schweiz - EU"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.0,
+        "y1": 743.03125,
+        "x2": 1513.5,
+        "y2": 798.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "tab",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "Crans-Montana",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Crans-Montana"
+    },
+    {
+      "coordinates": {
+        "x1": 375.5,
+        "y1": 640.828125,
+        "x2": 850.296875,
+        "y2": 656.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 865.328125,
+        "y1": 526.625,
+        "x2": 1179.5625,
+        "y2": 544.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "St\u00e4rkung der Versorgung mit Medikamenten",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: St\u00e4rkung der Versorgung mit..."
+    },
+    {
+      "coordinates": {
+        "x1": 888.828125,
+        "y1": 708.921875,
+        "x2": 1149.28125,
+        "y2": 727.921875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Medikamente: Medienmitteilung ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Medikamente: Medienmitteilung"
+    },
+    {
+      "coordinates": {
+        "x1": 888.828125,
+        "y1": 733.03125,
+        "x2": 1143.421875,
+        "y2": 752.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Medikamente: Medienkonferenz",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Medikamente: Medienkonferenz"
+    },
+    {
+      "coordinates": {
+        "x1": 881.59375,
+        "y1": 838.59375,
+        "x2": 929.5,
+        "y2": 863.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Alle",
+        "title": "Alle",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Alle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Alle"
+    },
+    {
+      "coordinates": {
+        "x1": 1466.59375,
+        "y1": 838.59375,
+        "x2": 1514.5,
+        "y2": 863.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Alle",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Alle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Alle"
+    },
+    {
+      "coordinates": {
+        "x1": 959.5,
+        "y1": 904.59375,
+        "x2": 1406.0625,
+        "y2": 920.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Die WTO-Ministerkonferenz in Kamerun endet ohne Durchbr\u00fcche",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Die WTO-Ministerkonferenz i..."
+    },
+    {
+      "coordinates": {
+        "x1": 959.5,
+        "y1": 973.75,
+        "x2": 1487.890625,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00d6ffentliche Warnung: Salmonellen in Bio-Moringa Kapseln der Marke Govinda",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00d6ffentliche Warnung: Salmon..."
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 47
+  }
+}

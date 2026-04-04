@@ -1,0 +1,517 @@
+{
+  "url": "https://zendesk.com",
+  "category": "miscellaneous",
+  "timestamp": 1774893941,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1365.734375,
+        "y1": 16.0,
+        "x2": 1487.171875,
+        "y2": 41.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Register for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1841.0,
+        "y1": 11.25,
+        "x2": 1873.0,
+        "y2": 43.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.59375,
+        "y1": 59.5,
+        "x2": 1317.578125,
+        "y2": 80.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.578125,
+        "y1": 59.5,
+        "x2": 1462.015625,
+        "y2": 80.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Zendesk help centre",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Zendesk help centre"
+    },
+    {
+      "coordinates": {
+        "x1": 1478.015625,
+        "y1": 59.5,
+        "x2": 1539.71875,
+        "y2": 80.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open company Selection Menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Company",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Open company Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1555.71875,
+        "y1": 59.5,
+        "x2": 1624.765625,
+        "y2": 80.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Contact us"
+    },
+    {
+      "coordinates": {
+        "x1": 1640.765625,
+        "y1": 59.5,
+        "x2": 1704.5,
+        "y2": 80.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open language Selection Menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Language",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Open language Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 184.5,
+        "y1": 79.5,
+        "x2": 284.5,
+        "y2": 150.921875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 471.765625,
+        "y1": 79.5,
+        "x2": 668.203125,
+        "y2": 171.921875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open ai Selection Menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Zendesk AI Agents",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Open ai Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 716.203125,
+        "y1": 79.5,
+        "x2": 816.65625,
+        "y2": 171.921875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open products Selection Menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Open products Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 864.65625,
+        "y1": 79.5,
+        "x2": 967.5,
+        "y2": 171.921875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open solutions Selection Menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Open solutions Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.5,
+        "y1": 79.5,
+        "x2": 1126.265625,
+        "y2": 171.921875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open resources Selection Menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Open resources Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.265625,
+        "y1": 79.5,
+        "x2": 1259.5,
+        "y2": 171.921875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1446.765625,
+        "y1": 103.703125,
+        "x2": 1573.9375,
+        "y2": 146.703125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Try it for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Try it for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1589.9375,
+        "y1": 103.703125,
+        "x2": 1704.5,
+        "y2": 146.703125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "View demo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: View demo"
+    },
+    {
+      "coordinates": {
+        "x1": 644.5,
+        "y1": 551.671875,
+        "x2": 1060.796875,
+        "y2": 599.671875
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "Work Email",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Enter work email",
+        "value": "",
+        "name": "owner.email"
+      },
+      "descriptive_label": "input: Work Email"
+    },
+    {
+      "coordinates": {
+        "x1": 1080.796875,
+        "y1": 551.671875,
+        "x2": 1244.5,
+        "y2": 599.671875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Try it for free",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Try it for free"
+    },
+    {
+      "coordinates": {
+        "x1": 883.890625,
+        "y1": 606.421875,
+        "x2": 980.046875,
+        "y2": 629.921875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1676.65625,
+        "y1": 921.0,
+        "x2": 1873.0,
+        "y2": 969.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact Sales",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Contact Sales"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 21.0,
+        "y2": 18.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 20
+  }
+}

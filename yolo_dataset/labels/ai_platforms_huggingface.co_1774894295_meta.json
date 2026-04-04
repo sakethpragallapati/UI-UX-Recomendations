@@ -1,0 +1,367 @@
+{
+  "url": "https://huggingface.co",
+  "category": "ai_platforms",
+  "timestamp": 1774894295,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 18.0,
+        "x2": 334.03125,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hugging Face",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hugging Face"
+    },
+    {
+      "coordinates": {
+        "x1": 358.03125,
+        "y1": 14.0,
+        "x2": 742.03125,
+        "y2": 50.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search models, datasets, users...",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search models, datasets, us..."
+    },
+    {
+      "coordinates": {
+        "x1": 812.4375,
+        "y1": 18.0,
+        "x2": 898.34375,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Models",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Models"
+    },
+    {
+      "coordinates": {
+        "x1": 906.34375,
+        "y1": 18.0,
+        "x2": 1001.59375,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Datasets",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Datasets"
+    },
+    {
+      "coordinates": {
+        "x1": 1009.59375,
+        "y1": 18.0,
+        "x2": 1094.46875,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Spaces",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Spaces"
+    },
+    {
+      "coordinates": {
+        "x1": 1102.46875,
+        "y1": 18.0,
+        "x2": 1228.328125,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buckets\nNEW",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Buckets\nNEW"
+    },
+    {
+      "coordinates": {
+        "x1": 1236.328125,
+        "y1": 18.0,
+        "x2": 1306.84375,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Docs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Docs"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.84375,
+        "y1": 18.0,
+        "x2": 1421.71875,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Enterprise"
+    },
+    {
+      "coordinates": {
+        "x1": 1429.71875,
+        "y1": 18.0,
+        "x2": 1492.3125,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.3125,
+        "y1": 22.0,
+        "x2": 1536.3125,
+        "y2": 42.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1554.3125,
+        "y1": 18.0,
+        "x2": 1610.796875,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1618.796875,
+        "y1": 17.0,
+        "x2": 1696.5,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 272.5,
+        "y1": 657.546875,
+        "x2": 437.828125,
+        "y2": 702.546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore AI Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Explore AI Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 480.0625,
+        "y1": 666.046875,
+        "x2": 629.703125,
+        "y2": 694.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Browse 2M+ models",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Browse 2M+ models"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 14
+  }
+}

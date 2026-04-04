@@ -1,0 +1,842 @@
+{
+  "url": "https://guardian.co.uk",
+  "category": "news_and_journalism",
+  "timestamp": 1774892297,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1139.6875,
+        "y1": 295.0,
+        "x2": 1294.140625,
+        "y2": 359.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Print subscriptions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Print subscriptions"
+    },
+    {
+      "coordinates": {
+        "x1": 1307.140625,
+        "y1": 295.0,
+        "x2": 1403.390625,
+        "y2": 359.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search jobs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Search jobs"
+    },
+    {
+      "coordinates": {
+        "x1": 1416.390625,
+        "y1": 295.0,
+        "x2": 1494.5,
+        "y2": 359.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 554.5,
+        "y1": 367.0,
+        "x2": 854.5,
+        "y2": 485.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "The Dubai influencer dream is crumbling",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Dubai influencer dream ..."
+    },
+    {
+      "coordinates": {
+        "x1": 874.5,
+        "y1": 367.0,
+        "x2": 1174.5,
+        "y2": 485.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "How to start learning a new language",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: How to start learning a new..."
+    },
+    {
+      "coordinates": {
+        "x1": 1194.5,
+        "y1": 367.0,
+        "x2": 1494.5,
+        "y2": 485.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Trump\u2019s Iran war is holding him hostage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump\u2019s Iran war is holding..."
+    },
+    {
+      "coordinates": {
+        "x1": 1514.5,
+        "y1": 367.0,
+        "x2": 1814.5,
+        "y2": 485.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "People are pumping themselves with fat from corpses ",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: People are pumping themselv..."
+    },
+    {
+      "coordinates": {
+        "x1": 1834.5,
+        "y1": 367.0,
+        "x2": 1904,
+        "y2": 485.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "What is Bob Dylan up to joining Patreon?",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: What is Bob Dylan up to joi..."
+    },
+    {
+      "coordinates": {
+        "x1": 1538.5,
+        "y1": 408.0,
+        "x2": 1574.5,
+        "y2": 444.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Move highlight stories forwards",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Move highlight stories forw..."
+    },
+    {
+      "coordinates": {
+        "x1": 1463.34375,
+        "y1": 501.0,
+        "x2": 1494.5,
+        "y2": 529.09375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Int",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Int"
+    },
+    {
+      "coordinates": {
+        "x1": 1170.5,
+        "y1": 501.0,
+        "x2": 1494.5,
+        "y2": 612.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Guardian - Back to home\nThe Guardian",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Guardian - Back to home..."
+    },
+    {
+      "coordinates": {
+        "x1": 314.5,
+        "y1": 568.0,
+        "x2": 450.5,
+        "y2": 620.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 450.5,
+        "y1": 568.0,
+        "x2": 586.5,
+        "y2": 620.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Opinion",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Opinion"
+    },
+    {
+      "coordinates": {
+        "x1": 586.5,
+        "y1": 568.0,
+        "x2": 722.5,
+        "y2": 620.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sport",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sport"
+    },
+    {
+      "coordinates": {
+        "x1": 722.5,
+        "y1": 568.0,
+        "x2": 858.5,
+        "y2": 620.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Culture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Culture"
+    },
+    {
+      "coordinates": {
+        "x1": 858.5,
+        "y1": 568.0,
+        "x2": 994.5,
+        "y2": 620.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 1000.5,
+        "y1": 566.0,
+        "x2": 1040.5,
+        "y2": 606.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "label",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Toggle main menu",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Show more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Toggle main menu"
+    },
+    {
+      "coordinates": {
+        "x1": 314.5,
+        "y1": 634.0,
+        "x2": 356.125,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "World",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: World"
+    },
+    {
+      "coordinates": {
+        "x1": 364.125,
+        "y1": 634.0,
+        "x2": 434.25,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "US politics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: US politics"
+    },
+    {
+      "coordinates": {
+        "x1": 442.25,
+        "y1": 634.0,
+        "x2": 464.640625,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "UK",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: UK"
+    },
+    {
+      "coordinates": {
+        "x1": 472.640625,
+        "y1": 634.0,
+        "x2": 559.0,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Climate crisis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Climate crisis"
+    },
+    {
+      "coordinates": {
+        "x1": 567.0,
+        "y1": 634.0,
+        "x2": 644.21875,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Middle East",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Middle East"
+    },
+    {
+      "coordinates": {
+        "x1": 652.21875,
+        "y1": 634.0,
+        "x2": 703.90625,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ukraine",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ukraine"
+    },
+    {
+      "coordinates": {
+        "x1": 711.90625,
+        "y1": 634.0,
+        "x2": 796.4375,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Environment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Environment"
+    },
+    {
+      "coordinates": {
+        "x1": 804.4375,
+        "y1": 634.0,
+        "x2": 855.296875,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Science",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Science"
+    },
+    {
+      "coordinates": {
+        "x1": 863.296875,
+        "y1": 634.0,
+        "x2": 994.703125,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Global development",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Global development"
+    },
+    {
+      "coordinates": {
+        "x1": 1002.703125,
+        "y1": 634.0,
+        "x2": 1058.734375,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Football",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Football"
+    },
+    {
+      "coordinates": {
+        "x1": 1066.734375,
+        "y1": 634.0,
+        "x2": 1099.71875,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tech",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tech"
+    },
+    {
+      "coordinates": {
+        "x1": 1107.71875,
+        "y1": 634.0,
+        "x2": 1165.5625,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 1173.5625,
+        "y1": 634.0,
+        "x2": 1241.53125,
+        "y2": 651.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Obituaries",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Obituaries"
+    },
+    {
+      "coordinates": {
+        "x1": 314.5,
+        "y1": 664.0,
+        "x2": 534.5,
+        "y2": 738.375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Middle East crisis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Middle East crisis"
+    },
+    {
+      "coordinates": {
+        "x1": 554.5,
+        "y1": 672.0,
+        "x2": 1494.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Trump threatens to \u2018obliterate\u2019 Iran\u2019s energy infrastructure if ceasefire deal is not reached \u2018shortly\u2019",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump threatens to \u2018obliter..."
+    },
+    {
+      "coordinates": {
+        "x1": 874.5,
+        "y1": 672.0,
+        "x2": 1494.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Trump threatens to \u2018obliterate\u2019 Iran\u2019s energy infrastructure if ceasefire deal is not reached \u2018shortly\u2019",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "People inspect damage to a residential building in Tehran\nFirst responders work at the site of an Israeli airstrike in Hanouiyeh, south Lebanon\nFirefighters tackle blaze at Israel\u2019s oil refinery after missile debris hit\nAuthorities inspect a damaged house following an Iranian missile strike in Haifa, Israel\nFirst responders search Al Araby TV offices after missile strike in Tehran\nSmoke rises from the site of an Israeli airstrike in Beirut\nA damaged US air force plane in Saudi Arabia\nHumanitarian aid from Iraq arrives at the Iranian Red Crescent Centre in Tehran\nDemonstrators gather to protest US and Israeli attacks in Basra, Iraq",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump threatens to \u2018obliter..."
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 33
+  }
+}

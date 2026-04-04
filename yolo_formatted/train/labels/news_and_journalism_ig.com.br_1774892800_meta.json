@@ -1,0 +1,1017 @@
+{
+  "url": "https://ig.com.br",
+  "category": "news_and_journalism",
+  "timestamp": 1774892800,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 19.0,
+        "x2": 453.25,
+        "y2": 119.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "iG",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: iG"
+    },
+    {
+      "coordinates": {
+        "x1": 599.359375,
+        "y1": 41.5,
+        "x2": 809.359375,
+        "y2": 78.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "E-mail",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Seu email",
+        "value": "",
+        "name": "username"
+      },
+      "descriptive_label": "input: E-mail"
+    },
+    {
+      "coordinates": {
+        "x1": 814.359375,
+        "y1": 41.5,
+        "x2": 876.296875,
+        "y2": 78.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ENTRAR",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: ENTRAR"
+    },
+    {
+      "coordinates": {
+        "x1": 599.359375,
+        "y1": 83.5,
+        "x2": 705.640625,
+        "y2": 96.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Minha assinatura",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MINHA ASSINATURA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Minha assinatura"
+    },
+    {
+      "coordinates": {
+        "x1": 713.640625,
+        "y1": 83.5,
+        "x2": 763.4375,
+        "y2": 96.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Suporte e-mail",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SUPORTE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Suporte e-mail"
+    },
+    {
+      "coordinates": {
+        "x1": 1150.5,
+        "y1": 62.5,
+        "x2": 1169.5,
+        "y2": 75.5
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label"
+    },
+    {
+      "coordinates": {
+        "x1": 1150.5,
+        "y1": 62.5,
+        "x2": 1168.546875,
+        "y2": 75.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Buscar",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Buscar no iG",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "input: Buscar"
+    },
+    {
+      "coordinates": {
+        "x1": 343.5,
+        "y1": 129.0,
+        "x2": 459.796875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u00daltimo Segundo",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00faltimo segundo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00daltimo Segundo"
+    },
+    {
+      "coordinates": {
+        "x1": 497.796875,
+        "y1": 129.0,
+        "x2": 570.421875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Economia",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "economia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Economia"
+    },
+    {
+      "coordinates": {
+        "x1": 608.421875,
+        "y1": 129.0,
+        "x2": 651.421875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Gente",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "gente",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gente"
+    },
+    {
+      "coordinates": {
+        "x1": 689.421875,
+        "y1": 129.0,
+        "x2": 745.453125,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Esporte",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "esporte",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Esporte"
+    },
+    {
+      "coordinates": {
+        "x1": 783.453125,
+        "y1": 129.0,
+        "x2": 828.875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Carros",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "carros",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Carros"
+    },
+    {
+      "coordinates": {
+        "x1": 866.875,
+        "y1": 129.0,
+        "x2": 898.90625,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pets",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "pets",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pets"
+    },
+    {
+      "coordinates": {
+        "x1": 936.90625,
+        "y1": 129.0,
+        "x2": 994.796875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Receitas",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "receitas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Receitas"
+    },
+    {
+      "coordinates": {
+        "x1": 1032.796875,
+        "y1": 129.0,
+        "x2": 1055.765625,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Tec",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "tec",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tec"
+    },
+    {
+      "coordinates": {
+        "x1": 1093.765625,
+        "y1": 129.0,
+        "x2": 1142.5,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "iG Play",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ig play",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: iG Play"
+    },
+    {
+      "coordinates": {
+        "x1": 1180.5,
+        "y1": 129.0,
+        "x2": 1237.765625,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Turismo",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "turismo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Turismo"
+    },
+    {
+      "coordinates": {
+        "x1": 1275.765625,
+        "y1": 129.0,
+        "x2": 1328.71875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "iG Mais",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ig mais",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: iG Mais"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.71875,
+        "y1": 129.0,
+        "x2": 1412.859375,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "E-mail",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "e-mail",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: E-mail"
+    },
+    {
+      "coordinates": {
+        "x1": 1450.859375,
+        "y1": 129.0,
+        "x2": 1518.6875,
+        "y2": 183.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Parceiros",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "parceiros",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Parceiros"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 494.0,
+        "x2": 857.6875,
+        "y2": 751.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 336.5,
+        "y1": 665.0,
+        "x2": 820.3125,
+        "y2": 747.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Elei\u00e7\u00f5es: sa\u00eddas de ministros para concorrer atingem recorde",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Elei\u00e7\u00f5es: sa\u00eddas de ministros para concorrer atingem recorde",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Elei\u00e7\u00f5es: sa\u00eddas de ministr..."
+    },
+    {
+      "coordinates": {
+        "x1": 339.5,
+        "y1": 766.0,
+        "x2": 798.8125,
+        "y2": 785.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Quem \u00e9 a pecuarista cotada para vice de Haddad em SP?",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quem \u00e9 a pecuarista cotada para vice de Haddad em SP?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quem \u00e9 a pecuarista cotada ..."
+    },
+    {
+      "coordinates": {
+        "x1": 339.5,
+        "y1": 794.0,
+        "x2": 811.734375,
+        "y2": 813.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "STF marca data para definir elei\u00e7\u00e3o para governador no Rio",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "STF marca data para definir elei\u00e7\u00e3o para governador no Rio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: STF marca data para definir..."
+    },
+    {
+      "coordinates": {
+        "x1": 877.671875,
+        "y1": 494.0,
+        "x2": 1212.46875,
+        "y2": 675.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trump%20recua%20e%20autoriza%20Cuba%20a%20receber%20petr%C3%B3leo%20da%20R%C3%BAssia",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump%20recua%20e%20autoriz..."
+    },
+    {
+      "coordinates": {
+        "x1": 877.671875,
+        "y1": 716.625,
+        "x2": 1211.125,
+        "y2": 762.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trump recua e autoriza Cuba a receber petr\u00f3leo da R\u00fassia",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Trump recua e autoriza Cuba a receber petr\u00f3leo da R\u00fassia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Trump recua e autoriza Cuba..."
+    },
+    {
+      "coordinates": {
+        "x1": 892.671875,
+        "y1": 777.625,
+        "x2": 1191.796875,
+        "y2": 815.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerra no Ir\u00e3 pode encarecer alimentos no Brasil",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guerra no Ir\u00e3 pode encarecer alimentos no Brasil",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guerra no Ir\u00e3 pode encarece..."
+    },
+    {
+      "coordinates": {
+        "x1": 642.453125,
+        "y1": 494.0,
+        "x2": 927.453125,
+        "y2": 811.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "  Leonardo transformou m\u00fasica em patrim\u00f4nio milion\u00e1rio",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Leonardo transformou m\u00fasica..."
+    },
+    {
+      "coordinates": {
+        "x1": 937.453125,
+        "y1": 494.0,
+        "x2": 1222.453125,
+        "y2": 811.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Jo\u00e3o Gomes recusa mans\u00e3o moderna e aposta em casa sertaneja",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Jo\u00e3o Gomes recusa mans\u00e3o mo..."
+    },
+    {
+      "coordinates": {
+        "x1": 1232.453125,
+        "y1": 494.0,
+        "x2": 1517.453125,
+        "y2": 811.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "  Leonardo transformou m\u00fasica em patrim\u00f4nio milion\u00e1rio",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Leonardo transformou m\u00fasica em patrim\u00f4nio milion\u00e1rio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Leonardo transformou m\u00fasica..."
+    },
+    {
+      "coordinates": {
+        "x1": 1527.453125,
+        "y1": 494.0,
+        "x2": 1812.453125,
+        "y2": 811.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Jo\u00e3o Gomes recusa mans\u00e3o moderna e aposta em casa sertaneja",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Jo\u00e3o Gomes recusa mans\u00e3o mo..."
+    },
+    {
+      "coordinates": {
+        "x1": 1242.453125,
+        "y1": 596.25,
+        "x2": 1272.453125,
+        "y2": 626.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous slide",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Previous slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1477.640625,
+        "y1": 596.25,
+        "x2": 1507.640625,
+        "y2": 626.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next slide",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 845.0,
+        "x2": 583.59375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 598.59375,
+        "y1": 845.0,
+        "x2": 857.6875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 877.671875,
+        "y1": 845.0,
+        "x2": 1212.46875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Affair%20de%20Mbapp%C3%A9%20%C3%A9%20ex%20de%20Vini.%20Jr%20e%20Virginia%20%C3%A9%20envolvida%20em%20caso",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Affair%20de%20Mbapp%C3%A9%2..."
+    },
+    {
+      "coordinates": {
+        "x1": 1232.453125,
+        "y1": 845.0,
+        "x2": 1517.640625,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Atl%C3%A9tico-MG%20recebe%20o%20S%C3%A3o%20Paulo%20em%20Minas%20Gerais",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Atl%C3%A9tico-MG%20recebe%2..."
+    },
+    {
+      "coordinates": {
+        "x1": 1517.1875,
+        "y1": 228.0625,
+        "x2": 1809.40625,
+        "y2": 267.0625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pol\u00edtica de Privacidade",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pol\u00edtica de Privacidade"
+    },
+    {
+      "coordinates": {
+        "x1": 1619.390625,
+        "y1": 249.0625,
+        "x2": 1727.53125,
+        "y2": 267.0625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Termos de Uso",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Termos de Uso"
+    },
+    {
+      "coordinates": {
+        "x1": 1567.1875,
+        "y1": 279.0625,
+        "x2": 1767.1875,
+        "y2": 309.0625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Continuar",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Continuar"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 40
+  }
+}

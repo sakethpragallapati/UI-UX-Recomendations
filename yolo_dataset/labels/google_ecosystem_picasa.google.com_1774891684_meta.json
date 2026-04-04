@@ -1,0 +1,92 @@
+{
+  "url": "https://picasa.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1774891684,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1069.5,
+        "y1": 607.0,
+        "x2": 1254.5,
+        "y2": 660.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Go to Google Photos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Go to Google Photos"
+    },
+    {
+      "coordinates": {
+        "x1": 834.125,
+        "y1": 855.0,
+        "x2": 1013.609375,
+        "y2": 874.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "photos.google.com/apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: photos.google.com/apps"
+    },
+    {
+      "coordinates": {
+        "x1": 619.5,
+        "y1": 919.0,
+        "x2": 1269.5,
+        "y2": 956.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn more"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 3
+  }
+}

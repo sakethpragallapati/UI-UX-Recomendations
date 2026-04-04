@@ -1,0 +1,717 @@
+{
+  "url": "https://enable-javascript.com",
+  "category": "miscellaneous",
+  "timestamp": 1774894166,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1381.734375,
+        "y1": 8.0,
+        "x2": 1396.5,
+        "y2": 29.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00d7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00d7"
+    },
+    {
+      "coordinates": {
+        "x1": 493.96875,
+        "y1": 46.8125,
+        "x2": 532.703125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "English",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: English"
+    },
+    {
+      "coordinates": {
+        "x1": 536.5625,
+        "y1": 46.8125,
+        "x2": 576.828125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hrvatski",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "HR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hrvatski"
+    },
+    {
+      "coordinates": {
+        "x1": 580.6875,
+        "y1": 46.8125,
+        "x2": 619.125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Deutsch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "DE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Deutsch"
+    },
+    {
+      "coordinates": {
+        "x1": 622.984375,
+        "y1": 46.8125,
+        "x2": 660.921875,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Nederlands",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Nederlands"
+    },
+    {
+      "coordinates": {
+        "x1": 664.78125,
+        "y1": 46.8125,
+        "x2": 700.21875,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Espa\u00f1ol",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 704.078125,
+        "y1": 46.8125,
+        "x2": 739.734375,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Portugu\u00eas",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Portugu\u00eas"
+    },
+    {
+      "coordinates": {
+        "x1": 743.59375,
+        "y1": 46.8125,
+        "x2": 775.734375,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Italiano",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "IT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Italiano"
+    },
+    {
+      "coordinates": {
+        "x1": 779.59375,
+        "y1": 46.8125,
+        "x2": 819.78125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Norsk",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Norsk"
+    },
+    {
+      "coordinates": {
+        "x1": 823.640625,
+        "y1": 46.8125,
+        "x2": 862.96875,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "RU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u0420\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "coordinates": {
+        "x1": 866.828125,
+        "y1": 46.8125,
+        "x2": 903.640625,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Fran\u00e7ais",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Fran\u00e7ais"
+    },
+    {
+      "coordinates": {
+        "x1": 907.5,
+        "y1": 46.8125,
+        "x2": 942.75,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u010cesk\u00fd",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u010cesk\u00fd"
+    },
+    {
+      "coordinates": {
+        "x1": 946.609375,
+        "y1": 46.8125,
+        "x2": 981.625,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u65e5\u672c\u8a9e",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "JA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u65e5\u672c\u8a9e"
+    },
+    {
+      "coordinates": {
+        "x1": 985.484375,
+        "y1": 46.8125,
+        "x2": 1024.5,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\ud55c\uad6d\uc5b4",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "KO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \ud55c\uad6d\uc5b4"
+    },
+    {
+      "coordinates": {
+        "x1": 1028.359375,
+        "y1": 46.8125,
+        "x2": 1069.5,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Magyar",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "HU",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Magyar"
+    },
+    {
+      "coordinates": {
+        "x1": 1073.359375,
+        "y1": 46.8125,
+        "x2": 1112.296875,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "coordinates": {
+        "x1": 1116.15625,
+        "y1": 46.8125,
+        "x2": 1151.71875,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Filipino",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Filipino"
+    },
+    {
+      "coordinates": {
+        "x1": 1155.578125,
+        "y1": 46.8125,
+        "x2": 1192.703125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "T\u00fcrk\u00e7e",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: T\u00fcrk\u00e7e"
+    },
+    {
+      "coordinates": {
+        "x1": 1196.5625,
+        "y1": 46.8125,
+        "x2": 1230.78125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Bahasa Indonesia",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ID",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bahasa Indonesia"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.640625,
+        "y1": 46.8125,
+        "x2": 1270.734375,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Slovensk\u00fd",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SK",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Slovensk\u00fd"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.59375,
+        "y1": 46.8125,
+        "x2": 1310.015625,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Polski",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Polski"
+    },
+    {
+      "coordinates": {
+        "x1": 1313.875,
+        "y1": 46.8125,
+        "x2": 1351.84375,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u0627\u0644\u0639\u0631\u0628",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "AR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u0627\u0644\u0639\u0631\u0628"
+    },
+    {
+      "coordinates": {
+        "x1": 1355.703125,
+        "y1": 46.8125,
+        "x2": 1395.03125,
+        "y2": 72.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Urdu",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "UR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Urdu"
+    },
+    {
+      "coordinates": {
+        "x1": 686.78125,
+        "y1": 352.125,
+        "x2": 786.78125,
+        "y2": 452.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Chrome",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Chrome",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Chrome"
+    },
+    {
+      "coordinates": {
+        "x1": 790.640625,
+        "y1": 352.125,
+        "x2": 890.640625,
+        "y2": 452.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Firefox",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mozilla Firefox",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Firefox"
+    },
+    {
+      "coordinates": {
+        "x1": 894.5,
+        "y1": 352.125,
+        "x2": 994.5,
+        "y2": 452.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Safari",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Apple Safari",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Safari"
+    },
+    {
+      "coordinates": {
+        "x1": 998.359375,
+        "y1": 352.125,
+        "x2": 1098.359375,
+        "y2": 452.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Opera",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Opera",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Opera"
+    },
+    {
+      "coordinates": {
+        "x1": 1102.21875,
+        "y1": 352.125,
+        "x2": 1202.21875,
+        "y2": 452.125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Internet Explorer",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Internet Explorer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Internet Explorer"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 28
+  }
+}

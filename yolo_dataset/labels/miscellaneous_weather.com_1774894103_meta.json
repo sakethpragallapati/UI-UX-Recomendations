@@ -1,0 +1,517 @@
+{
+  "url": "https://weather.com",
+  "category": "miscellaneous",
+  "timestamp": 1774894104,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 12.0,
+        "x2": 64.0,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Weather Company",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Weather Company"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 72.0,
+        "x2": 248.0,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Today",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Today"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 128.0,
+        "x2": 248.0,
+        "y2": 176.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hourly",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hourly"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 184.0,
+        "x2": 248.0,
+        "y2": 232.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "10 Day",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 10 Day"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 240.0,
+        "x2": 248.0,
+        "y2": 288.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Monthly",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Monthly"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 296.0,
+        "x2": 248.0,
+        "y2": 344.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Radar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Radar"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 361.0,
+        "x2": 248.0,
+        "y2": 409.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Allergy Tracker",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Allergy Tracker"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 417.0,
+        "x2": 248.0,
+        "y2": 465.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Air Quality Index",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Air Quality Index"
+    },
+    {
+      "coordinates": {
+        "x1": 740.484375,
+        "y1": 11.0,
+        "x2": 741.484375,
+        "y2": 12.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search City or Postcode",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search City or Postcode"
+    },
+    {
+      "coordinates": {
+        "x1": 741.484375,
+        "y1": 12.0,
+        "x2": 1157.484375,
+        "y2": 60.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search City or Postcode",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search City or Postcode"
+    },
+    {
+      "coordinates": {
+        "x1": 1641.96875,
+        "y1": 23.5,
+        "x2": 1776.03125,
+        "y2": 48.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "[object Object]",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "IN\n\u00b0C",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: [object Object]"
+    },
+    {
+      "coordinates": {
+        "x1": 1792.03125,
+        "y1": 12.0,
+        "x2": 1877.0,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "User Account Menu\nSign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: User Account Menu\nSign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1792.03125,
+        "y1": 12.0,
+        "x2": 1877.0,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "User Account Menu\nSign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: User Account Menu\nSign in"
+    },
+    {
+      "coordinates": {
+        "x1": 505.0,
+        "y1": 364.0,
+        "x2": 506.0,
+        "y2": 365.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label"
+    },
+    {
+      "coordinates": {
+        "x1": 506.0,
+        "y1": 365.0,
+        "x2": 518.0,
+        "y2": 397.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search City or Postcode",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search City or Postcode"
+    },
+    {
+      "coordinates": {
+        "x1": 514.0,
+        "y1": 365.0,
+        "x2": 548.0,
+        "y2": 399.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1523.515625,
+        "y1": 505.0,
+        "x2": 1629.0,
+        "y2": 546.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Air quality card",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "see details",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Air quality card"
+    },
+    {
+      "coordinates": {
+        "x1": 1322.0,
+        "y1": 562.0,
+        "x2": 1447.1875,
+        "y2": 579.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Air Quality Index",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Air Quality Index"
+    },
+    {
+      "coordinates": {
+        "x1": 1664.21875,
+        "y1": 433.0,
+        "x2": 1679.21875,
+        "y2": 448.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1306.0,
+        "y1": 648.0,
+        "x2": 1644.0,
+        "y2": 761.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Seasonal Allergies and Pollen Count Forecast\nGrass pollen is moderate in your area",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Seasonal Allergies and Poll..."
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 20
+  }
+}

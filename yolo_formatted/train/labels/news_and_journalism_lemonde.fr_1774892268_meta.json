@@ -1,0 +1,967 @@
+{
+  "url": "https://lemonde.fr",
+  "category": "news_and_journalism",
+  "timestamp": 1774892268,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 848.0,
+        "y1": 17.28125,
+        "x2": 1064.0,
+        "y2": 65.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Go Back to the HomePage Le Monde",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Go Back to the HomePage Le ..."
+    },
+    {
+      "coordinates": {
+        "x1": 848.0,
+        "y1": 17.28125,
+        "x2": 1064.0,
+        "y2": 65.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1623.15625,
+        "y1": 26.5,
+        "x2": 1657.03125,
+        "y2": 56.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "FR - Fran\u00e7ais",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: FR - Fran\u00e7ais"
+    },
+    {
+      "coordinates": {
+        "x1": 1666.03125,
+        "y1": 26.5,
+        "x2": 1700.859375,
+        "y2": 56.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "EN - English",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: EN - English"
+    },
+    {
+      "coordinates": {
+        "x1": 1716.859375,
+        "y1": 25.5,
+        "x2": 1824.0,
+        "y2": 57.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 1824.0,
+        "y1": 21.5,
+        "x2": 1880.0,
+        "y2": 61.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1840.0,
+        "y1": 29.5,
+        "x2": 1864.0,
+        "y2": 53.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 483.34375,
+        "y1": 92.0,
+        "x2": 588.734375,
+        "y2": 132.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 499.34375,
+        "y1": 100.0,
+        "x2": 523.34375,
+        "y2": 124.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 501.84375,
+        "y1": 103.0,
+        "x2": 520.84375,
+        "y2": 121.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 531.34375,
+        "y1": 102.0,
+        "x2": 572.734375,
+        "y2": 122.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 588.734375,
+        "y1": 92.0,
+        "x2": 628.734375,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 596.734375,
+        "y1": 100.0,
+        "x2": 620.734375,
+        "y2": 124.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 661.734375,
+        "y1": 92.0,
+        "x2": 683.5625,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Iran",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Iran"
+    },
+    {
+      "coordinates": {
+        "x1": 699.5625,
+        "y1": 92.0,
+        "x2": 879.296875,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "2026 French municipal elections",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 2026 French municipal elect..."
+    },
+    {
+      "coordinates": {
+        "x1": 912.296875,
+        "y1": 92.0,
+        "x2": 946.921875,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "World",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: World"
+    },
+    {
+      "coordinates": {
+        "x1": 962.921875,
+        "y1": 92.0,
+        "x2": 1004.125,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Europe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Europe"
+    },
+    {
+      "coordinates": {
+        "x1": 1020.125,
+        "y1": 92.0,
+        "x2": 1059.9375,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "France",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: France"
+    },
+    {
+      "coordinates": {
+        "x1": 1075.9375,
+        "y1": 92.0,
+        "x2": 1150.046875,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Environment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Environment"
+    },
+    {
+      "coordinates": {
+        "x1": 1166.046875,
+        "y1": 92.0,
+        "x2": 1211.515625,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Opinion",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Opinion"
+    },
+    {
+      "coordinates": {
+        "x1": 1227.515625,
+        "y1": 92.0,
+        "x2": 1298.09375,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "M Magazine",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: M Magazine"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.09375,
+        "y1": 92.0,
+        "x2": 1404.640625,
+        "y2": 132.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "French Delights",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: French Delights"
+    },
+    {
+      "coordinates": {
+        "x1": 1605.0,
+        "y1": 48.0,
+        "x2": 1903.0,
+        "y2": 92.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1605.0,
+        "y1": 100.0,
+        "x2": 1804.234375,
+        "y2": 139.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.234375,
+        "y1": 100.0,
+        "x2": 1903.0,
+        "y2": 139.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 468.0,
+        "y1": 385.0,
+        "x2": 889.328125,
+        "y2": 512.625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "After a foiled bombing outside Bank of America in Paris, five arrests and questions over Iran's role",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: After a foiled bombing outs..."
+    },
+    {
+      "coordinates": {
+        "x1": 468.0,
+        "y1": 959.34375,
+        "x2": 645.875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "France probes possible Iran link to foiled bomb attack outside Bank of America in Paris",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: France probes possible Iran..."
+    },
+    {
+      "coordinates": {
+        "x1": 690.65625,
+        "y1": 959.546875,
+        "x2": 867.03125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Belgium's 'pro-Iranian cells aimed to demonstrate their capacity to act' by attacking Jewish sites",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Belgium's 'pro-Iranian cell..."
+    },
+    {
+      "coordinates": {
+        "x1": 913.328125,
+        "y1": 545.421875,
+        "x2": 1112.0,
+        "y2": 611.28125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ireland gives Trump a lesson on Europe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ireland gives Trump a lesso..."
+    },
+    {
+      "coordinates": {
+        "x1": 913.328125,
+        "y1": 820.703125,
+        "x2": 1112.0,
+        "y2": 908.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "G7 ministers call for stabilizing energy markets amid Middle East war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: G7 ministers call for stabi..."
+    },
+    {
+      "coordinates": {
+        "x1": 1137.0,
+        "y1": 386.0,
+        "x2": 1435.0,
+        "y2": 893.0625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INVESTIGATION\nYann Bouchez\nSubscribers only\nAssault, attempted murder, assassination: The rogue Freemasons going on trial in Paris\nA coach, a race car driver, a trade unionist: Nothing seemed to connect these otherwise unremarkable individuals. Yet all were targeted by the same criminal organization. At its head were prominent members of a Masonic lodge in a Paris suburb. These 'brothers,' now enemies, are standing trial from March 30.\n15 min read",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: INVESTIGATION\nYann Bouchez\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1136.0,
+        "y1": 935.0625,
+        "x2": 1436.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Newsletter\nM INTERNATIONAL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Newsletter\nM INTERNATIONAL"
+    },
+    {
+      "coordinates": {
+        "x1": 638.0,
+        "y1": 125.5,
+        "x2": 1266.0,
+        "y2": 149.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Reject all cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Reject all cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 698.0,
+        "y1": 380.5,
+        "x2": 834.34375,
+        "y2": 399.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "advertising partners",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: advertising partners"
+    },
+    {
+      "coordinates": {
+        "x1": 797.796875,
+        "y1": 534.5,
+        "x2": 888.875,
+        "y2": 553.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "privacy policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: privacy policy"
+    },
+    {
+      "coordinates": {
+        "x1": 916.90625,
+        "y1": 668.5,
+        "x2": 1049.484375,
+        "y2": 687.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "cookie settings tool",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: cookie settings tool"
+    },
+    {
+      "coordinates": {
+        "x1": 698.0,
+        "y1": 717.5,
+        "x2": 1206.0,
+        "y2": 759.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Accept"
+    },
+    {
+      "coordinates": {
+        "x1": 899.34375,
+        "y1": 779.5,
+        "x2": 1004.65625,
+        "y2": 795.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cookie settings",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cookie settings"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 38
+  }
+}

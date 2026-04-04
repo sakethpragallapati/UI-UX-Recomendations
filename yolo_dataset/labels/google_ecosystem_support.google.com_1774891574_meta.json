@@ -1,0 +1,642 @@
+{
+  "url": "https://support.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1774891574,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 8.0,
+        "x2": 60.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Main menu",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Main menu"
+    },
+    {
+      "coordinates": {
+        "x1": 67.0,
+        "y1": 8.0,
+        "x2": 172.859375,
+        "y2": 58.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Help"
+    },
+    {
+      "coordinates": {
+        "x1": 1732.0,
+        "y1": 12.578125,
+        "x2": 1772.0,
+        "y2": 52.578125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Google apps",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Google apps"
+    },
+    {
+      "coordinates": {
+        "x1": 1784.0,
+        "y1": 12.0,
+        "x2": 1869.0,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1771.34375,
+        "y1": 72.0,
+        "x2": 1885.0,
+        "y2": 120.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon: Google"
+    },
+    {
+      "coordinates": {
+        "x1": 1787.34375,
+        "y1": 72.0,
+        "x2": 1869.0,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Google (Open in a new window)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google (Open in a new window)"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 144.0,
+        "x2": 1889.0,
+        "y2": 200.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 684.5,
+        "y1": 284.0,
+        "x2": 1204.5,
+        "y2": 332.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Describe your issue to find information that might help you.",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Describe your issue",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "input: Describe your issue to find..."
+    },
+    {
+      "coordinates": {
+        "x1": 708.5,
+        "y1": 284.0,
+        "x2": 756.5,
+        "y2": 332.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 592.5,
+        "y1": 485.0,
+        "x2": 762.5,
+        "y2": 627.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Chrome",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Chrome"
+    },
+    {
+      "coordinates": {
+        "x1": 770.5,
+        "y1": 485.0,
+        "x2": 940.5,
+        "y2": 627.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Account"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 485.0,
+        "x2": 1118.5,
+        "y2": 627.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "YouTube",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: YouTube"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.5,
+        "y1": 485.0,
+        "x2": 1296.5,
+        "y2": 627.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gmail",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gmail"
+    },
+    {
+      "coordinates": {
+        "x1": 592.5,
+        "y1": 635.0,
+        "x2": 762.5,
+        "y2": 777.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Play",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Play"
+    },
+    {
+      "coordinates": {
+        "x1": 770.5,
+        "y1": 635.0,
+        "x2": 940.5,
+        "y2": 777.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Search"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 635.0,
+        "x2": 1118.5,
+        "y2": 777.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google AdSense",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google AdSense"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.5,
+        "y1": 635.0,
+        "x2": 1296.5,
+        "y2": 777.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gemini Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gemini Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 592.5,
+        "y1": 785.0,
+        "x2": 762.5,
+        "y2": 927.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pixel Phone",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pixel Phone"
+    },
+    {
+      "coordinates": {
+        "x1": 770.5,
+        "y1": 785.0,
+        "x2": 940.5,
+        "y2": 927.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Maps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Maps"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 785.0,
+        "x2": 1118.5,
+        "y2": 927.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Cloud",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Cloud"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.5,
+        "y1": 785.0,
+        "x2": 1296.5,
+        "y2": 927.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Ads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Ads"
+    },
+    {
+      "coordinates": {
+        "x1": 592.5,
+        "y1": 935.0,
+        "x2": 762.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Photos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Photos"
+    },
+    {
+      "coordinates": {
+        "x1": 770.5,
+        "y1": 935.0,
+        "x2": 940.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google For Families",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google For Families"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 935.0,
+        "x2": 1118.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Fi Wireless",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Fi Wireless"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.5,
+        "y1": 935.0,
+        "x2": 1296.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Google Nest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Google Nest"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 25
+  }
+}

@@ -1,0 +1,1367 @@
+{
+  "url": "https://nikkei.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892701,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 288.5,
+        "y1": 138.0,
+        "x2": 328.5,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "\u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+        "title": "\u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u30b5\u30a4\u30c9\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u304f"
+    },
+    {
+      "coordinates": {
+        "x1": 295.5,
+        "y1": 146.0,
+        "x2": 319.5,
+        "y2": 170.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 336.5,
+        "y1": 138.0,
+        "x2": 523.5,
+        "y2": 178.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "\u8a18\u4e8b\u30fb\u682a\u4fa1\u3092\u691c\u7d22",
+        "value": "",
+        "name": "keyword"
+      },
+      "descriptive_label": "input: \u8a18\u4e8b\u30fb\u682a\u4fa1\u3092\u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 481.5,
+        "y1": 138.0,
+        "x2": 523.5,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u691c\u7d22",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u691c\u7d22"
+    },
+    {
+      "coordinates": {
+        "x1": 774.0,
+        "y1": 136.0,
+        "x2": 1115.0,
+        "y2": 180.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1433.578125,
+        "y1": 138.0,
+        "x2": 1519.578125,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u304a\u7533\u3057\u8fbc\u307f",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: \u304a\u7533\u3057\u8fbc\u307f"
+    },
+    {
+      "coordinates": {
+        "x1": 1446.578125,
+        "y1": 148.09375,
+        "x2": 1506.578125,
+        "y2": 167.890625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u304a\u7533\u3057\u8fbc\u307f",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u304a\u7533\u3057\u8fbc\u307f"
+    },
+    {
+      "coordinates": {
+        "x1": 1527.578125,
+        "y1": 138.0,
+        "x2": 1600.5,
+        "y2": 178.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b0\u30a4\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: \u30ed\u30b0\u30a4\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.578125,
+        "y1": 148.09375,
+        "x2": 1587.5,
+        "y2": 167.890625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b0\u30a4\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30ed\u30b0\u30a4\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 644.234375,
+        "y1": 208.0,
+        "x2": 735.234375,
+        "y2": 232.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u671d\u520a\u30fb\u5915\u520a",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: \u671d\u520a\u30fb\u5915\u520a"
+    },
+    {
+      "coordinates": {
+        "x1": 657.234375,
+        "y1": 209.28125,
+        "x2": 722.234375,
+        "y2": 230.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u671d\u520a\u30fb\u5915\u520a",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u671d\u520a\u30fb\u5915\u520a"
+    },
+    {
+      "coordinates": {
+        "x1": 739.234375,
+        "y1": 208.0,
+        "x2": 791.59375,
+        "y2": 232.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LIVE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: LIVE"
+    },
+    {
+      "coordinates": {
+        "x1": 752.234375,
+        "y1": 209.28125,
+        "x2": 778.59375,
+        "y2": 230.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LIVE",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: LIVE"
+    },
+    {
+      "coordinates": {
+        "x1": 795.59375,
+        "y1": 208.0,
+        "x2": 893.03125,
+        "y2": 232.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "My\u30cb\u30e5\u30fc\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: My\u30cb\u30e5\u30fc\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 808.59375,
+        "y1": 209.28125,
+        "x2": 880.03125,
+        "y2": 230.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "My\u30cb\u30e5\u30fc\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: My\u30cb\u30e5\u30fc\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 897.03125,
+        "y1": 208.0,
+        "x2": 1001.03125,
+        "y2": 232.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7d4c\u4f1a\u793e\u60c5\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: \u65e5\u7d4c\u4f1a\u793e\u60c5\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 910.03125,
+        "y1": 209.28125,
+        "x2": 988.03125,
+        "y2": 230.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7d4c\u4f1a\u793e\u60c5\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u65e5\u7d4c\u4f1a\u793e\u60c5\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 1005.03125,
+        "y1": 208.0,
+        "x2": 1109.03125,
+        "y2": 232.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: \u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1"
+    },
+    {
+      "coordinates": {
+        "x1": 1018.03125,
+        "y1": 209.28125,
+        "x2": 1096.03125,
+        "y2": 230.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u4eba\u4e8b\u30a6\u30aa\u30c3\u30c1"
+    },
+    {
+      "coordinates": {
+        "x1": 1113.03125,
+        "y1": 208.0,
+        "x2": 1244.765625,
+        "y2": 232.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NIKKEI Prime",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: NIKKEI Prime"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.03125,
+        "y1": 209.28125,
+        "x2": 1207.765625,
+        "y2": 230.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NIKKEI Prime",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: NIKKEI Prime"
+    },
+    {
+      "coordinates": {
+        "x1": 459.125,
+        "y1": 252.0,
+        "x2": 536.125,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30c8\u30c3\u30d7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30c8\u30c3\u30d7"
+    },
+    {
+      "coordinates": {
+        "x1": 536.125,
+        "y1": 252.0,
+        "x2": 600.125,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u901f\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u901f\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 600.125,
+        "y1": 252.0,
+        "x2": 689.609375,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30d3\u30b8\u30cd\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d3\u30b8\u30cd\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 689.609375,
+        "y1": 252.0,
+        "x2": 792.609375,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30de\u30fc\u30b1\u30c3\u30c8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30de\u30fc\u30b1\u30c3\u30c8"
+    },
+    {
+      "coordinates": {
+        "x1": 792.609375,
+        "y1": 252.0,
+        "x2": 856.609375,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u7d4c\u6e08",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u7d4c\u6e08"
+    },
+    {
+      "coordinates": {
+        "x1": 856.609375,
+        "y1": 252.0,
+        "x2": 920.609375,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u56fd\u969b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u56fd\u969b"
+    },
+    {
+      "coordinates": {
+        "x1": 920.609375,
+        "y1": 252.0,
+        "x2": 1022.96875,
+        "y2": 292.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30aa\u30d4\u30cb\u30aa\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30aa\u30d4\u30cb\u30aa\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 1150.96875,
+        "y1": 252.0,
+        "x2": 1260.671875,
+        "y2": 284.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "#\u30c8\u30e9\u30f3\u30d7\u653f\u6a29",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: #\u30c8\u30e9\u30f3\u30d7\u653f\u6a29"
+    },
+    {
+      "coordinates": {
+        "x1": 1260.671875,
+        "y1": 252.0,
+        "x2": 1429.859375,
+        "y2": 284.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "#3\u6b73\u304b\u3089\u59cb\u307e\u308b\u56fd\u5bb6\u6226\u7565",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: #3\u6b73\u304b\u3089\u59cb\u307e\u308b\u56fd\u5bb6\u6226\u7565"
+    },
+    {
+      "coordinates": {
+        "x1": 288.5,
+        "y1": 305.5,
+        "x2": 483.859375,
+        "y2": 318.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "3\u670830\u65e5 15:45 \u5927\u5f15",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u65e5\u7d4c\u5e73\u5747\n51,885.85\n-1487.22",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3\u670830\u65e5 15:45 \u5927\u5f15"
+    },
+    {
+      "coordinates": {
+        "x1": 507.859375,
+        "y1": 305.5,
+        "x2": 681.4375,
+        "y2": 318.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "3\u670830\u65e5 13:34",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NY\u30c0\u30a6\n45,262.37\n+95.73",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3\u670830\u65e5 13:34"
+    },
+    {
+      "coordinates": {
+        "x1": 705.4375,
+        "y1": 305.5,
+        "x2": 890.765625,
+        "y2": 318.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "3\u670831\u65e5 2:39",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30c9\u30eb\u5186\n159.47-49\n-0.47\u5186\u9ad8",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3\u670831\u65e5 2:39"
+    },
+    {
+      "coordinates": {
+        "x1": 914.765625,
+        "y1": 305.5,
+        "x2": 1066.375,
+        "y2": 318.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "3\u670830\u65e5 13:34",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NY\u539f\u6cb9\n103.60\n+3.96",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3\u670830\u65e5 13:34"
+    },
+    {
+      "coordinates": {
+        "x1": 1090.375,
+        "y1": 305.5,
+        "x2": 1242.59375,
+        "y2": 318.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "3\u670830\u65e5 17:23",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u9577\u671f\u91d1\u5229\n2.360\n-0.010",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 3\u670830\u65e5 17:23"
+    },
+    {
+      "coordinates": {
+        "x1": 1266.59375,
+        "y1": 305.5,
+        "x2": 1318.59375,
+        "y2": 318.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6307\u6570\u4e00\u89a7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6307\u6570\u4e00\u89a7"
+    },
+    {
+      "coordinates": {
+        "x1": 1546.5,
+        "y1": 304.0,
+        "x2": 1600.5,
+        "y2": 320.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quick",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quick"
+    },
+    {
+      "coordinates": {
+        "x1": 288.5,
+        "y1": 356.0,
+        "x2": 1264.5,
+        "y2": 593.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 700.5,
+        "y1": 356.0,
+        "x2": 1229.171875,
+        "y2": 428.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u6d88\u8cbb\u7a0e\u30bc\u30ed\u3001\u7d4c\u55b6\u8005\u300c\u53cd\u5bfe\u300d66%\u7d66\u4ed8\u4ed8\u304d\u63a7\u9664\u306f\u300c\u8cdb\u6210\u300d86%",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u6d88\u8cbb\u7a0e\u30bc\u30ed\u3001\u7d4c\u55b6\u8005\u300c\u53cd\u5bfe\u300d66%\u7d66\u4ed8\u4ed8\u304d\u63a7\u9664\u306f\u300c\u8cdb\u6210\u300d86%"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 621.5,
+        "x2": 1256.5,
+        "y2": 646.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u3010\u914d\u4fe1\u4e2d\u3011\u30b0\u30ed\u30fc\u30d0\u30eb\u4f01\u696d\u306e\u7af6\u4e89\u529b\u306b\u76f4\u7d50\u3059\u308b\u30c7\u30b8\u30bf\u30eb\u898f\u5236\u5bfe\u5fdc\u3092\u5fb9\u5e95\u89e3\u8aac",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u3010\u914d\u4fe1\u4e2d\u3011\u30b0\u30ed\u30fc\u30d0\u30eb\u4f01\u696d\u306e\u7af6\u4e89\u529b\u306b\u76f4\u7d50\u3059\u308b\u30c7\u30b8\u30bf\u30eb\u898f\u5236..."
+    },
+    {
+      "coordinates": {
+        "x1": 288.5,
+        "y1": 727.609375,
+        "x2": 1264.421875,
+        "y2": 748.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 288.5,
+        "y1": 799.609375,
+        "x2": 764.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 288.5,
+        "y1": 800.609375,
+        "x2": 552.5,
+        "y2": 896.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30a4\u30e9\u30f3\u653b\u6483\u767a\u306e\u91d1\u5229\u4e0a\u6607\u3001\u5e02\u5834\u63fa\u3089\u3059\u56fd\u50b5\u542b\u307f\u640d\u30fb\u30ce\u30f3\u30d0\u30f3\u30af\u878d\u8cc7\u306b\u61f8\u5ff5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30a4\u30e9\u30f3\u653b\u6483\u767a\u306e\u91d1\u5229\u4e0a\u6607\u3001\u5e02\u5834\u63fa\u3089\u3059\u56fd\u50b5\u542b\u307f\u640d\u30fb\u30ce\u30f3\u30d0\u30f3..."
+    },
+    {
+      "coordinates": {
+        "x1": 788.5,
+        "y1": 799.609375,
+        "x2": 1264.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 788.5,
+        "y1": 800.609375,
+        "x2": 1060.359375,
+        "y2": 896.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NY\u30c0\u30a6\u306f\u53cd\u767a\u3067\u958b\u59cb\u3001\u4e00\u6642300\u30c9\u30eb\u9ad8\u30a4\u30e9\u30f3\u505c\u6226\u5354\u8b70\u306e\u9032\u5c55\u671f\u5f85\u3067",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: NY\u30c0\u30a6\u306f\u53cd\u767a\u3067\u958b\u59cb\u3001\u4e00\u6642300\u30c9\u30eb\u9ad8\u30a4\u30e9\u30f3\u505c\u6226\u5354\u8b70\u306e..."
+    },
+    {
+      "coordinates": {
+        "x1": 1336.5,
+        "y1": 364.0,
+        "x2": 1588.5,
+        "y2": 388.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u751f\u6210AI\u3067\u4f01\u696d\u5206\u6790\u3000Ask! NIKKEI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u751f\u6210AI\u3067\u4f01\u696d\u5206\u6790\u3000Ask! NIKKEI"
+    },
+    {
+      "coordinates": {
+        "x1": 1351.5,
+        "y1": 714.0,
+        "x2": 1567.5,
+        "y2": 737.09375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u591a\u5f69\u306a\u89b3\u70b9\u304b\u3089\u30cb\u30e5\u30fc\u30b9\u3092\u8003\u3048\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u591a\u5f69\u306a\u89b3\u70b9\u304b\u3089\u30cb\u30e5\u30fc\u30b9\u3092\u8003\u3048\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 1296.5,
+        "y1": 745.09375,
+        "x2": 1600.5,
+        "y2": 807.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5409\u7530\u5fb9\n\u540c\u5fd7\u793e\u5927\u5b66\u653f\u7b56\u5b66\u90e8\u3000\u6559\u6388",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5409\u7530\u5fb9\n\u540c\u5fd7\u793e\u5927\u5b66\u653f\u7b56\u5b66\u90e8\u3000\u6559\u6388"
+    },
+    {
+      "coordinates": {
+        "x1": 1344.5,
+        "y1": 808.984375,
+        "x2": 1599.125,
+        "y2": 853.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u300cDEI\u75b2\u308c\u300d\u8077\u5834\u306b\u5e83\u304c\u308b\u3000\u6570\u5024\u3060\u3051\u306e\u5973\u6027\u6d3b\u8e8d\u306b\u9055\u548c\u611f\u3001\u4e0d\u516c\u5e73\u611f\u3082",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u300cDEI\u75b2\u308c\u300d\u8077\u5834\u306b\u5e83\u304c\u308b\u3000\u6570\u5024\u3060\u3051\u306e\u5973\u6027\u6d3b\u8e8d\u306b\u9055\u548c\u611f..."
+    },
+    {
+      "coordinates": {
+        "x1": 1296.5,
+        "y1": 872.984375,
+        "x2": 1600.5,
+        "y2": 935.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u52a0\u85e4\u96c5\u4fca\n\u95a2\u897f\u5b66\u9662\u5927\u5b66\u7d4c\u6e08\u5b66\u90e8\u6559\u6388",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u52a0\u85e4\u96c5\u4fca\n\u95a2\u897f\u5b66\u9662\u5927\u5b66\u7d4c\u6e08\u5b66\u90e8\u6559\u6388"
+    },
+    {
+      "coordinates": {
+        "x1": 1344.5,
+        "y1": 936.875,
+        "x2": 1588.90625,
+        "y2": 981.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30db\u30f3\u30c0\u3001\u6280\u8853\u8005\u306e\u300c\u8056\u57df\u300d\u5fa9\u6d3b\u306e\u8ced\u3051\u3000\u5275\u696d\u8005\u7cbe\u795e\u306f\u3088\u307f\u304c\u3048\u308b\u304b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30db\u30f3\u30c0\u3001\u6280\u8853\u8005\u306e\u300c\u8056\u57df\u300d\u5fa9\u6d3b\u306e\u8ced\u3051\u3000\u5275\u696d\u8005\u7cbe\u795e\u306f\u3088\u307f\u304c\u3048\u308b\u304b"
+    },
+    {
+      "coordinates": {
+        "x1": 537.5,
+        "y1": 931.90625,
+        "x2": 659.5,
+        "y2": 950.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 537.5,
+        "y1": 913.0,
+        "x2": 659.5,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u30af\u30c3\u30ad\u30fc\u30dd\u30ea\u30b7\u30fc"
+    },
+    {
+      "coordinates": {
+        "x1": 667.5,
+        "y1": 913.0,
+        "x2": 729.5,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u9589\u3058\u308b",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u9589\u3058\u308b"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 54
+  }
+}

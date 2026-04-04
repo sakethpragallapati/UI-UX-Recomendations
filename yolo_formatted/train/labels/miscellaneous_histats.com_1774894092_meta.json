@@ -1,0 +1,492 @@
+{
+  "url": "https://histats.com",
+  "category": "miscellaneous",
+  "timestamp": 1774894092,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 454.5,
+        "y1": 28.17106598984772,
+        "x2": 704.5,
+        "y2": 114.85126903553301
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 778.5,
+        "y1": 73.6781725888325,
+        "x2": 798.5,
+        "y2": 101.1269035532995
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 773.5,
+        "y1": 102.57157360406092,
+        "x2": 793.5,
+        "y2": 130.02030456852793
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.421875,
+        "y1": 93.90355329949239,
+        "x2": 1112.5,
+        "y2": 124.24162436548224
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English - USA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: English - USA"
+    },
+    {
+      "coordinates": {
+        "x1": 1214.5,
+        "y1": 23.114720812182743,
+        "x2": 1404.5,
+        "y2": 47.67411167512691
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "user"
+      },
+      "descriptive_label": "input: user"
+    },
+    {
+      "coordinates": {
+        "x1": 1214.5,
+        "y1": 52.00812182741117,
+        "x2": 1404.5,
+        "y2": 76.56751269035533
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "password",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "pass"
+      },
+      "descriptive_label": "input: pass"
+    },
+    {
+      "coordinates": {
+        "x1": 1144.5,
+        "y1": 87.40253807106599,
+        "x2": 1185.875,
+        "y2": 113.40659898477158
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Login",
+        "name": "B1"
+      },
+      "descriptive_label": "button: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 1323.390625,
+        "y1": 91.73654822335025,
+        "x2": 1424.5,
+        "y2": 110.51725888324874
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LOST PASSWORD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: LOST PASSWORD"
+    },
+    {
+      "coordinates": {
+        "x1": 503.5,
+        "y1": 156.02436548223352,
+        "x2": 545.5,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "HOME",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: HOME"
+    },
+    {
+      "coordinates": {
+        "x1": 627.28125,
+        "y1": 156.02436548223352,
+        "x2": 701.703125,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FEATURES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: FEATURES"
+    },
+    {
+      "coordinates": {
+        "x1": 765.21875,
+        "y1": 156.02436548223352,
+        "x2": 843.78125,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "COUNTERS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: COUNTERS"
+    },
+    {
+      "coordinates": {
+        "x1": 908.703125,
+        "y1": 156.02436548223352,
+        "x2": 980.28125,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "REGISTER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: REGISTER"
+    },
+    {
+      "coordinates": {
+        "x1": 1065.828125,
+        "y1": 156.02436548223352,
+        "x2": 1103.171875,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "HELP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: HELP"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.0,
+        "y1": 156.02436548223352,
+        "x2": 1249.0,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CHART",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: CHART"
+    },
+    {
+      "coordinates": {
+        "x1": 1329.875,
+        "y1": 156.02436548223352,
+        "x2": 1399.125,
+        "y2": 179.13908629441624
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "live DEMO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: live DEMO"
+    },
+    {
+      "coordinates": {
+        "x1": 464.5,
+        "y1": 205.14314720812183,
+        "x2": 1094.5,
+        "y2": 754.117766497462
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1119.5,
+        "y1": 318.5497461928934,
+        "x2": 1419.5,
+        "y2": 345.9984771573604
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1219.5,
+        "y1": 609.6507614213199,
+        "x2": 1419.5,
+        "y2": 634.210152284264
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "T3"
+      },
+      "descriptive_label": "input: T3"
+    },
+    {
+      "coordinates": {
+        "x1": 1323.46875,
+        "y1": 652.9908629441625,
+        "x2": 1419.5,
+        "y2": 700.6649746192894
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Register"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 19
+  }
+}

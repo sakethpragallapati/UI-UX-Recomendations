@@ -1,0 +1,142 @@
+{
+  "url": "https://amazon.co.jp",
+  "category": "e_commerce",
+  "timestamp": 1774891926,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 804.0,
+        "y1": 200.65625,
+        "x2": 1100.0,
+        "y2": 231.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 805.0,
+        "y1": 201.65625,
+        "x2": 1099.0,
+        "y2": 230.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 805.0,
+        "y1": 201.65625,
+        "x2": 1099.0,
+        "y2": 230.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 870.140625,
+        "y1": 350.65625,
+        "x2": 914.140625,
+        "y2": 362.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u5229\u7528\u898f\u7d04",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u5229\u7528\u898f\u7d04"
+    },
+    {
+      "coordinates": {
+        "x1": 946.390625,
+        "y1": 350.65625,
+        "x2": 1033.84375,
+        "y2": 362.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u7d04",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u7d04"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 5
+  }
+}

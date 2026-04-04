@@ -1,0 +1,617 @@
+{
+  "url": "https://unesco.org",
+  "category": "education_and_reference",
+  "timestamp": 1774893128,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 288.0,
+        "y1": 32.0,
+        "x2": 550.0,
+        "y2": 88.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 925.546875,
+        "y1": 32.0,
+        "x2": 1061.890625,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Press and news",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Press and news"
+    },
+    {
+      "coordinates": {
+        "x1": 1061.890625,
+        "y1": 32.0,
+        "x2": 1153.4375,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Calendar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Calendar"
+    },
+    {
+      "coordinates": {
+        "x1": 1153.4375,
+        "y1": 32.0,
+        "x2": 1269.328125,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Partnerships",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Partnerships"
+    },
+    {
+      "coordinates": {
+        "x1": 1269.328125,
+        "y1": 32.0,
+        "x2": 1380.9375,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Governance",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Governance"
+    },
+    {
+      "coordinates": {
+        "x1": 1380.9375,
+        "y1": 33.0,
+        "x2": 1501.546875,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quick Links",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Quick Links"
+    },
+    {
+      "coordinates": {
+        "x1": 1396.9375,
+        "y1": 35.0,
+        "x2": 1472.75,
+        "y2": 52.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quick Links",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Quick Links"
+    },
+    {
+      "coordinates": {
+        "x1": 1517.546875,
+        "y1": 32.0,
+        "x2": 1616.0,
+        "y2": 58.1875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: English"
+    },
+    {
+      "coordinates": {
+        "x1": 1533.546875,
+        "y1": 32.0,
+        "x2": 1608.0,
+        "y2": 58.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: English"
+    },
+    {
+      "coordinates": {
+        "x1": 919.1875,
+        "y1": 62.6875,
+        "x2": 1024.859375,
+        "y2": 94.6875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: About"
+    },
+    {
+      "coordinates": {
+        "x1": 919.1875,
+        "y1": 62.6875,
+        "x2": 1024.859375,
+        "y2": 94.6875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Expand menu About",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Expand menu About"
+    },
+    {
+      "coordinates": {
+        "x1": 1024.859375,
+        "y1": 62.6875,
+        "x2": 1159.390625,
+        "y2": 94.6875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Expertise",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Expertise"
+    },
+    {
+      "coordinates": {
+        "x1": 1024.859375,
+        "y1": 62.6875,
+        "x2": 1159.390625,
+        "y2": 94.6875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Expand menu Expertise",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Expertise",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Expand menu Expertise"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.390625,
+        "y1": 62.6875,
+        "x2": 1272.09375,
+        "y2": 94.6875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Impact",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Impact"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.390625,
+        "y1": 62.6875,
+        "x2": 1272.09375,
+        "y2": 94.6875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Expand menu Impact",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Impact",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Expand menu Impact"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.09375,
+        "y1": 62.6875,
+        "x2": 1440.59375,
+        "y2": 94.6875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Country profiles",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Country profiles"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.09375,
+        "y1": 62.6875,
+        "x2": 1440.59375,
+        "y2": 94.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Country profiles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Country profiles"
+    },
+    {
+      "coordinates": {
+        "x1": 1440.59375,
+        "y1": 62.6875,
+        "x2": 1584.0,
+        "y2": 94.6875
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1440.59375,
+        "y1": 62.6875,
+        "x2": 1584.0,
+        "y2": 94.6875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Expand menu Resources",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Expand menu Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 318.5,
+        "y1": 589.609375,
+        "x2": 470.765625,
+        "y2": 634.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Read more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Read more"
+    },
+    {
+      "coordinates": {
+        "x1": 318.5,
+        "y1": 867.0,
+        "x2": 928.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Thumbnail\nplay_arrow",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Thumbnail\nplay_arrow"
+    },
+    {
+      "coordinates": {
+        "x1": 432.140625,
+        "y1": 939.609375,
+        "x2": 567.734375,
+        "y2": 959.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "our privacy notice",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: our privacy notice"
+    },
+    {
+      "coordinates": {
+        "x1": 1530.5,
+        "y1": 927.21875,
+        "x2": 1562.5,
+        "y2": 961.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "close",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: close"
+    },
+    {
+      "coordinates": {
+        "x1": 1530.5,
+        "y1": 928.109375,
+        "x2": 1562.5,
+        "y2": 960.109375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "close",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: close"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 24
+  }
+}

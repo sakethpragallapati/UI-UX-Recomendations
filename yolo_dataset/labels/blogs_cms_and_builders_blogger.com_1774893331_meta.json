@@ -1,0 +1,192 @@
+{
+  "url": "https://www.blogger.com",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1774893331,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1.0,
+        "y2": 1.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 16.0,
+        "x2": 132.46875,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "blogger",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": ".st0 { fill: url(#gradientone); } .st1 { fill: #FFFFFF; } .st2 { fill: url(#gradienttwo); }",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: blogger"
+    },
+    {
+      "coordinates": {
+        "x1": 1720.203125,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SIGN IN",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: SIGN IN"
+    },
+    {
+      "coordinates": {
+        "x1": 1795.703125,
+        "y1": 13.0,
+        "x2": 1877.0,
+        "y2": 52.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SIGN IN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SIGN IN"
+    },
+    {
+      "coordinates": {
+        "x1": 1720.203125,
+        "y1": 0,
+        "x2": 1881.0,
+        "y2": 1.7281265258789062
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 864.6875,
+        "y1": 371.59375,
+        "x2": 1024.296875,
+        "y2": 421.171875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CREATE YOUR BLOG",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: CREATE YOUR BLOG"
+    },
+    {
+      "coordinates": {
+        "x1": 1761.0,
+        "y1": 905.0,
+        "x2": 1825.0,
+        "y2": 969.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Jump Link",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Jump Link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 7
+  }
+}

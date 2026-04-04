@@ -1,0 +1,392 @@
+{
+  "url": "https://nih.gov",
+  "category": "government_and_organizations",
+  "timestamp": 1774893247,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1.0,
+        "y2": 1.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 580.34375,
+        "y1": 4.0,
+        "x2": 693.46875,
+        "y2": 18.0625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Here\u2019s how you know",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Here\u2019s how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 580.34375,
+        "y1": 3.0,
+        "x2": 693.46875,
+        "y2": 19.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Here\u2019s how you know",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Here\u2019s how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 276.5,
+        "y1": 46.0625,
+        "x2": 666.5,
+        "y2": 107.015625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "Home",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 260.5,
+        "y1": 131.015625,
+        "x2": 443.21875,
+        "y2": 178.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Health Information",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Health Information"
+    },
+    {
+      "coordinates": {
+        "x1": 443.21875,
+        "y1": 131.015625,
+        "x2": 612.71875,
+        "y2": 178.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Grants & Funding",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Grants & Funding"
+    },
+    {
+      "coordinates": {
+        "x1": 612.71875,
+        "y1": 131.015625,
+        "x2": 763.515625,
+        "y2": 178.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News & Events",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: News & Events"
+    },
+    {
+      "coordinates": {
+        "x1": 763.515625,
+        "y1": 131.015625,
+        "x2": 950.734375,
+        "y2": 178.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Research & Training",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Research & Training"
+    },
+    {
+      "coordinates": {
+        "x1": 950.734375,
+        "y1": 131.015625,
+        "x2": 1112.375,
+        "y2": 178.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Institutes at NIH",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Institutes at NIH"
+    },
+    {
+      "coordinates": {
+        "x1": 1112.375,
+        "y1": 131.015625,
+        "x2": 1232.984375,
+        "y2": 178.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About NIH",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: About NIH"
+    },
+    {
+      "coordinates": {
+        "x1": 1454.703125,
+        "y1": 44.890625,
+        "x2": 1526.90625,
+        "y2": 58.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Virtual Tour",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Virtual Tour"
+    },
+    {
+      "coordinates": {
+        "x1": 1543.90625,
+        "y1": 44.890625,
+        "x2": 1612.5,
+        "y2": 58.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "En Espa\u00f1ol",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: En Espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 1276.5,
+        "y1": 74.265625,
+        "x2": 1527.359375,
+        "y2": 106.265625
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search NIH",
+        "value": "",
+        "name": "query"
+      },
+      "descriptive_label": "input: Search NIH"
+    },
+    {
+      "coordinates": {
+        "x1": 1527.359375,
+        "y1": 74.265625,
+        "x2": 1612.5,
+        "y2": 106.265625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": "commit"
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1260.5,
+        "y1": 505.71875,
+        "x2": 1389.015625,
+        "y2": 546.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Learn more"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 15
+  }
+}

@@ -1,0 +1,2192 @@
+{
+  "url": "https://news.yahoo.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892259,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 22.0,
+        "x2": 436.5,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Yahoo News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Yahoo News"
+    },
+    {
+      "coordinates": {
+        "x1": 456.5,
+        "y1": 12.0,
+        "x2": 979.9375,
+        "y2": 52.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search the web",
+        "value": "",
+        "name": "p"
+      },
+      "descriptive_label": "input: Search the web"
+    },
+    {
+      "coordinates": {
+        "x1": 907.9375,
+        "y1": 12.0,
+        "x2": 979.9375,
+        "y2": 52.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "Search",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1039.9375,
+        "y1": 18.40625,
+        "x2": 1082.921875,
+        "y2": 44.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 1114.921875,
+        "y1": 18.40625,
+        "x2": 1172.203125,
+        "y2": 44.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Finance",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance"
+    },
+    {
+      "coordinates": {
+        "x1": 1204.203125,
+        "y1": 18.40625,
+        "x2": 1254.34375,
+        "y2": 44.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sports",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports"
+    },
+    {
+      "coordinates": {
+        "x1": 1286.34375,
+        "y1": 18.40625,
+        "x2": 1341.34375,
+        "y2": 44.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 88.0,
+        "x2": 496.5,
+        "y2": 117.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: General",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: General"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 135.0,
+        "x2": 496.5,
+        "y2": 163.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Today's news",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Today's news"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 171.0,
+        "x2": 496.5,
+        "y2": 199.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: US",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: US"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 207.0,
+        "x2": 496.5,
+        "y2": 235.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Politics",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Politics"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 243.0,
+        "x2": 496.5,
+        "y2": 271.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: World",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: World"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 279.0,
+        "x2": 496.5,
+        "y2": 307.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Weather",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Weather"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 315.0,
+        "x2": 496.5,
+        "y2": 343.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Climate change",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Climate change"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 351.0,
+        "x2": 496.5,
+        "y2": 379.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Health",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Health"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 387.0,
+        "x2": 496.5,
+        "y2": 415.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Science",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Science"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 423.0,
+        "x2": 496.5,
+        "y2": 451.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Originals",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Originals"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 459.0,
+        "x2": 496.5,
+        "y2": 487.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Newsletters",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 495.0,
+        "x2": 496.5,
+        "y2": 523.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "News: Games",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News: Games"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 88.0,
+        "x2": 712.5,
+        "y2": 117.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: General",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: General"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 135.0,
+        "x2": 712.5,
+        "y2": 163.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Health",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Health"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 171.0,
+        "x2": 712.5,
+        "y2": 199.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Parenting",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Parenting"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 207.0,
+        "x2": 712.5,
+        "y2": 235.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Horoscopes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Horoscopes"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 243.0,
+        "x2": 712.5,
+        "y2": 271.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Shopping",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Shopping"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 279.0,
+        "x2": 712.5,
+        "y2": 307.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Food",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Food"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 315.0,
+        "x2": 712.5,
+        "y2": 343.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Travel",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Travel"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 351.0,
+        "x2": 712.5,
+        "y2": 379.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Autos",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Autos"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 387.0,
+        "x2": 712.5,
+        "y2": 415.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Gift ideas",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Gift ideas"
+    },
+    {
+      "coordinates": {
+        "x1": 528.5,
+        "y1": 423.0,
+        "x2": 712.5,
+        "y2": 451.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Life: Buying guides",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Life: Buying guides"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 88.0,
+        "x2": 928.5,
+        "y2": 117.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: General",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: General"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 135.0,
+        "x2": 928.5,
+        "y2": 163.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: Celebrity",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: Celebrity"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 171.0,
+        "x2": 928.5,
+        "y2": 199.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: TV",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: TV"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 207.0,
+        "x2": 928.5,
+        "y2": 235.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: Movies",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: Movies"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 243.0,
+        "x2": 928.5,
+        "y2": 271.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: Music",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: Music"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 279.0,
+        "x2": 928.5,
+        "y2": 307.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: How to Watch",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: How to Watch"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 315.0,
+        "x2": 928.5,
+        "y2": 343.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: Interviews",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: Interviews"
+    },
+    {
+      "coordinates": {
+        "x1": 744.5,
+        "y1": 351.0,
+        "x2": 928.5,
+        "y2": 379.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Entertainment: Videos",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Entertainment: Videos"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 88.0,
+        "x2": 1144.5,
+        "y2": 117.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: General",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: General"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 135.0,
+        "x2": 1144.5,
+        "y2": 163.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: My portfolio",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: My portfolio"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 171.0,
+        "x2": 1144.5,
+        "y2": 199.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Watchlists",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Watchlists"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 207.0,
+        "x2": 1144.5,
+        "y2": 235.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Markets",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Markets"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 243.0,
+        "x2": 1144.5,
+        "y2": 271.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: News",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: News"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 279.0,
+        "x2": 1144.5,
+        "y2": 307.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Videos",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Videos"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 315.0,
+        "x2": 1144.5,
+        "y2": 343.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Screeners",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Screeners"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 351.0,
+        "x2": 1144.5,
+        "y2": 379.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Personal finance",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Personal finance"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 387.0,
+        "x2": 1144.5,
+        "y2": 415.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Crypto",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Crypto"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 423.0,
+        "x2": 1144.5,
+        "y2": 451.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Finance: Sectors",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance: Sectors"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 88.0,
+        "x2": 1360.5,
+        "y2": 117.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: General",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: General"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 135.0,
+        "x2": 1360.5,
+        "y2": 163.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: Olympics",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: Olympics"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 171.0,
+        "x2": 1360.5,
+        "y2": 199.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: Fantasy",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: Fantasy"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 207.0,
+        "x2": 1360.5,
+        "y2": 235.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: NFL",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: NFL"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 243.0,
+        "x2": 1360.5,
+        "y2": 271.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: NBA",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: NBA"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 279.0,
+        "x2": 1360.5,
+        "y2": 307.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: MLB",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: MLB"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 315.0,
+        "x2": 1360.5,
+        "y2": 343.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: NHL",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: NHL"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 351.0,
+        "x2": 1360.5,
+        "y2": 379.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: College football",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: College football"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 387.0,
+        "x2": 1360.5,
+        "y2": 415.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: College basketball",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: College basketball"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 423.0,
+        "x2": 1360.5,
+        "y2": 451.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: Soccer",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: Soccer"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 459.0,
+        "x2": 1360.5,
+        "y2": 487.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sports: Yahoo Sports AM",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sports: Yahoo Sports AM"
+    },
+    {
+      "coordinates": {
+        "x1": 1392.5,
+        "y1": 135.0,
+        "x2": 1576.5,
+        "y2": 163.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "New on Yahoo: Creators",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: New on Yahoo: Creators"
+    },
+    {
+      "coordinates": {
+        "x1": 1392.5,
+        "y1": 171.0,
+        "x2": 1576.5,
+        "y2": 199.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "New on Yahoo: Tech",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: New on Yahoo: Tech"
+    },
+    {
+      "coordinates": {
+        "x1": 1392.5,
+        "y1": 207.0,
+        "x2": 1576.5,
+        "y2": 235.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "New on Yahoo: Local",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: New on Yahoo: Local"
+    },
+    {
+      "coordinates": {
+        "x1": 1392.5,
+        "y1": 267.0,
+        "x2": 1576.5,
+        "y2": 296.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Selected edition",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Selected edition"
+    },
+    {
+      "coordinates": {
+        "x1": 1392.5,
+        "y1": 314.0,
+        "x2": 1576.5,
+        "y2": 358.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1418.34375,
+        "y1": 14.0,
+        "x2": 1469.5,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Check your mail",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mail",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Check your mail"
+    },
+    {
+      "coordinates": {
+        "x1": 1498.5,
+        "y1": 12.0,
+        "x2": 1576.5,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 300.5,
+        "y1": 65.5,
+        "x2": 409.53125,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Today's news",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Today's news"
+    },
+    {
+      "coordinates": {
+        "x1": 417.53125,
+        "y1": 65.5,
+        "x2": 459.0,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "US",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: US"
+    },
+    {
+      "coordinates": {
+        "x1": 467.0,
+        "y1": 65.5,
+        "x2": 537.359375,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Politics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Politics"
+    },
+    {
+      "coordinates": {
+        "x1": 545.359375,
+        "y1": 65.5,
+        "x2": 608.03125,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "World",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: World"
+    },
+    {
+      "coordinates": {
+        "x1": 616.03125,
+        "y1": 65.5,
+        "x2": 700.53125,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "COVID-19",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: COVID-19"
+    },
+    {
+      "coordinates": {
+        "x1": 708.53125,
+        "y1": 65.5,
+        "x2": 832.203125,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Climate Change",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Climate Change"
+    },
+    {
+      "coordinates": {
+        "x1": 840.203125,
+        "y1": 65.5,
+        "x2": 907.296875,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Health",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Health"
+    },
+    {
+      "coordinates": {
+        "x1": 915.296875,
+        "y1": 65.5,
+        "x2": 987.609375,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Science",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Science"
+    },
+    {
+      "coordinates": {
+        "x1": 995.609375,
+        "y1": 65.5,
+        "x2": 1119.53125,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Yahoo Originals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Yahoo Originals"
+    },
+    {
+      "coordinates": {
+        "x1": 1127.53125,
+        "y1": 65.5,
+        "x2": 1222.296875,
+        "y2": 103.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact Us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Contact Us"
+    },
+    {
+      "coordinates": {
+        "x1": 1222.296875,
+        "y1": 80.5,
+        "x2": 1256.984375,
+        "y2": 97.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 905.234375,
+        "y1": 463.078125,
+        "x2": 1207.21875,
+        "y2": 650.703125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "4 possible scenarios if the U.S. invades Iran's Kharg Island",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "4 possible scenarios if the U.S. invades Iran's Kharg Island\nThe island is an economic lifeline for Tehran and handles roughly 90% of the country's crude exports.\nRead More \u00bb",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 4 possible scenarios if the..."
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 703.796875,
+        "x2": 489.296875,
+        "y2": 853.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "A new distracted driving trend is rising, and it's more than texting",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: A new distracted driving tr..."
+    },
+    {
+      "coordinates": {
+        "x1": 501.296875,
+        "y1": 703.796875,
+        "x2": 678.09375,
+        "y2": 853.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Remains of man found on Calif. beach identified as banker missing since 1999",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Remains of man found on Cal..."
+    },
+    {
+      "coordinates": {
+        "x1": 690.09375,
+        "y1": 703.796875,
+        "x2": 866.890625,
+        "y2": 853.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "No water for diners. Restrictions start as drought fears grow in West.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: No water for diners. Restri..."
+    },
+    {
+      "coordinates": {
+        "x1": 878.890625,
+        "y1": 703.796875,
+        "x2": 1055.6875,
+        "y2": 853.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Inside modern real estate safety: Guns, background checks, no parking in driveways",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Inside modern real estate s..."
+    },
+    {
+      "coordinates": {
+        "x1": 1067.6875,
+        "y1": 703.796875,
+        "x2": 1244.484375,
+        "y2": 853.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Usha Vance on disagreements with JD Vance, 2028 and shopping at Costco",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Usha Vance on disagreements..."
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 911.828125,
+        "x2": 580.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 600.5,
+        "y1": 931.421875,
+        "x2": 1194.5,
+        "y2": 979.296875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Stock market bulls, don't f..."
+    },
+    {
+      "coordinates": {
+        "x1": 1487.53125,
+        "y1": 705.953125,
+        "x2": 1554.5,
+        "y2": 722.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hyderabad",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hyderabad"
+    },
+    {
+      "coordinates": {
+        "x1": 1558.5,
+        "y1": 704.390625,
+        "x2": 1576.5,
+        "y2": 724.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "View your Locations",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "View your Locations",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: View your Locations"
+    },
+    {
+      "coordinates": {
+        "x1": 1276.5,
+        "y1": 829.984375,
+        "x2": 1482.5,
+        "y2": 847.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "See more \u00bb",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: See more \u00bb"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 87
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "url": "https://ietf.org",
+  "category": "tech_and_software",
+  "timestamp": 1774893562,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 313.0,
+        "y1": 5.0,
+        "x2": 444.0,
+        "y2": 80.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 466.5,
+        "y1": 22.5,
+        "x2": 551.34375,
+        "y2": 62.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ABOUT",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: ABOUT"
+    },
+    {
+      "coordinates": {
+        "x1": 466.5,
+        "y1": 22.5,
+        "x2": 551.34375,
+        "y2": 70.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "ABOUT",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: ABOUT"
+    },
+    {
+      "coordinates": {
+        "x1": 551.34375,
+        "y1": 22.5,
+        "x2": 705.3125,
+        "y2": 62.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TECHNOLOGIES",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: TECHNOLOGIES"
+    },
+    {
+      "coordinates": {
+        "x1": 551.34375,
+        "y1": 22.5,
+        "x2": 705.3125,
+        "y2": 70.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "TECHNOLOGIES",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: TECHNOLOGIES"
+    },
+    {
+      "coordinates": {
+        "x1": 705.3125,
+        "y1": 22.5,
+        "x2": 816.578125,
+        "y2": 62.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MEETINGS",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: MEETINGS"
+    },
+    {
+      "coordinates": {
+        "x1": 705.3125,
+        "y1": 22.5,
+        "x2": 816.578125,
+        "y2": 70.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "MEETINGS",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: MEETINGS"
+    },
+    {
+      "coordinates": {
+        "x1": 816.578125,
+        "y1": 22.5,
+        "x2": 920.125,
+        "y2": 62.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PROCESS",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: PROCESS"
+    },
+    {
+      "coordinates": {
+        "x1": 816.578125,
+        "y1": 22.5,
+        "x2": 920.125,
+        "y2": 70.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "PROCESS",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: PROCESS"
+    },
+    {
+      "coordinates": {
+        "x1": 920.125,
+        "y1": 22.5,
+        "x2": 1049.875,
+        "y2": 62.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PARTICIPATE",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: PARTICIPATE"
+    },
+    {
+      "coordinates": {
+        "x1": 920.125,
+        "y1": 22.5,
+        "x2": 1049.875,
+        "y2": 70.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "PARTICIPATE",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: PARTICIPATE"
+    },
+    {
+      "coordinates": {
+        "x1": 1049.875,
+        "y1": 22.5,
+        "x2": 1180.109375,
+        "y2": 62.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SUPPORT US",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: SUPPORT US"
+    },
+    {
+      "coordinates": {
+        "x1": 1049.875,
+        "y1": 22.5,
+        "x2": 1180.109375,
+        "y2": 70.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "SUPPORT US",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: SUPPORT US"
+    },
+    {
+      "coordinates": {
+        "x1": 1180.109375,
+        "y1": 22.5,
+        "x2": 1291.09375,
+        "y2": 62.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News & blog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: News & blog"
+    },
+    {
+      "coordinates": {
+        "x1": 1291.09375,
+        "y1": 22.5,
+        "x2": 1380.21875,
+        "y2": 62.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Toggle search bar",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Toggle search bar"
+    },
+    {
+      "coordinates": {
+        "x1": 306.5,
+        "y1": 280.390625,
+        "x2": 404.296875,
+        "y2": 318.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "See more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: See more"
+    },
+    {
+      "coordinates": {
+        "x1": 531.5,
+        "y1": 513.984375,
+        "x2": 712.53125,
+        "y2": 535.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "IETF 126 Vienna",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: IETF 126 Vienna"
+    },
+    {
+      "coordinates": {
+        "x1": 531.5,
+        "y1": 672.984375,
+        "x2": 784.03125,
+        "y2": 694.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "IETF 127 San Francisco",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: IETF 127 San Francisco"
+    },
+    {
+      "coordinates": {
+        "x1": 306.5,
+        "y1": 821.984375,
+        "x2": 405.75,
+        "y2": 859.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "All events",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: All events"
+    },
+    {
+      "coordinates": {
+        "x1": 973.5,
+        "y1": 513.984375,
+        "x2": 1539.1875,
+        "y2": 559.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Suggested IETF 125 Sessions for Getting Familiar with New Topics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Suggested IETF 125 Sessions..."
+    },
+    {
+      "coordinates": {
+        "x1": 973.5,
+        "y1": 720.984375,
+        "x2": 1250.4375,
+        "y2": 742.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The current state of RDAP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The current state of RDAP"
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 893.984375,
+        "x2": 1045.46875,
+        "y2": 931.984375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "All news",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: All news"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 22
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "url": "https://joomla.org",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1774893395,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 0,
+        "x2": 424.84375,
+        "y2": 50.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Joomla!\u00ae",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Joomla!\u00ae"
+    },
+    {
+      "coordinates": {
+        "x1": 297.5,
+        "y1": 0,
+        "x2": 423.84375,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Joomla!\u00ae",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Joomla!\u00ae"
+    },
+    {
+      "coordinates": {
+        "x1": 424.84375,
+        "y1": 0,
+        "x2": 609.609375,
+        "y2": 50.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download & Extend",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Download & Extend"
+    },
+    {
+      "coordinates": {
+        "x1": 424.84375,
+        "y1": 0,
+        "x2": 608.609375,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download & Extend",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Download & Extend"
+    },
+    {
+      "coordinates": {
+        "x1": 609.609375,
+        "y1": 0,
+        "x2": 773.546875,
+        "y2": 50.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Discover & Learn",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Discover & Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 609.609375,
+        "y1": 0,
+        "x2": 772.546875,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Discover & Learn",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Discover & Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 773.546875,
+        "y1": 0,
+        "x2": 977.296875,
+        "y2": 50.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Community & Support",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Community & Support"
+    },
+    {
+      "coordinates": {
+        "x1": 773.546875,
+        "y1": 0,
+        "x2": 976.296875,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Community & Support",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Community & Support"
+    },
+    {
+      "coordinates": {
+        "x1": 977.296875,
+        "y1": 0,
+        "x2": 1168.140625,
+        "y2": 50.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 977.296875,
+        "y1": 0,
+        "x2": 1167.140625,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Developer Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1384.5,
+        "y1": 5.0,
+        "x2": 1385.5,
+        "y2": 6.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1385.5,
+        "y1": 6.0,
+        "x2": 1592.5,
+        "y2": 44.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search \u2026",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "input: Search \u2026"
+    },
+    {
+      "coordinates": {
+        "x1": 306.5,
+        "y1": 63.0,
+        "x2": 510.578125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1054.5,
+        "y1": 59.0,
+        "x2": 1604.5,
+        "y2": 111.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download\nLaunch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Download\nLaunch"
+    },
+    {
+      "coordinates": {
+        "x1": 1054.5,
+        "y1": 63.0,
+        "x2": 1329.5,
+        "y2": 111.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1066.5,
+        "y1": 63.0,
+        "x2": 1317.5,
+        "y2": 111.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1329.5,
+        "y1": 63.0,
+        "x2": 1604.5,
+        "y2": 111.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Launch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Launch"
+    },
+    {
+      "coordinates": {
+        "x1": 1341.5,
+        "y1": 63.0,
+        "x2": 1592.5,
+        "y2": 111.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Launch",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Launch"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 126.046875,
+        "x2": 365.390625,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 366.390625,
+        "y1": 126.046875,
+        "x2": 495.15625,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About Joomla!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: About Joomla!"
+    },
+    {
+      "coordinates": {
+        "x1": 496.15625,
+        "y1": 126.046875,
+        "x2": 659.296875,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Benefits & Features",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Benefits & Features"
+    },
+    {
+      "coordinates": {
+        "x1": 660.296875,
+        "y1": 126.046875,
+        "x2": 754.109375,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Joomla! 6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Joomla! 6"
+    },
+    {
+      "coordinates": {
+        "x1": 755.109375,
+        "y1": 126.046875,
+        "x2": 819.796875,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 820.796875,
+        "y1": 126.046875,
+        "x2": 922.25,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contribute",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Contribute"
+    },
+    {
+      "coordinates": {
+        "x1": 923.25,
+        "y1": 126.046875,
+        "x2": 1054.203125,
+        "y2": 168.046875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Press Enquiries",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Press Enquiries"
+    },
+    {
+      "coordinates": {
+        "x1": 839.375,
+        "y1": 714.734375,
+        "x2": 1049.609375,
+        "y2": 762.734375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Join the Celebration",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Join the Celebration"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 26
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "url": "https://accounts.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1774891585,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 978.0,
+        "y1": 377.5,
+        "x2": 1434.0,
+        "y2": 429.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "Email or phone",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "identifier"
+      },
+      "descriptive_label": "input: Email or phone"
+    },
+    {
+      "coordinates": {
+        "x1": 976.0,
+        "y1": 441.5,
+        "x2": 1068.375,
+        "y2": 459.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Forgot email?",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Forgot email?"
+    },
+    {
+      "coordinates": {
+        "x1": 976.0,
+        "y1": 505.5,
+        "x2": 1412.828125,
+        "y2": 543.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more about using Guest mode",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn more about using Gues..."
+    },
+    {
+      "coordinates": {
+        "x1": 1357.546875,
+        "y1": 585.5,
+        "x2": 1436.0,
+        "y2": 625.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Next",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.5,
+        "y1": 585.5,
+        "x2": 1333.546875,
+        "y2": 625.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create account",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Create account"
+    },
+    {
+      "coordinates": {
+        "x1": 432.0,
+        "y1": 677.5,
+        "x2": 632.0,
+        "y2": 709.5
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": "combobox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "English (United States)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: English (United States)"
+    },
+    {
+      "coordinates": {
+        "x1": 1281.140625,
+        "y1": 677.5,
+        "x2": 1330.5,
+        "y2": 709.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 1338.5,
+        "y1": 677.5,
+        "x2": 1402.53125,
+        "y2": 709.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy"
+    },
+    {
+      "coordinates": {
+        "x1": 1410.53125,
+        "y1": 677.5,
+        "x2": 1468.0,
+        "y2": 709.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 9
+  }
+}

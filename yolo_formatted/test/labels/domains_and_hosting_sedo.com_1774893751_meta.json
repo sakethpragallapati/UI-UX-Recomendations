@@ -1,0 +1,1392 @@
+{
+  "url": "https://sedo.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1774893752,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 268.5,
+        "y1": 31.5,
+        "x2": 417.5,
+        "y2": 76.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sedo Logo",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sedo Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 632.5,
+        "y1": 33.5,
+        "x2": 1018.5,
+        "y2": 46.5
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Your Keyword",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Your Keyword"
+    },
+    {
+      "coordinates": {
+        "x1": 632.5,
+        "y1": 21.5,
+        "x2": 1018.5,
+        "y2": 86.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input"
+    },
+    {
+      "coordinates": {
+        "x1": 1018.5,
+        "y1": 21.5,
+        "x2": 1088.5,
+        "y2": 86.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.5,
+        "y1": 29.0,
+        "x2": 1398.5,
+        "y2": 79.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 1312.515625,
+        "y1": 47.5,
+        "x2": 1343.46875,
+        "y2": 60.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 1438.5,
+        "y1": 29.0,
+        "x2": 1620.5,
+        "y2": 79.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Register"
+    },
+    {
+      "coordinates": {
+        "x1": 1527.265625,
+        "y1": 47.5,
+        "x2": 1572.734375,
+        "y2": 60.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Register"
+    },
+    {
+      "coordinates": {
+        "x1": 248.5,
+        "y1": 108.0,
+        "x2": 401.546875,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WHAT WE OFFER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WHAT WE OFFER"
+    },
+    {
+      "coordinates": {
+        "x1": 401.546875,
+        "y1": 108.0,
+        "x2": 537.921875,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "BUY DOMAINS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: BUY DOMAINS"
+    },
+    {
+      "coordinates": {
+        "x1": 537.921875,
+        "y1": 108.0,
+        "x2": 679.890625,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SELL DOMAINS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SELL DOMAINS"
+    },
+    {
+      "coordinates": {
+        "x1": 679.890625,
+        "y1": 108.0,
+        "x2": 825.03125,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PARK DOMAINS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PARK DOMAINS"
+    },
+    {
+      "coordinates": {
+        "x1": 825.03125,
+        "y1": 108.0,
+        "x2": 965.34375,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OUR SERVICES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: OUR SERVICES"
+    },
+    {
+      "coordinates": {
+        "x1": 1425.0625,
+        "y1": 108.0,
+        "x2": 1521.265625,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1521.265625,
+        "y1": 108.0,
+        "x2": 1640.5,
+        "y2": 152.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About Sedo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: About Sedo"
+    },
+    {
+      "coordinates": {
+        "x1": 244.5,
+        "y1": 152.0,
+        "x2": 1644.5,
+        "y2": 612.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 643.515625,
+        "x2": 485.390625,
+        "y2": 668.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Showcase Domains",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Showcase Domains"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 701.515625,
+        "x2": 385.390625,
+        "y2": 721.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "femminile.it",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "femminile.it",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: femminile.it"
+    },
+    {
+      "coordinates": {
+        "x1": 597.390625,
+        "y1": 701.515625,
+        "x2": 672.140625,
+        "y2": 721.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "61,000 EUR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 61,000 EUR"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 751.515625,
+        "x2": 398.859375,
+        "y2": 771.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "letuspray.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "letuspray.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: letuspray.com"
+    },
+    {
+      "coordinates": {
+        "x1": 596.703125,
+        "y1": 751.515625,
+        "x2": 672.140625,
+        "y2": 771.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "25,000 USD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 25,000 USD"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 801.515625,
+        "x2": 430.1875,
+        "y2": 821.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "releasecapital.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "releasecapital.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: releasecapital.com"
+    },
+    {
+      "coordinates": {
+        "x1": 600.421875,
+        "y1": 801.515625,
+        "x2": 672.140625,
+        "y2": 821.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 851.515625,
+        "x2": 408.109375,
+        "y2": 871.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "robotparts.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "robotparts.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: robotparts.com"
+    },
+    {
+      "coordinates": {
+        "x1": 600.421875,
+        "y1": 851.515625,
+        "x2": 672.140625,
+        "y2": 871.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 901.515625,
+        "x2": 393.40625,
+        "y2": 921.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "broker.digital",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "broker.digital",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: broker.digital"
+    },
+    {
+      "coordinates": {
+        "x1": 588.765625,
+        "y1": 901.515625,
+        "x2": 672.140625,
+        "y2": 921.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "350,000 USD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 350,000 USD"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 951.515625,
+        "x2": 409.078125,
+        "y2": 971.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "loyalinvest.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "loyalinvest.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: loyalinvest.com"
+    },
+    {
+      "coordinates": {
+        "x1": 597.390625,
+        "y1": 951.515625,
+        "x2": 672.140625,
+        "y2": 971.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "15,750 EUR",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 15,750 EUR"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 643.515625,
+        "x2": 958.9375,
+        "y2": 668.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Auctions ending soon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Auctions ending soon"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 701.515625,
+        "x2": 837.5625,
+        "y2": 721.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "glassskin.ai",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "glassskin.ai",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: glassskin.ai"
+    },
+    {
+      "coordinates": {
+        "x1": 1083.71875,
+        "y1": 701.515625,
+        "x2": 1128.328125,
+        "y2": 721.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0d 15h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0d 15h"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 751.515625,
+        "x2": 850.796875,
+        "y2": 771.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "cyberweek.at",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "cyberweek.at",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: cyberweek.at"
+    },
+    {
+      "coordinates": {
+        "x1": 1083.71875,
+        "y1": 751.515625,
+        "x2": 1128.328125,
+        "y2": 771.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0d 18h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0d 18h"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 801.515625,
+        "x2": 828.953125,
+        "y2": 821.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "dibsey.xyz",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "dibsey.xyz",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: dibsey.xyz"
+    },
+    {
+      "coordinates": {
+        "x1": 1083.71875,
+        "y1": 801.515625,
+        "x2": 1128.328125,
+        "y2": 821.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0d 21h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0d 21h"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 851.515625,
+        "x2": 866.28125,
+        "y2": 871.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "calabriauno.net",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "calabriauno.net",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: calabriauno.net"
+    },
+    {
+      "coordinates": {
+        "x1": 1083.71875,
+        "y1": 851.515625,
+        "x2": 1128.328125,
+        "y2": 871.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0d 21h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0d 21h"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 901.515625,
+        "x2": 911.5625,
+        "y2": 921.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "exclusive-concepts-llc.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "exclusive-concepts-ll...",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: exclusive-concepts-llc.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1083.71875,
+        "y1": 901.515625,
+        "x2": 1128.328125,
+        "y2": 921.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0d 21h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0d 21h"
+    },
+    {
+      "coordinates": {
+        "x1": 760.6875,
+        "y1": 951.515625,
+        "x2": 878.90625,
+        "y2": 971.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "hashtaghaus.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "hashtaghaus.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: hashtaghaus.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1083.71875,
+        "y1": 951.515625,
+        "x2": 1128.328125,
+        "y2": 971.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0d 21h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0d 21h"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 643.515625,
+        "x2": 1345.203125,
+        "y2": 668.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Top Domains",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Top Domains"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 701.515625,
+        "x2": 1305.375,
+        "y2": 721.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "drugged.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "drugged.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: drugged.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.78125,
+        "y1": 701.515625,
+        "x2": 1584.5,
+        "y2": 721.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 751.515625,
+        "x2": 1296.59375,
+        "y2": 771.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "reward.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "reward.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: reward.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.78125,
+        "y1": 751.515625,
+        "x2": 1584.5,
+        "y2": 771.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 801.515625,
+        "x2": 1298.328125,
+        "y2": 821.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "offroad.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "offroad.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: offroad.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.78125,
+        "y1": 801.515625,
+        "x2": 1584.5,
+        "y2": 821.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 851.515625,
+        "x2": 1300.8125,
+        "y2": 871.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "bidding.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "bidding.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: bidding.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.78125,
+        "y1": 851.515625,
+        "x2": 1584.5,
+        "y2": 871.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 901.515625,
+        "x2": 1305.484375,
+        "y2": 921.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "invasion.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "invasion.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: invasion.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.78125,
+        "y1": 901.515625,
+        "x2": 1584.5,
+        "y2": 921.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.859375,
+        "y1": 951.515625,
+        "x2": 1310.78125,
+        "y2": 971.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "longhorn.com",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "longhorn.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: longhorn.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.78125,
+        "y1": 951.515625,
+        "x2": 1584.5,
+        "y2": 971.515625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Make Offer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Make Offer"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 55
+  }
+}

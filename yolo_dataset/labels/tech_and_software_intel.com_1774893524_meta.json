@@ -1,0 +1,592 @@
+{
+  "url": "https://intel.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893524,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 54.0,
+        "y1": 24.75,
+        "x2": 138.375,
+        "y2": 74.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Intel Header Logo",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Intel Header Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 174.375,
+        "y1": 24.75,
+        "x2": 271.28125,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 280.28125,
+        "y1": 24.75,
+        "x2": 370.578125,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 379.578125,
+        "y1": 24.75,
+        "x2": 479.046875,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 488.046875,
+        "y1": 24.75,
+        "x2": 601.65625,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developers",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 610.65625,
+        "y1": 24.75,
+        "x2": 703.3125,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Partners",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Partners"
+    },
+    {
+      "coordinates": {
+        "x1": 712.3125,
+        "y1": 24.75,
+        "x2": 803.796875,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Foundry",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Foundry"
+    },
+    {
+      "coordinates": {
+        "x1": 1612.453125,
+        "y1": 24.75,
+        "x2": 1661.953125,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sign In",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 1625.953125,
+        "y1": 38.25,
+        "x2": 1648.453125,
+        "y2": 60.75
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1670.953125,
+        "y1": 24.75,
+        "x2": 1720.453125,
+        "y2": 74.25
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Language Selector",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Language Selector"
+    },
+    {
+      "coordinates": {
+        "x1": 1684.453125,
+        "y1": 38.25,
+        "x2": 1706.953125,
+        "y2": 60.75
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1729.453125,
+        "y1": 38.125,
+        "x2": 1749.453125,
+        "y2": 60.875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ask Intel",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1758.453125,
+        "y1": 37.6875,
+        "x2": 1835.0,
+        "y2": 61.3125
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Ask Intel",
+        "title": "Search",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Ask Intel",
+        "value": "",
+        "name": "keyword"
+      },
+      "descriptive_label": "input: Ask Intel"
+    },
+    {
+      "coordinates": {
+        "x1": 1728.453125,
+        "y1": 49.0,
+        "x2": 1729.453125,
+        "y2": 50.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ask Intel",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Ask Intel"
+    },
+    {
+      "coordinates": {
+        "x1": 91.421875,
+        "y1": 545.9375,
+        "x2": 108.296875,
+        "y2": 562.8125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Navigate to next slide",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Navigate to next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 94.234375,
+        "y1": 422.1875,
+        "x2": 105.484375,
+        "y2": 449.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Current slide",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Current slide"
+    },
+    {
+      "coordinates": {
+        "x1": 94.234375,
+        "y1": 464.9375,
+        "x2": 105.484375,
+        "y2": 476.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Navigate to slide 2 of 4",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Navigate to slide 2 of 4"
+    },
+    {
+      "coordinates": {
+        "x1": 94.234375,
+        "y1": 491.9375,
+        "x2": 105.484375,
+        "y2": 503.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Navigate to slide 3 of 4",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Navigate to slide 3 of 4"
+    },
+    {
+      "coordinates": {
+        "x1": 94.234375,
+        "y1": 518.9375,
+        "x2": 105.484375,
+        "y2": 530.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Navigate to slide 4 of 4",
+        "title": "",
+        "alt_text": null,
+        "role": "tab"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Navigate to slide 4 of 4"
+    },
+    {
+      "coordinates": {
+        "x1": 835.9964599609375,
+        "y1": 782.983642578125,
+        "x2": 1052.9879150390625,
+        "y2": 840.096435546875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore the platform",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Explore the platform"
+    },
+    {
+      "coordinates": {
+        "x1": 852.6907958984375,
+        "y1": 830.3452758789062,
+        "x2": 1036.27880859375,
+        "y2": 833.8335571289062
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 872.58544921875,
+        "y1": 238.99005126953125,
+        "x2": 1016.3843383789062,
+        "y2": 288.2127380371094
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 838.7916870117188,
+        "y1": 159.58599853515625,
+        "x2": 1050.176025390625,
+        "y2": 164.03150939941406
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 23
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "url": "https://amazon.ca",
+  "category": "e_commerce",
+  "timestamp": 1774891970,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 804.0,
+        "y1": 200.65625,
+        "x2": 1100.0,
+        "y2": 231.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Continue shopping",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Continue shopping"
+    },
+    {
+      "coordinates": {
+        "x1": 805.0,
+        "y1": 201.65625,
+        "x2": 1099.0,
+        "y2": 230.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Continue shopping",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Continue shopping"
+    },
+    {
+      "coordinates": {
+        "x1": 805.0,
+        "y1": 201.65625,
+        "x2": 1099.0,
+        "y2": 230.65625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Continue shopping",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Continue shopping"
+    },
+    {
+      "coordinates": {
+        "x1": 839.578125,
+        "y1": 350.65625,
+        "x2": 961.875,
+        "y2": 362.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Conditions of Use & Sale",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Conditions of Use & Sale"
+    },
+    {
+      "coordinates": {
+        "x1": 994.125,
+        "y1": 350.65625,
+        "x2": 1064.421875,
+        "y2": 362.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Notice",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy Notice"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 5
+  }
+}

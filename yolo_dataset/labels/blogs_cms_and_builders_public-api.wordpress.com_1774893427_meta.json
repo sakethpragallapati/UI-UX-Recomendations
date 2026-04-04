@@ -1,0 +1,1717 @@
+{
+  "url": "https://public-api.wordpress.com",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1774893427,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 5.0,
+        "y2": 5.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to content"
+    },
+    {
+      "coordinates": {
+        "x1": 30.0,
+        "y1": 15.0,
+        "x2": 322.0,
+        "y2": 51.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "WordPress.com Developer Resources",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WordPress.com Developer Res..."
+    },
+    {
+      "coordinates": {
+        "x1": 1653.0,
+        "y1": 14.0,
+        "x2": 1654.0,
+        "y2": 15.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1654.0,
+        "y1": 15.0,
+        "x2": 1874.0,
+        "y2": 46.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search the docs\u2026",
+        "value": "",
+        "name": "s"
+      },
+      "descriptive_label": "input: search"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 15.0,
+        "x2": 1874.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 274.0,
+        "y2": 32.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WordPress Studio",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: WordPress Studio"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 274.0,
+        "y2": 32.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WordPress Studio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WordPress Studio"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 0,
+        "x2": 274.0,
+        "y2": 32.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for WordPress Studio",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for WordPress Studio"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 32.0,
+        "x2": 274.0,
+        "y2": 76.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Agent Skills",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Agent Skills"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 32.0,
+        "x2": 274.0,
+        "y2": 76.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Agent Skills",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Agent Skills"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 76.0,
+        "x2": 274.0,
+        "y2": 120.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MCP",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: MCP"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 76.0,
+        "x2": 274.0,
+        "y2": 120.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MCP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: MCP"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 76.0,
+        "x2": 274.0,
+        "y2": 120.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for MCP",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for MCP"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 120.0,
+        "x2": 274.0,
+        "y2": 772.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer tools\nWP-CLI\nREST API\nGetting started with the REST API\nREST API reference\nNamespaces & versions\nOAuth2 authentication\nWordPress.com Connect\nUsing the REST API from JavaScript & the browser (CORS)\nGuidelines for responsible use of Automattic\u2019s APIs\nSite Accelerator API",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Developer tools\nWP-CLI\nREST..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 120.0,
+        "x2": 274.0,
+        "y2": 164.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer tools",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developer tools"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 120.0,
+        "x2": 274.0,
+        "y2": 164.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for Developer tools",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for Developer tools"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 164.0,
+        "x2": 274.0,
+        "y2": 208.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WP-CLI",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: WP-CLI"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 164.0,
+        "x2": 274.0,
+        "y2": 208.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WP-CLI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WP-CLI"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 164.0,
+        "x2": 274.0,
+        "y2": 208.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for WP-CLI",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for WP-CLI"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 208.0,
+        "x2": 274.0,
+        "y2": 728.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "REST API\nGetting started with the REST API\nREST API reference\nNamespaces & versions\nOAuth2 authentication\nWordPress.com Connect\nUsing the REST API from JavaScript & the browser (CORS)\nGuidelines for responsible use of Automattic\u2019s APIs",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: REST API\nGetting started wi..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 208.0,
+        "x2": 274.0,
+        "y2": 252.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "REST API",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: REST API"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 208.0,
+        "x2": 274.0,
+        "y2": 252.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for REST API",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for REST API"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 252.0,
+        "x2": 274.0,
+        "y2": 320.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Getting started with the REST API",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Getting started with the RE..."
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 252.0,
+        "x2": 274.0,
+        "y2": 320.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Getting started with the REST API",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Getting started with the RE..."
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 320.0,
+        "x2": 274.0,
+        "y2": 364.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "REST API reference",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: REST API reference"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 320.0,
+        "x2": 274.0,
+        "y2": 364.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "REST API reference",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: REST API reference"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 364.0,
+        "x2": 274.0,
+        "y2": 432.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Namespaces & versions",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Namespaces & versions"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 364.0,
+        "x2": 274.0,
+        "y2": 432.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Namespaces & versions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Namespaces & versions"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 432.0,
+        "x2": 274.0,
+        "y2": 476.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OAuth2 authentication",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: OAuth2 authentication"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 432.0,
+        "x2": 274.0,
+        "y2": 476.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OAuth2 authentication",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: OAuth2 authentication"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 476.0,
+        "x2": 274.0,
+        "y2": 544.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WordPress.com Connect",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: WordPress.com Connect"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 476.0,
+        "x2": 274.0,
+        "y2": 544.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WordPress.com Connect",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WordPress.com Connect"
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 544.0,
+        "x2": 274.0,
+        "y2": 636.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Using the REST API from JavaScript & the browser (CORS)",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Using the REST API from Jav..."
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 544.0,
+        "x2": 274.0,
+        "y2": 636.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Using the REST API from JavaScript & the browser (CORS)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Using the REST API from Jav..."
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 636.0,
+        "x2": 274.0,
+        "y2": 728.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guidelines for responsible use of Automattic\u2019s APIs",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Guidelines for responsible ..."
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 636.0,
+        "x2": 274.0,
+        "y2": 728.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guidelines for responsible use of Automattic\u2019s APIs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guidelines for responsible ..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 728.0,
+        "x2": 274.0,
+        "y2": 772.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Site Accelerator API",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Site Accelerator API"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 728.0,
+        "x2": 274.0,
+        "y2": 772.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Site Accelerator API",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Site Accelerator API"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 772.0,
+        "x2": 274.0,
+        "y2": 816.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Platform features",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Platform features"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 772.0,
+        "x2": 274.0,
+        "y2": 816.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Platform features",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Platform features"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 772.0,
+        "x2": 274.0,
+        "y2": 816.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for Platform features",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for Platform features"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 816.0,
+        "x2": 274.0,
+        "y2": 860.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guides",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Guides"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 816.0,
+        "x2": 274.0,
+        "y2": 860.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guides",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guides"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 816.0,
+        "x2": 274.0,
+        "y2": 860.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for Guides",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for Guides"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 860.0,
+        "x2": 274.0,
+        "y2": 904.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Troubleshooting",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Troubleshooting"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 860.0,
+        "x2": 274.0,
+        "y2": 904.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Troubleshooting",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Troubleshooting"
+    },
+    {
+      "coordinates": {
+        "x1": 230.0,
+        "y1": 860.0,
+        "x2": 274.0,
+        "y2": 904.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submenu for Troubleshooting",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Submenu for Troubleshooting"
+    },
+    {
+      "coordinates": {
+        "x1": 569.5,
+        "y1": 188.0,
+        "x2": 684.5625,
+        "y2": 220.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Copy page as Markdown",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Copy page",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Copy page as Markdown"
+    },
+    {
+      "coordinates": {
+        "x1": 584.5,
+        "y1": 196.09375,
+        "x2": 600.5,
+        "y2": 212.09375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 606.5,
+        "y1": 195.0,
+        "x2": 669.5625,
+        "y2": 213.1875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Copy page",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Copy page"
+    },
+    {
+      "coordinates": {
+        "x1": 922.421875,
+        "y1": 297.6875,
+        "x2": 1067.390625,
+        "y2": 319.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "REST API Reference",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: REST API Reference"
+    },
+    {
+      "coordinates": {
+        "x1": 796.59375,
+        "y1": 323.1875,
+        "x2": 938.265625,
+        "y2": 345.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Console",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developer Console"
+    },
+    {
+      "coordinates": {
+        "x1": 611.75,
+        "y1": 470.1875,
+        "x2": 730.078125,
+        "y2": 492.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Getting Started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Getting Started"
+    },
+    {
+      "coordinates": {
+        "x1": 611.75,
+        "y1": 521.1875,
+        "x2": 687.9375,
+        "y2": 543.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Reference",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Reference"
+    },
+    {
+      "coordinates": {
+        "x1": 611.75,
+        "y1": 623.1875,
+        "x2": 708.359375,
+        "y2": 645.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Namespaces",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Namespaces"
+    },
+    {
+      "coordinates": {
+        "x1": 827.0,
+        "y1": 648.6875,
+        "x2": 968.671875,
+        "y2": 670.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Developer Console",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Developer Console"
+    },
+    {
+      "coordinates": {
+        "x1": 611.75,
+        "y1": 699.6875,
+        "x2": 790.28125,
+        "y2": 721.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "OAuth2 Authentication",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: OAuth2 Authentication"
+    },
+    {
+      "coordinates": {
+        "x1": 611.75,
+        "y1": 776.1875,
+        "x2": 797.1875,
+        "y2": 798.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WordPress.com connect",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WordPress.com connect"
+    },
+    {
+      "coordinates": {
+        "x1": 611.75,
+        "y1": 878.1875,
+        "x2": 951.8125,
+        "y2": 900.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Using the REST API from JS and the Browser",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Using the REST API from JS ..."
+    },
+    {
+      "coordinates": {
+        "x1": 93.203125,
+        "y1": 48.0,
+        "x2": 1751.828125,
+        "y2": 108.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label"
+    },
+    {
+      "coordinates": {
+        "x1": 153.203125,
+        "y1": 52.0,
+        "x2": 1751.828125,
+        "y2": 104.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search\u2026",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search\u2026"
+    },
+    {
+      "coordinates": {
+        "x1": 92.203125,
+        "y1": 47.0,
+        "x2": 93.203125,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1752.828125,
+        "y1": 48.0,
+        "x2": 1810.796875,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close search results",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close search results"
+    },
+    {
+      "coordinates": {
+        "x1": 1587.21875,
+        "y1": 125.9375,
+        "x2": 1655.546875,
+        "y2": 140.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1660.703125,
+        "y1": 125.9375,
+        "x2": 1708.0625,
+        "y2": 140.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1713.21875,
+        "y1": 125.9375,
+        "x2": 1754.796875,
+        "y2": 140.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1794.796875,
+        "y1": 753.0,
+        "x2": 1806.796875,
+        "y2": 893.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 869.0,
+        "y1": 898.0,
+        "x2": 1035.0,
+        "y2": 937.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 68
+  }
+}

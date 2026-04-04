@@ -1,0 +1,917 @@
+{
+  "url": "https://php.net",
+  "category": "tech_and_software",
+  "timestamp": 1774893490,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 240.5,
+        "y1": 0,
+        "x2": 320.5,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "PHP Home",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PHP Home"
+    },
+    {
+      "coordinates": {
+        "x1": 344.5,
+        "y1": 0,
+        "x2": 456.109375,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Downloads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Downloads"
+    },
+    {
+      "coordinates": {
+        "x1": 456.109375,
+        "y1": 0,
+        "x2": 599.578125,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Documentation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Documentation"
+    },
+    {
+      "coordinates": {
+        "x1": 599.578125,
+        "y1": 0,
+        "x2": 721.734375,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get Involved",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Get Involved"
+    },
+    {
+      "coordinates": {
+        "x1": 721.734375,
+        "y1": 0,
+        "x2": 787.453125,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 787.453125,
+        "y1": 0,
+        "x2": 896.6875,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1348.5,
+        "y1": 12.0,
+        "x2": 1648.5,
+        "y2": 52.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search docs",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search docs"
+    },
+    {
+      "coordinates": {
+        "x1": 736.515625,
+        "y1": 350.0,
+        "x2": 956.484375,
+        "y2": 408.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "What's new in 8.5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: What's new in 8.5"
+    },
+    {
+      "coordinates": {
+        "x1": 964.484375,
+        "y1": 350.0,
+        "x2": 1152.484375,
+        "y2": 408.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 468.15625,
+        "y1": 444.0,
+        "x2": 504.859375,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "8.5.4",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 8.5.4"
+    },
+    {
+      "coordinates": {
+        "x1": 518.6875,
+        "y1": 449.0,
+        "x2": 584.515625,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Changelog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Changelog"
+    },
+    {
+      "coordinates": {
+        "x1": 598.34375,
+        "y1": 449.0,
+        "x2": 663.40625,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upgrading",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upgrading"
+    },
+    {
+      "coordinates": {
+        "x1": 712.40625,
+        "y1": 444.0,
+        "x2": 755.109375,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "8.4.19",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 8.4.19"
+    },
+    {
+      "coordinates": {
+        "x1": 768.9375,
+        "y1": 449.0,
+        "x2": 834.765625,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Changelog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Changelog"
+    },
+    {
+      "coordinates": {
+        "x1": 848.59375,
+        "y1": 449.0,
+        "x2": 913.65625,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upgrading",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upgrading"
+    },
+    {
+      "coordinates": {
+        "x1": 962.65625,
+        "y1": 444.0,
+        "x2": 1008.75,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "8.3.30",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 8.3.30"
+    },
+    {
+      "coordinates": {
+        "x1": 1022.578125,
+        "y1": 449.0,
+        "x2": 1088.40625,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Changelog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Changelog"
+    },
+    {
+      "coordinates": {
+        "x1": 1102.234375,
+        "y1": 449.0,
+        "x2": 1167.296875,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upgrading",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upgrading"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.296875,
+        "y1": 444.0,
+        "x2": 1262.296875,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "8.2.30",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 8.2.30"
+    },
+    {
+      "coordinates": {
+        "x1": 1276.125,
+        "y1": 449.0,
+        "x2": 1341.953125,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Changelog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Changelog"
+    },
+    {
+      "coordinates": {
+        "x1": 1355.78125,
+        "y1": 449.0,
+        "x2": 1420.84375,
+        "y2": 466.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upgrading",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upgrading"
+    },
+    {
+      "coordinates": {
+        "x1": 248.5,
+        "y1": 575.0,
+        "x2": 478.796875,
+        "y2": 603.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PHP 8.5.4 Released!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PHP 8.5.4 Released!"
+    },
+    {
+      "coordinates": {
+        "x1": 615.875,
+        "y1": 744.40625,
+        "x2": 734.015625,
+        "y2": 764.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "downloads page",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: downloads page"
+    },
+    {
+      "coordinates": {
+        "x1": 1091.90625,
+        "y1": 744.40625,
+        "x2": 1130.4375,
+        "y2": 764.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "there",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: there"
+    },
+    {
+      "coordinates": {
+        "x1": 380.4375,
+        "y1": 771.609375,
+        "x2": 459.046875,
+        "y2": 791.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ChangeLog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: ChangeLog"
+    },
+    {
+      "coordinates": {
+        "x1": 248.5,
+        "y1": 851.8125,
+        "x2": 486.796875,
+        "y2": 879.8125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PHP 8.4.19 Released!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PHP 8.4.19 Released!"
+    },
+    {
+      "coordinates": {
+        "x1": 1328.5,
+        "y1": 566.0,
+        "x2": 1640.5,
+        "y2": 591.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The PHP Foundation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The PHP Foundation"
+    },
+    {
+      "coordinates": {
+        "x1": 1328.5,
+        "y1": 711.0,
+        "x2": 1405.890625,
+        "y2": 752.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Donate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Donate"
+    },
+    {
+      "coordinates": {
+        "x1": 1328.5,
+        "y1": 792.0,
+        "x2": 1640.5,
+        "y2": 817.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Upcoming conferences",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upcoming conferences",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upcoming conferences"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.5,
+        "y1": 842.0,
+        "x2": 1520.140625,
+        "y2": 860.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Laravel Live Denmark 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Laravel Live Denmark 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Laravel Live Denmark 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.5,
+        "y1": 869.203125,
+        "x2": 1490.171875,
+        "y2": 887.203125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "PHP Velho Oeste 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PHP Velho Oeste 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PHP Velho Oeste 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.5,
+        "y1": 896.40625,
+        "x2": 1614.046875,
+        "y2": 914.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "International PHP Conference Berlin 2026",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "International PHP Conference Berlin 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: International PHP Conferenc..."
+    },
+    {
+      "coordinates": {
+        "x1": 1352.5,
+        "y1": 923.609375,
+        "x2": 1466.453125,
+        "y2": 941.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Laravel Live Japan",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Laravel Live Japan",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Laravel Live Japan"
+    },
+    {
+      "coordinates": {
+        "x1": 1328.5,
+        "y1": 965.8125,
+        "x2": 1640.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "User Group Events",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: User Group Events"
+    },
+    {
+      "coordinates": {
+        "x1": 720.5,
+        "y1": 34.0,
+        "x2": 1166.5,
+        "y2": 88.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Search docs",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search docs",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search docs"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.5,
+        "y1": 41.0,
+        "x2": 1214.5,
+        "y2": 81.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 36
+  }
+}

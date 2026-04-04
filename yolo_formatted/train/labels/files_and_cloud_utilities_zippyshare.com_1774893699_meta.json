@@ -1,0 +1,2567 @@
+{
+  "url": "https://zippyshare.com",
+  "category": "files_and_cloud_utilities",
+  "timestamp": 1774893699,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 16.0,
+        "x2": 48.0,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Guide",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Guide"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 8.0,
+        "x2": 56.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-interaction",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 56.0,
+        "y1": 0,
+        "x2": 179.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "YouTube Home",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: YouTube Home"
+    },
+    {
+      "coordinates": {
+        "x1": 643.5,
+        "y1": 16.0,
+        "x2": 1158.5,
+        "y2": 40.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "search_query"
+      },
+      "descriptive_label": "input: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1162.5,
+        "y1": 8.0,
+        "x2": 1226.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "Search",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1242.5,
+        "y1": 8.0,
+        "x2": 1282.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search with your voice",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search with your voice"
+    },
+    {
+      "coordinates": {
+        "x1": 1250.5,
+        "y1": 16.0,
+        "x2": 1274.5,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-icon-button",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1734.375,
+        "y1": 16.0,
+        "x2": 1758.375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Settings",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1734.375,
+        "y1": 16.0,
+        "x2": 1758.375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-icon",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.375,
+        "y1": 8.0,
+        "x2": 1766.375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-interaction",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1774.375,
+        "y1": 8.0,
+        "x2": 1873.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1784.375,
+        "y1": 16.0,
+        "x2": 1808.375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1814.375,
+        "y1": 8.0,
+        "x2": 1857.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 68.0,
+        "x2": 1455.0,
+        "y2": 877.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 68.0,
+        "x2": 1455.0,
+        "y2": 877.4375
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "YouTube Video Player",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "0:00 / 0:20",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon: YouTube Video Player"
+    },
+    {
+      "coordinates": {
+        "x1": 701.5,
+        "y1": 448.71875,
+        "x2": 769.5,
+        "y2": 496.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play",
+        "title": "Play",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 701.5,
+        "y1": 448.71875,
+        "x2": 769.5,
+        "y2": 496.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "path",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 28.0,
+        "y1": 815.4375,
+        "x2": 1443.0,
+        "y2": 821.4375
+      },
+      "class_id": 9,
+      "class_name": "slider",
+      "tag_name": "div",
+      "element_type": "slider",
+      "accessibility": {
+        "aria_label": "Seek slider",
+        "title": "",
+        "alt_text": null,
+        "role": "slider"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "slider: Seek slider"
+    },
+    {
+      "coordinates": {
+        "x1": 28.0,
+        "y1": 829.4375,
+        "x2": 68.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Pause (k)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Pause (k)"
+    },
+    {
+      "coordinates": {
+        "x1": 80.0,
+        "y1": 829.4375,
+        "x2": 120.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 80.0,
+        "y1": 829.4375,
+        "x2": 120.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Mute (m)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Mute (m)"
+    },
+    {
+      "coordinates": {
+        "x1": 144.0,
+        "y1": 829.4375,
+        "x2": 211.296875,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "0 Minutes 0 Seconds of 0 Minutes 20 Seconds",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "0:00 / 0:20",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: 0 Minutes 0 Seconds of 0 Mi..."
+    },
+    {
+      "coordinates": {
+        "x1": 1247.0,
+        "y1": 829.4375,
+        "x2": 1295.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Subtitles/closed captions unavailable",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Subtitles/closed captions u..."
+    },
+    {
+      "coordinates": {
+        "x1": 1247.0,
+        "y1": 829.4375,
+        "x2": 1295.0,
+        "y2": 893.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1295.0,
+        "y1": 829.4375,
+        "x2": 1343.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Settings",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1343.0,
+        "y1": 829.4375,
+        "x2": 1391.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Theater mode (t)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Theater mode (t)"
+    },
+    {
+      "coordinates": {
+        "x1": 1391.0,
+        "y1": 829.4375,
+        "x2": 1439.0,
+        "y2": 869.4375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Full screen (f)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Full screen (f)"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 925.4375,
+        "x2": 68.0,
+        "y2": 968.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 68.0,
+        "y1": 926.9375,
+        "x2": 150.34375,
+        "y2": 948.9375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ttymebeats",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: ttymebeats"
+    },
+    {
+      "coordinates": {
+        "x1": 192.28125,
+        "y1": 926.9375,
+        "x2": 286.8125,
+        "y2": 966.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-smartimation",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 192.28125,
+        "y1": 926.9375,
+        "x2": 286.8125,
+        "y2": 966.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "yt-button-shape",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 192.28125,
+        "y1": 926.9375,
+        "x2": 286.8125,
+        "y2": 966.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Subscribe to ttymebeats.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Subscribe to ttymebeats."
+    },
+    {
+      "coordinates": {
+        "x1": 208.28125,
+        "y1": 926.9375,
+        "x2": 270.8125,
+        "y2": 966.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 192.28125,
+        "y1": 966.9375,
+        "x2": 342.703125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 192.28125,
+        "y1": 966.9375,
+        "x2": 342.703125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "ytd-subscription-notification-toggle-button-renderer-next",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 192.28125,
+        "y1": 966.9375,
+        "x2": 342.703125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Current setting is personalized notifications. Tap to change your notification setting for ttymebeats",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Current setting is personal..."
+    },
+    {
+      "coordinates": {
+        "x1": 202.28125,
+        "y1": 974.9375,
+        "x2": 226.28125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 232.28125,
+        "y1": 966.9375,
+        "x2": 302.703125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 308.703125,
+        "y1": 974.9375,
+        "x2": 332.703125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 949.5625,
+        "y1": 928.9375,
+        "x2": 1178.5,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1K\nShare",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: 1K\nShare"
+    },
+    {
+      "coordinates": {
+        "x1": 949.5625,
+        "y1": 928.9375,
+        "x2": 1022.375,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "like this video along with 1,066 other people",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1K",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: like this video along with ..."
+    },
+    {
+      "coordinates": {
+        "x1": 959.5625,
+        "y1": 936.9375,
+        "x2": 983.5625,
+        "y2": 960.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 989.5625,
+        "y1": 928.9375,
+        "x2": 1006.375,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1K",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: 1K"
+    },
+    {
+      "coordinates": {
+        "x1": 1022.375,
+        "y1": 928.9375,
+        "x2": 1078.375,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Dislike this video",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Dislike this video"
+    },
+    {
+      "coordinates": {
+        "x1": 1035.375,
+        "y1": 936.9375,
+        "x2": 1059.375,
+        "y2": 960.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.375,
+        "y1": 928.9375,
+        "x2": 1178.5,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Share",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Share",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Share"
+    },
+    {
+      "coordinates": {
+        "x1": 1096.375,
+        "y1": 936.9375,
+        "x2": 1120.375,
+        "y2": 960.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1126.375,
+        "y1": 928.9375,
+        "x2": 1162.5,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Share",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Share"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.5,
+        "y1": 928.9375,
+        "x2": 1272.78125,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Save to playlist",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Save",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Save to playlist"
+    },
+    {
+      "coordinates": {
+        "x1": 1196.5,
+        "y1": 936.9375,
+        "x2": 1220.5,
+        "y2": 960.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1226.5,
+        "y1": 928.9375,
+        "x2": 1256.78125,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Save",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Save"
+    },
+    {
+      "coordinates": {
+        "x1": 1280.78125,
+        "y1": 928.9375,
+        "x2": 1399.0,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "ytd-button-renderer",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1280.78125,
+        "y1": 928.9375,
+        "x2": 1399.0,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Download",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1290.78125,
+        "y1": 936.9375,
+        "x2": 1314.78125,
+        "y2": 960.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1320.78125,
+        "y1": 928.9375,
+        "x2": 1383.0,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1415.0,
+        "y1": 928.9375,
+        "x2": 1455.0,
+        "y2": 968.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1423.0,
+        "y1": 936.9375,
+        "x2": 1447.0,
+        "y2": 960.9375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 76.0,
+        "x2": 1647.0,
+        "y2": 170.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "30:15",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 30:15"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 76.0,
+        "x2": 1873.0,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Smoke Mood \u2014 Just Relax | Deep House Mix 2025 \u2022 Chill / Night Vibes / Stress Relief #6 30 minutes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Smoke Mood \u2014 Just Relax | Deep House Mix 2025 \u2022 Chill / Night Vibes / Stress Relief #6",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Smoke Mood \u2014 Just Relax | D..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 70.0,
+        "x2": 1883.0,
+        "y2": 110.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 70.0,
+        "x2": 1883.0,
+        "y2": 110.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 78.0,
+        "x2": 1875.0,
+        "y2": 102.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 178.5,
+        "x2": 1647.0,
+        "y2": 278.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "6:04",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 6:04"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 178.5,
+        "x2": 1873.0,
+        "y2": 218.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Gehra Hua - Lyrical (Full Version) | Dhurandhar, Ranveer Singh, Sara A,Shashwat Sachdev,Arijit Singh 6 minutes, 4 seconds",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gehra Hua - Lyrical (Full Version) | Dhurandhar, Ranveer Singh, Sara A,Shashwat Sachdev,Arijit Singh",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gehra Hua - Lyrical (Full V..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 172.5,
+        "x2": 1883.0,
+        "y2": 212.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 172.5,
+        "x2": 1883.0,
+        "y2": 212.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 180.5,
+        "x2": 1875.0,
+        "y2": 204.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 286.5,
+        "x2": 1647.0,
+        "y2": 381.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "4:34",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 4:34"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 286.5,
+        "x2": 1873.0,
+        "y2": 326.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "The Weeknd - Starboy ft. Daft Punk (Official Video) ft. Daft Punk 4 minutes, 34 seconds",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Weeknd - Starboy ft. Daft Punk (Official Video) ft. Daft Punk",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Weeknd - Starboy ft. Da..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 280.5,
+        "x2": 1883.0,
+        "y2": 320.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 280.5,
+        "x2": 1883.0,
+        "y2": 320.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 288.5,
+        "x2": 1875.0,
+        "y2": 312.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 389.0,
+        "x2": 1647.0,
+        "y2": 489.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "19:42",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 19:42"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 389.0,
+        "x2": 1873.0,
+        "y2": 429.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee 19 minutes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Every LIE in Dhurandhar 2 EXPOSED | Dhruv Rathee",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Every LIE in Dhurandhar 2 E..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 383.0,
+        "x2": 1883.0,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 383.0,
+        "x2": 1883.0,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 391.0,
+        "x2": 1875.0,
+        "y2": 415.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 497.0,
+        "x2": 1647.0,
+        "y2": 591.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "15:43",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 15:43"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 497.0,
+        "x2": 1873.0,
+        "y2": 537.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Quiet Mind, Clear Thoughts \u2014 Indian Flute Music for Deep Focus & Studying 15 minutes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quiet Mind, Clear Thoughts \u2014 Indian Flute Music for Deep Focus & Studying",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quiet Mind, Clear Thoughts ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 491.0,
+        "x2": 1883.0,
+        "y2": 531.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 491.0,
+        "x2": 1883.0,
+        "y2": 531.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 499.0,
+        "x2": 1875.0,
+        "y2": 523.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 599.5,
+        "x2": 1647.0,
+        "y2": 694.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "16:20",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 16:20"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 599.5,
+        "x2": 1873.0,
+        "y2": 639.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Die With A Smile - Lady Gaga, Bruno Mars (Lyrics) Ed Sheeran, ZAYN,... MIX 16 minutes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Die With A Smile - Lady Gaga, Bruno Mars (Lyrics) Ed Sheeran, ZAYN,... MIX",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Die With A Smile - Lady Gag..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 593.5,
+        "x2": 1883.0,
+        "y2": 633.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 593.5,
+        "x2": 1883.0,
+        "y2": 633.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 601.5,
+        "x2": 1875.0,
+        "y2": 625.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 702.0,
+        "x2": 1647.0,
+        "y2": 796.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "29:52",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 29:52"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 702.0,
+        "x2": 1873.0,
+        "y2": 742.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "R a i n y   n i g h t s -  lofi | relaxed | sleep| peaceful | chill beats lofi 29 minutes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "R a i n y   n i g h t s -  lofi | relaxed | sleep| peaceful | chill beats lofi",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: R a i n y   n i g h t s -  ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 696.0,
+        "x2": 1883.0,
+        "y2": 736.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 696.0,
+        "x2": 1883.0,
+        "y2": 736.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 704.0,
+        "x2": 1875.0,
+        "y2": 728.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 814.5,
+        "x2": 1647.0,
+        "y2": 909.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mix",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mix"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 814.5,
+        "x2": 1873.0,
+        "y2": 854.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mix - Saagar Jaisi Aankhon Wali (Video) | Kishore Kumar, R. D. Burman | Chehra Hai Ya Chand Khila Hai",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mix - Saagar Jaisi Aankhon ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1471.0,
+        "y1": 917.0,
+        "x2": 1647.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1:50:39",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 1:50:39"
+    },
+    {
+      "coordinates": {
+        "x1": 1647.0,
+        "y1": 917.0,
+        "x2": 1873.0,
+        "y2": 957.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Arijit Singh Best Songs Jukebox 2026 | Forever Hits of Arijit Singh | Audio Jukebox 1 hour, 50 minutes",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Arijit Singh Best Songs Jukebox 2026 | Forever Hits of Arijit Singh | Audio Jukebox",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Arijit Singh Best Songs Juk..."
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 911.0,
+        "x2": 1883.0,
+        "y2": 951.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 911.0,
+        "x2": 1883.0,
+        "y2": 951.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "More actions",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More actions"
+    },
+    {
+      "coordinates": {
+        "x1": 1851.0,
+        "y1": 919.0,
+        "x2": 1875.0,
+        "y2": 943.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 102
+  }
+}

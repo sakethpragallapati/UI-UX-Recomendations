@@ -1,0 +1,1442 @@
+{
+  "url": "https://lefigaro.fr",
+  "category": "news_and_journalism",
+  "timestamp": 1774892468,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 168.0625,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 316.5,
+        "y1": 0,
+        "x2": 372.984375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Ouvrir/fermer le menu",
+        "title": "Ouvrir/Fermer le menu",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Ouvrir/fermer le menu"
+    },
+    {
+      "coordinates": {
+        "x1": 372.984375,
+        "y1": 0,
+        "x2": 460.703125,
+        "y2": 42.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ouvrir l'assistant de recherche",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Rechercher",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Ouvrir l'assistant de reche..."
+    },
+    {
+      "coordinates": {
+        "x1": 643.421875,
+        "y1": 0,
+        "x2": 740.171875,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TV & Vid\u00e9os",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: TV & Vid\u00e9os"
+    },
+    {
+      "coordinates": {
+        "x1": 756.171875,
+        "y1": 0,
+        "x2": 807.078125,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Audio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Audio"
+    },
+    {
+      "coordinates": {
+        "x1": 823.078125,
+        "y1": 0,
+        "x2": 867.640625,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Jeux",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Jeux"
+    },
+    {
+      "coordinates": {
+        "x1": 883.640625,
+        "y1": 0,
+        "x2": 1002.96875,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Le Figaro in English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Le Figaro in English"
+    },
+    {
+      "coordinates": {
+        "x1": 1018.96875,
+        "y1": 0,
+        "x2": 1117.34375,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1133.34375,
+        "y1": 0,
+        "x2": 1225.78125,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Actu locale",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Actu locale"
+    },
+    {
+      "coordinates": {
+        "x1": 1445.5,
+        "y1": 0,
+        "x2": 1485.5,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Notifications",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Notifications"
+    },
+    {
+      "coordinates": {
+        "x1": 1485.859375,
+        "y1": 0,
+        "x2": 1572.5,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Se connecter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Se connecter"
+    },
+    {
+      "coordinates": {
+        "x1": 316.5,
+        "y1": 57.0,
+        "x2": 484.5,
+        "y2": 124.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Lire le journal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Lire le journal"
+    },
+    {
+      "coordinates": {
+        "x1": 774.0,
+        "y1": 68.0,
+        "x2": 1115.0,
+        "y2": 113.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Acc\u00e9der \u00e0 Le Figaro",
+        "title": "Acc\u00e9der \u00e0 Le Figaro",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Acc\u00e9der \u00e0 Le Figaro"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.265625,
+        "y1": 64.5,
+        "x2": 1572.5,
+        "y2": 116.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Abonnez-vous\n0,99\u20ac le premier mois",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Abonnez-vous\n0,99\u20ac le premi..."
+    },
+    {
+      "coordinates": {
+        "x1": 447.203125,
+        "y1": 141.0,
+        "x2": 591.921875,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerre au Moyen-Orient",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guerre au Moyen-Orient",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guerre au Moyen-Orient"
+    },
+    {
+      "coordinates": {
+        "x1": 607.921875,
+        "y1": 141.0,
+        "x2": 752.984375,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u00c9glise du Saint-S\u00e9pulcre",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00c9glise du Saint-S\u00e9pulcre",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00c9glise du Saint-S\u00e9pulcre"
+    },
+    {
+      "coordinates": {
+        "x1": 768.984375,
+        "y1": 141.0,
+        "x2": 871.53125,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u00c9quipe de France",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00c9quipe de France",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00c9quipe de France"
+    },
+    {
+      "coordinates": {
+        "x1": 904.53125,
+        "y1": 141.0,
+        "x2": 957.296875,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Politique",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Politique"
+    },
+    {
+      "coordinates": {
+        "x1": 973.296875,
+        "y1": 141.0,
+        "x2": 1049.609375,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "International",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: International"
+    },
+    {
+      "coordinates": {
+        "x1": 1065.609375,
+        "y1": 141.0,
+        "x2": 1123.78125,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00c9conomie",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00c9conomie"
+    },
+    {
+      "coordinates": {
+        "x1": 1139.78125,
+        "y1": 141.0,
+        "x2": 1183.0,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Soci\u00e9t\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Soci\u00e9t\u00e9"
+    },
+    {
+      "coordinates": {
+        "x1": 1199.0,
+        "y1": 141.0,
+        "x2": 1219.625,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Vox",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Vox"
+    },
+    {
+      "coordinates": {
+        "x1": 1235.625,
+        "y1": 141.0,
+        "x2": 1268.078125,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sport",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sport"
+    },
+    {
+      "coordinates": {
+        "x1": 1284.078125,
+        "y1": 141.0,
+        "x2": 1327.15625,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Culture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Culture"
+    },
+    {
+      "coordinates": {
+        "x1": 1343.15625,
+        "y1": 141.0,
+        "x2": 1393.78125,
+        "y2": 161.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Madame",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Madame"
+    },
+    {
+      "coordinates": {
+        "x1": 1409.78125,
+        "y1": 143.0,
+        "x2": 1425.78125,
+        "y2": 159.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Voir plus de rubriques",
+        "title": "Voir plus de rubriques",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Voir plus de rubriques"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 624.5,
+        "y1": 425.0,
+        "x2": 1240.5,
+        "y2": 489.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Double f\u00e9minicide au Portugal : les enfants vont \u00eatre remis aux autorit\u00e9s fran\u00e7aises",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Double f\u00e9minicide au Portug..."
+    },
+    {
+      "coordinates": {
+        "x1": 624.5,
+        "y1": 984.5,
+        "x2": 848.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EN DIRECT - Guerre au Moyen-Orient : l\u2019Otan confirme l\u2019interception d\u2019un missile iranien qui se dirigeait vers la Turquie",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: EN DIRECT - Guerre au Moyen..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1519.5,
+        "y1": 434.0,
+        "x2": 1543.5,
+        "y2": 458.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": null,
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 1289.5,
+        "y1": 483.0,
+        "x2": 1560.5,
+        "y2": 503.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Recevoir les alertes de la r\u00e9daction",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Recevoir les alertes de la ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1336.84375,
+        "y1": 527.0,
+        "x2": 1521.5,
+        "y2": 607.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pas-de-Calais : la nouvelle maire RN fait retirer une plaque en hommage \u00e0 Georges Ibrahim Abdallah",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pas-de-Calais : la nouvelle..."
+    },
+    {
+      "coordinates": {
+        "x1": 1336.84375,
+        "y1": 623.0,
+        "x2": 1521.5,
+        "y2": 683.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Le groupe Casino creuse sa perte en 2025 mais am\u00e9liore sa rentabilit\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Le groupe Casino creuse sa ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1336.84375,
+        "y1": 699.0,
+        "x2": 1521.5,
+        "y2": 799.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00abUne forme de coh\u00e9rence\u00bb : des macronistes historiques demandent \u00e0 Gabriel Attal de rebaptiser le parti pr\u00e9sidentiel \u00abEn Marche\u00bb",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00abUne forme de coh\u00e9rence\u00bb : ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1336.84375,
+        "y1": 815.0,
+        "x2": 1521.5,
+        "y2": 895.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Les ch\u00e8ques \u00e9nergie reviennent \u00e0 partir du 1er avril : tout comprendre \u00e0 leur fonctionnement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Les ch\u00e8ques \u00e9nergie revienn..."
+    },
+    {
+      "coordinates": {
+        "x1": 1336.84375,
+        "y1": 911.0,
+        "x2": 1521.5,
+        "y2": 971.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "List\u00e9riose : plusieurs lots de maroilles contamin\u00e9s rappel\u00e9s dans toute la France",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: List\u00e9riose : plusieurs lots..."
+    },
+    {
+      "coordinates": {
+        "x1": 1356.09375,
+        "y1": 499.0,
+        "x2": 1493.90625,
+        "y2": 535.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1289.5,
+        "y1": 927.0,
+        "x2": 1560.5,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "VOIR TOUS LES FLASHS ACTUALIT\u00c9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: VOIR TOUS LES FLASHS ACTUALIT\u00c9"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 522.5,
+        "y1": 447.0,
+        "x2": 554.5,
+        "y2": 479.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 601.0,
+        "x2": 575.5,
+        "y2": 721.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "\u00abAu bout du deuxi\u00e8me enfant, on songe \u00e0 partir\u00bb\u00a0: attir\u00e9es par les prix de l\u2019immobilier, les familles sont d\u00e9\u00e7ues par Clichy (article Premium)",
+        "title": "\u00abAu bout du deuxi\u00e8me enfant, on songe \u00e0 partir\u00bb\u00a0: attir\u00e9es par les prix de l\u2019immobilier, les familles sont d\u00e9\u00e7ues par Clichy (article Premium)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00abAu bout du deuxi\u00e8me enfant, on songe \u00e0 partir\u00bb : attir\u00e9es par les prix de l\u2019immobilier, les familles sont d\u00e9\u00e7ues par Clichy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00abAu bout du deuxi\u00e8me enfant..."
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 908.9375,
+        "x2": 575.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "\u00abDes femmes voil\u00e9es sont venues faire la morale \u00e0 une cliente chr\u00e9tienne\u00bb\u00a0: \u00e0 Creil, cette d\u00e9rive communautariste qui a install\u00e9 LFI \u00e0 la t\u00eate de la ville (article Premium)",
+        "title": "\u00abDes femmes voil\u00e9es sont venues faire la morale \u00e0 une cliente chr\u00e9tienne\u00bb\u00a0: \u00e0 Creil, cette d\u00e9rive communautariste qui a install\u00e9 LFI \u00e0 la t\u00eate de la ville (article Premium)",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "\u00abDes femmes voil\u00e9es sont venues faire la morale \u00e0 une cliente chr\u00e9tienne\u00bb : \u00e0 Creil, cette d\u00e9rive communautariste qui a install\u00e9 LFI \u00e0 la t\u00eate de la ville",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u00abDes femmes voil\u00e9es sont ve..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 933.0,
+        "x2": 1841.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "S'abonner \u00e0 partir de 0,99\u20ac le premier mois\nS'ABONNER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: S'abonner \u00e0 partir de 0,99\u20ac..."
+    },
+    {
+      "coordinates": {
+        "x1": 1841.0,
+        "y1": 935.0,
+        "x2": 1889.0,
+        "y2": 983.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Fermer le bandeau",
+        "title": "Fermer le bandeau",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Fermer le bandeau"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 57
+  }
+}

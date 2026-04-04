@@ -1,0 +1,442 @@
+{
+  "url": "https://prezi.com",
+  "category": "miscellaneous",
+  "timestamp": 1774894097,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 11.1875,
+        "x2": 404.5,
+        "y2": 48.796875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Prezi homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Prezi homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 1112.796875,
+        "y1": 6.0,
+        "x2": 1190.78125,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1194.78125,
+        "y1": 6.0,
+        "x2": 1277.65625,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Prezi AI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Prezi AI"
+    },
+    {
+      "coordinates": {
+        "x1": 1286.65625,
+        "y1": 6.0,
+        "x2": 1357.34375,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1361.34375,
+        "y1": 6.0,
+        "x2": 1452.453125,
+        "y2": 54.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Teams",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Teams"
+    },
+    {
+      "coordinates": {
+        "x1": 1456.453125,
+        "y1": 6.0,
+        "x2": 1584.5,
+        "y2": 54.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 541.5,
+        "y1": 507.78125,
+        "x2": 1347.5,
+        "y2": 603.78125
+      },
+      "class_id": 4,
+      "class_name": "textarea",
+      "tag_name": "textarea",
+      "element_type": "textarea",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Ask Prezi to create a project proposal for sustainable food",
+        "value": "",
+        "name": "Title"
+      },
+      "descriptive_label": "textarea: Ask Prezi to create a proje..."
+    },
+    {
+      "coordinates": {
+        "x1": 541.5,
+        "y1": 611.78125,
+        "x2": 1347.5,
+        "y2": 659.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Audience\nCreate with AI",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Audience\nCreate with AI"
+    },
+    {
+      "coordinates": {
+        "x1": 541.5,
+        "y1": 611.78125,
+        "x2": 685.03125,
+        "y2": 659.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Choose an audience of your presentation.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Audience",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Choose an audience of your ..."
+    },
+    {
+      "coordinates": {
+        "x1": 561.5,
+        "y1": 625.78125,
+        "x2": 581.5,
+        "y2": 645.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 623.78125,
+        "x2": 665.03125,
+        "y2": 647.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Audience",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Audience"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.90625,
+        "y1": 611.78125,
+        "x2": 1347.5,
+        "y2": 659.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create with AI",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Create with AI"
+    },
+    {
+      "coordinates": {
+        "x1": 1187.90625,
+        "y1": 625.78125,
+        "x2": 1207.90625,
+        "y2": 645.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1213.90625,
+        "y1": 623.78125,
+        "x2": 1327.5,
+        "y2": 647.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create with AI",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Create with AI"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 768.78125,
+        "x2": 720.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Business\nKeep teams engaged and customers asking for more\nFor Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Business\nKeep teams engaged..."
+    },
+    {
+      "coordinates": {
+        "x1": 736.5,
+        "y1": 768.78125,
+        "x2": 1152.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Educators\nMake lessons more exciting and easier to remember\nFor Educators",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Educators\nMake lessons more..."
+    },
+    {
+      "coordinates": {
+        "x1": 1168.5,
+        "y1": 768.78125,
+        "x2": 1584.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Students\nPresent classwork in a format that gets noticed and remembered\nFor Students",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Students\nPresent classwork ..."
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 17
+  }
+}

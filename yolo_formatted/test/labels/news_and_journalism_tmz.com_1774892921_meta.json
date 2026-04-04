@@ -1,0 +1,892 @@
+{
+  "url": "https://tmz.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892922,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 943.5,
+        "y1": 249.0,
+        "x2": 944.5,
+        "y2": 250.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 407.5,
+        "y1": 266.5,
+        "x2": 440.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "TMZ on Facebook",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TMZ on Facebook"
+    },
+    {
+      "coordinates": {
+        "x1": 440.5,
+        "y1": 266.5,
+        "x2": 467.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "TMZ on X",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TMZ on X"
+    },
+    {
+      "coordinates": {
+        "x1": 467.5,
+        "y1": 262.0,
+        "x2": 509.5,
+        "y2": 312.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "TMZ on Youtube",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TMZ on Youtube"
+    },
+    {
+      "coordinates": {
+        "x1": 509.5,
+        "y1": 266.0,
+        "x2": 543.5,
+        "y2": 308.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "TMZ on Instagram",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TMZ on Instagram"
+    },
+    {
+      "coordinates": {
+        "x1": 411.5,
+        "y1": 349.0,
+        "x2": 531.0,
+        "y2": 394.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Got a Tip?",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "GOT A TIP?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Got a Tip?"
+    },
+    {
+      "coordinates": {
+        "x1": 540.0,
+        "y1": 366.0,
+        "x2": 741.640625,
+        "y2": 382.796875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "EMAIL OR CALL (888) 847-9869",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: EMAIL OR CALL (888) 847-9869"
+    },
+    {
+      "coordinates": {
+        "x1": 791.5,
+        "y1": 250.0,
+        "x2": 1097.5,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TMZ.com Home\nTMZ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TMZ.com Home\nTMZ"
+    },
+    {
+      "coordinates": {
+        "x1": 1298.5,
+        "y1": 339.0,
+        "x2": 1481.5,
+        "y2": 379.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "input: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1431.5,
+        "y1": 339.0,
+        "x2": 1481.5,
+        "y2": 379.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search\nSearch",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search\nSearch"
+    },
+    {
+      "coordinates": {
+        "x1": 403.5,
+        "y1": 414.0,
+        "x2": 509.828125,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NEWS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: NEWS"
+    },
+    {
+      "coordinates": {
+        "x1": 538.1875,
+        "y1": 414.0,
+        "x2": 673.75,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SPORTS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: SPORTS"
+    },
+    {
+      "coordinates": {
+        "x1": 702.125,
+        "y1": 414.0,
+        "x2": 845.765625,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "HIP HOP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: HIP HOP"
+    },
+    {
+      "coordinates": {
+        "x1": 874.125,
+        "y1": 414.0,
+        "x2": 998.5,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "WATCH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: WATCH"
+    },
+    {
+      "coordinates": {
+        "x1": 1026.859375,
+        "y1": 414.0,
+        "x2": 1166.671875,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PHOTOS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: PHOTOS"
+    },
+    {
+      "coordinates": {
+        "x1": 1195.03125,
+        "y1": 414.0,
+        "x2": 1314.921875,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TOURS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TOURS"
+    },
+    {
+      "coordinates": {
+        "x1": 1343.296875,
+        "y1": 414.0,
+        "x2": 1457.140625,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "DEALS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: DEALS"
+    },
+    {
+      "coordinates": {
+        "x1": 1166.625,
+        "y1": 369.375,
+        "x2": 1180.625,
+        "y2": 383.375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 755.59765625,
+        "y1": 376.60546875,
+        "x2": 1133.40234375,
+        "y2": 443.89453125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 755.59765625,
+        "y1": 458.60546875,
+        "x2": 1133.40234375,
+        "y2": 525.89453125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 755.59765625,
+        "y1": 540.73046875,
+        "x2": 1133.40234375,
+        "y2": 608.01953125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 407.5,
+        "y1": 506.0,
+        "x2": 612.6875,
+        "y2": 698.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Lindsey Graham Lives It Up at Disney World During Partial Government Shutdown",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Lindsey Graham Lives It Up ..."
+    },
+    {
+      "coordinates": {
+        "x1": 624.6875,
+        "y1": 506.0,
+        "x2": 829.890625,
+        "y2": 698.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guess The Hot Dancer Showin' Off His Summer Ready Abs!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guess The Hot Dancer Showin..."
+    },
+    {
+      "coordinates": {
+        "x1": 841.890625,
+        "y1": 506.0,
+        "x2": 1047.09375,
+        "y2": 698.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tiger Woods Reportedly Won't Hire Driver Citing Privacy Concerns",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tiger Woods Reportedly Won'..."
+    },
+    {
+      "coordinates": {
+        "x1": 1059.09375,
+        "y1": 506.0,
+        "x2": 1264.296875,
+        "y2": 682.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Guess Who These Sweet Sisters Turned Into!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Guess Who These Sweet Siste..."
+    },
+    {
+      "coordinates": {
+        "x1": 1276.296875,
+        "y1": 506.0,
+        "x2": 1481.5,
+        "y2": 698.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Washington D.C. Plane Crash Video Shows New Angle of Collision",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Washington D.C. Plane Crash..."
+    },
+    {
+      "coordinates": {
+        "x1": 429.5,
+        "y1": 764.4375,
+        "x2": 1113.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TARYN MANNING\nCAUGHT TERRORIZING GIRLFRIEND\n... On Video",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TARYN MANNING\nCAUGHT TERROR..."
+    },
+    {
+      "coordinates": {
+        "x1": 1889.0,
+        "y1": 18.0,
+        "x2": 1904,
+        "y2": 120.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.5,
+        "y1": 836.0,
+        "x2": 1201.5,
+        "y2": 837.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe to TMZ newsletter",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Subscribe to TMZ newsletter"
+    },
+    {
+      "coordinates": {
+        "x1": 1201.5,
+        "y1": 837.0,
+        "x2": 1373.09375,
+        "y2": 872.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "YOUR EMAIL HERE",
+        "value": "",
+        "name": "email"
+      },
+      "descriptive_label": "input: YOUR EMAIL HERE"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.09375,
+        "y1": 837.203125,
+        "x2": 1458.890625,
+        "y2": 872.203125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SUBSCRIBE",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: SUBSCRIBE"
+    },
+    {
+      "coordinates": {
+        "x1": 1251.328125,
+        "y1": 907.0,
+        "x2": 1320.375,
+        "y2": 922.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1344.453125,
+        "y1": 907.0,
+        "x2": 1411.65625,
+        "y2": 922.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Use.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Terms of Use."
+    },
+    {
+      "coordinates": {
+        "x1": 1249.265625,
+        "y1": 974.46875,
+        "x2": 1394.71875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TMZ PODCASTS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TMZ PODCASTS"
+    },
+    {
+      "coordinates": {
+        "x1": 1849.09375,
+        "y1": 936.609375,
+        "x2": 1889.0,
+        "y2": 980.609375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 35
+  }
+}

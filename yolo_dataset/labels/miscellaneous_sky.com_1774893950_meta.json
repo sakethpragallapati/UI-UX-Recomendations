@@ -1,0 +1,692 @@
+{
+  "url": "https://sky.com",
+  "category": "miscellaneous",
+  "timestamp": 1774893951,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 143.5,
+        "y1": 58.0,
+        "x2": 144.5,
+        "y2": 59.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "skip to search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: skip to search"
+    },
+    {
+      "coordinates": {
+        "x1": 143.5,
+        "y1": 58.0,
+        "x2": 144.5,
+        "y2": 59.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "skip to alerts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: skip to alerts"
+    },
+    {
+      "coordinates": {
+        "x1": 143.5,
+        "y1": 58.0,
+        "x2": 144.5,
+        "y2": 59.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "skip to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: skip to content"
+    },
+    {
+      "coordinates": {
+        "x1": 143.5,
+        "y1": 58.0,
+        "x2": 144.5,
+        "y2": 59.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "skip to footer",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: skip to footer"
+    },
+    {
+      "coordinates": {
+        "x1": 143.5,
+        "y1": 58.0,
+        "x2": 144.5,
+        "y2": 59.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "skip to the web assistant",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: skip to the web assistant"
+    },
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 12.5,
+        "x2": 184.5,
+        "y2": 37.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sky home page",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sky home page"
+    },
+    {
+      "coordinates": {
+        "x1": 208.5,
+        "y1": 3.0,
+        "x2": 251.8125,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Watch",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Watch"
+    },
+    {
+      "coordinates": {
+        "x1": 253.8125,
+        "y1": 3.0,
+        "x2": 297.8125,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Watch menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open Watch menu"
+    },
+    {
+      "coordinates": {
+        "x1": 311.8125,
+        "y1": 3.0,
+        "x2": 329.34375,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TV",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: TV"
+    },
+    {
+      "coordinates": {
+        "x1": 331.34375,
+        "y1": 3.0,
+        "x2": 375.34375,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open TV menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open TV menu"
+    },
+    {
+      "coordinates": {
+        "x1": 389.34375,
+        "y1": 3.0,
+        "x2": 463.65625,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Broadband",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Broadband"
+    },
+    {
+      "coordinates": {
+        "x1": 465.65625,
+        "y1": 3.0,
+        "x2": 509.65625,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Broadband menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open Broadband menu"
+    },
+    {
+      "coordinates": {
+        "x1": 523.65625,
+        "y1": 3.0,
+        "x2": 568.0,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mobile",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mobile"
+    },
+    {
+      "coordinates": {
+        "x1": 570.0,
+        "y1": 3.0,
+        "x2": 614.0,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Mobile menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open Mobile menu"
+    },
+    {
+      "coordinates": {
+        "x1": 628.0,
+        "y1": 3.0,
+        "x2": 677.546875,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Protect",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Protect",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Protect"
+    },
+    {
+      "coordinates": {
+        "x1": 709.546875,
+        "y1": 3.0,
+        "x2": 769.484375,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 801.484375,
+        "y1": 3.0,
+        "x2": 838.453125,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Deals"
+    },
+    {
+      "coordinates": {
+        "x1": 1504.0,
+        "y1": 3.0,
+        "x2": 1548.0,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1548.0,
+        "y1": 3.0,
+        "x2": 1594.0,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open alerts, you have no alerts",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open alerts, you have no al..."
+    },
+    {
+      "coordinates": {
+        "x1": 1560.0,
+        "y1": 14.0,
+        "x2": 1582.0,
+        "y2": 36.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1618.0,
+        "y1": 3.0,
+        "x2": 1648.734375,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 1650.734375,
+        "y1": 3.0,
+        "x2": 1694.734375,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Help menu",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Open Help menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1700.734375,
+        "y1": 3.0,
+        "x2": 1744.5,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 705.34375,
+        "y1": 52.0,
+        "x2": 1167.640625,
+        "y2": 84.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Our lowest price is back. Sky TV & Full Fibre | See all deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Our lowest price is back. S..."
+    },
+    {
+      "coordinates": {
+        "x1": 1841.0,
+        "y1": 48.0,
+        "x2": 1885.0,
+        "y2": 92.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hide offers banner",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Hide offers banner"
+    },
+    {
+      "coordinates": {
+        "x1": 398.765625,
+        "y1": 556.84375,
+        "x2": 499.1875,
+        "y2": 604.84375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Buy now",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Buy now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Buy now"
+    },
+    {
+      "coordinates": {
+        "x1": 511.1875,
+        "y1": 556.84375,
+        "x2": 634.21875,
+        "y2": 604.84375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Learn more",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Learn more"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 27
+  }
+}

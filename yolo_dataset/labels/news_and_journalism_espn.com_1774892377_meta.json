@@ -1,0 +1,1717 @@
+{
+  "url": "https://espn.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892377,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 65.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "section",
+      "element_type": "region",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "region"
+      },
+      "content": {
+        "text": "Top Events\n>\nIPL\nResult\nKKR\n220/4\nMI\n224/4 (19.1/20 ov, target 221)\nResult\nCSK\n127\nRR\n128/2 (12.1/20 ov, target 128)\nNBA\nTues 4:30 AM\nPHI\n41-33\nMIA\n39-36\nTues 5:00 AM\nBOS\n50-24\nATL\n42-33\nTues 5:30 AM\nPHX\n41-33\nMEM\n25-49\nTues 5:30 AM\nCHI\n29-45\nSA\n56-18\nTues 6:00 AM\nMIN\n45-29\nDAL\n24-50\nTues",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Top Events\n>\nIPL\nResult\nKKR..."
+    },
+    {
+      "coordinates": {
+        "x1": 244.5,
+        "y1": 0,
+        "x2": 364.984375,
+        "y2": 65.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Top Events",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Top Events"
+    },
+    {
+      "coordinates": {
+        "x1": 254.5,
+        "y1": 18.0,
+        "x2": 356.984375,
+        "y2": 48.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Top Events",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "dropdown: Top Events"
+    },
+    {
+      "coordinates": {
+        "x1": 254.5,
+        "y1": 18.0,
+        "x2": 356.984375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Top Events",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Top Events"
+    },
+    {
+      "coordinates": {
+        "x1": 425.984375,
+        "y1": 0,
+        "x2": 667.625,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Result\nKKR\n220/4\nMI\n224/4 (19.1/20 ov, target 221)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Result\nKKR\n220/4\nMI\n224/4 (..."
+    },
+    {
+      "coordinates": {
+        "x1": 668.625,
+        "y1": 0,
+        "x2": 913.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Result\nCSK\n127\nRR\n128/2 (12.1/20 ov, target 128)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Result\nCSK\n127\nRR\n128/2 (12..."
+    },
+    {
+      "coordinates": {
+        "x1": 974.921875,
+        "y1": 0,
+        "x2": 1094.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tues 4:30 AM\nPHI\n41-33\nMIA\n39-36",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tues 4:30 AM\nPHI\n41-33\nMIA\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1095.921875,
+        "y1": 0,
+        "x2": 1215.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tues 5:00 AM\nBOS\n50-24\nATL\n42-33",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tues 5:00 AM\nBOS\n50-24\nATL\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1216.921875,
+        "y1": 0,
+        "x2": 1336.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tues 5:30 AM\nPHX\n41-33\nMEM\n25-49",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tues 5:30 AM\nPHX\n41-33\nMEM\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1337.921875,
+        "y1": 0,
+        "x2": 1457.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tues 5:30 AM\nCHI\n29-45\nSA\n56-18",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tues 5:30 AM\nCHI\n29-45\nSA\n5..."
+    },
+    {
+      "coordinates": {
+        "x1": 1458.921875,
+        "y1": 0,
+        "x2": 1578.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tues 6:00 AM\nMIN\n45-29\nDAL\n24-50",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tues 6:00 AM\nMIN\n45-29\nDAL\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1579.921875,
+        "y1": 0,
+        "x2": 1699.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tues",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Tues"
+    },
+    {
+      "coordinates": {
+        "x1": 1700.921875,
+        "y1": 0,
+        "x2": 1820.921875,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1821.921875,
+        "y1": 0,
+        "x2": 1904,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 257.5,
+        "y1": 65.0,
+        "x2": 337.5,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ESPN",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault&lid=sitenav_main-logo"
+      },
+      "descriptive_label": "link: ESPN"
+    },
+    {
+      "coordinates": {
+        "x1": 1572.5,
+        "y1": 65.0,
+        "x2": 1588.5,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Open Search",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Open Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1634.5,
+        "y1": 67.0,
+        "x2": 1681.5,
+        "y2": 107.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search Sports, Teams or Players...",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1634.5,
+        "y1": 67.0,
+        "x2": 1669.5,
+        "y2": 107.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 376.5,
+        "y1": 66.0,
+        "x2": 422.96875,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Football",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_soccer"
+      },
+      "descriptive_label": "link: Football"
+    },
+    {
+      "coordinates": {
+        "x1": 442.96875,
+        "y1": 66.0,
+        "x2": 468.84375,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NBA",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_nba"
+      },
+      "descriptive_label": "link: NBA"
+    },
+    {
+      "coordinates": {
+        "x1": 488.84375,
+        "y1": 66.0,
+        "x2": 552.171875,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Badminton",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_badminton"
+      },
+      "descriptive_label": "link: Badminton"
+    },
+    {
+      "coordinates": {
+        "x1": 572.171875,
+        "y1": 66.0,
+        "x2": 613.8125,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cricket",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_cricket"
+      },
+      "descriptive_label": "link: Cricket"
+    },
+    {
+      "coordinates": {
+        "x1": 633.8125,
+        "y1": 66.0,
+        "x2": 668.921875,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Chess",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_chess"
+      },
+      "descriptive_label": "link: Chess"
+    },
+    {
+      "coordinates": {
+        "x1": 688.921875,
+        "y1": 66.0,
+        "x2": 731.640625,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hockey",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_hockey"
+      },
+      "descriptive_label": "link: Hockey"
+    },
+    {
+      "coordinates": {
+        "x1": 751.640625,
+        "y1": 66.0,
+        "x2": 770.421875,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ISL",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_isl"
+      },
+      "descriptive_label": "link: ISL"
+    },
+    {
+      "coordinates": {
+        "x1": 790.421875,
+        "y1": 66.0,
+        "x2": 861.5625,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "More Sports",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: More Sports"
+    },
+    {
+      "coordinates": {
+        "x1": 1515.9375,
+        "y1": 66.0,
+        "x2": 1552.5,
+        "y2": 109.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Watch",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=sitenavdefault+sitenav_watch"
+      },
+      "descriptive_label": "link: Watch"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 433.0,
+        "x2": 542.5,
+        "y2": 465.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Create Account",
+        "placeholder": null,
+        "value": "",
+        "name": "&lpos=customize:espn:oneid:module:signup"
+      },
+      "descriptive_label": "button: Create Account"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 475.0,
+        "x2": 542.5,
+        "y2": 507.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": "",
+        "name": "&lpos=customize:espn:oneid:module:login"
+      },
+      "descriptive_label": "button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 575.0,
+        "x2": 554.5,
+        "y2": 611.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "2026 World Cup",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:1:worldcupquicklink"
+      },
+      "descriptive_label": "link: 2026 World Cup"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 583.0,
+        "x2": 366.5,
+        "y2": 603.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 611.0,
+        "x2": 554.5,
+        "y2": 647.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "IPL 2026",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:2:ipl2026"
+      },
+      "descriptive_label": "link: IPL 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 619.0,
+        "x2": 366.5,
+        "y2": 639.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 647.0,
+        "x2": 554.5,
+        "y2": 683.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Indian Super League",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:3:indiansuperleague"
+      },
+      "descriptive_label": "link: Indian Super League"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 655.0,
+        "x2": 366.5,
+        "y2": 675.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 683.0,
+        "x2": 554.5,
+        "y2": 719.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English Premier League",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:4:premierleague"
+      },
+      "descriptive_label": "link: English Premier League"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 691.0,
+        "x2": 366.5,
+        "y2": 711.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 719.0,
+        "x2": 554.5,
+        "y2": 755.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "La Liga",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:5:laliga"
+      },
+      "descriptive_label": "link: La Liga"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 727.0,
+        "x2": 366.5,
+        "y2": 747.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 755.0,
+        "x2": 554.5,
+        "y2": 791.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "UEFA Champions League",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:6:championsleague"
+      },
+      "descriptive_label": "link: UEFA Champions League"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 763.0,
+        "x2": 366.5,
+        "y2": 783.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 791.0,
+        "x2": 554.5,
+        "y2": 827.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Europa League",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:7:europaleague"
+      },
+      "descriptive_label": "link: Europa League"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 799.0,
+        "x2": 366.5,
+        "y2": 819.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 827.0,
+        "x2": 554.5,
+        "y2": 863.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Serie A",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:8:seriea"
+      },
+      "descriptive_label": "link: Serie A"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 835.0,
+        "x2": 366.5,
+        "y2": 855.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 863.0,
+        "x2": 554.5,
+        "y2": 899.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Bundesliga",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:9:bundesliga"
+      },
+      "descriptive_label": "link: Bundesliga"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 871.0,
+        "x2": 366.5,
+        "y2": 891.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 899.0,
+        "x2": 554.5,
+        "y2": 947.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Ultimate Fighting Championship",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:10:ufc"
+      },
+      "descriptive_label": "link: Ultimate Fighting Championship"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 913.0,
+        "x2": 366.5,
+        "y2": 933.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 947.0,
+        "x2": 554.5,
+        "y2": 983.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "I-League",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:11:ileague"
+      },
+      "descriptive_label": "link: I-League"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 955.0,
+        "x2": 366.5,
+        "y2": 975.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 983.0,
+        "x2": 554.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Paris Olympics",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=lrail:link:featured:12:parisolympics"
+      },
+      "descriptive_label": "link: Paris Olympics"
+    },
+    {
+      "coordinates": {
+        "x1": 574.5,
+        "y1": 379.0,
+        "x2": 1234.5,
+        "y2": 783.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FIDE Candidates: Divya spurns opportunity against Vaishali; Pragg remains in joint lead\nIn a time scramble, Divya was handed a big opportunity by a Vaishali blunder, but she couldn't convert the chance into a win\n30mAaditya Narayan\nMichal Walusza/FIDE",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:story"
+      },
+      "descriptive_label": "link: FIDE Candidates: Divya spur..."
+    },
+    {
+      "coordinates": {
+        "x1": 590.5,
+        "y1": 783.0,
+        "x2": 1218.5,
+        "y2": 917.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Praggnanandhaa begins Candidates in style by beating Anish Giri; Divya, Vaishali draw\nPraggnanandhaa delivered a quality game to dismantle Anish Giri's position methodically, in a performance that laid down an early marker.\n23hAaditya Narayan",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:story"
+      },
+      "descriptive_label": "link: Praggnanandhaa begins Candi..."
+    },
+    {
+      "coordinates": {
+        "x1": 601.015625,
+        "y1": 933.0,
+        "x2": 904.5,
+        "y2": 979.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Praggnanandhaa searches for light in Candidates amidst Gukesh's shadow",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:story:1:related"
+      },
+      "descriptive_label": "link: Praggnanandhaa searches for..."
+    },
+    {
+      "coordinates": {
+        "x1": 601.015625,
+        "y1": 979.0,
+        "x2": 904.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Candidates 2026: Can Divya Deshmukh and R Vaishali be proverbial Davids in a field of Goliaths?",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:story:2:related"
+      },
+      "descriptive_label": "link: Candidates 2026: Can Divya ..."
+    },
+    {
+      "coordinates": {
+        "x1": 931.015625,
+        "y1": 933.0,
+        "x2": 1214.5,
+        "y2": 979.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "India at FIDE Candidates Tournament 2026: All you need to know",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:story:3:related"
+      },
+      "descriptive_label": "link: India at FIDE Candidates To..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 431.0,
+        "x2": 1542.5,
+        "y2": 462.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sources: Maguire nears new deal at Man Utd",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:1"
+      },
+      "descriptive_label": "link: Sources: Maguire nears new ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 462.0,
+        "x2": 1542.5,
+        "y2": 493.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sources: Spurs pushing for De Zerbi this season",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:2"
+      },
+      "descriptive_label": "link: Sources: Spurs pushing for ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 493.0,
+        "x2": 1542.5,
+        "y2": 524.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tuchel: Saka, Rice were 'desperate' to face Japan",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:3"
+      },
+      "descriptive_label": "link: Tuchel: Saka, Rice were 'de..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 524.0,
+        "x2": 1542.5,
+        "y2": 555.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Red Bull play down Max exit: 'Happier' in fast car",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:4"
+      },
+      "descriptive_label": "link: Red Bull play down Max exit..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 555.0,
+        "x2": 1542.5,
+        "y2": 586.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Survey: Matchgoing fans opposed to VAR",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:5"
+      },
+      "descriptive_label": "link: Survey: Matchgoing fans opp..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 586.0,
+        "x2": 1542.5,
+        "y2": 617.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Tudor leaves Tottenham after just seven games",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:6"
+      },
+      "descriptive_label": "link: Tudor leaves Tottenham afte..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 617.0,
+        "x2": 1542.5,
+        "y2": 648.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Dou\u00e9 double sees France beat Colombia in style",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:7"
+      },
+      "descriptive_label": "link: Dou\u00e9 double sees France bea..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 648.0,
+        "x2": 1542.5,
+        "y2": 679.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Semenya rips IOC chief over transgender ban",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:8"
+      },
+      "descriptive_label": "link: Semenya rips IOC chief over..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 679.0,
+        "x2": 1542.5,
+        "y2": 710.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sinner wins in Miami for rare 'Sunshine Double'",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:9"
+      },
+      "descriptive_label": "link: Sinner wins in Miami for ra..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 710.0,
+        "x2": 1542.5,
+        "y2": 740.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CAF chief resigns amid AFCON final controversy",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=fp:feed:1:coll:headlines:10"
+      },
+      "descriptive_label": "link: CAF chief resigns amid AFCO..."
+    },
+    {
+      "coordinates": {
+        "x1": 1266.5,
+        "y1": 951.25,
+        "x2": 1538.8125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Calendar 2026: Commonwealth & Asian Games, Chess World Championships, Cricket, Football & Hockey World Cups and more",
+        "placeholder": null,
+        "value": null,
+        "name": "&lpos=hp-rightrail:story:47468671:2"
+      },
+      "descriptive_label": "link: Calendar 2026: Commonwealth..."
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 68
+  }
+}

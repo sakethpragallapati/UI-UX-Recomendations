@@ -1,0 +1,767 @@
+{
+  "url": "https://microsoft.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893424,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1449.625,
+        "y1": 20.5,
+        "x2": 1569.625,
+        "y2": 54.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "No thanks",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "No thanks",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: No thanks"
+    },
+    {
+      "coordinates": {
+        "x1": 1581.625,
+        "y1": 20.5,
+        "x2": 1743.5,
+        "y2": 54.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Get Bing Wallpaper now",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get Bing Wallpaper now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Get Bing Wallpaper now"
+    },
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 86.0,
+        "x2": 281.5,
+        "y2": 140.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Microsoft",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 283.5,
+        "y1": 85.0,
+        "x2": 388.65625,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft 365",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 287.5,
+        "y1": 86.0,
+        "x2": 384.65625,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 392.21875,
+        "y1": 85.0,
+        "x2": 451.171875,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Azure",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Azure"
+    },
+    {
+      "coordinates": {
+        "x1": 396.21875,
+        "y1": 86.0,
+        "x2": 447.171875,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Azure",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Azure"
+    },
+    {
+      "coordinates": {
+        "x1": 454.734375,
+        "y1": 85.0,
+        "x2": 522.375,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Copilot",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Copilot"
+    },
+    {
+      "coordinates": {
+        "x1": 458.734375,
+        "y1": 86.0,
+        "x2": 518.375,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Copilot",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Copilot"
+    },
+    {
+      "coordinates": {
+        "x1": 525.9375,
+        "y1": 85.0,
+        "x2": 604.78125,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Windows",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 529.9375,
+        "y1": 86.0,
+        "x2": 600.78125,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Windows",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 608.34375,
+        "y1": 85.0,
+        "x2": 676.625,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Surface",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Surface"
+    },
+    {
+      "coordinates": {
+        "x1": 612.34375,
+        "y1": 86.0,
+        "x2": 672.625,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Surface",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Surface"
+    },
+    {
+      "coordinates": {
+        "x1": 680.1875,
+        "y1": 85.0,
+        "x2": 735.09375,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Xbox",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Xbox"
+    },
+    {
+      "coordinates": {
+        "x1": 684.1875,
+        "y1": 86.0,
+        "x2": 731.09375,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Xbox",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Xbox"
+    },
+    {
+      "coordinates": {
+        "x1": 738.65625,
+        "y1": 85.0,
+        "x2": 810.75,
+        "y2": 134.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "menu_item: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 742.65625,
+        "y1": 86.0,
+        "x2": 806.75,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1368.9375,
+        "y1": 86.0,
+        "x2": 1482.765625,
+        "y2": 139.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "All Microsoft",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: All Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 1484.765625,
+        "y1": 88.0,
+        "x2": 1562.53125,
+        "y2": 133.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search Microsoft.com",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search Microsoft.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1591.765625,
+        "y1": 87.0,
+        "x2": 1637.359375,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "0 items in shopping cart",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cart",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: 0 items in shopping cart"
+    },
+    {
+      "coordinates": {
+        "x1": 1641.359375,
+        "y1": 88.0,
+        "x2": 1744.5,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in to your account",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in to your account\nSign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in to your account"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 140.0,
+        "x2": 1888.0,
+        "y2": 141.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip featured products and announcements slideshow: navigate using the previous and next: navigate using the slide tabs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Skip featured products and ..."
+    },
+    {
+      "coordinates": {
+        "x1": 836.5,
+        "y1": 743.0,
+        "x2": 880.5,
+        "y2": 787.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pause",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Pause"
+    },
+    {
+      "coordinates": {
+        "x1": 880.5,
+        "y1": 743.0,
+        "x2": 924.5,
+        "y2": 787.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Previous",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Previous",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1008.5,
+        "y1": 743.0,
+        "x2": 1052.5,
+        "y2": 787.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Next",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Next",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 484.34375,
+        "x2": 362.828125,
+        "y2": 524.34375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": " ",
+      "accessibility": {
+        "aria_label": "Shop Microsoft 365",
+        "title": "",
+        "alt_text": null,
+        "role": " "
+      },
+      "content": {
+        "text": "Shop Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Shop Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 592.90625,
+        "y1": 907.0,
+        "x2": 789.0,
+        "y2": 931.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": " ",
+      "accessibility": {
+        "aria_label": "Choose your Microsoft 365",
+        "title": "",
+        "alt_text": null,
+        "role": " "
+      },
+      "content": {
+        "text": "Choose your Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Choose your Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 837.0,
+        "y1": 907.0,
+        "x2": 915.484375,
+        "y2": 931.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": " ",
+      "accessibility": {
+        "aria_label": "Shop Xbox",
+        "title": "",
+        "alt_text": null,
+        "role": " "
+      },
+      "content": {
+        "text": "Shop Xbox",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Shop Xbox"
+    },
+    {
+      "coordinates": {
+        "x1": 963.484375,
+        "y1": 907.0,
+        "x2": 1077.765625,
+        "y2": 931.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": " ",
+      "accessibility": {
+        "aria_label": "Get Windows 11",
+        "title": "",
+        "alt_text": null,
+        "role": " "
+      },
+      "content": {
+        "text": "Get Windows 11",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Get Windows 11"
+    },
+    {
+      "coordinates": {
+        "x1": 1125.765625,
+        "y1": 907.0,
+        "x2": 1296.078125,
+        "y2": 931.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": " ",
+      "accessibility": {
+        "aria_label": "Explore Surface devices",
+        "title": "",
+        "alt_text": null,
+        "role": " "
+      },
+      "content": {
+        "text": "Explore Surface devices",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Explore Surface devices"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 30
+  }
+}

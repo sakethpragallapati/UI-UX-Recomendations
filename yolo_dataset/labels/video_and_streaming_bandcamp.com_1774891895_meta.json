@@ -1,0 +1,967 @@
+{
+  "url": "https://bandcamp.com",
+  "category": "video_and_streaming",
+  "timestamp": 1774891895,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1001.5625,
+        "y1": 408.1000061035156,
+        "x2": 1101.140625,
+        "y2": 425.1000061035156
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 773.0,
+        "y1": 557.0999755859375,
+        "x2": 1131.0,
+        "y2": 669.0999755859375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept all\nAccept necessary only",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Accept all\nAccept necessary..."
+    },
+    {
+      "coordinates": {
+        "x1": 773.0,
+        "y1": 567.0999755859375,
+        "x2": 1131.0,
+        "y2": 611.0999755859375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 773.0,
+        "y1": 619.0999755859375,
+        "x2": 1131.0,
+        "y2": 663.0999755859375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept necessary only",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Accept necessary only"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 2.0,
+        "y2": 32.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Skip to content"
+    },
+    {
+      "coordinates": {
+        "x1": 124.0,
+        "y1": 0,
+        "x2": 1780.0,
+        "y2": 53.0
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "ul",
+      "element_type": "menubar",
+      "accessibility": {
+        "aria_label": "Main menu",
+        "title": "",
+        "alt_text": null,
+        "role": "menubar"
+      },
+      "content": {
+        "text": "Bandcamp home\nSearch for artist, album or track\nSearch\nSign up\nLog in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Main menu"
+    },
+    {
+      "coordinates": {
+        "x1": 164.0,
+        "y1": 17.0625,
+        "x2": 284.0,
+        "y2": 35.921875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Bandcamp home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Bandcamp home"
+    },
+    {
+      "coordinates": {
+        "x1": 308.0,
+        "y1": 7.5,
+        "x2": 628.0,
+        "y2": 45.5
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "div",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Search for artist, album or track\nSearch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: Search for artist, album or..."
+    },
+    {
+      "coordinates": {
+        "x1": 308.0,
+        "y1": 7.5,
+        "x2": 309.0,
+        "y2": 8.5
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search for artist, album or track",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Search for artist, album or..."
+    },
+    {
+      "coordinates": {
+        "x1": 308.0,
+        "y1": 7.5,
+        "x2": 620.0,
+        "y2": 45.5
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search and discover music",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "input: Search and discover music"
+    },
+    {
+      "coordinates": {
+        "x1": 626.0,
+        "y1": 43.5,
+        "x2": 628.0,
+        "y2": 45.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1612.359375,
+        "y1": 0,
+        "x2": 1687.84375,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 1687.84375,
+        "y1": 0,
+        "x2": 1754.0,
+        "y2": 53.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 458.40625,
+        "y1": 54.0,
+        "x2": 591.765625,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Digital music",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Digital music"
+    },
+    {
+      "coordinates": {
+        "x1": 599.765625,
+        "y1": 54.0,
+        "x2": 683.859375,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Vinyl",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Vinyl"
+    },
+    {
+      "coordinates": {
+        "x1": 691.859375,
+        "y1": 54.0,
+        "x2": 837.671875,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Compact discs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Compact discs"
+    },
+    {
+      "coordinates": {
+        "x1": 845.671875,
+        "y1": 54.0,
+        "x2": 961.921875,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Cassettes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Cassettes"
+    },
+    {
+      "coordinates": {
+        "x1": 969.921875,
+        "y1": 54.0,
+        "x2": 1069.8125,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "T-shirts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: T-shirts"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.8125,
+        "y1": 54.0,
+        "x2": 1191.71875,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Gift cards",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Gift cards"
+    },
+    {
+      "coordinates": {
+        "x1": 1199.71875,
+        "y1": 54.0,
+        "x2": 1304.3125,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Editorial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Editorial"
+    },
+    {
+      "coordinates": {
+        "x1": 1312.3125,
+        "y1": 54.0,
+        "x2": 1376.109375,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Clubs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Clubs"
+    },
+    {
+      "coordinates": {
+        "x1": 1384.109375,
+        "y1": 54.0,
+        "x2": 1445.578125,
+        "y2": 106.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Store",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Store"
+    },
+    {
+      "coordinates": {
+        "x1": 950.296875,
+        "y1": 119.0,
+        "x2": 1044.484375,
+        "y2": 135.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "See open roles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: See open roles"
+    },
+    {
+      "coordinates": {
+        "x1": 1506.40625,
+        "y1": 541.59375,
+        "x2": 1550.0,
+        "y2": 565.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "pause",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: pause"
+    },
+    {
+      "coordinates": {
+        "x1": 1506.40625,
+        "y1": 544.59375,
+        "x2": 1550.0,
+        "y2": 561.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "pause",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: pause"
+    },
+    {
+      "coordinates": {
+        "x1": 719.1875,
+        "y1": 574.78125,
+        "x2": 824.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $7\n1 second ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $7\n1 second ago"
+    },
+    {
+      "coordinates": {
+        "x1": 839.1875,
+        "y1": 574.78125,
+        "x2": 944.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $25\n1 second ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $25\n1 second ago"
+    },
+    {
+      "coordinates": {
+        "x1": 959.1875,
+        "y1": 574.78125,
+        "x2": 1064.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $5\n4 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $5\n4 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1079.1875,
+        "y1": 574.78125,
+        "x2": 1184.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $5\n4 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $5\n4 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1199.1875,
+        "y1": 574.78125,
+        "x2": 1304.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $5\n4 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $5\n4 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1319.1875,
+        "y1": 574.78125,
+        "x2": 1424.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $5\n4 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $5\n4 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1439.1875,
+        "y1": 574.78125,
+        "x2": 1544.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sold for $3\n4 seconds ago",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sold for $3\n4 seconds ago"
+    },
+    {
+      "coordinates": {
+        "x1": 1559.1875,
+        "y1": 574.78125,
+        "x2": 1664.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1679.1875,
+        "y1": 574.78125,
+        "x2": 1784.8125,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1799.1875,
+        "y1": 574.78125,
+        "x2": 1904,
+        "y2": 730.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1396.375,
+        "y1": 859.484375,
+        "x2": 1552.0,
+        "y2": 883.484375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore more editorial",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Explore more editorial"
+    },
+    {
+      "coordinates": {
+        "x1": 352.0,
+        "y1": 907.484375,
+        "x2": 1240.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1273.0,
+        "y1": 907.484375,
+        "x2": 1552.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 38
+  }
+}

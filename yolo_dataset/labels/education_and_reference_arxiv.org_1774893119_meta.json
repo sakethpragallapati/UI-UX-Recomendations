@@ -1,0 +1,4817 @@
+{
+  "url": "https://arxiv.org",
+  "category": "education_and_reference",
+  "timestamp": 1774893119,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 0.15625,
+        "y2": 0.15625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 22.0,
+        "y1": 48.828125,
+        "x2": 222.0,
+        "y2": 60.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 687.171875,
+        "y1": 19.09375,
+        "x2": 1213.8125,
+        "y2": 53.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn about arXiv becoming an independent nonprofit.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn about arXiv becoming ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1613.96875,
+        "y1": 22.5,
+        "x2": 1783.75,
+        "y2": 50.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "member institutions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: member institutions"
+    },
+    {
+      "coordinates": {
+        "x1": 1795.859375,
+        "y1": 22.625,
+        "x2": 1877.0,
+        "y2": 50.359375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Donate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Donate"
+    },
+    {
+      "coordinates": {
+        "x1": 1836.109375,
+        "y1": 83.0,
+        "x2": 1869.0,
+        "y2": 98.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 1541.96875,
+        "y1": 104.71875,
+        "x2": 1711.96875,
+        "y2": 131.71875
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search term or terms",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search...",
+        "value": "",
+        "name": "query"
+      },
+      "descriptive_label": "input: Search term or terms"
+    },
+    {
+      "coordinates": {
+        "x1": 1571.421875,
+        "y1": 134.71875,
+        "x2": 1596.109375,
+        "y2": 148.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 1605.234375,
+        "y1": 134.71875,
+        "x2": 1699.96875,
+        "y2": 148.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Advanced Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Advanced Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1699.96875,
+        "y1": 104.71875,
+        "x2": 1812.96875,
+        "y2": 131.71875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "select",
+      "element_type": "select-one",
+      "accessibility": {
+        "aria_label": "Field to search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "              All fields\n              Title\n              Author\n              Abstract\n              Comments\n              Journal reference\n              ACM classification\n              MSC classification\n              Report number\n              arXiv identifier\n              DOI\n              ORCID\n              arXiv author ID\n              Help pages\n              Full text\n            ",
+        "placeholder": null,
+        "value": "all",
+        "name": "searchtype"
+      },
+      "descriptive_label": "dropdown: Field to search"
+    },
+    {
+      "coordinates": {
+        "x1": 1812.96875,
+        "y1": 104.71875,
+        "x2": 1877.0,
+        "y2": 131.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 30.265625,
+        "y1": 278.96875,
+        "x2": 221.53125,
+        "y2": 294.96875
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subject search and browse:",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Subject search and browse:"
+    },
+    {
+      "coordinates": {
+        "x1": 30.265625,
+        "y1": 295.96875,
+        "x2": 313.265625,
+        "y2": 314.96875
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "select",
+      "element_type": "select-one",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search in",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "         Physics\n         Mathematics\n         Quantitative Biology\n         Computer Science\n         Quantitative Finance\n         Statistics\n         Electrical Engineering and Systems Science\n         Economics\n      ",
+        "placeholder": null,
+        "value": "grp_physics",
+        "name": "group"
+      },
+      "descriptive_label": "dropdown: Search in"
+    },
+    {
+      "coordinates": {
+        "x1": 317.28125,
+        "y1": 294.96875,
+        "x2": 375.53125,
+        "y2": 315.96875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "input",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Search",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 379.546875,
+        "y1": 294.96875,
+        "x2": 482.21875,
+        "y2": 315.96875
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Form Interface",
+        "name": "/form"
+      },
+      "descriptive_label": "input: Form Interface"
+    },
+    {
+      "coordinates": {
+        "x1": 486.234375,
+        "y1": 294.96875,
+        "x2": 551.890625,
+        "y2": 315.96875
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Catchup",
+        "name": "/catchup"
+      },
+      "descriptive_label": "input: Catchup"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 398.0,
+        "x2": 131.71875,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Astrophysics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Astrophysics"
+    },
+    {
+      "coordinates": {
+        "x1": 202.140625,
+        "y1": 398.0,
+        "x2": 227.765625,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 235.78125,
+        "y1": 398.0,
+        "x2": 275.8125,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 283.828125,
+        "y1": 398.0,
+        "x2": 327.0625,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 335.078125,
+        "y1": 398.0,
+        "x2": 492.75,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Astrophysics of Galaxies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Astrophysics of Galaxies"
+    },
+    {
+      "coordinates": {
+        "x1": 500.765625,
+        "y1": 398.0,
+        "x2": 764.90625,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cosmology and Nongalactic Astrophysics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cosmology and Nongalactic A..."
+    },
+    {
+      "coordinates": {
+        "x1": 772.921875,
+        "y1": 398.0,
+        "x2": 985.046875,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Earth and Planetary Astrophysics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Earth and Planetary Astroph..."
+    },
+    {
+      "coordinates": {
+        "x1": 993.0625,
+        "y1": 398.0,
+        "x2": 1242.8125,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "High Energy Astrophysical Phenomena",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: High Energy Astrophysical P..."
+    },
+    {
+      "coordinates": {
+        "x1": 1250.828125,
+        "y1": 398.0,
+        "x2": 1542.984375,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Instrumentation and Methods for Astrophysics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Instrumentation and Methods..."
+    },
+    {
+      "coordinates": {
+        "x1": 1551.0,
+        "y1": 398.0,
+        "x2": 1742.296875,
+        "y2": 414.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Solar and Stellar Astrophysics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Solar and Stellar Astrophysics"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 414.0,
+        "x2": 168.5625,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Condensed Matter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Condensed Matter"
+    },
+    {
+      "coordinates": {
+        "x1": 246.1875,
+        "y1": 414.0,
+        "x2": 271.8125,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 279.828125,
+        "y1": 414.0,
+        "x2": 319.859375,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 327.875,
+        "y1": 414.0,
+        "x2": 371.109375,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 379.90625,
+        "y1": 414.0,
+        "x2": 648.015625,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Disordered Systems and Neural Networks",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Disordered Systems and Neur..."
+    },
+    {
+      "coordinates": {
+        "x1": 656.03125,
+        "y1": 414.0,
+        "x2": 769.6875,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Materials Science",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Materials Science"
+    },
+    {
+      "coordinates": {
+        "x1": 777.703125,
+        "y1": 414.0,
+        "x2": 1000.21875,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mesoscale and Nanoscale Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mesoscale and Nanoscale Phy..."
+    },
+    {
+      "coordinates": {
+        "x1": 1008.234375,
+        "y1": 414.0,
+        "x2": 1166.71875,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Other Condensed Matter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Other Condensed Matter"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.734375,
+        "y1": 414.0,
+        "x2": 1279.59375,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quantum Gases",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quantum Gases"
+    },
+    {
+      "coordinates": {
+        "x1": 1287.609375,
+        "y1": 414.0,
+        "x2": 1435.703125,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Soft Condensed Matter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Soft Condensed Matter"
+    },
+    {
+      "coordinates": {
+        "x1": 1443.71875,
+        "y1": 414.0,
+        "x2": 1578.171875,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Statistical Mechanics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Statistical Mechanics"
+    },
+    {
+      "coordinates": {
+        "x1": 1586.1875,
+        "y1": 414.0,
+        "x2": 1774.28125,
+        "y2": 430.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Strongly Correlated Electrons",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Strongly Correlated Electrons"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 430.0,
+        "x2": 163.75,
+        "y2": 446.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Superconductivity",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Superconductivity"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 446.0,
+        "x2": 331.015625,
+        "y2": 462.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "General Relativity and Quantum Cosmology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: General Relativity and Quan..."
+    },
+    {
+      "coordinates": {
+        "x1": 379.828125,
+        "y1": 446.0,
+        "x2": 405.453125,
+        "y2": 462.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 413.46875,
+        "y1": 446.0,
+        "x2": 453.5,
+        "y2": 462.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 461.515625,
+        "y1": 446.0,
+        "x2": 504.75,
+        "y2": 462.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 462.0,
+        "x2": 268.5625,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "High Energy Physics - Experiment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: High Energy Physics - Exper..."
+    },
+    {
+      "coordinates": {
+        "x1": 327.796875,
+        "y1": 462.0,
+        "x2": 353.421875,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 361.4375,
+        "y1": 462.0,
+        "x2": 401.46875,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 409.484375,
+        "y1": 462.0,
+        "x2": 452.71875,
+        "y2": 478.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 478.0,
+        "x2": 238.171875,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "High Energy Physics - Lattice",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: High Energy Physics - Lattice"
+    },
+    {
+      "coordinates": {
+        "x1": 298.1875,
+        "y1": 478.0,
+        "x2": 323.8125,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 331.828125,
+        "y1": 478.0,
+        "x2": 371.859375,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 379.875,
+        "y1": 478.0,
+        "x2": 423.109375,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 494.0,
+        "x2": 299.8125,
+        "y2": 510.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "High Energy Physics - Phenomenology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: High Energy Physics - Pheno..."
+    },
+    {
+      "coordinates": {
+        "x1": 360.625,
+        "y1": 494.0,
+        "x2": 386.25,
+        "y2": 510.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 394.265625,
+        "y1": 494.0,
+        "x2": 434.296875,
+        "y2": 510.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 442.3125,
+        "y1": 494.0,
+        "x2": 485.546875,
+        "y2": 510.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 510.0,
+        "x2": 240.296875,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "High Energy Physics - Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: High Energy Physics - Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 297.109375,
+        "y1": 510.0,
+        "x2": 322.734375,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 330.75,
+        "y1": 510.0,
+        "x2": 370.78125,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 378.796875,
+        "y1": 510.0,
+        "x2": 422.03125,
+        "y2": 526.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 526.0,
+        "x2": 189.328125,
+        "y2": 542.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mathematical Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mathematical Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 258.9375,
+        "y1": 526.0,
+        "x2": 284.5625,
+        "y2": 542.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 292.578125,
+        "y1": 526.0,
+        "x2": 332.609375,
+        "y2": 542.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 340.625,
+        "y1": 526.0,
+        "x2": 383.859375,
+        "y2": 542.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 542.0,
+        "x2": 174.15625,
+        "y2": 558.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Nonlinear Sciences",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Nonlinear Sciences"
+    },
+    {
+      "coordinates": {
+        "x1": 212.5625,
+        "y1": 542.0,
+        "x2": 238.1875,
+        "y2": 558.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 246.203125,
+        "y1": 542.0,
+        "x2": 286.234375,
+        "y2": 558.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 294.25,
+        "y1": 542.0,
+        "x2": 337.484375,
+        "y2": 558.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 110.125,
+        "y1": 558.0,
+        "x2": 369.46875,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Adaptation and Self-Organizing Systems",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Adaptation and Self-Organiz..."
+    },
+    {
+      "coordinates": {
+        "x1": 377.484375,
+        "y1": 558.0,
+        "x2": 611.21875,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cellular Automata and Lattice Gases",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cellular Automata and Latti..."
+    },
+    {
+      "coordinates": {
+        "x1": 619.234375,
+        "y1": 558.0,
+        "x2": 735.28125,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Chaotic Dynamics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Chaotic Dynamics"
+    },
+    {
+      "coordinates": {
+        "x1": 743.296875,
+        "y1": 558.0,
+        "x2": 1004.234375,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Exactly Solvable and Integrable Systems",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Exactly Solvable and Integr..."
+    },
+    {
+      "coordinates": {
+        "x1": 1012.25,
+        "y1": 558.0,
+        "x2": 1210.765625,
+        "y2": 574.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pattern Formation and Solitons",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pattern Formation and Solitons"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 574.0,
+        "x2": 176.53125,
+        "y2": 590.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Nuclear Experiment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Nuclear Experiment"
+    },
+    {
+      "coordinates": {
+        "x1": 239.765625,
+        "y1": 574.0,
+        "x2": 265.390625,
+        "y2": 590.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 273.40625,
+        "y1": 574.0,
+        "x2": 313.4375,
+        "y2": 590.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 321.453125,
+        "y1": 574.0,
+        "x2": 364.6875,
+        "y2": 590.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 590.0,
+        "x2": 148.265625,
+        "y2": 606.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Nuclear Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Nuclear Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 209.078125,
+        "y1": 590.0,
+        "x2": 234.703125,
+        "y2": 606.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 242.71875,
+        "y1": 590.0,
+        "x2": 282.75,
+        "y2": 606.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 290.765625,
+        "y1": 590.0,
+        "x2": 334.0,
+        "y2": 606.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 606.0,
+        "x2": 99.703125,
+        "y2": 622.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 166.15625,
+        "y1": 606.0,
+        "x2": 191.78125,
+        "y2": 622.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 199.796875,
+        "y1": 606.0,
+        "x2": 239.828125,
+        "y2": 622.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 247.84375,
+        "y1": 606.0,
+        "x2": 291.078125,
+        "y2": 622.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 110.125,
+        "y1": 622.0,
+        "x2": 236.578125,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accelerator Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Accelerator Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 243.796875,
+        "y1": 622.0,
+        "x2": 345.453125,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Applied Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Applied Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 352.671875,
+        "y1": 622.0,
+        "x2": 571.171875,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Atmospheric and Oceanic Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Atmospheric and Oceanic Phy..."
+    },
+    {
+      "coordinates": {
+        "x1": 578.390625,
+        "y1": 622.0,
+        "x2": 773.671875,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Atomic and Molecular Clusters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Atomic and Molecular Clusters"
+    },
+    {
+      "coordinates": {
+        "x1": 780.890625,
+        "y1": 622.0,
+        "x2": 878.515625,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Atomic Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Atomic Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 886.53125,
+        "y1": 622.0,
+        "x2": 1001.78125,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Biological Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Biological Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1009.796875,
+        "y1": 622.0,
+        "x2": 1123.4375,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Chemical Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Chemical Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1131.453125,
+        "y1": 622.0,
+        "x2": 1242.6875,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Classical Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Classical Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1250.703125,
+        "y1": 622.0,
+        "x2": 1397.171875,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computational Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computational Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1405.1875,
+        "y1": 622.0,
+        "x2": 1657.3125,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Data Analysis, Statistics and Probability",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Data Analysis, Statistics a..."
+    },
+    {
+      "coordinates": {
+        "x1": 1665.328125,
+        "y1": 622.0,
+        "x2": 1763.765625,
+        "y2": 638.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Fluid Dynamics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Fluid Dynamics"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 622.0,
+        "x2": 1823.015625,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "General Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: General Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 107.71875,
+        "y1": 638.0,
+        "x2": 182.953125,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Geophysics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Geophysics"
+    },
+    {
+      "coordinates": {
+        "x1": 190.96875,
+        "y1": 638.0,
+        "x2": 407.875,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "History and Philosophy of Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: History and Philosophy of P..."
+    },
+    {
+      "coordinates": {
+        "x1": 415.890625,
+        "y1": 638.0,
+        "x2": 608.796875,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Instrumentation and Detectors",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Instrumentation and Detectors"
+    },
+    {
+      "coordinates": {
+        "x1": 616.8125,
+        "y1": 638.0,
+        "x2": 720.046875,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Medical Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Medical Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 728.0625,
+        "y1": 638.0,
+        "x2": 768.875,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Optics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Optics"
+    },
+    {
+      "coordinates": {
+        "x1": 776.890625,
+        "y1": 638.0,
+        "x2": 905.765625,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Physics and Society",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Physics and Society"
+    },
+    {
+      "coordinates": {
+        "x1": 913.78125,
+        "y1": 638.0,
+        "x2": 1031.453125,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Physics Education",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Physics Education"
+    },
+    {
+      "coordinates": {
+        "x1": 1039.46875,
+        "y1": 638.0,
+        "x2": 1141.109375,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Plasma Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Plasma Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1149.125,
+        "y1": 638.0,
+        "x2": 1252.375,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Popular Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Popular Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1260.390625,
+        "y1": 638.0,
+        "x2": 1354.84375,
+        "y2": 654.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Space Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Space Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 654.0,
+        "x2": 162.9375,
+        "y2": 670.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quantum Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quantum Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 237.34375,
+        "y1": 654.0,
+        "x2": 262.96875,
+        "y2": 670.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 270.984375,
+        "y1": 654.0,
+        "x2": 311.015625,
+        "y2": 670.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 319.03125,
+        "y1": 654.0,
+        "x2": 362.265625,
+        "y2": 670.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 731.84375,
+        "x2": 131.71875,
+        "y2": 747.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mathematics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mathematics"
+    },
+    {
+      "coordinates": {
+        "x1": 178.9375,
+        "y1": 731.84375,
+        "x2": 204.5625,
+        "y2": 747.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 212.578125,
+        "y1": 731.84375,
+        "x2": 252.609375,
+        "y2": 747.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 260.625,
+        "y1": 731.84375,
+        "x2": 303.859375,
+        "y2": 747.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 142.9375,
+        "y1": 747.84375,
+        "x2": 267.03125,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "detailed description",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: detailed description"
+    },
+    {
+      "coordinates": {
+        "x1": 279.046875,
+        "y1": 747.84375,
+        "x2": 406.3125,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Algebraic Geometry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Algebraic Geometry"
+    },
+    {
+      "coordinates": {
+        "x1": 413.53125,
+        "y1": 747.84375,
+        "x2": 534.953125,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Algebraic Topology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Algebraic Topology"
+    },
+    {
+      "coordinates": {
+        "x1": 542.171875,
+        "y1": 747.84375,
+        "x2": 652.625,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Analysis of PDEs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Analysis of PDEs"
+    },
+    {
+      "coordinates": {
+        "x1": 660.640625,
+        "y1": 747.84375,
+        "x2": 767.640625,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Category Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Category Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 775.65625,
+        "y1": 747.84375,
+        "x2": 960.53125,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Classical Analysis and ODEs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Classical Analysis and ODEs"
+    },
+    {
+      "coordinates": {
+        "x1": 968.546875,
+        "y1": 747.84375,
+        "x2": 1060.59375,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Combinatorics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Combinatorics"
+    },
+    {
+      "coordinates": {
+        "x1": 1068.609375,
+        "y1": 747.84375,
+        "x2": 1206.28125,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Commutative Algebra",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Commutative Algebra"
+    },
+    {
+      "coordinates": {
+        "x1": 1214.296875,
+        "y1": 747.84375,
+        "x2": 1334.09375,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Complex Variables",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Complex Variables"
+    },
+    {
+      "coordinates": {
+        "x1": 1342.109375,
+        "y1": 747.84375,
+        "x2": 1477.90625,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Differential Geometry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Differential Geometry"
+    },
+    {
+      "coordinates": {
+        "x1": 1485.921875,
+        "y1": 747.84375,
+        "x2": 1612.359375,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Dynamical Systems",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Dynamical Systems"
+    },
+    {
+      "coordinates": {
+        "x1": 1620.375,
+        "y1": 747.84375,
+        "x2": 1743.640625,
+        "y2": 763.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Functional Analysis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Functional Analysis"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 747.84375,
+        "x2": 1802.890625,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "General Mathematics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: General Mathematics"
+    },
+    {
+      "coordinates": {
+        "x1": 139.734375,
+        "y1": 763.84375,
+        "x2": 252.359375,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "General Topology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: General Topology"
+    },
+    {
+      "coordinates": {
+        "x1": 260.375,
+        "y1": 763.84375,
+        "x2": 388.1875,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Geometric Topology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Geometric Topology"
+    },
+    {
+      "coordinates": {
+        "x1": 396.203125,
+        "y1": 763.84375,
+        "x2": 484.796875,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Group Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Group Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 492.8125,
+        "y1": 763.84375,
+        "x2": 629.65625,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "History and Overview",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: History and Overview"
+    },
+    {
+      "coordinates": {
+        "x1": 637.671875,
+        "y1": 763.84375,
+        "x2": 758.265625,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Information Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Information Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 766.28125,
+        "y1": 763.84375,
+        "x2": 922.359375,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "K-Theory and Homology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: K-Theory and Homology"
+    },
+    {
+      "coordinates": {
+        "x1": 930.375,
+        "y1": 763.84375,
+        "x2": 964.8125,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Logic",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Logic"
+    },
+    {
+      "coordinates": {
+        "x1": 972.828125,
+        "y1": 763.84375,
+        "x2": 1112.078125,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mathematical Physics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mathematical Physics"
+    },
+    {
+      "coordinates": {
+        "x1": 1120.09375,
+        "y1": 763.84375,
+        "x2": 1226.515625,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Metric Geometry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Metric Geometry"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.53125,
+        "y1": 763.84375,
+        "x2": 1334.3125,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Number Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Number Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 1342.328125,
+        "y1": 763.84375,
+        "x2": 1463.96875,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Numerical Analysis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Numerical Analysis"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.984375,
+        "y1": 763.84375,
+        "x2": 1588.859375,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Operator Algebras",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Operator Algebras"
+    },
+    {
+      "coordinates": {
+        "x1": 1596.875,
+        "y1": 763.84375,
+        "x2": 1755.359375,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Optimization and Control",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Optimization and Control"
+    },
+    {
+      "coordinates": {
+        "x1": 1763.375,
+        "y1": 763.84375,
+        "x2": 1830.609375,
+        "y2": 779.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Probability",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Probability"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 779.84375,
+        "x2": 162.15625,
+        "y2": 795.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quantum Algebra",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quantum Algebra"
+    },
+    {
+      "coordinates": {
+        "x1": 170.171875,
+        "y1": 779.84375,
+        "x2": 316.40625,
+        "y2": 795.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Representation Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Representation Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 324.421875,
+        "y1": 779.84375,
+        "x2": 449.3125,
+        "y2": 795.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Rings and Algebras",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Rings and Algebras"
+    },
+    {
+      "coordinates": {
+        "x1": 457.328125,
+        "y1": 779.84375,
+        "x2": 558.71875,
+        "y2": 795.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Spectral Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Spectral Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 566.734375,
+        "y1": 779.84375,
+        "x2": 672.90625,
+        "y2": 795.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Statistics Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Statistics Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 680.921875,
+        "y1": 779.84375,
+        "x2": 817.765625,
+        "y2": 795.84375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Symplectic Geometry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Symplectic Geometry"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 857.6875,
+        "x2": 258.1875,
+        "y2": 873.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computing Research Repository",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computing Research Repository"
+    },
+    {
+      "coordinates": {
+        "x1": 311.0,
+        "y1": 857.6875,
+        "x2": 336.625,
+        "y2": 873.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: new"
+    },
+    {
+      "coordinates": {
+        "x1": 344.640625,
+        "y1": 857.6875,
+        "x2": 384.671875,
+        "y2": 873.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "recent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: recent"
+    },
+    {
+      "coordinates": {
+        "x1": 392.6875,
+        "y1": 857.6875,
+        "x2": 435.921875,
+        "y2": 873.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: search"
+    },
+    {
+      "coordinates": {
+        "x1": 142.9375,
+        "y1": 873.6875,
+        "x2": 267.03125,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "detailed description",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: detailed description"
+    },
+    {
+      "coordinates": {
+        "x1": 279.046875,
+        "y1": 873.6875,
+        "x2": 406.3125,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Artificial Intelligence",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Artificial Intelligence"
+    },
+    {
+      "coordinates": {
+        "x1": 414.328125,
+        "y1": 873.6875,
+        "x2": 592.078125,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computation and Language",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computation and Language"
+    },
+    {
+      "coordinates": {
+        "x1": 600.09375,
+        "y1": 873.6875,
+        "x2": 768.171875,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computational Complexity",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computational Complexity"
+    },
+    {
+      "coordinates": {
+        "x1": 776.1875,
+        "y1": 873.6875,
+        "x2": 1096.390625,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computational Engineering, Finance, and Science",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computational Engineering, ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1104.40625,
+        "y1": 873.6875,
+        "x2": 1264.484375,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computational Geometry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computational Geometry"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.5,
+        "y1": 873.6875,
+        "x2": 1510.765625,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computer Science and Game Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computer Science and Game T..."
+    },
+    {
+      "coordinates": {
+        "x1": 1518.78125,
+        "y1": 873.6875,
+        "x2": 1783.484375,
+        "y2": 889.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computer Vision and Pattern Recognition",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computer Vision and Pattern..."
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 873.6875,
+        "x2": 1861.9375,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Computers and Society",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Computers and Society"
+    },
+    {
+      "coordinates": {
+        "x1": 133.34375,
+        "y1": 889.6875,
+        "x2": 303.84375,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cryptography and Security",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cryptography and Security"
+    },
+    {
+      "coordinates": {
+        "x1": 311.859375,
+        "y1": 889.6875,
+        "x2": 511.15625,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Data Structures and Algorithms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Data Structures and Algorithms"
+    },
+    {
+      "coordinates": {
+        "x1": 519.171875,
+        "y1": 889.6875,
+        "x2": 588.015625,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Databases",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Databases"
+    },
+    {
+      "coordinates": {
+        "x1": 596.03125,
+        "y1": 889.6875,
+        "x2": 695.28125,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Digital Libraries",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Digital Libraries"
+    },
+    {
+      "coordinates": {
+        "x1": 703.296875,
+        "y1": 889.6875,
+        "x2": 841.75,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Discrete Mathematics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Discrete Mathematics"
+    },
+    {
+      "coordinates": {
+        "x1": 849.765625,
+        "y1": 889.6875,
+        "x2": 1129.90625,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Distributed, Parallel, and Cluster Computing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Distributed, Parallel, and ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1137.921875,
+        "y1": 889.6875,
+        "x2": 1287.359375,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Emerging Technologies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Emerging Technologies"
+    },
+    {
+      "coordinates": {
+        "x1": 1295.375,
+        "y1": 889.6875,
+        "x2": 1556.875,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Formal Languages and Automata Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Formal Languages and Automa..."
+    },
+    {
+      "coordinates": {
+        "x1": 1564.890625,
+        "y1": 889.6875,
+        "x2": 1680.96875,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "General Literature",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: General Literature"
+    },
+    {
+      "coordinates": {
+        "x1": 1688.984375,
+        "y1": 889.6875,
+        "x2": 1746.609375,
+        "y2": 905.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Graphics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Graphics"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 889.6875,
+        "x2": 1817.0625,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Hardware Architecture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Hardware Architecture"
+    },
+    {
+      "coordinates": {
+        "x1": 134.9375,
+        "y1": 905.6875,
+        "x2": 320.625,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Human-Computer Interaction",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Human-Computer Interaction"
+    },
+    {
+      "coordinates": {
+        "x1": 328.640625,
+        "y1": 905.6875,
+        "x2": 461.5,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Information Retrieval",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Information Retrieval"
+    },
+    {
+      "coordinates": {
+        "x1": 469.515625,
+        "y1": 905.6875,
+        "x2": 590.109375,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Information Theory",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Information Theory"
+    },
+    {
+      "coordinates": {
+        "x1": 598.125,
+        "y1": 905.6875,
+        "x2": 770.21875,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Logic in Computer Science",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Logic in Computer Science"
+    },
+    {
+      "coordinates": {
+        "x1": 778.234375,
+        "y1": 905.6875,
+        "x2": 892.71875,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Machine Learning",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Machine Learning"
+    },
+    {
+      "coordinates": {
+        "x1": 900.734375,
+        "y1": 905.6875,
+        "x2": 1047.203125,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Mathematical Software",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mathematical Software"
+    },
+    {
+      "coordinates": {
+        "x1": 1055.21875,
+        "y1": 905.6875,
+        "x2": 1180.875,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Multiagent Systems",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Multiagent Systems"
+    },
+    {
+      "coordinates": {
+        "x1": 1188.890625,
+        "y1": 905.6875,
+        "x2": 1258.515625,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Multimedia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Multimedia"
+    },
+    {
+      "coordinates": {
+        "x1": 1266.53125,
+        "y1": 905.6875,
+        "x2": 1499.46875,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Networking and Internet Architecture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Networking and Internet Arc..."
+    },
+    {
+      "coordinates": {
+        "x1": 1507.484375,
+        "y1": 905.6875,
+        "x2": 1734.8125,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Neural and Evolutionary Computing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Neural and Evolutionary Com..."
+    },
+    {
+      "coordinates": {
+        "x1": 1742.828125,
+        "y1": 905.6875,
+        "x2": 1864.46875,
+        "y2": 921.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Numerical Analysis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Numerical Analysis"
+    },
+    {
+      "coordinates": {
+        "x1": 50.078125,
+        "y1": 921.6875,
+        "x2": 172.53125,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Operating Systems",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Operating Systems"
+    },
+    {
+      "coordinates": {
+        "x1": 180.546875,
+        "y1": 921.6875,
+        "x2": 339.03125,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Other Computer Science",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Other Computer Science"
+    },
+    {
+      "coordinates": {
+        "x1": 347.046875,
+        "y1": 921.6875,
+        "x2": 429.484375,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Performance",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Performance"
+    },
+    {
+      "coordinates": {
+        "x1": 437.5,
+        "y1": 921.6875,
+        "x2": 599.203125,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Programming Languages",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Programming Languages"
+    },
+    {
+      "coordinates": {
+        "x1": 607.21875,
+        "y1": 921.6875,
+        "x2": 663.25,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Robotics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Robotics"
+    },
+    {
+      "coordinates": {
+        "x1": 671.265625,
+        "y1": 921.6875,
+        "x2": 878.5625,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Social and Information Networks",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Social and Information Netw..."
+    },
+    {
+      "coordinates": {
+        "x1": 886.578125,
+        "y1": 921.6875,
+        "x2": 1024.265625,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Software Engineering",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Software Engineering"
+    },
+    {
+      "coordinates": {
+        "x1": 1032.28125,
+        "y1": 921.6875,
+        "x2": 1073.921875,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sound",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sound"
+    },
+    {
+      "coordinates": {
+        "x1": 1081.9375,
+        "y1": 921.6875,
+        "x2": 1226.015625,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Symbolic Computation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Symbolic Computation"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.03125,
+        "y1": 921.6875,
+        "x2": 1367.703125,
+        "y2": 937.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Systems and Control",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Systems and Control"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 192
+  }
+}

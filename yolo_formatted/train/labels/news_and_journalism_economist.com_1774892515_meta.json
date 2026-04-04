@@ -1,0 +1,717 @@
+{
+  "url": "https://economist.com",
+  "category": "news_and_journalism",
+  "timestamp": 1774892515,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 236.0,
+        "y1": 31.0,
+        "x2": 396.0,
+        "y2": 111.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1221.140625,
+        "y1": 55.0,
+        "x2": 1321.546875,
+        "y2": 87.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 1346.546875,
+        "y1": 59.0,
+        "x2": 1491.734375,
+        "y2": 83.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "The Economist Pro",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: The Economist Pro"
+    },
+    {
+      "coordinates": {
+        "x1": 1516.734375,
+        "y1": 57.0,
+        "x2": 1563.484375,
+        "y2": 85.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1588.484375,
+        "y1": 55.0,
+        "x2": 1668.0,
+        "y2": 87.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 236.0,
+        "y1": 142.0,
+        "x2": 332.96875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Weekly edition",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Weekly edition"
+    },
+    {
+      "coordinates": {
+        "x1": 364.96875,
+        "y1": 142.0,
+        "x2": 453.21875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "World in brief",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: World in brief"
+    },
+    {
+      "coordinates": {
+        "x1": 485.21875,
+        "y1": 142.0,
+        "x2": 575.40625,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "United States",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: United States"
+    },
+    {
+      "coordinates": {
+        "x1": 607.40625,
+        "y1": 142.0,
+        "x2": 645.21875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "China",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: China"
+    },
+    {
+      "coordinates": {
+        "x1": 677.21875,
+        "y1": 142.0,
+        "x2": 736.984375,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 768.984375,
+        "y1": 142.0,
+        "x2": 908.6875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Finance & economics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Finance & economics"
+    },
+    {
+      "coordinates": {
+        "x1": 940.6875,
+        "y1": 142.0,
+        "x2": 987.546875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Europe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Europe"
+    },
+    {
+      "coordinates": {
+        "x1": 1019.546875,
+        "y1": 142.0,
+        "x2": 1048.140625,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Asia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Asia"
+    },
+    {
+      "coordinates": {
+        "x1": 1080.140625,
+        "y1": 142.0,
+        "x2": 1158.3125,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Middle East",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Middle East"
+    },
+    {
+      "coordinates": {
+        "x1": 1190.3125,
+        "y1": 142.0,
+        "x2": 1252.390625,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Americas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Americas"
+    },
+    {
+      "coordinates": {
+        "x1": 1284.390625,
+        "y1": 142.0,
+        "x2": 1420.234375,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Artificial intelligence",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Artificial intelligence"
+    },
+    {
+      "coordinates": {
+        "x1": 1452.234375,
+        "y1": 142.0,
+        "x2": 1500.546875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Culture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Culture"
+    },
+    {
+      "coordinates": {
+        "x1": 1532.546875,
+        "y1": 142.0,
+        "x2": 1652.296875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cartoons & games",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Cartoons & games"
+    },
+    {
+      "coordinates": {
+        "x1": 236.0,
+        "y1": 517.65625,
+        "x2": 752.875,
+        "y2": 597.65625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Donald Trump and the art of bad diplomacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Donald Trump and the art of..."
+    },
+    {
+      "coordinates": {
+        "x1": 784.875,
+        "y1": 219.0,
+        "x2": 1301.75,
+        "y2": 275.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "After Iran, gold is looking less glittery",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: After Iran, gold is looking..."
+    },
+    {
+      "coordinates": {
+        "x1": 784.875,
+        "y1": 425.0,
+        "x2": 1301.75,
+        "y2": 509.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "How Iran is making a mint from Donald Trump\u2019s war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: How Iran is making a mint f..."
+    },
+    {
+      "coordinates": {
+        "x1": 236.0,
+        "y1": 876.6875,
+        "x2": 478.4375,
+        "y2": 916.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Animal spirits are stirring in Venezuela",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Animal spirits are stirring..."
+    },
+    {
+      "coordinates": {
+        "x1": 510.4375,
+        "y1": 876.6875,
+        "x2": 752.875,
+        "y2": 916.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "For China\u2019s officials, the goal was once growth. Now it\u2019s loyalty",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: For China\u2019s officials, the ..."
+    },
+    {
+      "coordinates": {
+        "x1": 784.875,
+        "y1": 876.6875,
+        "x2": 1027.3125,
+        "y2": 916.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Right-wingers want ICE-style mass deportations in Britain ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Right-wingers want ICE-styl..."
+    },
+    {
+      "coordinates": {
+        "x1": 1059.3125,
+        "y1": 876.6875,
+        "x2": 1301.75,
+        "y2": 936.6875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Why a startup is teaching human brain cells to play \u201cDoom\u201d",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Why a startup is teaching h..."
+    },
+    {
+      "coordinates": {
+        "x1": 1334.75,
+        "y1": 413.984375,
+        "x2": 1668.0,
+        "y2": 485.984375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Catch up: Trump threatens to \u201cobliterate\u201d Kharg; allies urge Ukraine to ease Russian strikes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Catch up: Trump threatens t..."
+    },
+    {
+      "coordinates": {
+        "x1": 1371.796875,
+        "y1": 891.40625,
+        "x2": 1508.203125,
+        "y2": 931.40625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 1840.0,
+        "y1": 849.8125,
+        "x2": 1872.0,
+        "y2": 881.8125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Expand",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Expand"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 28
+  }
+}

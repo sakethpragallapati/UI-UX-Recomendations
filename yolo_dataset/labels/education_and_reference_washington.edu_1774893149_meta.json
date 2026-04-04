@@ -1,0 +1,967 @@
+{
+  "url": "https://washington.edu",
+  "category": "education_and_reference",
+  "timestamp": 1774893150,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 499.5,
+        "y1": 0,
+        "x2": 1069.5,
+        "y2": 4.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "s"
+      },
+      "descriptive_label": "input: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1069.5,
+        "y1": 0,
+        "x2": 1129.5,
+        "y2": 4.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "search",
+        "name": ""
+      },
+      "descriptive_label": "input: search"
+    },
+    {
+      "coordinates": {
+        "x1": 1879.0,
+        "y1": 444.71875,
+        "x2": 1904,
+        "y2": 469.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Information Technology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Information Technology"
+    },
+    {
+      "coordinates": {
+        "x1": 1879.0,
+        "y1": 477.4375,
+        "x2": 1904,
+        "y2": 502.4375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Workday HCM",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Workday HCM"
+    },
+    {
+      "coordinates": {
+        "x1": 1879.0,
+        "y1": 510.15625,
+        "x2": 1904,
+        "y2": 535.15625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Husky Card",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Husky Card"
+    },
+    {
+      "coordinates": {
+        "x1": 1879.0,
+        "y1": 542.875,
+        "x2": 1904,
+        "y2": 567.875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "UW Bothell",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: UW Bothell"
+    },
+    {
+      "coordinates": {
+        "x1": 1879.0,
+        "y1": 575.59375,
+        "x2": 1904,
+        "y2": 600.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "UW Tacoma",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: UW Tacoma"
+    },
+    {
+      "coordinates": {
+        "x1": 1897.0,
+        "y1": 638.3125,
+        "x2": 1904,
+        "y2": 663.3125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1897.0,
+        "y1": 671.03125,
+        "x2": 1904,
+        "y2": 696.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1286.421875,
+        "y1": 22.0,
+        "x2": 1373.453125,
+        "y2": 69.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Students",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Students",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Students"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.453125,
+        "y1": 22.0,
+        "x2": 1451.8125,
+        "y2": 69.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Parents",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Parents",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Parents"
+    },
+    {
+      "coordinates": {
+        "x1": 1451.8125,
+        "y1": 22.0,
+        "x2": 1578.28125,
+        "y2": 69.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Faculty & Staff",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Faculty & Staff",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Faculty & Staff"
+    },
+    {
+      "coordinates": {
+        "x1": 1578.28125,
+        "y1": 22.0,
+        "x2": 1652.328125,
+        "y2": 69.265625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Alumni",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Alumni",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Alumni"
+    },
+    {
+      "coordinates": {
+        "x1": 1671.75,
+        "y1": 22.0,
+        "x2": 1716.75,
+        "y2": 67.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search UW",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search UW"
+    },
+    {
+      "coordinates": {
+        "x1": 1721.171875,
+        "y1": 22.0,
+        "x2": 1889.0,
+        "y2": 67.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "quick links",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quick Links",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: quick links"
+    },
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 110.0,
+        "x2": 462.96875,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "About",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ABOUT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 447.96875,
+        "y1": 124.0,
+        "x2": 457.96875,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 467.390625,
+        "y1": 110.0,
+        "x2": 608.703125,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Academics",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ACADEMICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Academics"
+    },
+    {
+      "coordinates": {
+        "x1": 593.703125,
+        "y1": 124.0,
+        "x2": 603.703125,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 613.125,
+        "y1": 110.0,
+        "x2": 711.578125,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Apply",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "APPLY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Apply"
+    },
+    {
+      "coordinates": {
+        "x1": 696.578125,
+        "y1": 124.0,
+        "x2": 706.578125,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 716.0,
+        "y1": 110.0,
+        "x2": 895.578125,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "News & Events",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NEWS & EVENTS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News & Events"
+    },
+    {
+      "coordinates": {
+        "x1": 880.578125,
+        "y1": 124.0,
+        "x2": 890.578125,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 900.0,
+        "y1": 110.0,
+        "x2": 1032.21875,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Research",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "RESEARCH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Research"
+    },
+    {
+      "coordinates": {
+        "x1": 1017.21875,
+        "y1": 124.0,
+        "x2": 1027.21875,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1036.640625,
+        "y1": 110.0,
+        "x2": 1173.015625,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Campuses",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "CAMPUSES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Campuses"
+    },
+    {
+      "coordinates": {
+        "x1": 1158.015625,
+        "y1": 124.0,
+        "x2": 1168.015625,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1177.4375,
+        "y1": 110.0,
+        "x2": 1260.875,
+        "y2": 168.71875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Give",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "GIVE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Give"
+    },
+    {
+      "coordinates": {
+        "x1": 1245.875,
+        "y1": 124.0,
+        "x2": 1255.875,
+        "y2": 134.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 354.5,
+        "y1": 457.71875,
+        "x2": 480.03125,
+        "y2": 503.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "READ STORY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: READ STORY"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.65625,
+        "y1": 551.625,
+        "x2": 1605.65625,
+        "y2": 573.71875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "NEXT\nBUILDING BATTERIES BETTER",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: NEXT\nBUILDING BATTERIES BETTER"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 638.71875,
+        "x2": 534.09375,
+        "y2": 734.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Arts UW",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ARTSUW",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Arts UW"
+    },
+    {
+      "coordinates": {
+        "x1": 534.09375,
+        "y1": 638.71875,
+        "x2": 693.6875,
+        "y2": 734.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Maps",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MAPS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Maps"
+    },
+    {
+      "coordinates": {
+        "x1": 693.6875,
+        "y1": 638.71875,
+        "x2": 853.28125,
+        "y2": 734.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "MyUW",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "MYUW",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: MyUW"
+    },
+    {
+      "coordinates": {
+        "x1": 853.28125,
+        "y1": 638.71875,
+        "x2": 1012.875,
+        "y2": 734.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Athletics",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "ATHLETICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Athletics"
+    },
+    {
+      "coordinates": {
+        "x1": 1012.875,
+        "y1": 638.71875,
+        "x2": 1172.46875,
+        "y2": 733.15625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "UW social media links",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "SOCIAL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: UW social media links"
+    },
+    {
+      "coordinates": {
+        "x1": 1172.46875,
+        "y1": 638.71875,
+        "x2": 1332.0625,
+        "y2": 734.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Libraries",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LIBRARIES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Libraries"
+    },
+    {
+      "coordinates": {
+        "x1": 1332.0625,
+        "y1": 638.71875,
+        "x2": 1491.65625,
+        "y2": 734.90625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "UW Medicine",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "UW MEDICINE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: UW Medicine"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 38
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "url": "https://huawei.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893552,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1162.9375,
+        "y1": 15.0,
+        "x2": 1331.375,
+        "y2": 34.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Read our privacy policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Read our privacy policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1799.53125,
+        "y1": 9.0,
+        "x2": 1829.53125,
+        "y2": 39.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "close",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: close"
+    },
+    {
+      "coordinates": {
+        "x1": 1593.71875,
+        "y1": 51.59375,
+        "x2": 1696.734375,
+        "y2": 76.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Corporate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Corporate"
+    },
+    {
+      "coordinates": {
+        "x1": 1603.71875,
+        "y1": 51.59375,
+        "x2": 1615.71875,
+        "y2": 76.59375
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 1706.734375,
+        "y1": 51.59375,
+        "x2": 1814.53125,
+        "y2": 76.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Worldwide",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Worldwide"
+    },
+    {
+      "coordinates": {
+        "x1": 74.453125,
+        "y1": 98.59375,
+        "x2": 207.453125,
+        "y2": 148.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 553.890625,
+        "y1": 76.59375,
+        "x2": 696.453125,
+        "y2": 154.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Consumer Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Consumer Products"
+    },
+    {
+      "coordinates": {
+        "x1": 741.671875,
+        "y1": 76.59375,
+        "x2": 871.859375,
+        "y2": 154.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Business Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Business Products"
+    },
+    {
+      "coordinates": {
+        "x1": 917.078125,
+        "y1": 76.59375,
+        "x2": 975.09375,
+        "y2": 154.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1020.3125,
+        "y1": 76.59375,
+        "x2": 1184.15625,
+        "y2": 154.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Partners & Developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Partners & Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.375,
+        "y1": 76.59375,
+        "x2": 1335.09375,
+        "y2": 154.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About Huawei",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: About Huawei"
+    },
+    {
+      "coordinates": {
+        "x1": 1783.53125,
+        "y1": 105.59375,
+        "x2": 1807.53125,
+        "y2": 125.59375
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 1320.0625,
+        "y1": 561.96875,
+        "x2": 1500.0625,
+        "y2": 603.96875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 1849.0,
+        "y1": 878.0,
+        "x2": 1889.0,
+        "y2": 918.0
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 14
+  }
+}

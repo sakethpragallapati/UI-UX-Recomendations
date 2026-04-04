@@ -1,0 +1,592 @@
+{
+  "url": "https://nature.com",
+  "category": "education_and_reference",
+  "timestamp": 1774893083,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 345.5,
+        "y1": 805.828125,
+        "x2": 449.234375,
+        "y2": 826.828125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "privacy policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: privacy policy"
+    },
+    {
+      "coordinates": {
+        "x1": 287.5,
+        "y1": 851.625,
+        "x2": 444.375,
+        "y2": 874.8125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Manage preferences",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Manage preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 287.5,
+        "y1": 902.8125,
+        "x2": 538.0,
+        "y2": 942.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept all cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Accept all cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 562.0,
+        "y1": 902.8125,
+        "x2": 812.5,
+        "y2": 942.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Reject optional cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Reject optional cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 320.5,
+        "y1": 155.75,
+        "x2": 451.5,
+        "y2": 193.75
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1248.71875,
+        "y1": 159.0,
+        "x2": 1378.84375,
+        "y2": 197.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "View all journals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: View all journals"
+    },
+    {
+      "coordinates": {
+        "x1": 1396.84375,
+        "y1": 159.0,
+        "x2": 1494.859375,
+        "y2": 197.390625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1512.859375,
+        "y1": 159.0,
+        "x2": 1572.5,
+        "y2": 197.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 214.390625,
+        "x2": 467.34375,
+        "y2": 252.78125
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore content",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Explore content"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 214.390625,
+        "x2": 467.34375,
+        "y2": 252.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Explore content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Explore content"
+    },
+    {
+      "coordinates": {
+        "x1": 475.34375,
+        "y1": 214.390625,
+        "x2": 644.8125,
+        "y2": 252.78125
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About the journal",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: About the journal"
+    },
+    {
+      "coordinates": {
+        "x1": 475.34375,
+        "y1": 214.390625,
+        "x2": 644.8125,
+        "y2": 252.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "About the journal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: About the journal"
+    },
+    {
+      "coordinates": {
+        "x1": 652.8125,
+        "y1": 214.390625,
+        "x2": 802.71875,
+        "y2": 252.78125
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Publish with us",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "descriptive_label": "dropdown: Publish with us"
+    },
+    {
+      "coordinates": {
+        "x1": 652.8125,
+        "y1": 214.390625,
+        "x2": 802.71875,
+        "y2": 252.78125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Publish with us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Publish with us"
+    },
+    {
+      "coordinates": {
+        "x1": 820.71875,
+        "y1": 214.390625,
+        "x2": 909.5625,
+        "y2": 252.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 1304.203125,
+        "y1": 214.390625,
+        "x2": 1472.34375,
+        "y2": 252.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign up for alerts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign up for alerts"
+    },
+    {
+      "coordinates": {
+        "x1": 1490.34375,
+        "y1": 214.390625,
+        "x2": 1572.5,
+        "y2": 252.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "RSS feed",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: RSS feed"
+    },
+    {
+      "coordinates": {
+        "x1": 352.5,
+        "y1": 312.78125,
+        "x2": 712.1875,
+        "y2": 422.78125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Eye drops made from pig semen deliver cancer treatment to mice",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Eye drops made from pig sem..."
+    },
+    {
+      "coordinates": {
+        "x1": 320.5,
+        "y1": 837.859375,
+        "x2": 538.09375,
+        "y2": 905.671875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Quantum simulations verified by experiments for the first time",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quantum simulations verifie..."
+    },
+    {
+      "coordinates": {
+        "x1": 573.296875,
+        "y1": 837.859375,
+        "x2": 754.34375,
+        "y2": 928.078125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "First atlas of brain organization shows development over a lifetime",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: First atlas of brain organi..."
+    },
+    {
+      "coordinates": {
+        "x1": 826.09375,
+        "y1": 837.859375,
+        "x2": 1051.921875,
+        "y2": 905.671875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Epigenetic memory of colitis promotes tumour growth",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Epigenetic memory of coliti..."
+    },
+    {
+      "coordinates": {
+        "x1": 1078.890625,
+        "y1": 837.859375,
+        "x2": 1283.640625,
+        "y2": 928.078125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Daily briefing: Earliest known dog genome pushes genetic record back 5,000 years",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Daily briefing: Earliest kn..."
+    },
+    {
+      "coordinates": {
+        "x1": 1331.6875,
+        "y1": 700.9375,
+        "x2": 1568.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 23
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "url": "https://doi.org",
+  "category": "education_and_reference",
+  "timestamp": 1774893173,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 999.46875,
+        "y1": 10.0,
+        "x2": 1095.5625,
+        "y2": 33.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 188.90625,
+        "y1": 98.140625,
+        "x2": 438.90625,
+        "y2": 121.140625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1109.0,
+        "y1": 101.25,
+        "x2": 1829.0,
+        "y2": 134.65625
+      },
+      "class_id": 11,
+      "class_name": "menu_item",
+      "tag_name": "ul",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "THE FOUNDATION\nTHE COMMUNITY\nTHE IDENTIFIER",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "menu_item: THE FOUNDATION\nTHE COMMUNIT..."
+    },
+    {
+      "coordinates": {
+        "x1": 188.90625,
+        "y1": 536.0,
+        "x2": 300.171875,
+        "y2": 559.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "LEARN MORE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: LEARN MORE"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 461.25,
+        "x2": 1873.0,
+        "y2": 492.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 464.25,
+        "x2": 1873.0,
+        "y2": 488.25
+      },
+      "class_id": 13,
+      "class_name": "icon",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon"
+    },
+    {
+      "coordinates": {
+        "x1": 1843.0,
+        "y1": 497.25,
+        "x2": 1873.0,
+        "y2": 528.25
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 7
+  }
+}

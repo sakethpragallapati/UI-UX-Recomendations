@@ -1,0 +1,392 @@
+{
+  "url": "https://ibm.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893506,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1636.5,
+        "y1": 0,
+        "x2": 1688.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 573.0,
+        "x2": 720.5,
+        "y2": 643.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "c4d-button-group",
+      "element_type": "list",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "list"
+      },
+      "content": {
+        "text": "Strengthen cybersecurity with AI\nScan for Vulnerabilities",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Strengthen cybersecurity wi..."
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 573.0,
+        "x2": 448.5,
+        "y2": 643.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Strengthen cybersecurity with AI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Strengthen cybersecurity wi..."
+    },
+    {
+      "coordinates": {
+        "x1": 464.5,
+        "y1": 573.0,
+        "x2": 720.5,
+        "y2": 643.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Scan for Vulnerabilities",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Scan for Vulnerabilities"
+    },
+    {
+      "coordinates": {
+        "x1": 1522.5,
+        "y1": 547.0,
+        "x2": 1550.5,
+        "y2": 570.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "1",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1554.5,
+        "y1": 547.0,
+        "x2": 1582.5,
+        "y2": 570.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "2",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 1586.5,
+        "y1": 547.0,
+        "x2": 1614.5,
+        "y2": 570.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "3",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: 3"
+    },
+    {
+      "coordinates": {
+        "x1": 1618.5,
+        "y1": 547.0,
+        "x2": 1646.5,
+        "y2": 570.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "4",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: 4"
+    },
+    {
+      "coordinates": {
+        "x1": 1868.0,
+        "y1": 816.0,
+        "x2": 1880.0,
+        "y2": 828.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "img",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "close icon",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: close icon"
+    },
+    {
+      "coordinates": {
+        "x1": 858.1875,
+        "y1": 858.0,
+        "x2": 977.90625,
+        "y2": 876.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "cookie preferences",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: cookie preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 713.765625,
+        "y1": 894.0,
+        "x2": 829.25,
+        "y2": 912.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "privacy statement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: privacy statement"
+    },
+    {
+      "coordinates": {
+        "x1": 1375.703125,
+        "y1": 876.0,
+        "x2": 1404.46875,
+        "y2": 894.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "here",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: here"
+    },
+    {
+      "coordinates": {
+        "x1": 1633.0,
+        "y1": 840.0,
+        "x2": 1856.0,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept all\nMore options",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Accept all\nMore options"
+    },
+    {
+      "coordinates": {
+        "x1": 1633.0,
+        "y1": 840.0,
+        "x2": 1856.0,
+        "y2": 888.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 1633.0,
+        "y1": 904.0,
+        "x2": 1856.0,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "More options",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: More options"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 15
+  }
+}

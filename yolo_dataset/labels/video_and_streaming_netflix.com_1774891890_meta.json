@@ -1,0 +1,167 @@
+{
+  "url": "https://netflix.com",
+  "category": "video_and_streaming",
+  "timestamp": 1774891891,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1525.09375,
+        "y1": 28.0,
+        "x2": 1526.09375,
+        "y2": 29.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Select Language",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Select Language"
+    },
+    {
+      "coordinates": {
+        "x1": 1525.09375,
+        "y1": 28.0,
+        "x2": 1649.09375,
+        "y2": 60.0
+      },
+      "class_id": 8,
+      "class_name": "dropdown",
+      "tag_name": "select",
+      "element_type": "select-one",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "English\n\u0939\u093f\u0928\u094d\u0926\u0940",
+        "placeholder": null,
+        "value": "en-IN",
+        "name": "LanguageSelect"
+      },
+      "descriptive_label": "dropdown: English\n\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "coordinates": {
+        "x1": 1661.09375,
+        "y1": 28.0,
+        "x2": 1738.0,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 666.5,
+        "y1": 620.03125,
+        "x2": 1001.25,
+        "y2": 644.03125
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Email address",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Email address"
+    },
+    {
+      "coordinates": {
+        "x1": 650.5,
+        "y1": 604.03125,
+        "x2": 1017.25,
+        "y2": 660.03125
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "email"
+      },
+      "descriptive_label": "input: email"
+    },
+    {
+      "coordinates": {
+        "x1": 1025.25,
+        "y1": 604.03125,
+        "x2": 1238.5,
+        "y2": 660.03125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Get Started"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 6
+  }
+}

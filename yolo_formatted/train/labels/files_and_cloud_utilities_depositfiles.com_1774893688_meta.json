@@ -1,0 +1,967 @@
+{
+  "url": "https://depositfiles.com",
+  "category": "files_and_cloud_utilities",
+  "timestamp": 1774893688,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 449.5,
+        "y1": 14.0,
+        "x2": 649.5,
+        "y2": 57.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "easy cloud service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: easy cloud service"
+    },
+    {
+      "coordinates": {
+        "x1": 1357.234375,
+        "y1": 26.0,
+        "x2": 1439.5,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 886.734375,
+        "y1": 17.0,
+        "x2": 934.734375,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Upload",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upload"
+    },
+    {
+      "coordinates": {
+        "x1": 953.484375,
+        "y1": 17.0,
+        "x2": 1001.484375,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Payments",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Payments"
+    },
+    {
+      "coordinates": {
+        "x1": 1020.234375,
+        "y1": 17.0,
+        "x2": 1068.234375,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Loyalty",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Loyalty"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.984375,
+        "y1": 17.0,
+        "x2": 1134.984375,
+        "y2": 65.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Help",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 840.859375,
+        "y1": 97.390625,
+        "x2": 885.5625,
+        "y2": 111.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Upload",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Upload"
+    },
+    {
+      "coordinates": {
+        "x1": 889.3125,
+        "y1": 97.390625,
+        "x2": 956.640625,
+        "y2": 111.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FTP upload",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: FTP upload"
+    },
+    {
+      "coordinates": {
+        "x1": 960.390625,
+        "y1": 97.390625,
+        "x2": 1048.125,
+        "y2": 111.390625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Remote upload",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Remote upload"
+    },
+    {
+      "coordinates": {
+        "x1": 947.0,
+        "y1": 384.0,
+        "x2": 1187.0,
+        "y2": 440.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign up now!",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Sign up now!"
+    },
+    {
+      "coordinates": {
+        "x1": 965.046875,
+        "y1": 875.0,
+        "x2": 1104.640625,
+        "y2": 904.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Gold Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Gold Account"
+    },
+    {
+      "coordinates": {
+        "x1": 464.5,
+        "y1": 963.0,
+        "x2": 488.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u0440\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "coordinates": {
+        "x1": 495.9375,
+        "y1": 963.0,
+        "x2": 519.9375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "english",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: english"
+    },
+    {
+      "coordinates": {
+        "x1": 527.375,
+        "y1": 963.0,
+        "x2": 551.375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "deutsch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: deutsch"
+    },
+    {
+      "coordinates": {
+        "x1": 558.8125,
+        "y1": 963.0,
+        "x2": 582.8125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "espa\u00f1ol",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 590.25,
+        "y1": 963.0,
+        "x2": 614.25,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "portugu\u00eas",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: portugu\u00eas"
+    },
+    {
+      "coordinates": {
+        "x1": 621.6875,
+        "y1": 963.0,
+        "x2": 645.6875,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "fran\u00e7ais",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: fran\u00e7ais"
+    },
+    {
+      "coordinates": {
+        "x1": 653.125,
+        "y1": 963.0,
+        "x2": 677.125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u65e5\u672c\u8a9e",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: \u65e5\u672c\u8a9e"
+    },
+    {
+      "coordinates": {
+        "x1": 684.5625,
+        "y1": 963.0,
+        "x2": 708.5625,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "dutch",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: dutch"
+    },
+    {
+      "coordinates": {
+        "x1": 716.0,
+        "y1": 963.0,
+        "x2": 740.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "italiano",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: italiano"
+    },
+    {
+      "coordinates": {
+        "x1": 747.4375,
+        "y1": 963.0,
+        "x2": 771.4375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "svenska",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: svenska"
+    },
+    {
+      "coordinates": {
+        "x1": 1249.625,
+        "y1": 976.0,
+        "x2": 1327.125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "User agreement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: User agreement"
+    },
+    {
+      "coordinates": {
+        "x1": 1119.8125,
+        "y1": 976.0,
+        "x2": 1139.4375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FAQ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: FAQ"
+    },
+    {
+      "coordinates": {
+        "x1": 1001.53125,
+        "y1": 976.0,
+        "x2": 1027.75,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 290.0,
+        "y1": 548.421875,
+        "x2": 305.0,
+        "y2": 563.421875
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "\u00d7",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 654.203125,
+        "x2": 102.0625,
+        "y2": 668.203125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Read More, opens a new window",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Read More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Read More, opens a new window"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 682.0,
+        "x2": 300.0,
+        "y2": 698.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "SHOW ALL PARTNERS (598) \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: SHOW ALL PARTNERS (598) \u2192"
+    },
+    {
+      "coordinates": {
+        "x1": 29.0,
+        "y1": 710.0,
+        "x2": 76.0,
+        "y2": 757.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "strict",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: strict"
+    },
+    {
+      "coordinates": {
+        "x1": 76.0,
+        "y1": 710.0,
+        "x2": 228.921875,
+        "y2": 757.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "STRICTLY NECESSARY",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: STRICTLY NECESSARY"
+    },
+    {
+      "coordinates": {
+        "x1": 29.0,
+        "y1": 747.0,
+        "x2": 76.0,
+        "y2": 794.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "performance",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: performance"
+    },
+    {
+      "coordinates": {
+        "x1": 76.0,
+        "y1": 747.0,
+        "x2": 181.015625,
+        "y2": 794.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "PERFORMANCE",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: PERFORMANCE"
+    },
+    {
+      "coordinates": {
+        "x1": 29.0,
+        "y1": 784.0,
+        "x2": 76.0,
+        "y2": 831.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "targeting",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: targeting"
+    },
+    {
+      "coordinates": {
+        "x1": 76.0,
+        "y1": 784.0,
+        "x2": 154.78125,
+        "y2": 831.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "TARGETING",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: TARGETING"
+    },
+    {
+      "coordinates": {
+        "x1": 29.0,
+        "y1": 821.0,
+        "x2": 76.0,
+        "y2": 868.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "functionality",
+        "name": ""
+      },
+      "descriptive_label": "checkbox: functionality"
+    },
+    {
+      "coordinates": {
+        "x1": 76.0,
+        "y1": 821.0,
+        "x2": 185.65625,
+        "y2": 868.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "FUNCTIONALITY",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: FUNCTIONALITY"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 876.0,
+        "x2": 163.125,
+        "y2": 914.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "ACCEPT ALL",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: ACCEPT ALL"
+    },
+    {
+      "coordinates": {
+        "x1": 173.125,
+        "y1": 876.0,
+        "x2": 300.0,
+        "y2": 914.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "DECLINE ALL",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: DECLINE ALL"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 927.0,
+        "x2": 300.0,
+        "y2": 945.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "SHOW DETAILS",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: SHOW DETAILS"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 38
+  }
+}

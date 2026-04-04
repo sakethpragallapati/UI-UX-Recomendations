@@ -1,0 +1,367 @@
+{
+  "url": "https://blackberry.com",
+  "category": "tech_and_software",
+  "timestamp": 1774893520,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 57.9746192893401,
+        "x2": 47.0,
+        "y2": 119.81421319796954
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.671875,
+        "y1": 46.37969543147208,
+        "x2": 1513.96875,
+        "y2": 123.67918781725888
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Register"
+    },
+    {
+      "coordinates": {
+        "x1": 1525.96875,
+        "y1": 46.37969543147208,
+        "x2": 1560.5,
+        "y2": 123.67918781725888
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 231.8984771573604,
+        "x2": 755.15625,
+        "y2": 347.8477157360406
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home page",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Home page"
+    },
+    {
+      "coordinates": {
+        "x1": 1206.4375,
+        "y1": 226.10101522842638,
+        "x2": 1288.34375,
+        "y2": 353.6451776649746
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1288.34375,
+        "y1": 226.10101522842638,
+        "x2": 1440.65625,
+        "y2": 353.6451776649746
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact BlackBerry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Contact BlackBerry"
+    },
+    {
+      "coordinates": {
+        "x1": 1456.65625,
+        "y1": 235.76345177664973,
+        "x2": 1484.65625,
+        "y2": 343.98274111675124
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1504.65625,
+        "y1": 220.30355329949236,
+        "x2": 1560.5,
+        "y2": 359.4426395939086
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Select language",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Select language"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 452.20203045685275,
+        "x2": 617.390625,
+        "y2": 591.341116751269
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "BlackBerry Secure Communications",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: BlackBerry Secure Communica..."
+    },
+    {
+      "coordinates": {
+        "x1": 621.390625,
+        "y1": 452.20203045685275,
+        "x2": 686.0,
+        "y2": 591.341116751269
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "QNX",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: QNX"
+    },
+    {
+      "coordinates": {
+        "x1": 690.0,
+        "y1": 452.20203045685275,
+        "x2": 788.203125,
+        "y2": 591.341116751269
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Investors",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Investors"
+    },
+    {
+      "coordinates": {
+        "x1": 792.203125,
+        "y1": 452.20203045685275,
+        "x2": 864.234375,
+        "y2": 591.341116751269
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 868.234375,
+        "y1": 452.20203045685275,
+        "x2": 1024.578125,
+        "y2": 591.341116751269
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "About BlackBerry",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: About BlackBerry"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 684.1005076142131,
+        "x2": 1889.0,
+        "y2": 3807
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 14
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "url": "https://about.com",
+  "category": "miscellaneous",
+  "timestamp": 1774893999,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 370.796875,
+        "y1": 29.1875,
+        "x2": 584.796875,
+        "y2": 77.1875
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "visit the People Inc Homepage",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: visit the People Inc Homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 710.40625,
+        "y1": 5.0,
+        "x2": 779.71875,
+        "y2": 103.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: About"
+    },
+    {
+      "coordinates": {
+        "x1": 859.71875,
+        "y1": 5.0,
+        "x2": 942.40625,
+        "y2": 103.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Brands",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Brands"
+    },
+    {
+      "coordinates": {
+        "x1": 1022.40625,
+        "y1": 5.0,
+        "x2": 1154.4375,
+        "y2": 103.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "Advertising",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: Advertising"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.4375,
+        "y1": 5.0,
+        "x2": 1323.84375,
+        "y2": 103.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Careers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Careers"
+    },
+    {
+      "coordinates": {
+        "x1": 1403.84375,
+        "y1": 5.0,
+        "x2": 1493.1875,
+        "y2": 103.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Contact",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Contact"
+    },
+    {
+      "coordinates": {
+        "x1": 841.78125,
+        "y1": 141.0,
+        "x2": 1047.21875,
+        "y2": 162.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Read our press release here \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Read our press release here \u2192"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 7
+  }
+}

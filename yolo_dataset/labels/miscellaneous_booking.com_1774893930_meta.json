@@ -1,0 +1,642 @@
+{
+  "url": "https://booking.com",
+  "category": "miscellaneous",
+  "timestamp": 1774893930,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 406.5,
+        "y1": 24.0,
+        "x2": 550.5,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Booking.com",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Booking.com"
+    },
+    {
+      "coordinates": {
+        "x1": 998.796875,
+        "y1": 12.0,
+        "x2": 1049.703125,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Prices in Indian Rupee",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "INR",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Prices in Indian Rupee"
+    },
+    {
+      "coordinates": {
+        "x1": 1057.703125,
+        "y1": 12.0,
+        "x2": 1105.703125,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Language: English (US)",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Language: English (US)"
+    },
+    {
+      "coordinates": {
+        "x1": 1113.703125,
+        "y1": 12.0,
+        "x2": 1161.703125,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Customer support",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Customer support"
+    },
+    {
+      "coordinates": {
+        "x1": 1169.703125,
+        "y1": 12.0,
+        "x2": 1323.421875,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "List your property",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: List your property"
+    },
+    {
+      "coordinates": {
+        "x1": 1331.421875,
+        "y1": 18.0,
+        "x2": 1406.9375,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Register an account",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Register an account"
+    },
+    {
+      "coordinates": {
+        "x1": 1414.9375,
+        "y1": 18.0,
+        "x2": 1482.5,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 68.0,
+        "x2": 484.078125,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Stays",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Stays"
+    },
+    {
+      "coordinates": {
+        "x1": 488.078125,
+        "y1": 68.0,
+        "x2": 590.546875,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Flights",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Flights"
+    },
+    {
+      "coordinates": {
+        "x1": 594.546875,
+        "y1": 68.0,
+        "x2": 741.921875,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Flight + Hotel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Flight + Hotel"
+    },
+    {
+      "coordinates": {
+        "x1": 745.921875,
+        "y1": 68.0,
+        "x2": 867.796875,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Car rental",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Car rental"
+    },
+    {
+      "coordinates": {
+        "x1": 871.796875,
+        "y1": 68.0,
+        "x2": 1000.984375,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Attractions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Attractions"
+    },
+    {
+      "coordinates": {
+        "x1": 1004.984375,
+        "y1": 68.0,
+        "x2": 1141.78125,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Airport taxis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Airport taxis"
+    },
+    {
+      "coordinates": {
+        "x1": 434.5,
+        "y1": 337.0,
+        "x2": 764.265625,
+        "y2": 373.0
+      },
+      "class_id": 2,
+      "class_name": "input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Where are you going?",
+        "title": "",
+        "alt_text": null,
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Where are you going?",
+        "value": "",
+        "name": "ss"
+      },
+      "descriptive_label": "input: Where are you going?"
+    },
+    {
+      "coordinates": {
+        "x1": 784.265625,
+        "y1": 338.0,
+        "x2": 1065.265625,
+        "y2": 372.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Check-in date\n\u2014\nCheck-out date",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Check-in date\n\u2014\nCheck-out date"
+    },
+    {
+      "coordinates": {
+        "x1": 1085.265625,
+        "y1": 338.0,
+        "x2": 1366.265625,
+        "y2": 372.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Number of travelers and rooms. Currently selected: 2 adults \u00b7 0 children \u00b7 1 room",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "2 adults \u00b7 0 children \u00b7 1 room",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Number of travelers and roo..."
+    },
+    {
+      "coordinates": {
+        "x1": 1378.265625,
+        "y1": 328.0,
+        "x2": 1494.5,
+        "y2": 382.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 402.0,
+        "x2": 391.5,
+        "y2": 403.0
+      },
+      "class_id": 6,
+      "class_name": "checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "flight",
+        "name": "sb_flight_search"
+      },
+      "descriptive_label": "checkbox: flight"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 402.0,
+        "x2": 568.796875,
+        "y2": 422.0
+      },
+      "class_id": 5,
+      "class_name": "label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Add flights to my search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "label: Add flights to my search"
+    },
+    {
+      "coordinates": {
+        "x1": 407.5,
+        "y1": 935.0,
+        "x2": 515.4375,
+        "y2": 971.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Search for Early 2026 Deals",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Explore deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Search for Early 2026 Deals"
+    },
+    {
+      "coordinates": {
+        "x1": 969.5,
+        "y1": 915.0,
+        "x2": 1156.046875,
+        "y2": 951.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Save on your next trip with at least 15% off select stays",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Save with a Getaway Deal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Save on your next trip with..."
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 882.0,
+        "x2": 410.5,
+        "y2": 918.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1478.5,
+        "y1": 882.0,
+        "x2": 1514.5,
+        "y2": 918.0
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 1196.0,
+        "y1": 354.5,
+        "x2": 1232.0,
+        "y2": 390.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Dismiss sign-in info.",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Dismiss sign-in info."
+    },
+    {
+      "coordinates": {
+        "x1": 680.0,
+        "y1": 576.5,
+        "x2": 1224.0,
+        "y2": 624.5
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign in or register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign in or register"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 25
+  }
+}

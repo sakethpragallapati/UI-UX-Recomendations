@@ -1,0 +1,592 @@
+{
+  "url": "https://mailchimp.com",
+  "category": "miscellaneous",
+  "timestamp": 1774894006,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 54.0,
+        "y2": 22.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "___",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: ___"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 5.0,
+        "x2": 80.0,
+        "y2": 25.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Intuit",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Intuit"
+    },
+    {
+      "coordinates": {
+        "x1": 104.0,
+        "y1": 5.0,
+        "x2": 167.328125,
+        "y2": 25.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Quickbooks",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Quickbooks"
+    },
+    {
+      "coordinates": {
+        "x1": 191.328125,
+        "y1": 5.0,
+        "x2": 249.984375,
+        "y2": 25.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mailchimp",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mailchimp"
+    },
+    {
+      "coordinates": {
+        "x1": 1023.234375,
+        "y1": 42.59375,
+        "x2": 1132.21875,
+        "y2": 59.59375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Get started today.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Get started today."
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 82.890625,
+        "x2": 157.828125,
+        "y2": 128.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mailchimp Home",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Mailchimp Home"
+    },
+    {
+      "coordinates": {
+        "x1": 172.828125,
+        "y1": 90.734375,
+        "x2": 360.578125,
+        "y2": 121.03125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Industries and Solutions",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Industries and Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 375.578125,
+        "y1": 90.734375,
+        "x2": 488.890625,
+        "y2": 121.03125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Integrations",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Integrations"
+    },
+    {
+      "coordinates": {
+        "x1": 503.890625,
+        "y1": 90.734375,
+        "x2": 606.53125,
+        "y2": 121.03125
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 621.53125,
+        "y1": 90.734375,
+        "x2": 763.84375,
+        "y2": 121.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Switch to Mailchimp",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Switch to Mailchimp"
+    },
+    {
+      "coordinates": {
+        "x1": 778.84375,
+        "y1": 90.734375,
+        "x2": 838.578125,
+        "y2": 121.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.375,
+        "y1": 87.890625,
+        "x2": 1388.375,
+        "y2": 123.890625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1403.375,
+        "y1": 87.890625,
+        "x2": 1480.0,
+        "y2": 123.890625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "summary",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "English. This page is now available in other languages.",
+        "title": "",
+        "alt_text": null,
+        "role": "button"
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "button: English. This page is now a..."
+    },
+    {
+      "coordinates": {
+        "x1": 1495.0,
+        "y1": 90.734375,
+        "x2": 1660.125,
+        "y2": 121.03125
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sales: +1 (855) 523-8481",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sales: +1 (855) 523-8481"
+    },
+    {
+      "coordinates": {
+        "x1": 1675.125,
+        "y1": 84.140625,
+        "x2": 1761.375,
+        "y2": 127.640625
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1776.375,
+        "y1": 84.140625,
+        "x2": 1873.0,
+        "y2": 127.640625
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "button: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 396.359375,
+        "x2": 401.125,
+        "y2": 439.859375
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign Up",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 867.21875,
+        "x2": 715.15625,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Easy-to-use email marketing\nNo matter what your expertise level, Mailchimp is an affordable way to fuel small business growth.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Easy-to-use email marketing..."
+    },
+    {
+      "coordinates": {
+        "x1": 739.15625,
+        "y1": 867.21875,
+        "x2": 1149.828125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Drive more sales\nGrow your list, learn about your audience, and send personalized, high-impact campaigns.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Drive more sales\nGrow your ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1173.828125,
+        "y1": 867.21875,
+        "x2": 1584.484375,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Switch with confidence\nDedicated onboarding support and migration tools make the switch to Mailchimp seamless.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: Switch with confidence\nDedi..."
+    },
+    {
+      "coordinates": {
+        "x1": 300.28125,
+        "y1": 949.0,
+        "x2": 395.671875,
+        "y2": 963.0
+      },
+      "class_id": 0,
+      "class_name": "link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Statement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 1667.75,
+        "y1": 931.5,
+        "x2": 1824.65625,
+        "y2": 962.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Customize settings, Opens the preference center dialog",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "Customize settings",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Customize settings, Opens t..."
+    },
+    {
+      "coordinates": {
+        "x1": 1847.0,
+        "y1": 933.5,
+        "x2": 1871.0,
+        "y2": 957.5
+      },
+      "class_id": 1,
+      "class_name": "button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": null,
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "button: Close"
+    }
+  ],
+  "dataset_split": "train",
+  "additional_info": {
+    "browser": "chrome",
+    "viewport_size": "1904x985",
+    "total_elements": 23
+  }
+}
