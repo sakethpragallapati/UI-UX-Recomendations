@@ -1,0 +1,1537 @@
+{
+  "url": "https://lefigaro.fr",
+  "category": "news_and_journalism",
+  "timestamp": 1775283217,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 168.0625,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 313.5,
+        "y1": 0,
+        "x2": 369.984375,
+        "y2": 40.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Ouvrir/fermer le menu",
+        "title": "Ouvrir/Fermer le menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Ouvrir/fermer le menu"
+    },
+    {
+      "coordinates": {
+        "x1": 369.984375,
+        "y1": 0,
+        "x2": 457.703125,
+        "y2": 42.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ouvrir l'assistant de recherche",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechercher",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Ouvrir l'assistant de reche..."
+    },
+    {
+      "coordinates": {
+        "x1": 640.421875,
+        "y1": 0,
+        "x2": 737.171875,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TV & Vid\u00e9os",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: TV & Vid\u00e9os"
+    },
+    {
+      "coordinates": {
+        "x1": 753.171875,
+        "y1": 0,
+        "x2": 804.078125,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Audio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Audio"
+    },
+    {
+      "coordinates": {
+        "x1": 820.078125,
+        "y1": 0,
+        "x2": 864.640625,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jeux",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jeux"
+    },
+    {
+      "coordinates": {
+        "x1": 880.640625,
+        "y1": 0,
+        "x2": 999.96875,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Le Figaro in English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Le Figaro in English"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.96875,
+        "y1": 0,
+        "x2": 1114.34375,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1130.34375,
+        "y1": 0,
+        "x2": 1222.78125,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Actu locale",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Actu locale"
+    },
+    {
+      "coordinates": {
+        "x1": 1442.5,
+        "y1": 0,
+        "x2": 1482.5,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Notifications",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Notifications"
+    },
+    {
+      "coordinates": {
+        "x1": 1482.859375,
+        "y1": 0,
+        "x2": 1569.5,
+        "y2": 40.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Se connecter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Se connecter"
+    },
+    {
+      "coordinates": {
+        "x1": 313.5,
+        "y1": 57.0,
+        "x2": 481.5,
+        "y2": 124.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lire le journal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lire le journal"
+    },
+    {
+      "coordinates": {
+        "x1": 313.5,
+        "y1": 57.0,
+        "x2": 402.5,
+        "y2": 124.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Lire le PDF en ligne",
+        "alt_text": "Lire le PDF en ligne",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Lire le PDF en ligne"
+    },
+    {
+      "coordinates": {
+        "x1": 771.0,
+        "y1": 68.0,
+        "x2": 1112.0,
+        "y2": 113.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Acc\u00e9der \u00e0 Le Figaro",
+        "title": "Acc\u00e9der \u00e0 Le Figaro",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Acc\u00e9der \u00e0 Le Figaro"
+    },
+    {
+      "coordinates": {
+        "x1": 1438.265625,
+        "y1": 64.5,
+        "x2": 1569.5,
+        "y2": 116.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Abonnez-vous\n0,99\u20ac le premier mois",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Abonnez-vous\n0,99\u20ac le premi..."
+    },
+    {
+      "coordinates": {
+        "x1": 442.296875,
+        "y1": 141.0,
+        "x2": 587.015625,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guerre au Moyen-Orient",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Guerre au Moyen-Orient",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Guerre au Moyen-Orient"
+    },
+    {
+      "coordinates": {
+        "x1": 603.015625,
+        "y1": 141.0,
+        "x2": 779.09375,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Violences dans le p\u00e9riscolaire",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Violences dans le p\u00e9riscolaire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Violences dans le p\u00e9riscolaire"
+    },
+    {
+      "coordinates": {
+        "x1": 795.09375,
+        "y1": 141.0,
+        "x2": 870.4375,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "P\u00e2ques 2026",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "P\u00e2ques 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: P\u00e2ques 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 903.4375,
+        "y1": 141.0,
+        "x2": 956.203125,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Politique",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Politique"
+    },
+    {
+      "coordinates": {
+        "x1": 972.203125,
+        "y1": 141.0,
+        "x2": 1048.515625,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "International",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: International"
+    },
+    {
+      "coordinates": {
+        "x1": 1064.515625,
+        "y1": 141.0,
+        "x2": 1122.6875,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u00c9conomie",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u00c9conomie"
+    },
+    {
+      "coordinates": {
+        "x1": 1138.6875,
+        "y1": 141.0,
+        "x2": 1181.90625,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Soci\u00e9t\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Soci\u00e9t\u00e9"
+    },
+    {
+      "coordinates": {
+        "x1": 1197.90625,
+        "y1": 141.0,
+        "x2": 1218.53125,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Vox",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Vox"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.53125,
+        "y1": 141.0,
+        "x2": 1266.984375,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sport",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sport"
+    },
+    {
+      "coordinates": {
+        "x1": 1282.984375,
+        "y1": 141.0,
+        "x2": 1326.0625,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Culture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Culture"
+    },
+    {
+      "coordinates": {
+        "x1": 1342.0625,
+        "y1": 141.0,
+        "x2": 1392.6875,
+        "y2": 161.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Madame",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Madame"
+    },
+    {
+      "coordinates": {
+        "x1": 1408.6875,
+        "y1": 143.0,
+        "x2": 1424.6875,
+        "y2": 159.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Voir plus de rubriques",
+        "title": "Voir plus de rubriques",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Voir plus de rubriques"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 621.5,
+        "y1": 425.0,
+        "x2": 1237.5,
+        "y2": 521.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "EN DIRECT - Guerre au Moyen-Orient : course contre la montre entre l\u2019Iran et les \u00c9tats-Unis pour retrouver un pilote disparu",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: EN DIRECT - Guerre au Moyen..."
+    },
+    {
+      "coordinates": {
+        "x1": 621.9453125,
+        "y1": 537.0,
+        "x2": 1237.0546875,
+        "y2": 883.5
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "EN DIRECT - Guerre au Moyen-Orient\u00a0: course contre la montre entre l\u2019Iran et les \u00c9tats-Unis pour retrouver un pilote disparu",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: EN DIRECT - Guerre au Moyen..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1286.5,
+        "y1": 483.0,
+        "x2": 1557.5,
+        "y2": 503.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Recevoir les alertes de la r\u00e9daction",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Recevoir les alertes de la ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1333.84375,
+        "y1": 527.0,
+        "x2": 1518.5,
+        "y2": 607.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Se cacher, se d\u00e9placer de nuit, trouver de l'eau... Un ex-pilote raconte comment survivre une fois son avion abattu",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Se cacher, se d\u00e9placer de n..."
+    },
+    {
+      "coordinates": {
+        "x1": 1333.84375,
+        "y1": 623.0,
+        "x2": 1518.5,
+        "y2": 723.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Saint-Denis : M\u00e9lenchon, Panot, Chikirou attendus au rassemblement contre le racisme organis\u00e9 par le maire Bally Bagayoko",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Saint-Denis : M\u00e9lenchon, Pa..."
+    },
+    {
+      "coordinates": {
+        "x1": 1333.84375,
+        "y1": 739.0,
+        "x2": 1518.5,
+        "y2": 799.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PSG : Dembele \u00e0 hauteur de Weah, Ramos mieux que Mbapp\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: PSG : Dembele \u00e0 hauteur de ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1333.84375,
+        "y1": 815.0,
+        "x2": 1518.5,
+        "y2": 895.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u00abOn doit toujours aider les joueurs\u00bb : Matvey Safonov, le coup de moins bien qui tombe (tr\u00e8s) pour le PSG",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u00abOn doit toujours aider les..."
+    },
+    {
+      "coordinates": {
+        "x1": 1333.84375,
+        "y1": 911.0,
+        "x2": 1518.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Guerre au Moyen-Orient : Trump demande au Congr\u00e8s un colossal budget de d\u00e9fense de 1500 milliards de dollars pour 2027",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Guerre au Moyen-Orient : Tr..."
+    },
+    {
+      "coordinates": {
+        "x1": 1353.09375,
+        "y1": 499.0,
+        "x2": 1490.90625,
+        "y2": 535.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1286.5,
+        "y1": 927.0,
+        "x2": 1557.5,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "VOIR TOUS LES FLASHS ACTUALIT\u00c9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: VOIR TOUS LES FLASHS ACTUALIT\u00c9"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 449.0,
+        "x2": 456.5,
+        "y2": 477.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Le Figaro Live",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Le Figaro Live"
+    },
+    {
+      "coordinates": {
+        "x1": 346.5,
+        "y1": 487.0,
+        "x2": 386.5,
+        "y2": 527.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Vous \u00e9coutez Le Figaro Radio",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Vous \u00e9coutez Le Figaro Radio"
+    },
+    {
+      "coordinates": {
+        "x1": 519.5,
+        "y1": 447.0,
+        "x2": 551.5,
+        "y2": 479.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 524.0,
+        "y1": 451.5,
+        "x2": 547.0,
+        "y2": 474.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Lancer la radio Le Figaro",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Lancer la radio Le Figaro"
+    },
+    {
+      "coordinates": {
+        "x1": 325.5,
+        "y1": 601.0,
+        "x2": 572.5,
+        "y2": 673.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Notre palmar\u00e8s 2026 des meilleurs lyc\u00e9es publics et priv\u00e9s de France (article Premium)",
+        "title": "Notre palmar\u00e8s 2026 des meilleurs lyc\u00e9es publics et priv\u00e9s de France (article Premium)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Notre palmar\u00e8s 2026 des meilleurs lyc\u00e9es publics et priv\u00e9s de France",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Notre palmar\u00e8s 2026 des mei..."
+    },
+    {
+      "coordinates": {
+        "x1": 325.796875,
+        "y1": 689.0,
+        "x2": 572.203125,
+        "y2": 827.9375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Notre palmar\u00e8s 2026 des meilleurs lyc\u00e9es publics et priv\u00e9s de France",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Notre palmar\u00e8s 2026 des mei..."
+    },
+    {
+      "coordinates": {
+        "x1": 325.5,
+        "y1": 860.9375,
+        "x2": 572.5,
+        "y2": 932.9375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Notre palmar\u00e8s 2026 des meilleurs coll\u00e8ges publics et priv\u00e9s de France (article Premium)",
+        "title": "Notre palmar\u00e8s 2026 des meilleurs coll\u00e8ges publics et priv\u00e9s de France (article Premium)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Notre palmar\u00e8s 2026 des meilleurs coll\u00e8ges publics et priv\u00e9s de France",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Notre palmar\u00e8s 2026 des mei..."
+    },
+    {
+      "coordinates": {
+        "x1": 325.796875,
+        "y1": 948.9375,
+        "x2": 572.203125,
+        "y2": 982
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Notre palmar\u00e8s 2026 des meilleurs coll\u00e8ges publics et priv\u00e9s de France",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Notre palmar\u00e8s 2026 des mei..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 178.71875,
+        "y2": 44.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 930.0,
+        "x2": 1835.0,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "S'abonner \u00e0 partir de 0,99\u20ac le premier mois\nS'ABONNER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: S'abonner \u00e0 partir de 0,99\u20ac..."
+    },
+    {
+      "coordinates": {
+        "x1": 1835.0,
+        "y1": 932.0,
+        "x2": 1883.0,
+        "y2": 980.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Fermer le bandeau",
+        "title": "Fermer le bandeau",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Fermer le bandeau"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,962 @@
+{
+  "url": "https://smh.com.au",
+  "category": "news_and_journalism",
+  "timestamp": 1775283204,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1587.0,
+        "y1": 111.953125,
+        "x2": 1633.6875,
+        "y2": 127.953125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1452.515625,
+        "y1": 287.5,
+        "x2": 1505.5,
+        "y2": 326.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 377.5,
+        "y1": 347.0,
+        "x2": 417.5,
+        "y2": 385.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "OPEN NAVIGATION\nMENU",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: OPEN NAVIGATION\nMENU"
+    },
+    {
+      "coordinates": {
+        "x1": 421.5,
+        "y1": 347.0,
+        "x2": 461.5,
+        "y2": 385.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "metro-search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: metro-search"
+    },
+    {
+      "coordinates": {
+        "x1": 757.125,
+        "y1": 308.0,
+        "x2": 1125.875,
+        "y2": 348.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Sydney Morning Herald",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Sydney Morning Herald"
+    },
+    {
+      "coordinates": {
+        "x1": 599.71875,
+        "y1": 396.0,
+        "x2": 654.359375,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SYDNEY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: SYDNEY"
+    },
+    {
+      "coordinates": {
+        "x1": 678.359375,
+        "y1": 396.0,
+        "x2": 742.140625,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "POLITICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: POLITICS"
+    },
+    {
+      "coordinates": {
+        "x1": 766.140625,
+        "y1": 396.0,
+        "x2": 834.421875,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "BUSINESS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: BUSINESS"
+    },
+    {
+      "coordinates": {
+        "x1": 858.421875,
+        "y1": 396.0,
+        "x2": 908.28125,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WORLD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WORLD"
+    },
+    {
+      "coordinates": {
+        "x1": 932.28125,
+        "y1": 396.0,
+        "x2": 1016.515625,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "GOOD FOOD",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: GOOD FOOD"
+    },
+    {
+      "coordinates": {
+        "x1": 1040.515625,
+        "y1": 396.0,
+        "x2": 1113.125,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LIFESTYLE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: LIFESTYLE"
+    },
+    {
+      "coordinates": {
+        "x1": 1137.125,
+        "y1": 396.0,
+        "x2": 1214.765625,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TRAVELLER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: TRAVELLER"
+    },
+    {
+      "coordinates": {
+        "x1": 1238.765625,
+        "y1": 396.0,
+        "x2": 1283.265625,
+        "y2": 413.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SPORT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: SPORT"
+    },
+    {
+      "coordinates": {
+        "x1": 377.5,
+        "y1": 443.0,
+        "x2": 437.5,
+        "y2": 503.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 377.5,
+        "y1": 443.0,
+        "x2": 437.5,
+        "y2": 503.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Puzzled newsletter tile",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Puzzled newsletter tile"
+    },
+    {
+      "coordinates": {
+        "x1": 445.5,
+        "y1": 439.0,
+        "x2": 668.484375,
+        "y2": 455.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Puzzled with David Astle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Puzzled with David Astle"
+    },
+    {
+      "coordinates": {
+        "x1": 701.484375,
+        "y1": 439.0,
+        "x2": 761.484375,
+        "y2": 499.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 701.484375,
+        "y1": 439.0,
+        "x2": 761.484375,
+        "y2": 499.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Play our new Mini Crossword.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Play our new Mini Crossword."
+    },
+    {
+      "coordinates": {
+        "x1": 769.484375,
+        "y1": 443.0,
+        "x2": 992.46875,
+        "y2": 459.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mini Crossword",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Mini Crossword"
+    },
+    {
+      "coordinates": {
+        "x1": 1025.46875,
+        "y1": 439.0,
+        "x2": 1085.46875,
+        "y2": 499.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1025.46875,
+        "y1": 439.0,
+        "x2": 1085.46875,
+        "y2": 499.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Naked City podcast with John Silvester",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Naked City podcast with Joh..."
+    },
+    {
+      "coordinates": {
+        "x1": 1093.46875,
+        "y1": 443.0,
+        "x2": 1316.453125,
+        "y2": 459.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Naked City podcast",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Naked City podcast"
+    },
+    {
+      "coordinates": {
+        "x1": 1340.453125,
+        "y1": 474.0,
+        "x2": 1497.78125,
+        "y2": 491.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sydney\nWeather forecast",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sydney\nWeather forecast"
+    },
+    {
+      "coordinates": {
+        "x1": 666.90625,
+        "y1": 543.0,
+        "x2": 1123.96875,
+        "y2": 847.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 666.90625,
+        "y1": 543.0,
+        "x2": 1123.96875,
+        "y2": 847.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The fuel shock stinging Australians is a calamity for millions in Asia",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The fuel shock stinging Aus..."
+    },
+    {
+      "coordinates": {
+        "x1": 377.5,
+        "y1": 545.0,
+        "x2": 480.65625,
+        "y2": 561.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Middle East at war",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Middle East at war"
+    },
+    {
+      "coordinates": {
+        "x1": 377.5,
+        "y1": 573.0,
+        "x2": 642.90625,
+        "y2": 773.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The fuel shock stinging Australians is a calamity for millions in Asia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The fuel shock stinging Aus..."
+    },
+    {
+      "coordinates": {
+        "x1": 434.734375,
+        "y1": 896.0,
+        "x2": 552.4375,
+        "y2": 912.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Porepunkah shooting",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Porepunkah shooting"
+    },
+    {
+      "coordinates": {
+        "x1": 377.5,
+        "y1": 924.0,
+        "x2": 827.9375,
+        "y2": 972.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Two arrested as part of Dezi Freeman investigation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Two arrested as part of Dez..."
+    },
+    {
+      "coordinates": {
+        "x1": 904.84375,
+        "y1": 896.0,
+        "x2": 982.609375,
+        "y2": 912.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Donald Trump",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Donald Trump"
+    },
+    {
+      "coordinates": {
+        "x1": 860.9375,
+        "y1": 924.0,
+        "x2": 1123.96875,
+        "y2": 964.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Downed US jets the first combat aircraft losses since Iraq invasion",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Downed US jets the first co..."
+    },
+    {
+      "coordinates": {
+        "x1": 1171.96875,
+        "y1": 586.0,
+        "x2": 1505.5,
+        "y2": 808.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.96875,
+        "y1": 586.0,
+        "x2": 1505.5,
+        "y2": 808.359375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": " ",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1240.375,
+        "y1": 822.359375,
+        "x2": 1322.5625,
+        "y2": 838.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Good Weekend",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Good Weekend"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.96875,
+        "y1": 850.359375,
+        "x2": 1505.5,
+        "y2": 898.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The April 4 edition: Stories on the people, places and issues that matter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The April 4 edition: Storie..."
+    },
+    {
+      "coordinates": {
+        "x1": 1361.5,
+        "y1": 959.359375,
+        "x2": 1505.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1361.5,
+        "y1": 959.359375,
+        "x2": 1505.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Teen prodigy Kimi Antonelli is making a mark for Mercedes early in the 2026 season.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Teen prodigy Kimi Antonelli..."
+    },
+    {
+      "coordinates": {
+        "x1": 1171.96875,
+        "y1": 961.359375,
+        "x2": 1223.125,
+        "y2": 977.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Olympics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Olympics"
+    }
+  ],
+  "dataset_split": "raw"
+}

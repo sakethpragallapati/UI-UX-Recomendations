@@ -1,0 +1,162 @@
+{
+  "url": "https://amazon.co.jp",
+  "category": "e_commerce",
+  "timestamp": 1775282848,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 801.0,
+        "y1": 200.65625,
+        "x2": 1097.0,
+        "y2": 231.65625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 802.0,
+        "y1": 201.65625,
+        "x2": 1096.0,
+        "y2": 230.65625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 802.0,
+        "y1": 201.65625,
+        "x2": 1096.0,
+        "y2": 230.65625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: \u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3092\u7d9a\u3051\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 867.140625,
+        "y1": 350.65625,
+        "x2": 911.140625,
+        "y2": 362.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u5229\u7528\u898f\u7d04",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u5229\u7528\u898f\u7d04"
+    },
+    {
+      "coordinates": {
+        "x1": 943.390625,
+        "y1": 350.65625,
+        "x2": 1030.84375,
+        "y2": 362.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u7d04",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u898f\u7d04"
+    },
+    {
+      "coordinates": {
+        "x1": 1063.734375,
+        "y1": 374.765625,
+        "x2": 1064.734375,
+        "y2": 375.765625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    }
+  ],
+  "dataset_split": "raw"
+}

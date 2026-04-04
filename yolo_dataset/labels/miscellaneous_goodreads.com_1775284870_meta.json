@@ -1,0 +1,1062 @@
+{
+  "url": "https://goodreads.com",
+  "category": "miscellaneous",
+  "timestamp": 1775284870,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 456.5,
+        "y1": 59.25,
+        "x2": 653.5,
+        "y2": 71.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 456.5,
+        "y1": 20.0,
+        "x2": 653.5,
+        "y2": 69.25
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Goodreads: Book reviews, recommendations, and discussion",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Goodreads: Book reviews, re..."
+    },
+    {
+      "coordinates": {
+        "x1": 1145.5,
+        "y1": 95.0,
+        "x2": 1395.5,
+        "y2": 141.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Continue with Amazon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Continue with Amazon"
+    },
+    {
+      "coordinates": {
+        "x1": 1182.5,
+        "y1": 107.5,
+        "x2": 1203.5,
+        "y2": 128.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1145.5,
+        "y1": 155.0,
+        "x2": 1395.5,
+        "y2": 204.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Continue with Apple",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Continue with Apple"
+    },
+    {
+      "coordinates": {
+        "x1": 1181.515625,
+        "y1": 164.0,
+        "x2": 1212.515625,
+        "y2": 195.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1145.5,
+        "y1": 218.0,
+        "x2": 1395.5,
+        "y2": 264.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up with email",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign up with email"
+    },
+    {
+      "coordinates": {
+        "x1": 1213.421875,
+        "y1": 301.0,
+        "x2": 1299.828125,
+        "y2": 313.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.625,
+        "y1": 301.0,
+        "x2": 1363.640625,
+        "y2": 331.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.3125,
+        "y1": 384.0,
+        "x2": 1363.40625,
+        "y2": 400.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 456.5,
+        "y1": 85.0,
+        "x2": 1426.5,
+        "y2": 380.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 484.5,
+        "y1": 625.0,
+        "x2": 564.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "A Gentleman in Moscow by Amor Towles",
+        "alt_text": "A Gentleman in Moscow by Amor Towles",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: A Gentleman in Moscow by Am..."
+    },
+    {
+      "coordinates": {
+        "x1": 576.5,
+        "y1": 625.0,
+        "x2": 656.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Dutch House by Ann Patchett",
+        "alt_text": "The Dutch House by Ann Patchett",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Dutch House by Ann Patc..."
+    },
+    {
+      "coordinates": {
+        "x1": 668.5,
+        "y1": 625.0,
+        "x2": 748.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Demon Copperhead by Barbara Kingsolver",
+        "alt_text": "Demon Copperhead by Barbara Kingsolver",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Demon Copperhead by Barbara..."
+    },
+    {
+      "coordinates": {
+        "x1": 760.5,
+        "y1": 625.0,
+        "x2": 840.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Heaven & Earth Grocery Store by James   McBride",
+        "alt_text": "The Heaven & Earth Grocery Store by James   McBride",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Heaven & Earth Grocery ..."
+    },
+    {
+      "coordinates": {
+        "x1": 884.5,
+        "y1": 625.0,
+        "x2": 1084.5,
+        "y2": 760.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 884.5,
+        "y1": 625.0,
+        "x2": 964.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Trust by Hernan Diaz",
+        "alt_text": "Trust by Hernan Diaz",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Trust by Hernan Diaz"
+    },
+    {
+      "coordinates": {
+        "x1": 853.5,
+        "y1": 669.0,
+        "x2": 874.5,
+        "y2": 697.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "&rarr;",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: &rarr;"
+    },
+    {
+      "coordinates": {
+        "x1": 484.5,
+        "y1": 815.0,
+        "x2": 564.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "I Who Have Never Known Men by Jacqueline Harpman",
+        "alt_text": "I Who Have Never Known Men by Jacqueline Harpman",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: I Who Have Never Known Men ..."
+    },
+    {
+      "coordinates": {
+        "x1": 576.5,
+        "y1": 815.0,
+        "x2": 656.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Parable of the Sower by Octavia E. Butler",
+        "alt_text": "Parable of the Sower by Octavia E. Butler",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Parable of the Sower by Oct..."
+    },
+    {
+      "coordinates": {
+        "x1": 668.5,
+        "y1": 815.0,
+        "x2": 748.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Handmaid's Tale by Margaret Atwood",
+        "alt_text": "The Handmaid's Tale by Margaret Atwood",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Handmaid's Tale by Marg..."
+    },
+    {
+      "coordinates": {
+        "x1": 760.5,
+        "y1": 815.0,
+        "x2": 840.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sky Full of Elephants by Cebo Campbell",
+        "alt_text": "Sky Full of Elephants by Cebo Campbell",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Sky Full of Elephants by Ce..."
+    },
+    {
+      "coordinates": {
+        "x1": 884.5,
+        "y1": 815.0,
+        "x2": 1084.5,
+        "y2": 950.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 884.5,
+        "y1": 815.0,
+        "x2": 964.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Blueprint by Rae Giana Rashad",
+        "alt_text": "The Blueprint by Rae Giana Rashad",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Blueprint by Rae Giana ..."
+    },
+    {
+      "coordinates": {
+        "x1": 853.5,
+        "y1": 859.0,
+        "x2": 874.5,
+        "y2": 887.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "&rarr;",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: &rarr;"
+    },
+    {
+      "coordinates": {
+        "x1": 1121.5,
+        "y1": 591.0,
+        "x2": 1421.5,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "136 Reader-Approved Mysteries & Thrillers of the Past Decade",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 136 Reader-Approved Mysteri..."
+    },
+    {
+      "coordinates": {
+        "x1": 1121.5,
+        "y1": 790.65625,
+        "x2": 1421.5,
+        "y2": 802.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1121.5,
+        "y1": 643.0,
+        "x2": 1421.5,
+        "y2": 800.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "136 Reader-Approved Mysteries & Thrillers of the Past Decade",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: 136 Reader-Approved Mysteri..."
+    },
+    {
+      "coordinates": {
+        "x1": 1303.890625,
+        "y1": 938.65625,
+        "x2": 1330.546875,
+        "y2": 952.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1303.890625,
+        "y1": 909.65625,
+        "x2": 1330.546875,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "To Kill a Mockingbird by Harper Lee",
+        "alt_text": "To Kill a Mockingbird by Harper Lee",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: To Kill a Mockingbird by Ha..."
+    },
+    {
+      "coordinates": {
+        "x1": 1334.140625,
+        "y1": 938.65625,
+        "x2": 1361.53125,
+        "y2": 952.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1334.140625,
+        "y1": 909.65625,
+        "x2": 1361.53125,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1984 by George Orwell",
+        "alt_text": "1984 by George Orwell",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: 1984 by George Orwell"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.125,
+        "y1": 938.65625,
+        "x2": 1391.78125,
+        "y2": 952.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.125,
+        "y1": 909.65625,
+        "x2": 1391.78125,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling",
+        "alt_text": "Harry Potter and the Philosopher's Stone by J.K. Rowling",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Harry Potter and the Philos..."
+    },
+    {
+      "coordinates": {
+        "x1": 1395.375,
+        "y1": 938.65625,
+        "x2": 1421.5,
+        "y2": 952.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1395.375,
+        "y1": 909.65625,
+        "x2": 1421.5,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Great Gatsby by F. Scott Fitzgerald",
+        "alt_text": "The Great Gatsby by F. Scott Fitzgerald",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Great Gatsby by F. Scot..."
+    },
+    {
+      "coordinates": {
+        "x1": 1121.5,
+        "y1": 911.65625,
+        "x2": 1262.984375,
+        "y2": 943.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Best Books of the 20th Century",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Best Books of the 20th Century"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.953125,
+        "y1": 964.65625,
+        "x2": 1336.609375,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Girl With the Dragon Tattoo by Stieg Larsson",
+        "alt_text": "The Girl With the Dragon Tattoo by Stieg Larsson",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Girl With the Dragon Ta..."
+    },
+    {
+      "coordinates": {
+        "x1": 1340.203125,
+        "y1": 964.65625,
+        "x2": 1365.796875,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "And Then There Were None by Agatha Christie",
+        "alt_text": "And Then There Were None by Agatha Christie",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: And Then There Were None by..."
+    },
+    {
+      "coordinates": {
+        "x1": 1369.390625,
+        "y1": 964.65625,
+        "x2": 1391.25,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Angels & Demons by Dan    Brown",
+        "alt_text": "Angels & Demons by Dan    Brown",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Angels & Demons by Dan    B..."
+    },
+    {
+      "coordinates": {
+        "x1": 1394.84375,
+        "y1": 964.65625,
+        "x2": 1421.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Rebecca by Daphne du Maurier",
+        "alt_text": "Rebecca by Daphne du Maurier",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Rebecca by Daphne du Maurier"
+    },
+    {
+      "coordinates": {
+        "x1": 1121.5,
+        "y1": 966.65625,
+        "x2": 1298.234375,
+        "y2": 980.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Best Crime & Mystery Books",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Best Crime & Mystery Books"
+    }
+  ],
+  "dataset_split": "raw"
+}

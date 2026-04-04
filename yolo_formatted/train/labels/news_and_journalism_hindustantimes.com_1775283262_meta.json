@@ -1,0 +1,1187 @@
+{
+  "url": "https://hindustantimes.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775283262,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 292.0,
+        "x2": 421.5,
+        "y2": 326.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 421.5,
+        "y1": 294.0,
+        "x2": 470.5,
+        "y2": 324.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 431.5,
+        "y1": 297.0,
+        "x2": 455.5,
+        "y2": 321.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Search",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 807.5,
+        "y1": 294.375,
+        "x2": 1075.5,
+        "y2": 323.625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 807.5,
+        "y1": 294.375,
+        "x2": 1075.5,
+        "y2": 323.625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hindustan Times News",
+        "alt_text": "Hindustan Times News",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Hindustan Times News"
+    },
+    {
+      "coordinates": {
+        "x1": 1231.609375,
+        "y1": 293.0,
+        "x2": 1341.5,
+        "y2": 325.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "E-Paper",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: E-Paper"
+    },
+    {
+      "coordinates": {
+        "x1": 1247.609375,
+        "y1": 301.0,
+        "x2": 1263.609375,
+        "y2": 317.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "e-paper",
+        "alt_text": "e-paper",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: e-paper"
+    },
+    {
+      "coordinates": {
+        "x1": 1457.5,
+        "y1": 293.0,
+        "x2": 1491.5,
+        "y2": 325.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 1466.5,
+        "y1": 301.0,
+        "x2": 1482.5,
+        "y2": 317.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sign In",
+        "alt_text": "Sign In",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 1349.5,
+        "y1": 293.0,
+        "x2": 1449.5,
+        "y2": 325.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 343.0,
+        "x2": 472.25,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Top News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Top News"
+    },
+    {
+      "coordinates": {
+        "x1": 486.25,
+        "y1": 343.0,
+        "x2": 553.25,
+        "y2": 383.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "E-Paper",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: E-Paper"
+    },
+    {
+      "coordinates": {
+        "x1": 567.25,
+        "y1": 343.0,
+        "x2": 655.265625,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "India News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: India News"
+    },
+    {
+      "coordinates": {
+        "x1": 669.265625,
+        "y1": 343.0,
+        "x2": 765.578125,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "World News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: World News"
+    },
+    {
+      "coordinates": {
+        "x1": 779.578125,
+        "y1": 343.0,
+        "x2": 889.234375,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Entertainment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Entertainment"
+    },
+    {
+      "coordinates": {
+        "x1": 903.234375,
+        "y1": 343.0,
+        "x2": 975.46875,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 989.46875,
+        "y1": 343.0,
+        "x2": 1044.875,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cities",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cities"
+    },
+    {
+      "coordinates": {
+        "x1": 1058.875,
+        "y1": 343.0,
+        "x2": 1133.125,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trending",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Trending"
+    },
+    {
+      "coordinates": {
+        "x1": 1147.125,
+        "y1": 343.0,
+        "x2": 1249.078125,
+        "y2": 383.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "+ 18 More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: + 18 More"
+    },
+    {
+      "coordinates": {
+        "x1": 417.046875,
+        "y1": 380.0,
+        "x2": 517.40625,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Smart Money",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Smart Money"
+    },
+    {
+      "coordinates": {
+        "x1": 531.40625,
+        "y1": 380.0,
+        "x2": 662.953125,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "IPL 2026 Schedule",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: IPL 2026 Schedule"
+    },
+    {
+      "coordinates": {
+        "x1": 676.953125,
+        "y1": 380.0,
+        "x2": 734.828125,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sports",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sports"
+    },
+    {
+      "coordinates": {
+        "x1": 748.828125,
+        "y1": 380.0,
+        "x2": 837.09375,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Delhi News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Delhi News"
+    },
+    {
+      "coordinates": {
+        "x1": 851.09375,
+        "y1": 380.0,
+        "x2": 1004.890625,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Century of Leadership",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Century of Leadership"
+    },
+    {
+      "coordinates": {
+        "x1": 1018.890625,
+        "y1": 380.0,
+        "x2": 1137.546875,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bengaluru News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Bengaluru News"
+    },
+    {
+      "coordinates": {
+        "x1": 1151.546875,
+        "y1": 380.0,
+        "x2": 1257.640625,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mumbai News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Mumbai News"
+    },
+    {
+      "coordinates": {
+        "x1": 1271.640625,
+        "y1": 380.0,
+        "x2": 1359.359375,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Technology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Technology"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.359375,
+        "y1": 380.0,
+        "x2": 1465.953125,
+        "y2": 420.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "+ 5 more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: + 5 more"
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 478.0,
+        "x2": 484.46875,
+        "y2": 495.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ASTROLOGY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ASTROLOGY"
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 505.0,
+        "x2": 581.75,
+        "y2": 558.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pisces Horoscope Today for April 4, 2026: Financially, the day remains neutral",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pisces Horoscope Today for ..."
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 621.0,
+        "x2": 517.40625,
+        "y2": 638.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ENTERTAINMENT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ENTERTAINMENT"
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 648.0,
+        "x2": 581.921875,
+        "y2": 737.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Many actresses urged Aditya Dhar to cast them opposite Ranveer in Dhurandhar; Mukesh Chhabra on why he chose Sara Arjun",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Many actresses urged Aditya..."
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 752.0,
+        "x2": 451.15625,
+        "y2": 769.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HTCITY",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: HTCITY"
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 779.0,
+        "x2": 564.671875,
+        "y2": 832.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "This unexpected jewellery trend is taking over bridal trousseaus; take a look",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: This unexpected jewellery t..."
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 883.0,
+        "x2": 443.546875,
+        "y2": 900.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CITIES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: CITIES"
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 910.0,
+        "x2": 588.71875,
+        "y2": 963.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "JECRC University, Jaipur, wins national esports title at Chitkara",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: JECRC University, Jaipur, w..."
+    },
+    {
+      "coordinates": {
+        "x1": 632.5,
+        "y1": 445.0,
+        "x2": 1160.5,
+        "y2": 884.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 648.5,
+        "y1": 489.0,
+        "x2": 1138.53125,
+        "y2": 546.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "2 US jets hit in Iran war, first such \u2018enemy fire\u2019 loss in over 20 years",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 2 US jets hit in Iran war, ..."
+    },
+    {
+      "coordinates": {
+        "x1": 648.5,
+        "y1": 558.0,
+        "x2": 726.28125,
+        "y2": 575.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "World News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: World News"
+    },
+    {
+      "coordinates": {
+        "x1": 648.5,
+        "y1": 589.0,
+        "x2": 1144.5,
+        "y2": 868.15625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "US Iran war LIVE updates: A US Air Force A-10 Thunderbolt II, also known as the Warthog, departs after receiving fuel in the skies near the border of Iowa and Missouri on July 7, 2020.",
+        "alt_text": "US Iran war LIVE updates: A US Air Force A-10 Thunderbolt II, also known as the Warthog, departs after receiving fuel in the skies near the border of Iowa and Missouri on July 7, 2020.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: US Iran war LIVE updates: A..."
+    },
+    {
+      "coordinates": {
+        "x1": 631.5,
+        "y1": 901.234375,
+        "x2": 1161.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 647.5,
+        "y1": 917.234375,
+        "x2": 998.265625,
+        "y2": 961.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Airport \u2018samosas\u2019, prepaid recharge: 7 \u2018soft\u2019 issues Chadha raised in Parliament",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Airport \u2018samosas\u2019, prepaid ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1029.5,
+        "y1": 917.234375,
+        "x2": 1145.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Aam Aadmi Party (AAP) MP Raghav Chadha said he has been ",
+        "alt_text": "Aam Aadmi Party (AAP) MP Raghav Chadha said he has been ",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Aam Aadmi Party (AAP) MP Ra..."
+    },
+    {
+      "coordinates": {
+        "x1": 1201.5,
+        "y1": 792.0,
+        "x2": 1332.515625,
+        "y2": 809.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HT Picks; New Reads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: HT Picks; New Reads"
+    },
+    {
+      "coordinates": {
+        "x1": 1201.5,
+        "y1": 962.0,
+        "x2": 1481.5,
+        "y2": 981.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1201.5,
+        "y1": 820.0,
+        "x2": 1481.5,
+        "y2": 978.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "HT Picks; New Reads",
+        "alt_text": "HT Picks; New Reads",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: HT Picks; New Reads"
+    },
+    {
+      "coordinates": {
+        "x1": 1823.0,
+        "y1": 872.0,
+        "x2": 1873.0,
+        "y2": 922.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    }
+  ],
+  "dataset_split": "raw"
+}

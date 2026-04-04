@@ -1,0 +1,1837 @@
+{
+  "url": "https://abc.net.au",
+  "category": "miscellaneous",
+  "timestamp": 1775284789,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 104.0,
+        "y2": 48.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More from ABC",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: More from ABC"
+    },
+    {
+      "coordinates": {
+        "x1": 104.0,
+        "y1": 8.0,
+        "x2": 200.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "NEWS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: NEWS"
+    },
+    {
+      "coordinates": {
+        "x1": 208.0,
+        "y1": 8.0,
+        "x2": 306.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "IVIEW",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: IVIEW"
+    },
+    {
+      "coordinates": {
+        "x1": 314.0,
+        "y1": 8.0,
+        "x2": 412.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LISTEN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: LISTEN"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 60.0,
+        "x2": 155.0,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "ABC News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: ABC News"
+    },
+    {
+      "coordinates": {
+        "x1": 167.0,
+        "y1": 60.0,
+        "x2": 251.0625,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Just In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Just In"
+    },
+    {
+      "coordinates": {
+        "x1": 259.0625,
+        "y1": 60.0,
+        "x2": 349.328125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "For You",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: For You"
+    },
+    {
+      "coordinates": {
+        "x1": 357.328125,
+        "y1": 60.0,
+        "x2": 447.78125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Politics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Politics"
+    },
+    {
+      "coordinates": {
+        "x1": 455.78125,
+        "y1": 60.0,
+        "x2": 535.3125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "World",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: World"
+    },
+    {
+      "coordinates": {
+        "x1": 543.3125,
+        "y1": 60.0,
+        "x2": 644.625,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 652.625,
+        "y1": 60.0,
+        "x2": 750.328125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Analysis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Analysis"
+    },
+    {
+      "coordinates": {
+        "x1": 758.328125,
+        "y1": 60.0,
+        "x2": 835.28125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Sport",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sport"
+    },
+    {
+      "coordinates": {
+        "x1": 843.28125,
+        "y1": 60.0,
+        "x2": 941.578125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Lifestyle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Lifestyle"
+    },
+    {
+      "coordinates": {
+        "x1": 949.578125,
+        "y1": 60.0,
+        "x2": 1094.078125,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Entertainment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Entertainment"
+    },
+    {
+      "coordinates": {
+        "x1": 1102.078125,
+        "y1": 60.0,
+        "x2": 1195.515625,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Quizzes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Quizzes"
+    },
+    {
+      "coordinates": {
+        "x1": 1207.515625,
+        "y1": 60.0,
+        "x2": 1307.515625,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 1363.109375,
+        "y1": 61.0,
+        "x2": 1364.109375,
+        "y2": 62.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search the ABC",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Search the ABC"
+    },
+    {
+      "coordinates": {
+        "x1": 1364.109375,
+        "y1": 62.0,
+        "x2": 1682.109375,
+        "y2": 106.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search\u2026",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search\u2026"
+    },
+    {
+      "coordinates": {
+        "x1": 1380.109375,
+        "y1": 72.0,
+        "x2": 1404.109375,
+        "y2": 96.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1690.109375,
+        "y1": 60.0,
+        "x2": 1801.0,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1760.0,
+        "y1": 72.0,
+        "x2": 1784.0,
+        "y2": 96.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1809.0,
+        "y1": 60.0,
+        "x2": 1867.0,
+        "y2": 108.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 1826.0,
+        "y1": 72.0,
+        "x2": 1850.0,
+        "y2": 96.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1306.0,
+        "y1": 153.0,
+        "x2": 1387.453125,
+        "y2": 168.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Set location",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Set location"
+    },
+    {
+      "coordinates": {
+        "x1": 874.03125,
+        "y1": 142.0,
+        "x2": 942.0625,
+        "y2": 178.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "All",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: All"
+    },
+    {
+      "coordinates": {
+        "x1": 907.546875,
+        "y1": 159.5,
+        "x2": 908.546875,
+        "y2": 160.5
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "national",
+        "name": "sitepreference"
+      },
+      "descriptive_label": "general_radio: national"
+    },
+    {
+      "coordinates": {
+        "x1": 946.0625,
+        "y1": 142.0,
+        "x2": 1018.40625,
+        "y2": 178.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "State",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: State"
+    },
+    {
+      "coordinates": {
+        "x1": 981.734375,
+        "y1": 159.5,
+        "x2": 982.734375,
+        "y2": 160.5
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "State",
+        "name": "sitepreference"
+      },
+      "descriptive_label": "general_radio: State"
+    },
+    {
+      "coordinates": {
+        "x1": 1022.40625,
+        "y1": 142.0,
+        "x2": 1121.5,
+        "y2": 178.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trending",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Trending"
+    },
+    {
+      "coordinates": {
+        "x1": 1071.453125,
+        "y1": 159.5,
+        "x2": 1072.453125,
+        "y2": 160.5
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "trending",
+        "name": "sitepreference"
+      },
+      "descriptive_label": "general_radio: trending"
+    },
+    {
+      "coordinates": {
+        "x1": 1133.5,
+        "y1": 136.0,
+        "x2": 1197.5,
+        "y2": 184.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Edit state and site preferences",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Edit state and site prefere..."
+    },
+    {
+      "coordinates": {
+        "x1": 1153.5,
+        "y1": 148.0,
+        "x2": 1177.5,
+        "y2": 172.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 624.6875,
+        "y1": 240.0,
+        "x2": 1197.5,
+        "y2": 290.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "World loses patience with Trump as war is no longer just about Iran",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: World loses patience with T..."
+    },
+    {
+      "coordinates": {
+        "x1": 624.6875,
+        "y1": 302.375,
+        "x2": 823.0625,
+        "y2": 328.375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Analysis by Laura Tingle",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Analysis by Laura Tingle"
+    },
+    {
+      "coordinates": {
+        "x1": 628.6875,
+        "y1": 305.375,
+        "x2": 648.6875,
+        "y2": 325.375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 831.0625,
+        "y1": 302.75,
+        "x2": 952.21875,
+        "y2": 328.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nForeign Affairs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nForeign Affairs"
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 244.0,
+        "x2": 608.6875,
+        "y2": 260.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 240.0,
+        "x2": 608.6875,
+        "y2": 498.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Donald Trump speaks into the ear of Emmanual Macron, both of which are posing for a photo against a white backdrop",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Donald Trump speaks into th..."
+    },
+    {
+      "coordinates": {
+        "x1": 353.5,
+        "y1": 577.015625,
+        "x2": 693.5,
+        "y2": 622.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Supermarkets asked to pay more for produce to absorb fuel costs for farmers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Supermarkets asked to pay m..."
+    },
+    {
+      "coordinates": {
+        "x1": 349.5,
+        "y1": 547.015625,
+        "x2": 441.703125,
+        "y2": 573.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nPetrol Prices",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nPetrol Prices"
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 546.265625,
+        "x2": 337.5,
+        "y2": 633.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 546.265625,
+        "x2": 337.5,
+        "y2": 633.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A man in shorts walks into a modern-looking Woolworths shopfront.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: A man in shorts walks into ..."
+    },
+    {
+      "coordinates": {
+        "x1": 857.5,
+        "y1": 577.015625,
+        "x2": 1197.5,
+        "y2": 622.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Two arrested as part of investigation into movements of Dezi Freeman",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Two arrested as part of inv..."
+    },
+    {
+      "coordinates": {
+        "x1": 853.5,
+        "y1": 547.015625,
+        "x2": 901.71875,
+        "y2": 573.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nCrime",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nCrime"
+    },
+    {
+      "coordinates": {
+        "x1": 725.5,
+        "y1": 546.265625,
+        "x2": 841.5,
+        "y2": 633.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 725.5,
+        "y1": 546.265625,
+        "x2": 841.5,
+        "y2": 633.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Man holding phone horizontally while wearing body camera on a property that looks like a farm with mountain in the background",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Man holding phone horizonta..."
+    },
+    {
+      "coordinates": {
+        "x1": 353.5,
+        "y1": 700.015625,
+        "x2": 693.5,
+        "y2": 745.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Your pocket guide to daylight saving time ending in Australia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Your pocket guide to daylig..."
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 665.265625,
+        "x2": 337.5,
+        "y2": 752.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 665.265625,
+        "x2": 337.5,
+        "y2": 752.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A woman reaches out to an alarm clock from bed.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: A woman reaches out to an a..."
+    },
+    {
+      "coordinates": {
+        "x1": 857.5,
+        "y1": 696.015625,
+        "x2": 1197.5,
+        "y2": 741.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "'Extraordinary' images of home as astronauts head towards Moon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 'Extraordinary' images of h..."
+    },
+    {
+      "coordinates": {
+        "x1": 853.5,
+        "y1": 666.015625,
+        "x2": 926.078125,
+        "y2": 692.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nThe Moon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nThe Moon"
+    },
+    {
+      "coordinates": {
+        "x1": 725.5,
+        "y1": 665.265625,
+        "x2": 841.5,
+        "y2": 752.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 725.5,
+        "y1": 665.265625,
+        "x2": 841.5,
+        "y2": 752.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The entire Earth is seen from space, with blue oceans and swirling tendrils of white clouds. ",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The entire Earth is seen fr..."
+    },
+    {
+      "coordinates": {
+        "x1": 624.6875,
+        "y1": 800.265625,
+        "x2": 1197.5,
+        "y2": 850.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "One crew member missing after two US jets shot down by Iran",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: One crew member missing aft..."
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 804.265625,
+        "x2": 608.6875,
+        "y2": 820.265625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 221.5,
+        "y1": 800.265625,
+        "x2": 608.6875,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "An F-15 flies through the air",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: An F-15 flies through the air"
+    },
+    {
+      "coordinates": {
+        "x1": 691.765625,
+        "y1": 863.015625,
+        "x2": 877.359375,
+        "y2": 889.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nUnrest, Conflict and War",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nUnrest, Conflict and..."
+    },
+    {
+      "coordinates": {
+        "x1": 885.359375,
+        "y1": 863.015625,
+        "x2": 1001.515625,
+        "y2": 889.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nWorld Politics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nWorld Politics"
+    },
+    {
+      "coordinates": {
+        "x1": 637.6875,
+        "y1": 937.015625,
+        "x2": 1136.703125,
+        "y2": 954.515625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "'Disgusting': Prediction site under fire over bets on fate of missing US airman",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 'Disgusting': Prediction si..."
+    },
+    {
+      "coordinates": {
+        "x1": 1245.5,
+        "y1": 228.0,
+        "x2": 1348.578125,
+        "y2": 270.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Just In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Just In"
+    },
+    {
+      "coordinates": {
+        "x1": 1329.578125,
+        "y1": 240.0,
+        "x2": 1347.578125,
+        "y2": 258.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.5,
+        "y1": 316.75,
+        "x2": 1661.5,
+        "y2": 356.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cotton-Davis rivalry has gone global, 36ers coach says ahead of decider",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cotton-Davis rivalry has go..."
+    },
+    {
+      "coordinates": {
+        "x1": 1270.5,
+        "y1": 286.75,
+        "x2": 1303.765625,
+        "y2": 312.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nNBL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nNBL"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.5,
+        "y1": 411.5,
+        "x2": 1661.5,
+        "y2": 451.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bird's eye video shows US sprint superstar demolishing Stawell Gift field",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Bird's eye video shows US s..."
+    },
+    {
+      "coordinates": {
+        "x1": 1270.5,
+        "y1": 381.5,
+        "x2": 1338.40625,
+        "y2": 407.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nAthletics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nAthletics"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.5,
+        "y1": 509.5,
+        "x2": 1661.5,
+        "y2": 549.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Desperate Dragons fighting for first win of NRL season",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Desperate Dragons fighting ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1274.5,
+        "y1": 604.25,
+        "x2": 1661.5,
+        "y2": 644.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Police ask for help in locating missing woman in Albany national park",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Police ask for help in loca..."
+    },
+    {
+      "coordinates": {
+        "x1": 1270.5,
+        "y1": 574.25,
+        "x2": 1378.671875,
+        "y2": 600.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nMissing Person",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nMissing Person"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.5,
+        "y1": 699.0,
+        "x2": 1661.5,
+        "y2": 739.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lethlean to challenge Victorian premier in Bendigo East",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lethlean to challenge Victo..."
+    },
+    {
+      "coordinates": {
+        "x1": 1270.5,
+        "y1": 669.0,
+        "x2": 1467.484375,
+        "y2": 695.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topic:\nState and Territory Elections",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Topic:\nState and Territory ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1274.5,
+        "y1": 797.0,
+        "x2": 1618.140625,
+        "y2": 817.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rioli big mark sparks Tigers fightback at MCG",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Rioli big mark sparks Tiger..."
+    },
+    {
+      "coordinates": {
+        "x1": 1495.203125,
+        "y1": 849.0,
+        "x2": 1661.5,
+        "y2": 897.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "More Just In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: More Just In"
+    },
+    {
+      "coordinates": {
+        "x1": 1616.5,
+        "y1": 861.0,
+        "x2": 1640.5,
+        "y2": 885.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    }
+  ],
+  "dataset_split": "raw"
+}

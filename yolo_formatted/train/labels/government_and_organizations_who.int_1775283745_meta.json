@@ -1,0 +1,437 @@
+{
+  "url": "https://who.int",
+  "category": "government_and_organizations",
+  "timestamp": 1775283745,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 0,
+        "x2": 232.140625,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Global",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Global"
+    },
+    {
+      "coordinates": {
+        "x1": 232.140625,
+        "y1": 0,
+        "x2": 357.5625,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Regions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Regions"
+    },
+    {
+      "coordinates": {
+        "x1": 1480.859375,
+        "y1": 12.0,
+        "x2": 1504.859375,
+        "y2": 36.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1504.859375,
+        "y1": 0,
+        "x2": 1744.859375,
+        "y2": 48.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search input",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search input"
+    },
+    {
+      "coordinates": {
+        "x1": 1456.859375,
+        "y1": 12.0,
+        "x2": 1480.859375,
+        "y2": 36.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1563.328125,
+        "y1": 0,
+        "x2": 1722.328125,
+        "y2": 44.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "select",
+      "element_type": "select-one",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "    Select language\n        English\n        \u0627\u0644\u0639\u0631\u0628\u064a\u0629\n        \u4e2d\u6587\n        Fran\u00e7ais\n        \u0420\u0443\u0441\u0441\u043a\u0438\u0439\n        Espa\u00f1ol",
+        "placeholder": null,
+        "value": "Select language",
+        "name": "language-selector"
+      },
+      "descriptive_label": "general_dropdown: Select language\n        Eng..."
+    },
+    {
+      "coordinates": {
+        "x1": 156.5,
+        "y1": 78.0,
+        "x2": 365.796875,
+        "y2": 156.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".cls-1{fill:#0093d5;}World Health Organization",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 158.890625,
+        "y1": 193.390625,
+        "x2": 218.890625,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 246.734375,
+        "y1": 193.390625,
+        "x2": 421.046875,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Health Topics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Health Topics"
+    },
+    {
+      "coordinates": {
+        "x1": 489.609375,
+        "y1": 193.390625,
+        "x2": 630.84375,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Countries",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Countries"
+    },
+    {
+      "coordinates": {
+        "x1": 687.625,
+        "y1": 193.390625,
+        "x2": 838.828125,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newsroom",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Newsroom"
+    },
+    {
+      "coordinates": {
+        "x1": 899.15625,
+        "y1": 193.390625,
+        "x2": 1067.6875,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Emergencies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Emergencies"
+    },
+    {
+      "coordinates": {
+        "x1": 1134.1875,
+        "y1": 193.390625,
+        "x2": 1230.75,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Data",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Data"
+    },
+    {
+      "coordinates": {
+        "x1": 1271.625,
+        "y1": 193.390625,
+        "x2": 1430.328125,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About WHO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About WHO"
+    },
+    {
+      "coordinates": {
+        "x1": 821.28125,
+        "y1": 785.78125,
+        "x2": 1041.703125,
+        "y2": 825.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Find out more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Find out more"
+    },
+    {
+      "coordinates": {
+        "x1": 823.28125,
+        "y1": 787.78125,
+        "x2": 1039.703125,
+        "y2": 823.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Find out more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Find out more"
+    },
+    {
+      "coordinates": {
+        "x1": 1640.25,
+        "y1": 955.78125,
+        "x2": 1726.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "All \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: All \u2192"
+    }
+  ],
+  "dataset_split": "raw"
+}

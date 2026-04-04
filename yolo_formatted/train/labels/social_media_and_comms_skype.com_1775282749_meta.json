@@ -1,0 +1,487 @@
+{
+  "url": "https://skype.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1775282749,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 12.0,
+        "x2": 164.609375,
+        "y2": 36.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Teams meetings",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Teams meetings"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 12.0,
+        "x2": 40.0,
+        "y2": 36.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.109375,
+        "y1": 11.203125,
+        "x2": 1599.28125,
+        "y2": 36.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What's new",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: What's new"
+    },
+    {
+      "coordinates": {
+        "x1": 1607.28125,
+        "y1": 11.0,
+        "x2": 1765.4375,
+        "y2": 37.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download Teams",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Download Teams"
+    },
+    {
+      "coordinates": {
+        "x1": 1620.28125,
+        "y1": 14.0,
+        "x2": 1640.28125,
+        "y2": 34.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1773.4375,
+        "y1": 11.0,
+        "x2": 1867.0,
+        "y2": 37.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1786.4375,
+        "y1": 14.0,
+        "x2": 1806.4375,
+        "y2": 34.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1883.0,
+        "y2": 630.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 64.0,
+        "y1": 364.0,
+        "x2": 1883.0,
+        "y2": 426.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "p",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Open Teams in your browser\nJoin a meeting",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Open Teams in your browser\n..."
+    },
+    {
+      "coordinates": {
+        "x1": 64.0,
+        "y1": 364.0,
+        "x2": 349.109375,
+        "y2": 426.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Open Teams in your browser",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Open Teams in your browser"
+    },
+    {
+      "coordinates": {
+        "x1": 85.0,
+        "y1": 381.0,
+        "x2": 113.0,
+        "y2": 409.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 365.109375,
+        "y1": 364.0,
+        "x2": 549.78125,
+        "y2": 426.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Join a meeting",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Join a meeting"
+    },
+    {
+      "coordinates": {
+        "x1": 386.109375,
+        "y1": 381.0,
+        "x2": 414.109375,
+        "y2": 409.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 81.0,
+        "y1": 727.0,
+        "x2": 113.0,
+        "y2": 759.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 148.546875,
+        "y1": 791.0,
+        "x2": 816.9375,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 998.5,
+        "y1": 727.0,
+        "x2": 1030.5,
+        "y2": 759.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1020.171875,
+        "y1": 963.09375,
+        "x2": 1321.5625,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1457.25,
+        "y1": 727.0,
+        "x2": 1489.25,
+        "y2": 759.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1478.921875,
+        "y1": 909.28125,
+        "x2": 1780.3125,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    }
+  ],
+  "dataset_split": "raw"
+}

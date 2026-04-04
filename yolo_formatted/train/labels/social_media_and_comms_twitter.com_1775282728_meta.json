@@ -1,0 +1,637 @@
+{
+  "url": "https://twitter.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1775282728,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1071.65625,
+        "y1": 433.0,
+        "x2": 1371.65625,
+        "y2": 473.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Sign up with Apple",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign up with Apple"
+    },
+    {
+      "coordinates": {
+        "x1": 1071.65625,
+        "y1": 509.0,
+        "x2": 1371.65625,
+        "y2": 549.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Create account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Create account"
+    },
+    {
+      "coordinates": {
+        "x1": 1227.21875,
+        "y1": 564.0,
+        "x2": 1310.625,
+        "y2": 577.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 1071.65625,
+        "y1": 564.0,
+        "x2": 1373.96875,
+        "y2": 589.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1155.296875,
+        "y1": 576.0,
+        "x2": 1215.5625,
+        "y2": 589.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Cookie Use.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Use."
+    },
+    {
+      "coordinates": {
+        "x1": 1071.65625,
+        "y1": 689.0,
+        "x2": 1371.65625,
+        "y2": 729.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1071.65625,
+        "y1": 745.0,
+        "x2": 1371.65625,
+        "y2": 785.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Get Grok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get Grok"
+    },
+    {
+      "coordinates": {
+        "x1": 229.421875,
+        "y1": 950.0,
+        "x2": 260.40625,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 279.3125,
+        "y1": 950.0,
+        "x2": 381.484375,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Download the X app",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Download the X app"
+    },
+    {
+      "coordinates": {
+        "x1": 400.390625,
+        "y1": 950.0,
+        "x2": 424.75,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Grok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Grok"
+    },
+    {
+      "coordinates": {
+        "x1": 443.65625,
+        "y1": 950.0,
+        "x2": 503.859375,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Help Center",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Help Center"
+    },
+    {
+      "coordinates": {
+        "x1": 522.765625,
+        "y1": 950.0,
+        "x2": 606.171875,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 625.078125,
+        "y1": 950.0,
+        "x2": 694.328125,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 713.234375,
+        "y1": 950.0,
+        "x2": 781.328125,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 800.234375,
+        "y1": 950.0,
+        "x2": 864.0,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Accessibility",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Accessibility"
+    },
+    {
+      "coordinates": {
+        "x1": 882.90625,
+        "y1": 950.0,
+        "x2": 924.296875,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Ads info",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ads info"
+    },
+    {
+      "coordinates": {
+        "x1": 943.203125,
+        "y1": 950.0,
+        "x2": 965.515625,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Blog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Blog"
+    },
+    {
+      "coordinates": {
+        "x1": 984.421875,
+        "y1": 950.0,
+        "x2": 1023.71875,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Careers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Careers"
+    },
+    {
+      "coordinates": {
+        "x1": 1042.625,
+        "y1": 950.0,
+        "x2": 1128.4375,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Brand Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Brand Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1147.34375,
+        "y1": 950.0,
+        "x2": 1204.3125,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Advertising",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Advertising"
+    },
+    {
+      "coordinates": {
+        "x1": 1223.21875,
+        "y1": 950.0,
+        "x2": 1273.6875,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Marketing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Marketing"
+    },
+    {
+      "coordinates": {
+        "x1": 1292.59375,
+        "y1": 950.0,
+        "x2": 1364.453125,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "X for Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: X for Business"
+    },
+    {
+      "coordinates": {
+        "x1": 1383.359375,
+        "y1": 950.0,
+        "x2": 1440.453125,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 1459.359375,
+        "y1": 950.0,
+        "x2": 1487.609375,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 1506.515625,
+        "y1": 950.0,
+        "x2": 1548.375,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Settings",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Settings"
+    }
+  ],
+  "dataset_split": "raw"
+}

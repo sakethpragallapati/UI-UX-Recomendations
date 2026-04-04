@@ -1,0 +1,712 @@
+{
+  "url": "https://fb.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1775282718,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 246.1875,
+        "y1": 0,
+        "x2": 1231.0,
+        "y2": 900.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1300.0,
+        "y1": 293.0,
+        "x2": 1816.0,
+        "y2": 331.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "email"
+      },
+      "descriptive_label": "general_input: email"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.0,
+        "y1": 289.73333740234375,
+        "x2": 1501.0760498046875,
+        "y2": 304.4666748046875
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Email address or mobile number",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Email address or mobile number"
+    },
+    {
+      "coordinates": {
+        "x1": 1300.0,
+        "y1": 365.0,
+        "x2": 1816.0,
+        "y2": 403.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "password",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "pass"
+      },
+      "descriptive_label": "general_input: pass"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.0,
+        "y1": 373.0,
+        "x2": 1814.0,
+        "y2": 392.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Password",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Password"
+    },
+    {
+      "coordinates": {
+        "x1": 1285.0,
+        "y1": 438.0,
+        "x2": 1831.0,
+        "y2": 482.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Log in",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1285.0,
+        "y1": 494.0,
+        "x2": 1831.0,
+        "y2": 538.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Forgotten password?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Forgotten password?"
+    },
+    {
+      "coordinates": {
+        "x1": 1285.0,
+        "y1": 590.0,
+        "x2": 1831.0,
+        "y2": 634.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Create new account",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Create new account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Create new account"
+    },
+    {
+      "coordinates": {
+        "x1": 517.703125,
+        "y1": 933.0,
+        "x2": 548.265625,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "\u0939\u093f\u0928\u094d\u0926\u0940",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "coordinates": {
+        "x1": 580.265625,
+        "y1": 933.0,
+        "x2": 604.0625,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "\u0627\u0631\u062f\u0648",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u0627\u0631\u062f\u0648"
+    },
+    {
+      "coordinates": {
+        "x1": 636.0625,
+        "y1": 933.0,
+        "x2": 680.59375,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "coordinates": {
+        "x1": 712.59375,
+        "y1": 933.0,
+        "x2": 747.0625,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "\u09ac\u09be\u0982\u09b2\u09be",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "coordinates": {
+        "x1": 779.0625,
+        "y1": 933.0,
+        "x2": 814.484375,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "\u092e\u0930\u093e\u0920\u0940",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u092e\u0930\u093e\u0920\u0940"
+    },
+    {
+      "coordinates": {
+        "x1": 846.484375,
+        "y1": 933.0,
+        "x2": 894.453125,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    },
+    {
+      "coordinates": {
+        "x1": 926.453125,
+        "y1": 933.0,
+        "x2": 1044.625,
+        "y2": 953.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "More languages\u2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: More languages\u2026"
+    },
+    {
+      "coordinates": {
+        "x1": 406.5,
+        "y1": 967.984375,
+        "x2": 456.84375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 468.84375,
+        "y1": 967.984375,
+        "x2": 509.765625,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 521.765625,
+        "y1": 967.984375,
+        "x2": 594.046875,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Messenger",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Messenger"
+    },
+    {
+      "coordinates": {
+        "x1": 606.046875,
+        "y1": 967.984375,
+        "x2": 696.859375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Facebook Lite",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Facebook Lite"
+    },
+    {
+      "coordinates": {
+        "x1": 708.859375,
+        "y1": 967.984375,
+        "x2": 747.28125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Video",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Video"
+    },
+    {
+      "coordinates": {
+        "x1": 759.28125,
+        "y1": 967.984375,
+        "x2": 820.203125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Meta Pay",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Meta Pay"
+    },
+    {
+      "coordinates": {
+        "x1": 832.203125,
+        "y1": 967.984375,
+        "x2": 904.765625,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Meta Store",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Meta Store"
+    },
+    {
+      "coordinates": {
+        "x1": 916.765625,
+        "y1": 967.984375,
+        "x2": 994.0,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Meta Quest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Meta Quest"
+    },
+    {
+      "coordinates": {
+        "x1": 1006.0,
+        "y1": 967.984375,
+        "x2": 1098.71875,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Ray-Ban Meta",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ray-Ban Meta"
+    },
+    {
+      "coordinates": {
+        "x1": 1110.71875,
+        "y1": 967.984375,
+        "x2": 1162.53125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Meta AI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Meta AI"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.53125,
+        "y1": 967.984375,
+        "x2": 1240.703125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Instagram",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Instagram"
+    },
+    {
+      "coordinates": {
+        "x1": 1252.703125,
+        "y1": 967.984375,
+        "x2": 1304.953125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Threads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Threads"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.953125,
+        "y1": 967.984375,
+        "x2": 1405.40625,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Policy"
+    }
+  ],
+  "dataset_split": "raw"
+}

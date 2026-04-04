@@ -1,0 +1,1462 @@
+{
+  "url": "https://vistaprint.com",
+  "category": "miscellaneous",
+  "timestamp": 1775284587,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1030.375,
+        "y1": 13.0,
+        "x2": 1190.375,
+        "y2": 45.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Select Country : India",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "India",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Select Country : India"
+    },
+    {
+      "coordinates": {
+        "x1": 1161.375,
+        "y1": 19.0,
+        "x2": 1181.375,
+        "y2": 39.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.375,
+        "y1": 9.0,
+        "x2": 1304.6875,
+        "y2": 49.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Continue",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Continue"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.6875,
+        "y1": 18.5,
+        "x2": 1332.6875,
+        "y2": 39.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.6875,
+        "y1": 22.84375,
+        "x2": 1332.6875,
+        "y2": 38.84375
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 70.0,
+        "x2": 186.78125,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Websites by Vista x Wix",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Websites by Vista x Wix"
+    },
+    {
+      "coordinates": {
+        "x1": 210.78125,
+        "y1": 70.0,
+        "x2": 328.203125,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Corporate Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Corporate Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 352.203125,
+        "y1": 70.0,
+        "x2": 464.609375,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reseller Program",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Reseller Program"
+    },
+    {
+      "coordinates": {
+        "x1": 488.609375,
+        "y1": 70.0,
+        "x2": 565.078125,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "VistaCreate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: VistaCreate"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 135.484375,
+        "x2": 244.0,
+        "y2": 176.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Vistaprint Home Logo",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".st0{fill:#006196;} .st1{fill:#2BA8E0;} .st2{fill:#6ECFF5;}",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Vistaprint Home Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 296.0,
+        "y1": 144.0,
+        "x2": 1156.21875,
+        "y2": 168.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1158.21875,
+        "y1": 136.0,
+        "x2": 1198.21875,
+        "y2": 176.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1166.21875,
+        "y1": 144.0,
+        "x2": 1190.21875,
+        "y2": 168.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1230.21875,
+        "y1": 135.0,
+        "x2": 1349.8125,
+        "y2": 177.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Follow link to help center or call us at 1 . 8 6 6 . 2 0 7 . 4 9 5 5",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help is here\n1.866.207.4955",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Follow link to help center ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1381.8125,
+        "y1": 144.0,
+        "x2": 1494.40625,
+        "y2": 168.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "My projects",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My projects",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: My projects"
+    },
+    {
+      "coordinates": {
+        "x1": 1526.40625,
+        "y1": 145.5,
+        "x2": 1637.328125,
+        "y2": 166.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "My Favorites",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My Favorites",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: My Favorites"
+    },
+    {
+      "coordinates": {
+        "x1": 1669.328125,
+        "y1": 142.0,
+        "x2": 1750.484375,
+        "y2": 170.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1782.484375,
+        "y1": 141.5,
+        "x2": 1851.0,
+        "y2": 170.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Your cart is empty.\nCart",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Your cart is empty.\nCart"
+    },
+    {
+      "coordinates": {
+        "x1": 1782.484375,
+        "y1": 141.5,
+        "x2": 1814.484375,
+        "y2": 170.5
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_cart"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 196.0,
+        "x2": 1851.0,
+        "y2": 252.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "ul",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Deals\nBusiness Cards\nPostcards & Print Advertising\nSigns, Banners & Posters\nStickers & Labels\nClothing & Bags\nPromotional Products\nPackaging\nInvitations, Gifts & Stationery\nWedding\nLogo, Websites & Social\nDesign Services",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_menu: Deals\nBusiness Cards\nPostca..."
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 196.0,
+        "x2": 100.640625,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Deals"
+    },
+    {
+      "coordinates": {
+        "x1": 100.640625,
+        "y1": 196.0,
+        "x2": 233.0,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business Cards",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Business Cards"
+    },
+    {
+      "coordinates": {
+        "x1": 233.0,
+        "y1": 196.0,
+        "x2": 455.8125,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Postcards & Print Advertising",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Postcards & Print Advertising"
+    },
+    {
+      "coordinates": {
+        "x1": 455.8125,
+        "y1": 196.0,
+        "x2": 650.546875,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Signs, Banners & Posters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Signs, Banners & Posters"
+    },
+    {
+      "coordinates": {
+        "x1": 650.546875,
+        "y1": 196.0,
+        "x2": 794.765625,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Stickers & Labels",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Stickers & Labels"
+    },
+    {
+      "coordinates": {
+        "x1": 794.765625,
+        "y1": 196.0,
+        "x2": 932.90625,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Clothing & Bags",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Clothing & Bags"
+    },
+    {
+      "coordinates": {
+        "x1": 932.90625,
+        "y1": 196.0,
+        "x2": 1107.390625,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Promotional Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Promotional Products"
+    },
+    {
+      "coordinates": {
+        "x1": 1107.390625,
+        "y1": 196.0,
+        "x2": 1208.21875,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Packaging",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Packaging"
+    },
+    {
+      "coordinates": {
+        "x1": 1208.21875,
+        "y1": 196.0,
+        "x2": 1432.109375,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Invitations, Gifts & Stationery",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Invitations, Gifts & Statio..."
+    },
+    {
+      "coordinates": {
+        "x1": 1432.109375,
+        "y1": 196.0,
+        "x2": 1523.78125,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wedding",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Wedding"
+    },
+    {
+      "coordinates": {
+        "x1": 1523.78125,
+        "y1": 196.0,
+        "x2": 1713.25,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Logo, Websites & Social",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Logo, Websites & Social"
+    },
+    {
+      "coordinates": {
+        "x1": 1713.25,
+        "y1": 196.0,
+        "x2": 1851.0,
+        "y2": 250.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Design Services",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Design Services"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 269.0,
+        "x2": 58.0,
+        "y2": 295.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Previous message",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Previous message"
+    },
+    {
+      "coordinates": {
+        "x1": 33.0,
+        "y1": 270.0,
+        "x2": 57.0,
+        "y2": 294.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1095.15625,
+        "y1": 270.0,
+        "x2": 1170.46875,
+        "y2": 294.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Shop now"
+    },
+    {
+      "coordinates": {
+        "x1": 1108.1875,
+        "y1": 270.0,
+        "x2": 1183.5,
+        "y2": 294.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1825.0,
+        "y1": 269.0,
+        "x2": 1851.0,
+        "y2": 295.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Next message",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next message"
+    },
+    {
+      "coordinates": {
+        "x1": 1826.0,
+        "y1": 270.0,
+        "x2": 1850.0,
+        "y2": 294.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 723.109375,
+        "y1": 531.59375,
+        "x2": 911.171875,
+        "y2": 579.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bestselling Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Bestselling Products"
+    },
+    {
+      "coordinates": {
+        "x1": 923.171875,
+        "y1": 531.59375,
+        "x2": 1020.796875,
+        "y2": 579.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Services",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Services"
+    },
+    {
+      "coordinates": {
+        "x1": 1032.796875,
+        "y1": 531.59375,
+        "x2": 1159.890625,
+        "y2": 579.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Logo Design",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Logo Design"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 310.4296875,
+        "x2": 1883.0,
+        "y2": 629.1640625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 62.0,
+        "y1": 663.40625,
+        "x2": 86.0,
+        "y2": 687.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 668.328125,
+        "y1": 663.40625,
+        "x2": 692.328125,
+        "y2": 687.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.65625,
+        "y1": 663.40625,
+        "x2": 1298.65625,
+        "y2": 687.40625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 935.0,
+        "x2": 80.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to previous slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Go to previous slide"
+    },
+    {
+      "coordinates": {
+        "x1": 44.0,
+        "y1": 947.0,
+        "x2": 68.0,
+        "y2": 971.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1803.0,
+        "y1": 935.0,
+        "x2": 1851.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to next slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Go to next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1815.0,
+        "y1": 947.0,
+        "x2": 1839.0,
+        "y2": 971.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 44.0,
+        "y1": 836.0,
+        "x2": 247.375,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 271.375,
+        "y1": 836.0,
+        "x2": 474.75,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 498.75,
+        "y1": 836.0,
+        "x2": 702.125,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 726.125,
+        "y1": 836.0,
+        "x2": 929.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 953.5,
+        "y1": 836.0,
+        "x2": 1156.875,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1180.875,
+        "y1": 836.0,
+        "x2": 1384.25,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1408.25,
+        "y1": 836.0,
+        "x2": 1611.625,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1635.625,
+        "y1": 836.0,
+        "x2": 1839.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1863.0,
+        "y1": 836.0,
+        "x2": 1898,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    }
+  ],
+  "dataset_split": "raw"
+}

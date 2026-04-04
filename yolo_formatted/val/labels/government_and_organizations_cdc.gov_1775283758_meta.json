@@ -1,0 +1,512 @@
+{
+  "url": "https://cdc.gov",
+  "category": "government_and_organizations",
+  "timestamp": 1775283758,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 299.5,
+        "y1": 13.21875,
+        "x2": 315.5,
+        "y2": 24.21875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 627.375,
+        "y1": 9.0,
+        "x2": 764.078125,
+        "y2": 26.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Here's how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 1537.09375,
+        "y1": 9.0,
+        "x2": 1583.5,
+        "y2": 26.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Espa\u00f1ol",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Espa\u00f1ol"
+    },
+    {
+      "coordinates": {
+        "x1": 295.0,
+        "y1": 46.09375,
+        "x2": 526.796875,
+        "y2": 111.34375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 295.0,
+        "y1": 51.71875,
+        "x2": 526.796875,
+        "y2": 105.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Centers for Disease Control and Prevention",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Centers for Disease Control..."
+    },
+    {
+      "coordinates": {
+        "x1": 1041.71875,
+        "y1": 64.71875,
+        "x2": 1195.328125,
+        "y2": 120.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "HEALTH TOPICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: HEALTH TOPICS"
+    },
+    {
+      "coordinates": {
+        "x1": 1205.328125,
+        "y1": 64.71875,
+        "x2": 1325.90625,
+        "y2": 120.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "OUTBREAKS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: OUTBREAKS"
+    },
+    {
+      "coordinates": {
+        "x1": 1335.90625,
+        "y1": 64.71875,
+        "x2": 1461.734375,
+        "y2": 120.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "ABOUT CDC",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: ABOUT CDC"
+    },
+    {
+      "coordinates": {
+        "x1": 1471.734375,
+        "y1": 64.71875,
+        "x2": 1588.0,
+        "y2": 120.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SEARCH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: SEARCH"
+    },
+    {
+      "coordinates": {
+        "x1": 1480.734375,
+        "y1": 80.21875,
+        "x2": 1499.234375,
+        "y2": 107.21875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 36.71875,
+        "x2": 1883.0,
+        "y2": 887.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "cheddar cheese on cheese board",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: cheddar cheese on cheese board"
+    },
+    {
+      "coordinates": {
+        "x1": 1065.0,
+        "y1": 394.21875,
+        "x2": 1200.390625,
+        "y2": 436.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 36.71875,
+        "x2": 1883.0,
+        "y2": 887.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "child with measles rash",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: child with measles rash"
+    },
+    {
+      "coordinates": {
+        "x1": 1065.0,
+        "y1": 322.21875,
+        "x2": 1200.390625,
+        "y2": 364.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 36.71875,
+        "x2": 1883.0,
+        "y2": 887.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "three doctors standing wearing personal protective equipmen",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: three doctors standing wear..."
+    },
+    {
+      "coordinates": {
+        "x1": 1065.0,
+        "y1": 394.21875,
+        "x2": 1200.390625,
+        "y2": 436.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 361.734375,
+        "y1": 912.015625,
+        "x2": 667.90625,
+        "y2": 942.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Raw Cheese E. coli Outbreak",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Raw Cheese E. coli Outbreak"
+    },
+    {
+      "coordinates": {
+        "x1": 861.96875,
+        "y1": 912.015625,
+        "x2": 1021.015625,
+        "y2": 942.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About Measles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About Measles"
+    },
+    {
+      "coordinates": {
+        "x1": 1183.1875,
+        "y1": 912.015625,
+        "x2": 1553.140625,
+        "y2": 942.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Outbreaks You Never Heard About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Outbreaks You Never Heard A..."
+    },
+    {
+      "coordinates": {
+        "x1": 1526.5,
+        "y1": 832.390625,
+        "x2": 1566.5,
+        "y2": 873.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pause carousel",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Pause carousel"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://secureserver.net",
+  "category": "domains_and_hosting",
+  "timestamp": 1775284351,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 568.0,
+        "y1": 157.0,
+        "x2": 645.8125,
+        "y2": 201.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 582.0,
+        "y1": 167.0,
+        "x2": 631.8125,
+        "y2": 191.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Sign In"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,987 @@
+{
+  "url": "https://psychologytoday.com",
+  "category": "education_and_reference",
+  "timestamp": 1775283724,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 879.375,
+        "x2": 398.5,
+        "y2": 903.375
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 381.5,
+        "y1": 886.375,
+        "x2": 391.5,
+        "y2": 896.375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 80.0,
+        "x2": 1.0,
+        "y2": 81.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 365.5,
+        "y1": 22.0,
+        "x2": 545.5,
+        "y2": 58.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Psychology Today",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Psychology Today"
+    },
+    {
+      "coordinates": {
+        "x1": 748.5625,
+        "y1": 18.5,
+        "x2": 893.21875,
+        "y2": 61.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Find a Therapist",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Find a Therapist"
+    },
+    {
+      "coordinates": {
+        "x1": 901.21875,
+        "y1": 18.5,
+        "x2": 995.640625,
+        "y2": 61.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get Help"
+    },
+    {
+      "coordinates": {
+        "x1": 1003.640625,
+        "y1": 18.5,
+        "x2": 1103.578125,
+        "y2": 61.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Magazine",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Magazine"
+    },
+    {
+      "coordinates": {
+        "x1": 1111.578125,
+        "y1": 18.5,
+        "x2": 1179.4375,
+        "y2": 61.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Tests",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Tests"
+    },
+    {
+      "coordinates": {
+        "x1": 1413.921875,
+        "y1": 28.5,
+        "x2": 1456.5,
+        "y2": 51.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "US",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: US"
+    },
+    {
+      "coordinates": {
+        "x1": 1476.5,
+        "y1": 21.5,
+        "x2": 1521.5,
+        "y2": 60.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 92.0,
+        "x2": 1511.5,
+        "y2": 529.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Making Friends on the Train\nThe Brief Life of the Travel Friendship",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Making Friends on the Train..."
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 92.0,
+        "x2": 1511.5,
+        "y2": 529.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "AI Generated",
+        "alt_text": "AI Generated",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: AI Generated"
+    },
+    {
+      "coordinates": {
+        "x1": 419.5,
+        "y1": 559.0,
+        "x2": 606.53125,
+        "y2": 597.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Find a Therapist",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Find a Therapist"
+    },
+    {
+      "coordinates": {
+        "x1": 941.390625,
+        "y1": 569.0,
+        "x2": 959.390625,
+        "y2": 587.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 428.5,
+        "y1": 604.0,
+        "x2": 541.390625,
+        "y2": 641.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Therapists",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Therapists"
+    },
+    {
+      "coordinates": {
+        "x1": 548.390625,
+        "y1": 596.0,
+        "x2": 1072.5,
+        "y2": 649.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search input text",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "City or Zip",
+        "value": "",
+        "name": "search"
+      },
+      "descriptive_label": "icon_search: Search input text"
+    },
+    {
+      "coordinates": {
+        "x1": 1080.5,
+        "y1": 606.5,
+        "x2": 1124.5,
+        "y2": 638.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search button",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "Search",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search button"
+    },
+    {
+      "coordinates": {
+        "x1": 1205.5,
+        "y1": 595.0,
+        "x2": 1419.78125,
+        "y2": 650.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up and Get Listed",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign Up and Get Listed"
+    },
+    {
+      "coordinates": {
+        "x1": 1431.90625,
+        "y1": 608.390625,
+        "x2": 1468.828125,
+        "y2": 630.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 706.0,
+        "x2": 551.5,
+        "y2": 749.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 760.59375,
+        "x2": 548.640625,
+        "y2": 805.84375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Hidden Psychology of Oracle's Layoffs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Hidden Psychology of Or..."
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 834.6875,
+        "x2": 541.171875,
+        "y2": 879.9375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Is Generative AI a New Addiction Category?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Is Generative AI a New Addi..."
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 908.78125,
+        "x2": 537.171875,
+        "y2": 975.28125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Generation That Won't Say \"I Love You\" to Friends",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Generation That Won't S..."
+    },
+    {
+      "coordinates": {
+        "x1": 581.5,
+        "y1": 706.0,
+        "x2": 1181.5,
+        "y2": 749.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Today\u2019s Essential Reads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Today\u2019s Essential Reads"
+    },
+    {
+      "coordinates": {
+        "x1": 581.5,
+        "y1": 821.453125,
+        "x2": 725.5,
+        "y2": 844.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 581.5,
+        "y1": 762.59375,
+        "x2": 725.5,
+        "y2": 906.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Photo courtesy of Netflix/Fair Use",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Photo courtesy of Netflix/F..."
+    },
+    {
+      "coordinates": {
+        "x1": 749.5,
+        "y1": 758.59375,
+        "x2": 905.140625,
+        "y2": 777.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "COMPULSIVE BEHAVIORS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: COMPULSIVE BEHAVIORS"
+    },
+    {
+      "coordinates": {
+        "x1": 749.5,
+        "y1": 777.671875,
+        "x2": 1155.84375,
+        "y2": 841.9375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "March Madness and the Rise of Gen Z Sports Gambling",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: March Madness and the Rise ..."
+    },
+    {
+      "coordinates": {
+        "x1": 749.5,
+        "y1": 838.203125,
+        "x2": 850.828125,
+        "y2": 856.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mark S. Gold M.D.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Mark S. Gold M.D."
+    },
+    {
+      "coordinates": {
+        "x1": 962.90625,
+        "y1": 838.203125,
+        "x2": 1065.828125,
+        "y2": 856.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Addiction Outlook",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Addiction Outlook"
+    },
+    {
+      "coordinates": {
+        "x1": 1211.5,
+        "y1": 762.59375,
+        "x2": 1286.5,
+        "y2": 837.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1211.5,
+        "y1": 762.59375,
+        "x2": 1286.5,
+        "y2": 837.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Chinmay Singh/Pexels",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Chinmay Singh/Pexels"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.5,
+        "y1": 778.40625,
+        "x2": 1490.90625,
+        "y2": 821.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What to Do When You Hit Life's Low Point",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What to Do When You Hit Lif..."
+    },
+    {
+      "coordinates": {
+        "x1": 1211.5,
+        "y1": 850.390625,
+        "x2": 1286.5,
+        "y2": 925.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1211.5,
+        "y1": 850.390625,
+        "x2": 1286.5,
+        "y2": 925.390625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Shawn Day / Unsplash ",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Shawn Day / Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.5,
+        "y1": 866.203125,
+        "x2": 1490.078125,
+        "y2": 908.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Meditation \u2018Works\u2019 Faster Than Previously Thought",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Meditation \u2018Works\u2019 Faster T..."
+    },
+    {
+      "coordinates": {
+        "x1": 1211.5,
+        "y1": 938.1875,
+        "x2": 1286.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1211.5,
+        "y1": 938.1875,
+        "x2": 1286.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Getty Images / Unsplash",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Getty Images / Unsplash"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.5,
+        "y1": 944.65625,
+        "x2": 1452.359375,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What 'I Need Space' Actually Means in a Relationship",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What 'I Need Space' Actuall..."
+    }
+  ],
+  "dataset_split": "raw"
+}

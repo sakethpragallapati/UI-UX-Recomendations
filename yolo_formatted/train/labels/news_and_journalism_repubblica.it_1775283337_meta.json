@@ -1,0 +1,962 @@
+{
+  "url": "https://repubblica.it",
+  "category": "news_and_journalism",
+  "timestamp": 1775283337,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 311.5,
+        "y1": 8.0,
+        "x2": 394.015625,
+        "y2": 42.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 410.015625,
+        "y1": 17.0,
+        "x2": 473.34375,
+        "y2": 33.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cerca",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Cerca"
+    },
+    {
+      "coordinates": {
+        "x1": 489.34375,
+        "y1": 15.0,
+        "x2": 578.046875,
+        "y2": 35.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 910.03125,
+        "y1": 19.0,
+        "x2": 972.96875,
+        "y2": 31.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ABBONATI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ABBONATI"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.15625,
+        "y1": 18.0,
+        "x2": 1464.15625,
+        "y2": 32.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1531.5,
+        "y1": 13.0,
+        "x2": 1555.5,
+        "y2": 37.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 321.5,
+        "y1": 60.0,
+        "x2": 1525.5,
+        "y2": 108.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Cerca articoli o argomenti",
+        "value": "",
+        "name": "query"
+      },
+      "descriptive_label": "icon_search: Cerca articoli o argomenti"
+    },
+    {
+      "coordinates": {
+        "x1": 1502.5,
+        "y1": 75.0,
+        "x2": 1520.5,
+        "y2": 93.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1535.5,
+        "y1": 66.0,
+        "x2": 1571.5,
+        "y2": 102.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 311.5,
+        "y1": 59.0,
+        "x2": 521.5,
+        "y2": 177.15625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 537.5,
+        "y1": 58.0,
+        "x2": 1543.3125,
+        "y2": 120.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Dentro la pi\u00f9 grande baraccopoli d'Europa, Borgo Mezzanone: la citt\u00e0 che nessuno vuole vedere",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Dentro la pi\u00f9 grande baracc..."
+    },
+    {
+      "coordinates": {
+        "x1": 715.75,
+        "y1": 206.15625,
+        "x2": 1167.234375,
+        "y2": 284.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 715.75,
+        "y1": 206.15625,
+        "x2": 1167.234375,
+        "y2": 282.15625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Repubblica Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Repubblica Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 714.46875,
+        "y1": 348.15625,
+        "x2": 810.84375,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Repubblica50",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Repubblica50"
+    },
+    {
+      "coordinates": {
+        "x1": 834.84375,
+        "y1": 348.15625,
+        "x2": 926.734375,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sabato santo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sabato santo"
+    },
+    {
+      "coordinates": {
+        "x1": 950.734375,
+        "y1": 348.15625,
+        "x2": 997.875,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Meloni",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Meloni"
+    },
+    {
+      "coordinates": {
+        "x1": 1021.875,
+        "y1": 348.15625,
+        "x2": 1140.3125,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Gianmarco Mazzi",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Gianmarco Mazzi"
+    },
+    {
+      "coordinates": {
+        "x1": 1164.3125,
+        "y1": 348.15625,
+        "x2": 1261.421875,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Claudia Conte",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Claudia Conte"
+    },
+    {
+      "coordinates": {
+        "x1": 1285.421875,
+        "y1": 348.15625,
+        "x2": 1312.25,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Iran",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Iran"
+    },
+    {
+      "coordinates": {
+        "x1": 1336.25,
+        "y1": 348.15625,
+        "x2": 1388.515625,
+        "y2": 365.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ucraina",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ucraina"
+    },
+    {
+      "coordinates": {
+        "x1": 336.5,
+        "y1": 750.15625,
+        "x2": 1198.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 336.5,
+        "y1": 750.15625,
+        "x2": 1198.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Jet Usa abbattuto, colpito anche l\u2019aereo dei soccorritori | Tutti i rischi di Sandy, la missione sotto il fuoco nemico per salvare il pilota disperso",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Jet Usa abbattuto, colpito ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1247.5,
+        "y1": 750.15625,
+        "x2": 1546.5,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1247.5,
+        "y1": 750.15625,
+        "x2": 1546.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Ecco come sar\u00e0 la faraonica biblioteca di Trump a Miami: aerei, statue, oro ma niente libri",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Ecco come sar\u00e0 la faraonica..."
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 190.96875,
+        "x2": 772.5,
+        "y2": 231.96875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1247.5,
+        "y1": 198.78125,
+        "x2": 1317.5,
+        "y2": 224.15625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Iubenda Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Iubenda Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 727.359375,
+        "y1": 331.96875,
+        "x2": 823.109375,
+        "y2": 348.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 375.96875,
+        "x2": 835.015625,
+        "y2": 392.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pannello delle preferenze pubblicitarie",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: pannello delle preferenze p..."
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 373.96875,
+        "x2": 835.015625,
+        "y2": 395.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pannello delle preferenze pubblicitarie",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: pannello delle preferenze p..."
+    },
+    {
+      "coordinates": {
+        "x1": 1094.765625,
+        "y1": 463.96875,
+        "x2": 1317.5,
+        "y2": 511.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "RIFIUTA E ABBONATI",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: RIFIUTA E ABBONATI"
+    },
+    {
+      "coordinates": {
+        "x1": 565.5,
+        "y1": 463.96875,
+        "x2": 702.8125,
+        "y2": 511.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "ACCETTA",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: ACCETTA"
+    },
+    {
+      "coordinates": {
+        "x1": 969.328125,
+        "y1": 550.96875,
+        "x2": 1054.234375,
+        "y2": 576.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ACCEDI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ACCEDI"
+    },
+    {
+      "coordinates": {
+        "x1": 1031.515625,
+        "y1": 591.96875,
+        "x2": 1110.28125,
+        "y2": 606.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 885.34375,
+        "y1": 628.34375,
+        "x2": 943.15625,
+        "y2": 643.34375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "terze parti",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: terze parti"
+    },
+    {
+      "coordinates": {
+        "x1": 885.34375,
+        "y1": 627.34375,
+        "x2": 943.15625,
+        "y2": 645.53125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "terze parti",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: terze parti"
+    },
+    {
+      "coordinates": {
+        "x1": 639.90625,
+        "y1": 701.09375,
+        "x2": 858.890625,
+        "y2": 716.09375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pannello delle preferenze pubblicitarie",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: pannello delle preferenze p..."
+    },
+    {
+      "coordinates": {
+        "x1": 639.90625,
+        "y1": 700.09375,
+        "x2": 858.890625,
+        "y2": 718.28125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "pannello delle preferenze pubblicitarie",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: pannello delle preferenze p..."
+    },
+    {
+      "coordinates": {
+        "x1": 588.578125,
+        "y1": 737.46875,
+        "x2": 666.375,
+        "y2": 752.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Policy"
+    }
+  ],
+  "dataset_split": "raw"
+}

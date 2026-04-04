@@ -1,0 +1,1587 @@
+{
+  "url": "https://britannica.com",
+  "category": "education_and_reference",
+  "timestamp": 1775283599,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 258.5,
+        "y1": 5.0,
+        "x2": 355.03125,
+        "y2": 51.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Explore",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Explore"
+    },
+    {
+      "coordinates": {
+        "x1": 849.609375,
+        "y1": 13.5,
+        "x2": 1033.390625,
+        "y2": 41.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Encyclopedia Britannica",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Encyclopedia Britannica"
+    },
+    {
+      "coordinates": {
+        "x1": 1402.390625,
+        "y1": 12.203125,
+        "x2": 1510.140625,
+        "y2": 43.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SUBSCRIBE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: SUBSCRIBE"
+    },
+    {
+      "coordinates": {
+        "x1": 1520.140625,
+        "y1": 6.703125,
+        "x2": 1609.5,
+        "y2": 49.296875
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 614.0,
+        "y1": 59.0,
+        "x2": 615.0,
+        "y2": 60.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search Britannica",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label: Search Britannica"
+    },
+    {
+      "coordinates": {
+        "x1": 615.0,
+        "y1": 60.0,
+        "x2": 1268.0,
+        "y2": 100.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search Britannica",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search Britannica...",
+        "value": "",
+        "name": "query"
+      },
+      "descriptive_label": "icon_search: Search Britannica"
+    },
+    {
+      "coordinates": {
+        "x1": 1222.0,
+        "y1": 60.0,
+        "x2": 1268.0,
+        "y2": 100.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Click here to search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Click here to search"
+    },
+    {
+      "coordinates": {
+        "x1": 1233.0,
+        "y1": 68.0,
+        "x2": 1257.0,
+        "y2": 92.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "em",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 284.015625,
+        "y1": 110.0,
+        "x2": 447.203125,
+        "y2": 136.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ask the Chatbot",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ask the Chatbot"
+    },
+    {
+      "coordinates": {
+        "x1": 467.203125,
+        "y1": 112.0,
+        "x2": 591.453125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Games & Quizzes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Games & Quizzes"
+    },
+    {
+      "coordinates": {
+        "x1": 611.453125,
+        "y1": 112.0,
+        "x2": 733.828125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "History & Society",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: History & Society"
+    },
+    {
+      "coordinates": {
+        "x1": 753.828125,
+        "y1": 112.0,
+        "x2": 859.984375,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Science & Tech",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Science & Tech"
+    },
+    {
+      "coordinates": {
+        "x1": 879.984375,
+        "y1": 112.0,
+        "x2": 963.03125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Biographies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Biographies"
+    },
+    {
+      "coordinates": {
+        "x1": 983.03125,
+        "y1": 112.0,
+        "x2": 1108.953125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Animals & Nature",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Animals & Nature"
+    },
+    {
+      "coordinates": {
+        "x1": 1128.953125,
+        "y1": 112.0,
+        "x2": 1269.171875,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Geography & Travel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Geography & Travel"
+    },
+    {
+      "coordinates": {
+        "x1": 1289.171875,
+        "y1": 112.0,
+        "x2": 1390.078125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Arts & Culture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Arts & Culture"
+    },
+    {
+      "coordinates": {
+        "x1": 1410.078125,
+        "y1": 112.0,
+        "x2": 1462.3125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ProCon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: ProCon"
+    },
+    {
+      "coordinates": {
+        "x1": 1482.3125,
+        "y1": 112.0,
+        "x2": 1531.21875,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Money",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Money"
+    },
+    {
+      "coordinates": {
+        "x1": 1551.21875,
+        "y1": 112.0,
+        "x2": 1598.984375,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Videos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Videos"
+    },
+    {
+      "coordinates": {
+        "x1": 269.015625,
+        "y1": 107.6875,
+        "x2": 301.015625,
+        "y2": 139.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1581.984375,
+        "y1": 107.6875,
+        "x2": 1613.984375,
+        "y2": 139.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 495.5625,
+        "y1": 169.390625,
+        "x2": 599.609375,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "2026 Iran War",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 2026 Iran War"
+    },
+    {
+      "coordinates": {
+        "x1": 613.609375,
+        "y1": 169.390625,
+        "x2": 697.03125,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pam Bondi",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pam Bondi"
+    },
+    {
+      "coordinates": {
+        "x1": 711.03125,
+        "y1": 169.390625,
+        "x2": 811.84375,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Private Credit",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Private Credit"
+    },
+    {
+      "coordinates": {
+        "x1": 825.84375,
+        "y1": 169.390625,
+        "x2": 950.578125,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "US Forest Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: US Forest Service"
+    },
+    {
+      "coordinates": {
+        "x1": 964.578125,
+        "y1": 169.390625,
+        "x2": 1111.578125,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ten Plagues of Egypt",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Ten Plagues of Egypt"
+    },
+    {
+      "coordinates": {
+        "x1": 1125.578125,
+        "y1": 169.390625,
+        "x2": 1194.578125,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Zendaya",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Zendaya"
+    },
+    {
+      "coordinates": {
+        "x1": 1208.578125,
+        "y1": 169.390625,
+        "x2": 1401.78125,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Science of Project Hail Mary",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Science of Project Hail Mary"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 163.1875,
+        "x2": 441.5,
+        "y2": 195.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1370.78125,
+        "y1": 163.1875,
+        "x2": 1420.78125,
+        "y2": 195.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 215.390625,
+        "x2": 475.390625,
+        "y2": 234.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "April 4, 2026",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: April 4, 2026"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 245.1875,
+        "x2": 614.1875,
+        "y2": 281.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Happy Easter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Happy Easter"
+    },
+    {
+      "coordinates": {
+        "x1": 540.296875,
+        "y1": 298.578125,
+        "x2": 642.15625,
+        "y2": 317.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Easter Sunday",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Easter Sunday"
+    },
+    {
+      "coordinates": {
+        "x1": 797.921875,
+        "y1": 298.578125,
+        "x2": 889.40625,
+        "y2": 317.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resurrection",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Resurrection"
+    },
+    {
+      "coordinates": {
+        "x1": 910.953125,
+        "y1": 298.578125,
+        "x2": 950.0,
+        "y2": 317.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jesus",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jesus"
+    },
+    {
+      "coordinates": {
+        "x1": 416.28125,
+        "y1": 320.96875,
+        "x2": 495.0,
+        "y2": 339.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Crucifixion",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Crucifixion"
+    },
+    {
+      "coordinates": {
+        "x1": 841.96875,
+        "y1": 320.96875,
+        "x2": 874.34375,
+        "y2": 339.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lent"
+    },
+    {
+      "coordinates": {
+        "x1": 1013.328125,
+        "y1": 320.96875,
+        "x2": 1090.953125,
+        "y2": 339.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Holy Week",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Holy Week"
+    },
+    {
+      "coordinates": {
+        "x1": 500.625,
+        "y1": 343.359375,
+        "x2": 588.484375,
+        "y2": 362.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Good Friday",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Good Friday"
+    },
+    {
+      "coordinates": {
+        "x1": 795.53125,
+        "y1": 343.359375,
+        "x2": 896.953125,
+        "y2": 362.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Holy Saturday",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Holy Saturday"
+    },
+    {
+      "coordinates": {
+        "x1": 827.5625,
+        "y1": 388.140625,
+        "x2": 957.796875,
+        "y2": 407.140625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Christian calendar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Christian calendar"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 429.53125,
+        "x2": 1118.15625,
+        "y2": 840.203125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "History and observance of Easter, Christian observance of the Resurrection of Jesus Christ after his cruxifiction. Holiday. Easter egg, Easter bunny. Christianity, holiday.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: History and observance of E..."
+    },
+    {
+      "coordinates": {
+        "x1": 711.4296875,
+        "y1": 594.984375,
+        "x2": 798.2265625,
+        "y2": 674.734375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 849.203125,
+        "x2": 548.84375,
+        "y2": 870.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The History of Easter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The History of Easter"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 907.578125,
+        "x2": 744.828125,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 391.5,
+        "y1": 907.578125,
+        "x2": 744.828125,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The Last Supper, fresco by Leonardo da Vinci, 1495-98; in Santa Maria delle Grazie, Milan (in situ).",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: The Last Supper, fresco by ..."
+    },
+    {
+      "coordinates": {
+        "x1": 764.828125,
+        "y1": 907.578125,
+        "x2": 1118.15625,
+        "y2": 982
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 764.828125,
+        "y1": 907.578125,
+        "x2": 1118.15625,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Vintage Easter greeting card with an Easter Bunny painting an Easter egg. Circa 1900",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Vintage Easter greeting car..."
+    },
+    {
+      "coordinates": {
+        "x1": 1241.375,
+        "y1": 288.984375,
+        "x2": 1304.875,
+        "y2": 304.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Artemis II",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Artemis II"
+    },
+    {
+      "coordinates": {
+        "x1": 1169.15625,
+        "y1": 348.171875,
+        "x2": 1490.5,
+        "y2": 545.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "NASA's Space Launch System rocket carrying the Orion spacecraft with NASA astronauts Reid Wiseman, commander; Victor Glover, pilot; Christina Koch, mission specialist; and CSA (Canadian Space Agency) astronaut Jeremy Hansen, mission specialist onboard launches on the Artemis II mission, Wednesday, April 1, 2026, at NASA Kennedy Space Center in Florida. Artemis II mission will take Wiseman, Glover, Koch, and Hansen on a 10-day journey around the Moon and back aboard their Orion spacecraft. Launched at 6:35 p.m. EDT. space, science, exploration",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: NASA's Space Launch System ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1168.15625,
+        "y1": 566.5625,
+        "x2": 1491.5,
+        "y2": 586.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Artemis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Artemis"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 596.15625,
+        "x2": 1491.5,
+        "y2": 635.34375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Why is Artemis II taking us back to the Moon?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Why is Artemis II taking us..."
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 645.34375,
+        "x2": 1491.5,
+        "y2": 664.9375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Who are the crew members of Artemis II?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Who are the crew members of..."
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 674.9375,
+        "x2": 1491.5,
+        "y2": 694.53125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What is the mission of Artemis III?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What is the mission of Arte..."
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 704.53125,
+        "x2": 1491.5,
+        "y2": 743.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What goddess inspired the program\u2019s name?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What goddess inspired the p..."
+    },
+    {
+      "coordinates": {
+        "x1": 1168.15625,
+        "y1": 753.71875,
+        "x2": 1491.5,
+        "y2": 773.3125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Moon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Moon"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 783.3125,
+        "x2": 1491.5,
+        "y2": 802.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How long does it take to get to the Moon?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How long does it take to ge..."
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 812.90625,
+        "x2": 1491.5,
+        "y2": 832.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How many people have been to the Moon?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: How many people have been t..."
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 842.5,
+        "x2": 1491.5,
+        "y2": 862.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Where did the Moon come from?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Where did the Moon come from?"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 872.09375,
+        "x2": 1491.5,
+        "y2": 891.6875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What have we left on the Moon?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: What have we left on the Moon?"
+    },
+    {
+      "coordinates": {
+        "x1": 1168.15625,
+        "y1": 901.6875,
+        "x2": 1491.5,
+        "y2": 921.28125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Astronauts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Astronauts"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 931.28125,
+        "x2": 1491.5,
+        "y2": 950.875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Do you have the right stuff?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Do you have the right stuff?"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.15625,
+        "y1": 960.875,
+        "x2": 1491.5,
+        "y2": 980.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Who was the first man in space?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Who was the first man in sp..."
+    }
+  ],
+  "dataset_split": "raw"
+}

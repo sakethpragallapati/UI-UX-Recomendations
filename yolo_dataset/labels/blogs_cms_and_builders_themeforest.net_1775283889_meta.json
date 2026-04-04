@@ -1,0 +1,1362 @@
+{
+  "url": "https://themeforest.net",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775283889,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 328.75,
+        "y1": 947.875,
+        "x2": 381.765625,
+        "y2": 964.875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cookie policy",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie policy"
+    },
+    {
+      "coordinates": {
+        "x1": 417.640625,
+        "y1": 947.875,
+        "x2": 474.53125,
+        "y2": 964.875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Privacy policy",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy policy"
+    },
+    {
+      "coordinates": {
+        "x1": 957.5,
+        "y1": 900.25,
+        "x2": 1213.84375,
+        "y2": 951.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 1221.34375,
+        "y1": 900.25,
+        "x2": 1477.671875,
+        "y2": 951.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage preferences",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Manage preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 1485.171875,
+        "y1": 900.25,
+        "x2": 1741.5,
+        "y2": 951.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Reject all"
+    },
+    {
+      "coordinates": {
+        "x1": 8.0,
+        "y1": 0,
+        "x2": 133.390625,
+        "y2": 8.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Skip to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Skip to content"
+    },
+    {
+      "coordinates": {
+        "x1": 253.5,
+        "y1": 66.0,
+        "x2": 400.890625,
+        "y2": 99.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Envato Market",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Envato Market"
+    },
+    {
+      "coordinates": {
+        "x1": 253.5,
+        "y1": 66.0,
+        "x2": 400.890625,
+        "y2": 86.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Market logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Envato Market logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1290.71875,
+        "y1": 50.0,
+        "x2": 1390.875,
+        "y2": 99.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start Selling",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Start Selling"
+    },
+    {
+      "coordinates": {
+        "x1": 1390.875,
+        "y1": 50.0,
+        "x2": 1522.046875,
+        "y2": 99.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Our Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Our Products"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.9234619140625,
+        "y1": 104.4000015258789,
+        "x2": 1411.1796875,
+        "y2": 126.5999984741211
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The unlimited creative subscription",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The unlimited creative subs..."
+    },
+    {
+      "coordinates": {
+        "x1": 1306.723388671875,
+        "y1": 108.4000015258789,
+        "x2": 1334.3609619140625,
+        "y2": 114.80000305175781
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Elements",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Envato Elements"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.9234619140625,
+        "y1": 126.5999984741211,
+        "x2": 1411.1796875,
+        "y2": 148.8000030517578
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Free creative tutorials and courses",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Free creative tutorials and..."
+    },
+    {
+      "coordinates": {
+        "x1": 1306.723388671875,
+        "y1": 130.60000610351562,
+        "x2": 1348.6546630859375,
+        "y2": 137.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Tuts+",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Envato Tuts+"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.9234619140625,
+        "y1": 148.8000030517578,
+        "x2": 1411.1796875,
+        "y2": 171.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Customize mockups, design and video",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Customize mockups, design a..."
+    },
+    {
+      "coordinates": {
+        "x1": 1306.723388671875,
+        "y1": 152.8000030517578,
+        "x2": 1350.448486328125,
+        "y2": 159.1999969482422
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Placeit",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Envato Placeit"
+    },
+    {
+      "coordinates": {
+        "x1": 1326.104736328125,
+        "y1": 184.20001220703125,
+        "x2": 1370.542236328125,
+        "y2": 192.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1522.046875,
+        "y1": 50.0,
+        "x2": 1562.046875,
+        "y2": 97.75
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cart",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_cart: Cart"
+    },
+    {
+      "coordinates": {
+        "x1": 1562.046875,
+        "y1": 50.0,
+        "x2": 1629.5,
+        "y2": 99.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 253.5,
+        "y1": 107.5,
+        "x2": 437.265625,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Web Themes & Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Web Themes & Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 473.65625,
+        "y1": 107.5,
+        "x2": 510.734375,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Code",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Code"
+    },
+    {
+      "coordinates": {
+        "x1": 547.125,
+        "y1": 107.5,
+        "x2": 588.109375,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Video",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Video"
+    },
+    {
+      "coordinates": {
+        "x1": 624.5,
+        "y1": 107.5,
+        "x2": 666.546875,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Audio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Audio"
+    },
+    {
+      "coordinates": {
+        "x1": 702.9375,
+        "y1": 107.5,
+        "x2": 764.140625,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Graphics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Graphics"
+    },
+    {
+      "coordinates": {
+        "x1": 800.53125,
+        "y1": 107.5,
+        "x2": 849.515625,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Photos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Photos"
+    },
+    {
+      "coordinates": {
+        "x1": 885.90625,
+        "y1": 107.5,
+        "x2": 940.859375,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "3D Files",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: 3D Files"
+    },
+    {
+      "coordinates": {
+        "x1": 977.25,
+        "y1": 124.5,
+        "x2": 1215.046875,
+        "y2": 145.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI Tools & Unlimited Stock Assets",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: AI Tools & Unlimited Stock ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1506.5,
+        "y1": 137.5,
+        "x2": 1621.5,
+        "y2": 172.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ThemeForest",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: ThemeForest"
+    },
+    {
+      "coordinates": {
+        "x1": 243.5,
+        "y1": 170.5,
+        "x2": 309.3125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "All Items",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: All Items"
+    },
+    {
+      "coordinates": {
+        "x1": 309.3125,
+        "y1": 170.5,
+        "x2": 385.6875,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WordPress",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: WordPress"
+    },
+    {
+      "coordinates": {
+        "x1": 385.6875,
+        "y1": 170.5,
+        "x2": 459.625,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Elementor",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Elementor"
+    },
+    {
+      "coordinates": {
+        "x1": 459.625,
+        "y1": 170.5,
+        "x2": 521.109375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hosting",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Hosting"
+    },
+    {
+      "coordinates": {
+        "x1": 521.109375,
+        "y1": 170.5,
+        "x2": 572.34375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HTML",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: HTML"
+    },
+    {
+      "coordinates": {
+        "x1": 572.34375,
+        "y1": 170.5,
+        "x2": 632.078125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shopify",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Shopify"
+    },
+    {
+      "coordinates": {
+        "x1": 632.078125,
+        "y1": 170.5,
+        "x2": 699.578125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jamstack",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Jamstack"
+    },
+    {
+      "coordinates": {
+        "x1": 699.578125,
+        "y1": 170.5,
+        "x2": 773.703125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Marketing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Marketing"
+    },
+    {
+      "coordinates": {
+        "x1": 773.703125,
+        "y1": 170.5,
+        "x2": 818.296875,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CMS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: CMS"
+    },
+    {
+      "coordinates": {
+        "x1": 818.296875,
+        "y1": 170.5,
+        "x2": 901.984375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "eCommerce",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: eCommerce"
+    },
+    {
+      "coordinates": {
+        "x1": 901.984375,
+        "y1": 170.5,
+        "x2": 989.9375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "UI Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: UI Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 989.9375,
+        "y1": 170.5,
+        "x2": 1048.21875,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plugins",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: Plugins"
+    },
+    {
+      "coordinates": {
+        "x1": 1048.21875,
+        "y1": 170.5,
+        "x2": 1096.484375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu: More"
+    },
+    {
+      "coordinates": {
+        "x1": 263.5,
+        "y1": 525.921875,
+        "x2": 909.5,
+        "y2": 599.921875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "e.g. responsive WordPress",
+        "value": "",
+        "name": "term"
+      },
+      "descriptive_label": "icon_search: search"
+    },
+    {
+      "coordinates": {
+        "x1": 778.5,
+        "y1": 541.7265625,
+        "x2": 893.5,
+        "y2": 584.1171875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 973.5,
+        "y1": 275.5,
+        "x2": 1619.5,
+        "y2": 622.359375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ThemeForest: Professional WordPress Themes & Website Templates for any project",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: ThemeForest: Professional W..."
+    },
+    {
+      "coordinates": {
+        "x1": 325.21875,
+        "y1": 826.359375,
+        "x2": 611.09375,
+        "y2": 869.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "View WordPress Themes",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WordPress Themes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View WordPress Themes"
+    },
+    {
+      "coordinates": {
+        "x1": 395.03125,
+        "y1": 908.359375,
+        "x2": 447.515625,
+        "y2": 932.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Newest WordPress Themes",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Newest WordPress Themes"
+    },
+    {
+      "coordinates": {
+        "x1": 467.90625,
+        "y1": 908.359375,
+        "x2": 541.28125,
+        "y2": 932.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Bestselling WordPress Themes",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bestsellers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Bestselling WordPress Themes"
+    },
+    {
+      "coordinates": {
+        "x1": 771.859375,
+        "y1": 826.359375,
+        "x2": 1111.125,
+        "y2": 869.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "View eCommerce Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "eCommerce Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View eCommerce Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 868.359375,
+        "y1": 908.359375,
+        "x2": 920.84375,
+        "y2": 932.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Newest eCommerce Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Newest eCommerce Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 941.234375,
+        "y1": 908.359375,
+        "x2": 1014.609375,
+        "y2": 932.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Bestselling eCommerce Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bestsellers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Bestselling eCommerce Templ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1305.890625,
+        "y1": 826.359375,
+        "x2": 1523.765625,
+        "y2": 869.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "View Site Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Site Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: View Site Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 1341.703125,
+        "y1": 908.359375,
+        "x2": 1394.1875,
+        "y2": 932.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Newest Site Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Newest Site Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 1414.578125,
+        "y1": 908.359375,
+        "x2": 1487.953125,
+        "y2": 932.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Bestselling Site Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bestsellers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Bestselling Site Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1883.0,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI tools + unlimited creative stock assets. All in one subscription.\nStart now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: AI tools + unlimited creati..."
+    }
+  ],
+  "dataset_split": "raw"
+}

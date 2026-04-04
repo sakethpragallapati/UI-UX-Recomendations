@@ -1,0 +1,762 @@
+{
+  "url": "https://pinterest.fr",
+  "category": "social_media_and_comms",
+  "timestamp": 1775282778,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 29.5,
+        "x2": 138.0,
+        "y2": 50.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Pinterest home",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pinterest home"
+    },
+    {
+      "coordinates": {
+        "x1": 138.0,
+        "y1": 16.0,
+        "x2": 225.984375,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Explore"
+    },
+    {
+      "coordinates": {
+        "x1": 281.984375,
+        "y1": 16.0,
+        "x2": 1294.484375,
+        "y2": 64.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for easy dinners, fashion, etc.",
+        "value": "",
+        "name": "searchBoxInput"
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1334.484375,
+        "y1": 16.0,
+        "x2": 1413.109375,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About\n; Opens a new tab",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About\n; Opens a new tab"
+    },
+    {
+      "coordinates": {
+        "x1": 1413.109375,
+        "y1": 16.0,
+        "x2": 1529.171875,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Businesses\n; Opens a new tab",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Businesses\n; Opens a new tab"
+    },
+    {
+      "coordinates": {
+        "x1": 1529.171875,
+        "y1": 16.0,
+        "x2": 1611.453125,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create\n; Opens a new tab",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Create\n; Opens a new tab"
+    },
+    {
+      "coordinates": {
+        "x1": 1611.453125,
+        "y1": 16.0,
+        "x2": 1685.796875,
+        "y2": 64.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News\n; Opens a new tab",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: News\n; Opens a new tab"
+    },
+    {
+      "coordinates": {
+        "x1": 1709.796875,
+        "y1": 16.0,
+        "x2": 1786.03125,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1794.03125,
+        "y1": 16.0,
+        "x2": 1882.0,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 392.0,
+        "y1": 443.0,
+        "x2": 584.0,
+        "y2": 491.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Join Pinterest for free",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Join Pinterest for free",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Join Pinterest for free"
+    },
+    {
+      "coordinates": {
+        "x1": 592.0,
+        "y1": 443.0,
+        "x2": 810.5625,
+        "y2": 491.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "I already have an account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I already have an account",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: I already have an account"
+    },
+    {
+      "coordinates": {
+        "x1": 1100.515625,
+        "y1": 240.296875,
+        "x2": 1310.515625,
+        "y2": 520.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.5999755859375,
+        "y1": 356.1000061035156,
+        "x2": 1445.5999755859375,
+        "y2": 545.0999755859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1038.6552734375,
+        "y1": 167.9845733642578,
+        "x2": 1372.3759765625,
+        "y2": 592.6092071533203
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1244.1236572265625,
+        "y1": 298.51605224609375,
+        "x2": 1507.18994140625,
+        "y2": 611.079833984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1038.6552734375,
+        "y1": 167.9845733642578,
+        "x2": 1372.3759765625,
+        "y2": 592.6092071533203
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1244.1236572265625,
+        "y1": 298.51605224609375,
+        "x2": 1507.18994140625,
+        "y2": 611.079833984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1100.515625,
+        "y1": 240.296875,
+        "x2": 1310.515625,
+        "y2": 520.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.5999755859375,
+        "y1": 356.1000061035156,
+        "x2": 1445.5999755859375,
+        "y2": 545.0999755859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1100.515625,
+        "y1": 240.296875,
+        "x2": 1310.515625,
+        "y2": 520.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.5999755859375,
+        "y1": 356.1000061035156,
+        "x2": 1445.5999755859375,
+        "y2": 545.0999755859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1450.0,
+        "y1": 624.0,
+        "x2": 1486.0,
+        "y2": 660.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Pause/Play Pinterest intro gallery",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Pause/Play Pinterest intro ..."
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 163.0,
+        "x2": 996.5,
+        "y2": 211.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Scroll up",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Scroll up"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 163.0,
+        "x2": 996.5,
+        "y2": 211.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Scroll up",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Scroll up"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 163.0,
+        "x2": 996.5,
+        "y2": 211.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Scroll up",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Scroll up"
+    },
+    {
+      "coordinates": {
+        "x1": 948.5,
+        "y1": 163.0,
+        "x2": 996.5,
+        "y2": 211.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Scroll up",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Scroll up"
+    },
+    {
+      "coordinates": {
+        "x1": 960.171875,
+        "y1": 473.796875,
+        "x2": 1057.15625,
+        "y2": 496.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "cookie policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: cookie policy"
+    },
+    {
+      "coordinates": {
+        "x1": 699.0,
+        "y1": 542.578125,
+        "x2": 797.90625,
+        "y2": 590.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Reject all"
+    },
+    {
+      "coordinates": {
+        "x1": 948.4375,
+        "y1": 542.578125,
+        "x2": 1089.28125,
+        "y2": 590.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Let me choose",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Let me choose"
+    },
+    {
+      "coordinates": {
+        "x1": 1093.28125,
+        "y1": 542.578125,
+        "x2": 1199.0,
+        "y2": 590.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Accept all"
+    }
+  ],
+  "dataset_split": "raw"
+}

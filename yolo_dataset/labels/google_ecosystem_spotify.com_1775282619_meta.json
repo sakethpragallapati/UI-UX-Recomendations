@@ -1,0 +1,5087 @@
+{
+  "url": "https://spotify.com",
+  "category": "google_ecosystem",
+  "timestamp": 1775282619,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 31.0,
+        "y2": 31.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Skip to main content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Skip to main content"
+    },
+    {
+      "coordinates": {
+        "x1": 28.0,
+        "y1": 16.0,
+        "x2": 60.0,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 684.0,
+        "y1": 8.0,
+        "x2": 732.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 696.0,
+        "y1": 20.0,
+        "x2": 720.0,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 740.0,
+        "y1": 8.0,
+        "x2": 1214.0,
+        "y2": 56.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "form",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "search"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 740.0,
+        "y1": 8.0,
+        "x2": 788.0,
+        "y2": 56.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 752.0,
+        "y1": 20.0,
+        "x2": 776.0,
+        "y2": 44.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 740.0,
+        "y1": 8.0,
+        "x2": 1214.0,
+        "y2": 56.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "What do you want to play?",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "What do you want to play?",
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: What do you want to play?"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.0,
+        "y1": 20.5234375,
+        "x2": 1198.0,
+        "y2": 44.5234375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Browse",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Browse"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.0,
+        "y1": 20.5234375,
+        "x2": 1198.0,
+        "y2": 44.5234375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.921875,
+        "y1": 8.0,
+        "x2": 1376.9375,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Premium",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Premium"
+    },
+    {
+      "coordinates": {
+        "x1": 1384.9375,
+        "y1": 8.0,
+        "x2": 1446.359375,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 1454.359375,
+        "y1": 8.0,
+        "x2": 1531.046875,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 1580.046875,
+        "y1": 16.0,
+        "x2": 1701.390625,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Install App",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Install App"
+    },
+    {
+      "coordinates": {
+        "x1": 1592.046875,
+        "y1": 24.0,
+        "x2": 1608.046875,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1709.390625,
+        "y1": 16.0,
+        "x2": 1781.703125,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 1781.703125,
+        "y1": 8.0,
+        "x2": 1890.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1781.703125,
+        "y1": 8.0,
+        "x2": 1890.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 312.4375,
+        "y1": 80.0,
+        "x2": 412.0,
+        "y2": 116.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Create",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Create"
+    },
+    {
+      "coordinates": {
+        "x1": 36.0,
+        "y1": 242.0,
+        "x2": 161.546875,
+        "y2": 274.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create playlist",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Create playlist"
+    },
+    {
+      "coordinates": {
+        "x1": 36.0,
+        "y1": 242.0,
+        "x2": 161.546875,
+        "y2": 274.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create playlist",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Create playlist"
+    },
+    {
+      "coordinates": {
+        "x1": 36.0,
+        "y1": 400.0,
+        "x2": 178.390625,
+        "y2": 432.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Browse podcasts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Browse podcasts"
+    },
+    {
+      "coordinates": {
+        "x1": 36.0,
+        "y1": 400.0,
+        "x2": 178.390625,
+        "y2": 432.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Browse podcasts",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Browse podcasts"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 732.0,
+        "x2": 61.75,
+        "y2": 749.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Legal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Legal"
+    },
+    {
+      "coordinates": {
+        "x1": 77.75,
+        "y1": 732.0,
+        "x2": 204.359375,
+        "y2": 749.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Safety & Privacy Center",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Safety & Privacy Center"
+    },
+    {
+      "coordinates": {
+        "x1": 220.359375,
+        "y1": 732.0,
+        "x2": 293.65625,
+        "y2": 749.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 309.65625,
+        "y1": 732.0,
+        "x2": 353.6875,
+        "y2": 749.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 757.0,
+        "x2": 89.421875,
+        "y2": 774.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About Ads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About Ads"
+    },
+    {
+      "coordinates": {
+        "x1": 105.421875,
+        "y1": 757.0,
+        "x2": 173.3125,
+        "y2": 774.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accessibility",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Accessibility"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 782.0,
+        "x2": 92.03125,
+        "y2": 804.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 836.0,
+        "x2": 132.984375,
+        "y2": 868.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: English"
+    },
+    {
+      "coordinates": {
+        "x1": 45.0,
+        "y1": 844.0,
+        "x2": 61.0,
+        "y2": 860.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 431.5,
+        "y1": 481.5,
+        "x2": 432.5,
+        "y2": 482.5
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 433.5,
+        "y1": 549.5,
+        "x2": 562.5,
+        "y2": 565.5
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "range",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "420",
+        "name": ""
+      },
+      "descriptive_label": "general_input: 420"
+    },
+    {
+      "coordinates": {
+        "x1": 1713.015625,
+        "y1": 919.0,
+        "x2": 1866.0,
+        "y2": 967.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up free",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign up free"
+    },
+    {
+      "coordinates": {
+        "x1": 1713.015625,
+        "y1": 919.0,
+        "x2": 1866.0,
+        "y2": 967.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up free",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Sign up free"
+    },
+    {
+      "coordinates": {
+        "x1": 845.0,
+        "y1": 945.5,
+        "x2": 877.0,
+        "y2": 977.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Enable shuffle",
+        "title": "",
+        "alt_text": "",
+        "role": "switch"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Enable shuffle"
+    },
+    {
+      "coordinates": {
+        "x1": 853.0,
+        "y1": 953.5,
+        "x2": 869.0,
+        "y2": 969.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 885.0,
+        "y1": 945.5,
+        "x2": 917.0,
+        "y2": 977.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 893.0,
+        "y1": 953.5,
+        "x2": 909.0,
+        "y2": 969.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 933.0,
+        "y1": 945.5,
+        "x2": 965.0,
+        "y2": 977.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Pause",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Pause"
+    },
+    {
+      "coordinates": {
+        "x1": 933.0,
+        "y1": 945.5,
+        "x2": 965.0,
+        "y2": 977.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 941.0,
+        "y1": 953.5,
+        "x2": 957.0,
+        "y2": 969.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 981.0,
+        "y1": 945.5,
+        "x2": 1013.0,
+        "y2": 977.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 989.0,
+        "y1": 953.5,
+        "x2": 1005.0,
+        "y2": 969.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1021.0,
+        "y1": 945.5,
+        "x2": 1053.0,
+        "y2": 977.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Disable repeat",
+        "title": "",
+        "alt_text": "",
+        "role": "checkbox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Disable repeat"
+    },
+    {
+      "coordinates": {
+        "x1": 1029.0,
+        "y1": 953.5,
+        "x2": 1045.0,
+        "y2": 969.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1725.0,
+        "y1": 958.0,
+        "x2": 1757.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Now playing view",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Now playing view"
+    },
+    {
+      "coordinates": {
+        "x1": 1733.0,
+        "y1": 966.0,
+        "x2": 1749.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1757.0,
+        "y1": 958.0,
+        "x2": 1789.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Mute",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Mute"
+    },
+    {
+      "coordinates": {
+        "x1": 1765.0,
+        "y1": 966.0,
+        "x2": 1781.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1788.0,
+        "y1": 967.0,
+        "x2": 1789.0,
+        "y2": 968.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 87.0,
+        "x2": 644.109375,
+        "y2": 116.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trending songs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Trending songs"
+    },
+    {
+      "coordinates": {
+        "x1": 1787.953125,
+        "y1": 69.0,
+        "x2": 1842.0,
+        "y2": 117.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Show all",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Show all"
+    },
+    {
+      "coordinates": {
+        "x1": 464.0,
+        "y1": 124.0,
+        "x2": 659.5,
+        "y2": 396.5625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 136.0,
+        "x2": 647.5,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 591.5,
+        "y1": 259.5,
+        "x2": 639.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Shree Hanuman Chalisa",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Shree Hanuman Chalisa"
+    },
+    {
+      "coordinates": {
+        "x1": 591.5,
+        "y1": 259.5,
+        "x2": 639.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 603.5,
+        "y1": 271.5,
+        "x2": 627.5,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 315.5,
+        "x2": 646.078125,
+        "y2": 337.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shree Hanuman Chalisa",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Shree Hanuman Chalisa"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 343.03125,
+        "x2": 537.8125,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hariharan",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Hariharan"
+    },
+    {
+      "coordinates": {
+        "x1": 543.6875,
+        "y1": 343.03125,
+        "x2": 597.703125,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lalit Sen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lalit Sen"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 364.5625,
+        "x2": 530.671875,
+        "y2": 384.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Chander",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Chander"
+    },
+    {
+      "coordinates": {
+        "x1": 659.5,
+        "y1": 124.0,
+        "x2": 855.0,
+        "y2": 396.5625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 136.0,
+        "x2": 843.0,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 787.0,
+        "y1": 259.5,
+        "x2": 835.0,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Jaiye Sajana",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Jaiye Sajana"
+    },
+    {
+      "coordinates": {
+        "x1": 787.0,
+        "y1": 259.5,
+        "x2": 835.0,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 271.5,
+        "x2": 823.0,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 315.5,
+        "x2": 760.9375,
+        "y2": 337.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jaiye Sajana",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jaiye Sajana"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 343.03125,
+        "x2": 790.5625,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shashwat Sachdev",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Shashwat Sachdev"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 364.5625,
+        "x2": 776.65625,
+        "y2": 384.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jasmine Sandlas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Jasmine Sandlas"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 364.5625,
+        "x2": 836.65625,
+        "y2": 406.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Satinder Sartaaj",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Satinder Sartaaj"
+    },
+    {
+      "coordinates": {
+        "x1": 855.0,
+        "y1": 124.0,
+        "x2": 1050.5,
+        "y2": 418.5625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 136.0,
+        "x2": 1038.5,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 982.5,
+        "y1": 259.5,
+        "x2": 1030.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Pavazha Malli - From \"Think Indie\"",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Pavazha Malli - From \"..."
+    },
+    {
+      "coordinates": {
+        "x1": 982.5,
+        "y1": 259.5,
+        "x2": 1030.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 994.5,
+        "y1": 271.5,
+        "x2": 1018.5,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 315.5,
+        "x2": 1038.5,
+        "y2": 359.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pavazha Malli - From \"Think Indie\"",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pavazha Malli - From \"Think..."
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 365.03125,
+        "x2": 965.609375,
+        "y2": 385.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sai Abhyankkar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sai Abhyankkar"
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 365.03125,
+        "x2": 1009.515625,
+        "y2": 406.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shruti Haasan",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Shruti Haasan"
+    },
+    {
+      "coordinates": {
+        "x1": 919.453125,
+        "y1": 386.5625,
+        "x2": 955.109375,
+        "y2": 406.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Vivek",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Vivek"
+    },
+    {
+      "coordinates": {
+        "x1": 1050.5,
+        "y1": 124.0,
+        "x2": 1246.0,
+        "y2": 396.5625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 136.0,
+        "x2": 1234.0,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1178.0,
+        "y1": 259.5,
+        "x2": 1226.0,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Bajrang Baan-Lofi",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Bajrang Baan-Lofi"
+    },
+    {
+      "coordinates": {
+        "x1": 1178.0,
+        "y1": 259.5,
+        "x2": 1226.0,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1190.0,
+        "y1": 271.5,
+        "x2": 1214.0,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 315.5,
+        "x2": 1190.578125,
+        "y2": 337.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bajrang Baan-Lofi",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Bajrang Baan-Lofi"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 343.03125,
+        "x2": 1168.0,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rasraj Ji Maharaj",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Rasraj Ji Maharaj"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 343.03125,
+        "x2": 1218.15625,
+        "y2": 384.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Baljeet Singh Chahal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Baljeet Singh Chahal"
+    },
+    {
+      "coordinates": {
+        "x1": 1246.0,
+        "y1": 124.0,
+        "x2": 1441.5,
+        "y2": 375.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1258.0,
+        "y1": 136.0,
+        "x2": 1429.5,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.5,
+        "y1": 259.5,
+        "x2": 1421.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Keejo Kesari Ke Laal",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Keejo Kesari Ke Laal"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.5,
+        "y1": 259.5,
+        "x2": 1421.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1385.5,
+        "y1": 271.5,
+        "x2": 1409.5,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1258.0,
+        "y1": 315.5,
+        "x2": 1402.828125,
+        "y2": 337.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Keejo Kesari Ke Laal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Keejo Kesari Ke Laal"
+    },
+    {
+      "coordinates": {
+        "x1": 1258.0,
+        "y1": 343.03125,
+        "x2": 1392.796875,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lakhbir Singh Lakkha",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Lakhbir Singh Lakkha"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.5,
+        "y1": 124.0,
+        "x2": 1637.0,
+        "y2": 397.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.5,
+        "y1": 136.0,
+        "x2": 1625.0,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1569.0,
+        "y1": 259.5,
+        "x2": 1617.0,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Breathless Hanuman Chalisa",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Breathless Hanuman Cha..."
+    },
+    {
+      "coordinates": {
+        "x1": 1569.0,
+        "y1": 259.5,
+        "x2": 1617.0,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1581.0,
+        "y1": 271.5,
+        "x2": 1605.0,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.5,
+        "y1": 315.5,
+        "x2": 1625.0,
+        "y2": 359.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Breathless Hanuman Chalisa",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Breathless Hanuman Chalisa"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.5,
+        "y1": 365.03125,
+        "x2": 1582.125,
+        "y2": 385.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shankar Mahadevan",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Shankar Mahadevan"
+    },
+    {
+      "coordinates": {
+        "x1": 1637.0,
+        "y1": 124.0,
+        "x2": 1832.5,
+        "y2": 375.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.0,
+        "y1": 136.0,
+        "x2": 1820.5,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1764.5,
+        "y1": 259.5,
+        "x2": 1812.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Khat",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Khat"
+    },
+    {
+      "coordinates": {
+        "x1": 1764.5,
+        "y1": 259.5,
+        "x2": 1812.5,
+        "y2": 307.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1776.5,
+        "y1": 271.5,
+        "x2": 1800.5,
+        "y2": 295.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.0,
+        "y1": 315.5,
+        "x2": 1683.234375,
+        "y2": 337.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Khat",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Khat"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.0,
+        "y1": 343.03125,
+        "x2": 1729.640625,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Navjot Ahuja",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Navjot Ahuja"
+    },
+    {
+      "coordinates": {
+        "x1": 1832.5,
+        "y1": 124.0,
+        "x2": 1898,
+        "y2": 375.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.5,
+        "y1": 136.0,
+        "x2": 1898,
+        "y2": 307.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.5,
+        "y1": 315.5,
+        "x2": 1898,
+        "y2": 337.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Balaji Aacha Lage Se",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Balaji Aacha Lage Se"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.5,
+        "y1": 343.03125,
+        "x2": 1898,
+        "y2": 363.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Kanhaiya Mittal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Kanhaiya Mittal"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 461.5625,
+        "x2": 636.203125,
+        "y2": 490.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Popular artists",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Popular artists"
+    },
+    {
+      "coordinates": {
+        "x1": 1787.953125,
+        "y1": 443.5625,
+        "x2": 1842.0,
+        "y2": 491.5625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Show all",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Show all"
+    },
+    {
+      "coordinates": {
+        "x1": 464.0,
+        "y1": 498.5625,
+        "x2": 659.5,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 510.5625,
+        "x2": 647.5,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 591.5,
+        "y1": 634.0625,
+        "x2": 639.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Pritam",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Pritam"
+    },
+    {
+      "coordinates": {
+        "x1": 591.5,
+        "y1": 634.0625,
+        "x2": 639.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 603.5,
+        "y1": 646.0625,
+        "x2": 627.5,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 690.0625,
+        "x2": 523.859375,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pritam",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pritam"
+    },
+    {
+      "coordinates": {
+        "x1": 659.5,
+        "y1": 498.5625,
+        "x2": 855.0,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 510.5625,
+        "x2": 843.0,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 787.0,
+        "y1": 634.0625,
+        "x2": 835.0,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play A.R. Rahman",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play A.R. Rahman"
+    },
+    {
+      "coordinates": {
+        "x1": 787.0,
+        "y1": 634.0625,
+        "x2": 835.0,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 646.0625,
+        "x2": 823.0,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 690.0625,
+        "x2": 762.265625,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "A.R. Rahman",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: A.R. Rahman"
+    },
+    {
+      "coordinates": {
+        "x1": 855.0,
+        "y1": 498.5625,
+        "x2": 1050.5,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 510.5625,
+        "x2": 1038.5,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 982.5,
+        "y1": 634.0625,
+        "x2": 1030.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Arijit Singh",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Arijit Singh"
+    },
+    {
+      "coordinates": {
+        "x1": 982.5,
+        "y1": 634.0625,
+        "x2": 1030.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 994.5,
+        "y1": 646.0625,
+        "x2": 1018.5,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 690.0625,
+        "x2": 946.375,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Arijit Singh",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Arijit Singh"
+    },
+    {
+      "coordinates": {
+        "x1": 1050.5,
+        "y1": 498.5625,
+        "x2": 1246.0,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 510.5625,
+        "x2": 1234.0,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1178.0,
+        "y1": 634.0625,
+        "x2": 1226.0,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Sachin-Jigar",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Sachin-Jigar"
+    },
+    {
+      "coordinates": {
+        "x1": 1178.0,
+        "y1": 634.0625,
+        "x2": 1226.0,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1190.0,
+        "y1": 646.0625,
+        "x2": 1214.0,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 690.0625,
+        "x2": 1153.46875,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sachin-Jigar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sachin-Jigar"
+    },
+    {
+      "coordinates": {
+        "x1": 1246.0,
+        "y1": 498.5625,
+        "x2": 1441.5,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1258.0,
+        "y1": 510.5625,
+        "x2": 1429.5,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.5,
+        "y1": 634.0625,
+        "x2": 1421.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Vishal-Shekhar",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Vishal-Shekhar"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.5,
+        "y1": 634.0625,
+        "x2": 1421.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1385.5,
+        "y1": 646.0625,
+        "x2": 1409.5,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1258.0,
+        "y1": 690.0625,
+        "x2": 1368.15625,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Vishal-Shekhar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Vishal-Shekhar"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.5,
+        "y1": 498.5625,
+        "x2": 1637.0,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.5,
+        "y1": 510.5625,
+        "x2": 1625.0,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1569.0,
+        "y1": 634.0625,
+        "x2": 1617.0,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Atif Aslam",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Atif Aslam"
+    },
+    {
+      "coordinates": {
+        "x1": 1569.0,
+        "y1": 634.0625,
+        "x2": 1617.0,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1581.0,
+        "y1": 646.0625,
+        "x2": 1605.0,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.5,
+        "y1": 690.0625,
+        "x2": 1527.015625,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Atif Aslam",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Atif Aslam"
+    },
+    {
+      "coordinates": {
+        "x1": 1637.0,
+        "y1": 498.5625,
+        "x2": 1832.5,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.0,
+        "y1": 510.5625,
+        "x2": 1820.5,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1764.5,
+        "y1": 634.0625,
+        "x2": 1812.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Anirudh Ravichander",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Anirudh Ravichander"
+    },
+    {
+      "coordinates": {
+        "x1": 1764.5,
+        "y1": 634.0625,
+        "x2": 1812.5,
+        "y2": 682.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1776.5,
+        "y1": 646.0625,
+        "x2": 1800.5,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.0,
+        "y1": 690.0625,
+        "x2": 1800.625,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Anirudh Ravichander",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Anirudh Ravichander"
+    },
+    {
+      "coordinates": {
+        "x1": 1832.5,
+        "y1": 498.5625,
+        "x2": 1898,
+        "y2": 748.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.5,
+        "y1": 510.5625,
+        "x2": 1898,
+        "y2": 682.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.5,
+        "y1": 690.0625,
+        "x2": 1898,
+        "y2": 712.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Udit Narayan",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Udit Narayan"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 791.0625,
+        "x2": 772.90625,
+        "y2": 820.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Popular albums and singles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Popular albums and singles"
+    },
+    {
+      "coordinates": {
+        "x1": 1787.953125,
+        "y1": 773.0625,
+        "x2": 1842.0,
+        "y2": 821.0625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Show all",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Show all"
+    },
+    {
+      "coordinates": {
+        "x1": 464.0,
+        "y1": 828.0625,
+        "x2": 659.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 476.0,
+        "y1": 840.0625,
+        "x2": 647.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 591.5,
+        "y1": 963.5625,
+        "x2": 639.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Aashiqui 2 by Mithoon, Ankit Tiwari, Jeet Gannguli",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Aashiqui 2 by Mithoon,..."
+    },
+    {
+      "coordinates": {
+        "x1": 591.5,
+        "y1": 963.5625,
+        "x2": 639.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 603.5,
+        "y1": 975.5625,
+        "x2": 627.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 659.5,
+        "y1": 828.0625,
+        "x2": 855.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 840.0625,
+        "x2": 843.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 787.0,
+        "y1": 963.5625,
+        "x2": 835.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Yeh Jawaani Hai Deewani by Pritam",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Yeh Jawaani Hai Deewan..."
+    },
+    {
+      "coordinates": {
+        "x1": 787.0,
+        "y1": 963.5625,
+        "x2": 835.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 975.5625,
+        "x2": 823.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 855.0,
+        "y1": 828.0625,
+        "x2": 1050.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 867.0,
+        "y1": 840.0625,
+        "x2": 1038.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 982.5,
+        "y1": 963.5625,
+        "x2": 1030.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Sanam Teri Kasam (Original Motion Picture Soundtrack) by Himesh Reshammiya, Sameer Anjaan, Subrat Sinha, Shabbir Ahmed",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Sanam Teri Kasam (Orig..."
+    },
+    {
+      "coordinates": {
+        "x1": 982.5,
+        "y1": 963.5625,
+        "x2": 1030.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 994.5,
+        "y1": 975.5625,
+        "x2": 1018.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1050.5,
+        "y1": 828.0625,
+        "x2": 1246.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.5,
+        "y1": 840.0625,
+        "x2": 1234.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1178.0,
+        "y1": 963.5625,
+        "x2": 1226.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Finding Her by Kushagra, Bharath, Saaheal",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Finding Her by Kushagr..."
+    },
+    {
+      "coordinates": {
+        "x1": 1178.0,
+        "y1": 963.5625,
+        "x2": 1226.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1190.0,
+        "y1": 975.5625,
+        "x2": 1214.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1246.0,
+        "y1": 828.0625,
+        "x2": 1441.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1258.0,
+        "y1": 840.0625,
+        "x2": 1429.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.5,
+        "y1": 963.5625,
+        "x2": 1421.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Young G.O.A.T by Cheema Y, Gur Sidhu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Young G.O.A.T by Cheem..."
+    },
+    {
+      "coordinates": {
+        "x1": 1373.5,
+        "y1": 963.5625,
+        "x2": 1421.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1385.5,
+        "y1": 975.5625,
+        "x2": 1409.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.5,
+        "y1": 828.0625,
+        "x2": 1637.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.5,
+        "y1": 840.0625,
+        "x2": 1625.0,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1569.0,
+        "y1": 963.5625,
+        "x2": 1617.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Raanjhan (From \"Do Patti\") by Sachet-Parampara, Parampara Tandon, Kausar Munir",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Raanjhan (From \"Do Pat..."
+    },
+    {
+      "coordinates": {
+        "x1": 1569.0,
+        "y1": 963.5625,
+        "x2": 1617.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1581.0,
+        "y1": 975.5625,
+        "x2": 1605.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1637.0,
+        "y1": 828.0625,
+        "x2": 1832.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1649.0,
+        "y1": 840.0625,
+        "x2": 1820.5,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1764.5,
+        "y1": 963.5625,
+        "x2": 1812.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play Ultimate Love Songs - Arijit Singh by Arijit Singh",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play Ultimate Love Songs - ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1764.5,
+        "y1": 963.5625,
+        "x2": 1812.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1776.5,
+        "y1": 975.5625,
+        "x2": 1800.5,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1832.5,
+        "y1": 828.0625,
+        "x2": 1898,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.5,
+        "y1": 840.0625,
+        "x2": 1898,
+        "y2": 982
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 80.0625,
+        "y1": 930.0,
+        "x2": 160.703125,
+        "y2": 950.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "our partners",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: our partners"
+    },
+    {
+      "coordinates": {
+        "x1": 511.734375,
+        "y1": 951.0,
+        "x2": 600.6875,
+        "y2": 971.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Cookie Policy."
+    },
+    {
+      "coordinates": {
+        "x1": 1844.0,
+        "y1": 921.5,
+        "x2": 1888.0,
+        "y2": 965.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Close"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,462 @@
+{
+  "url": "https://whatsapp.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1775282672,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 36.78125,
+        "x2": 170.0,
+        "y2": 57.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "WhatsApp's homepage",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WhatsApp's homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 23.015625,
+        "x2": 170.0,
+        "y2": 52.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "WhatsApp Main Page",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: WhatsApp Main Page"
+    },
+    {
+      "coordinates": {
+        "x1": 551.34375,
+        "y1": 28.0,
+        "x2": 641.375,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Features",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Features"
+    },
+    {
+      "coordinates": {
+        "x1": 681.375,
+        "y1": 29.0,
+        "x2": 734.53125,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "WhatsApp's privacy features",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WhatsApp's privacy features"
+    },
+    {
+      "coordinates": {
+        "x1": 774.53125,
+        "y1": 29.0,
+        "x2": 861.46875,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "WhatsApp Help Center homepage",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Help Center",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WhatsApp Help Center homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 901.46875,
+        "y1": 29.0,
+        "x2": 934.328125,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "WhatsApp Blogs for our latest announcements",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Blog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WhatsApp Blogs for our late..."
+    },
+    {
+      "coordinates": {
+        "x1": 974.328125,
+        "y1": 29.0,
+        "x2": 1068.03125,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "WhatsApp for Business homepage",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "For Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: WhatsApp for Business homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 1108.03125,
+        "y1": 29.0,
+        "x2": 1146.28125,
+        "y2": 51.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Download WhatsApp",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Download WhatsApp"
+    },
+    {
+      "coordinates": {
+        "x1": 1539.640625,
+        "y1": 13.5,
+        "x2": 1671.0625,
+        "y2": 66.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Login to WhatsApp Web",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Login to WhatsApp Web"
+    },
+    {
+      "coordinates": {
+        "x1": 1683.0625,
+        "y1": 13.5,
+        "x2": 1843.0,
+        "y2": 66.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Get WhatsApp from Microsoft",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get WhatsApp from Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 112.0,
+        "x2": 1851.0,
+        "y2": 768.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "mother and daughter hugging while holding mobile device",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: mother and daughter hugging..."
+    },
+    {
+      "coordinates": {
+        "x1": 401.5,
+        "y1": 549.03125,
+        "x2": 561.4375,
+        "y2": 602.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "Get WhatsApp from Microsoft",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get WhatsApp from Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 1045.5,
+        "y1": 208.71875,
+        "x2": 1481.5,
+        "y2": 255.3125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "example of text bubble on whatsapp reading good morning mom with emoji",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: example of text bubble on w..."
+    },
+    {
+      "coordinates": {
+        "x1": 1045.5,
+        "y1": 232.015625,
+        "x2": 1481.5,
+        "y2": 280.015625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "heart emoji reaction to a message on whatsapp",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: heart emoji reaction to a m..."
+    },
+    {
+      "coordinates": {
+        "x1": 1045.5,
+        "y1": 271.890625,
+        "x2": 1481.5,
+        "y2": 384.140625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "whatsapp feature of sticker of coffee image to reply to messages",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: whatsapp feature of sticker..."
+    },
+    {
+      "coordinates": {
+        "x1": 1045.5,
+        "y1": 383.03125,
+        "x2": 1481.5,
+        "y2": 441.03125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "secure text on whatsapp platform reading can't wait for our next family trip",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: secure text on whatsapp pla..."
+    },
+    {
+      "coordinates": {
+        "x1": 1045.5,
+        "y1": 112.0,
+        "x2": 1481.5,
+        "y2": 708.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 896.078125,
+        "x2": 1621.5,
+        "y2": 982
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "bubbles of text saying hello in different languages with individual users icons",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: bubbles of text saying hell..."
+    }
+  ],
+  "dataset_split": "raw"
+}

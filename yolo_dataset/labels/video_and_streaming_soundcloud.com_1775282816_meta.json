@@ -1,0 +1,2262 @@
+{
+  "url": "https://soundcloud.com",
+  "category": "video_and_streaming",
+  "timestamp": 1775282816,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 337.5,
+        "y1": 0,
+        "x2": 521.5,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 545.5,
+        "y1": 0,
+        "x2": 599.84375,
+        "y2": 46.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 607.84375,
+        "y1": 0,
+        "x2": 655.078125,
+        "y2": 46.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 663.078125,
+        "y1": 0,
+        "x2": 724.640625,
+        "y2": 46.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 748.640625,
+        "y1": 5.0,
+        "x2": 1188.484375,
+        "y2": 41.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for artists, bands, tracks, podcasts",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1148.484375,
+        "y1": 12.0,
+        "x2": 1172.484375,
+        "y2": 36.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1214.484375,
+        "y1": 7.0,
+        "x2": 1281.265625,
+        "y2": 39.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "Sign in",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1226.484375,
+        "y1": 13.0,
+        "x2": 1269.265625,
+        "y2": 33.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1299.265625,
+        "y1": 7.0,
+        "x2": 1419.78125,
+        "y2": 39.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Create a SoundCloud account",
+        "title": "Create a SoundCloud account",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Create a SoundCloud account"
+    },
+    {
+      "coordinates": {
+        "x1": 1311.265625,
+        "y1": 13.0,
+        "x2": 1407.78125,
+        "y2": 33.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1429.78125,
+        "y1": 0,
+        "x2": 1491.5,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1507.5,
+        "y1": 0,
+        "x2": 1545.5,
+        "y2": 46.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 592.34375,
+        "y1": 21.0,
+        "x2": 614.34375,
+        "y2": 43.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1197.734375,
+        "y1": 19.0,
+        "x2": 1268.640625,
+        "y2": 41.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 1508.5,
+        "y1": 21.0,
+        "x2": 1530.5,
+        "y2": 43.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 448.0,
+        "x2": 58.722900390625,
+        "y2": 462.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 597.82177734375,
+        "y1": 460.0,
+        "x2": 702.43115234375,
+        "y2": 474.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Crayon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Crayon"
+    },
+    {
+      "coordinates": {
+        "x1": 449.107177734375,
+        "y1": 458.0,
+        "x2": 561.919677734375,
+        "y2": 494.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.625,
+        "y1": 128.0,
+        "x2": 1316.40625,
+        "y2": 160.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "Sign in",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1257.625,
+        "y1": 132.0,
+        "x2": 1300.40625,
+        "y2": 156.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1325.375,
+        "y1": 128.0,
+        "x2": 1453.890625,
+        "y2": 160.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Create a SoundCloud account",
+        "title": "Create a SoundCloud account",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create account",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Create a SoundCloud account"
+    },
+    {
+      "coordinates": {
+        "x1": 1341.375,
+        "y1": 132.0,
+        "x2": 1437.890625,
+        "y2": 156.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create account",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Create account"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.859375,
+        "y1": 128.0,
+        "x2": 1529.5,
+        "y2": 160.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For Artists",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: For Artists"
+    },
+    {
+      "coordinates": {
+        "x1": 540.484375,
+        "y1": 600.0,
+        "x2": 1140.484375,
+        "y2": 636.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for artists, bands, tracks, podcasts",
+        "value": "",
+        "name": "q"
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1100.484375,
+        "y1": 612.0,
+        "x2": 1124.484375,
+        "y2": 636.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1191.75,
+        "y1": 594.0,
+        "x2": 1366.515625,
+        "y2": 640.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Upload your own",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Upload your own"
+    },
+    {
+      "coordinates": {
+        "x1": 395.5,
+        "y1": 802.0,
+        "x2": 459.5,
+        "y2": 866.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 389.5,
+        "y1": 888.0,
+        "x2": 429.5,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "Like",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 413.5,
+        "y1": 901.5,
+        "x2": 414.5,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 429.5,
+        "y1": 888.0,
+        "x2": 469.5,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Follow Prada Hub (discord.gg/pradabagshawty)",
+        "title": "Follow Prada Hub (discord.gg/pradabagshawty)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Follow Prada Hub (discord.g..."
+    },
+    {
+      "coordinates": {
+        "x1": 453.5,
+        "y1": 901.5,
+        "x2": 454.5,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 469.5,
+        "y1": 888.0,
+        "x2": 509.5,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "More",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 493.5,
+        "y1": 901.5,
+        "x2": 494.5,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 337.5,
+        "y1": 932.0,
+        "x2": 517.5,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pradabagshawty - Yerk Waitin On Me At The Spot (discord.gg/pradabagshawty)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Pradabagshawty - Yerk Waiti..."
+    },
+    {
+      "coordinates": {
+        "x1": 337.5,
+        "y1": 952.0,
+        "x2": 517.5,
+        "y2": 972.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Prada Hub (discord.gg/pradabagshawty)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Prada Hub (discord.gg/prada..."
+    },
+    {
+      "coordinates": {
+        "x1": 601.09375,
+        "y1": 802.0,
+        "x2": 665.09375,
+        "y2": 866.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 595.09375,
+        "y1": 888.0,
+        "x2": 635.09375,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "Like",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 619.09375,
+        "y1": 901.5,
+        "x2": 620.09375,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 635.09375,
+        "y1": 888.0,
+        "x2": 675.09375,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Follow Double Vision!",
+        "title": "Follow Double Vision!",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Follow Double Vision!"
+    },
+    {
+      "coordinates": {
+        "x1": 659.09375,
+        "y1": 901.5,
+        "x2": 660.09375,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 675.09375,
+        "y1": 888.0,
+        "x2": 715.09375,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "More",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 699.09375,
+        "y1": 901.5,
+        "x2": 700.09375,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 543.09375,
+        "y1": 932.0,
+        "x2": 723.09375,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Double Vision - Flex Juke",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Double Vision - Flex Juke"
+    },
+    {
+      "coordinates": {
+        "x1": 543.09375,
+        "y1": 952.0,
+        "x2": 631.21875,
+        "y2": 972.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Double Vision",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Double Vision"
+    },
+    {
+      "coordinates": {
+        "x1": 806.703125,
+        "y1": 802.0,
+        "x2": 870.703125,
+        "y2": 866.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 800.703125,
+        "y1": 888.0,
+        "x2": 840.703125,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "Like",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 824.703125,
+        "y1": 901.5,
+        "x2": 825.703125,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 840.703125,
+        "y1": 888.0,
+        "x2": 880.703125,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Follow Scon",
+        "title": "Follow Scon",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Follow Scon"
+    },
+    {
+      "coordinates": {
+        "x1": 864.703125,
+        "y1": 901.5,
+        "x2": 865.703125,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 880.703125,
+        "y1": 888.0,
+        "x2": 920.703125,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "More",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 904.703125,
+        "y1": 901.5,
+        "x2": 905.703125,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 748.703125,
+        "y1": 932.0,
+        "x2": 928.703125,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Scon - Love Love",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Scon - Love Love"
+    },
+    {
+      "coordinates": {
+        "x1": 748.703125,
+        "y1": 952.0,
+        "x2": 780.59375,
+        "y2": 972.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Scon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Scon"
+    },
+    {
+      "coordinates": {
+        "x1": 1012.296875,
+        "y1": 802.0,
+        "x2": 1076.296875,
+        "y2": 866.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 1006.296875,
+        "y1": 888.0,
+        "x2": 1046.296875,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "Like",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 1030.296875,
+        "y1": 901.5,
+        "x2": 1031.296875,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1046.296875,
+        "y1": 888.0,
+        "x2": 1086.296875,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Follow AMY101",
+        "title": "Follow AMY101",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Follow AMY101"
+    },
+    {
+      "coordinates": {
+        "x1": 1070.296875,
+        "y1": 901.5,
+        "x2": 1071.296875,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.296875,
+        "y1": 888.0,
+        "x2": 1126.296875,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "More",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 1110.296875,
+        "y1": 901.5,
+        "x2": 1111.296875,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 954.296875,
+        "y1": 932.0,
+        "x2": 1134.296875,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Numba 1 DJ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Numba 1 DJ"
+    },
+    {
+      "coordinates": {
+        "x1": 954.296875,
+        "y1": 952.0,
+        "x2": 1005.859375,
+        "y2": 972.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AMY101",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: AMY101"
+    },
+    {
+      "coordinates": {
+        "x1": 1217.90625,
+        "y1": 802.0,
+        "x2": 1281.90625,
+        "y2": 866.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 1211.90625,
+        "y1": 888.0,
+        "x2": 1251.90625,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "Like",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 1235.90625,
+        "y1": 901.5,
+        "x2": 1236.90625,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1251.90625,
+        "y1": 888.0,
+        "x2": 1291.90625,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Follow Nettspend",
+        "title": "Follow Nettspend",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Follow Nettspend"
+    },
+    {
+      "coordinates": {
+        "x1": 1275.90625,
+        "y1": 901.5,
+        "x2": 1276.90625,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1291.90625,
+        "y1": 888.0,
+        "x2": 1331.90625,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "More",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 1315.90625,
+        "y1": 901.5,
+        "x2": 1316.90625,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.90625,
+        "y1": 932.0,
+        "x2": 1339.90625,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "you ready?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: you ready?"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.90625,
+        "y1": 952.0,
+        "x2": 1227.09375,
+        "y2": 972.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Nettspend",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Nettspend"
+    },
+    {
+      "coordinates": {
+        "x1": 1423.5,
+        "y1": 802.0,
+        "x2": 1487.5,
+        "y2": 866.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_button: Play"
+    },
+    {
+      "coordinates": {
+        "x1": 1417.5,
+        "y1": 888.0,
+        "x2": 1457.5,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "Like",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.5,
+        "y1": 901.5,
+        "x2": 1442.5,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1457.5,
+        "y1": 888.0,
+        "x2": 1497.5,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Follow IDEMI",
+        "title": "Follow IDEMI",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Follow IDEMI"
+    },
+    {
+      "coordinates": {
+        "x1": 1481.5,
+        "y1": 901.5,
+        "x2": 1482.5,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1497.5,
+        "y1": 888.0,
+        "x2": 1537.5,
+        "y2": 916.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More",
+        "title": "More",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 1521.5,
+        "y1": 901.5,
+        "x2": 1522.5,
+        "y2": 902.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.5,
+        "y1": 932.0,
+        "x2": 1545.5,
+        "y2": 952.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Teach You Desire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Teach You Desire"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.5,
+        "y1": 952.0,
+        "x2": 1403.359375,
+        "y2": 972.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "IDEMI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: IDEMI"
+    },
+    {
+      "coordinates": {
+        "x1": 1418.65625,
+        "y1": 563.0,
+        "x2": 1476.5,
+        "y2": 595.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1484.5,
+        "y1": 561.0,
+        "x2": 1520.5,
+        "y2": 597.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hide queue",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Hide queue"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 537.203125,
+        "x2": 1883.0,
+        "y2": 982
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookies & Tracking\nWhen clicking on \u201cI accept\u201d, you agree that we and our 991 partners may store and/or access information on your device, such as unique IDs in cookies to process personal data. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used. You can withdraw your consent or manage your choices at any time in your settings or the cookie manager. For additional info please refer to our Privacy Policy. Your choices will be signaled to our partners and will not affect browsing data.\n\nWhere we have your email address, we and The Trade Desk (our advertising partner) will use it to create a unique advertising identifier (the EUID). Your identifier will be encrypted and shared with different sites and advertisers who may, subject to your choices, use it to show you personalized ads. Learn more: EUID Privacy Notice. To withdraw consent, please visit EUID Transparency and Control Portal.\nPersonalized Ads\nUse precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\nList of Partners\nI Accept\nReject All\nManage Preferences",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: Cookies & Tracking\nWhen cli..."
+    },
+    {
+      "coordinates": {
+        "x1": 531.609375,
+        "y1": 882.0,
+        "x2": 662.453125,
+        "y2": 903.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "EUID Privacy Notice",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: EUID Privacy Notice"
+    },
+    {
+      "coordinates": {
+        "x1": 401.40625,
+        "y1": 903.0,
+        "x2": 657.21875,
+        "y2": 924.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "EUID Transparency and Control Portal",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: EUID Transparency and Contr..."
+    },
+    {
+      "coordinates": {
+        "x1": 863.03125,
+        "y1": 699.390625,
+        "x2": 967.5625,
+        "y2": 719.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "List of Partners",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: List of Partners"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.921875,
+        "y1": 692.59375,
+        "x2": 1555.15625,
+        "y2": 836.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I Accept\nReject All\nManage Preferences",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "general_button: I Accept\nReject All\nManage ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1352.921875,
+        "y1": 692.59375,
+        "x2": 1555.15625,
+        "y2": 740.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I Accept",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: I Accept"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.921875,
+        "y1": 740.59375,
+        "x2": 1555.15625,
+        "y2": 788.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Reject All"
+    },
+    {
+      "coordinates": {
+        "x1": 1352.921875,
+        "y1": 788.59375,
+        "x2": 1555.15625,
+        "y2": 836.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Manage Preferences, Opens the preference center dialog",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage Preferences",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Manage Preferences, Opens t..."
+    }
+  ],
+  "dataset_split": "raw"
+}

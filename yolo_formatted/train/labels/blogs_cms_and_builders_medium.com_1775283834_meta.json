@@ -1,0 +1,487 @@
+{
+  "url": "https://medium.com",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775283834,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 353.0,
+        "y1": 24.75,
+        "x2": 465.34375,
+        "y2": 45.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Medium Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Medium Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1128.46875,
+        "y1": 28.5,
+        "x2": 1186.40625,
+        "y2": 46.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Our story",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Our story"
+    },
+    {
+      "coordinates": {
+        "x1": 1211.40625,
+        "y1": 28.5,
+        "x2": 1290.5625,
+        "y2": 46.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Membership",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Membership"
+    },
+    {
+      "coordinates": {
+        "x1": 1315.5625,
+        "y1": 28.5,
+        "x2": 1348.90625,
+        "y2": 46.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Write",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Write"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.90625,
+        "y1": 28.5,
+        "x2": 1415.90625,
+        "y2": 46.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1440.90625,
+        "y1": 26.5,
+        "x2": 1545.0,
+        "y2": 47.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 1440.90625,
+        "y1": 18.5,
+        "x2": 1545.0,
+        "y2": 56.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 1438.0,
+        "y1": 227.515625,
+        "x2": 1898,
+        "y2": 827.515625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Brand image",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image: Brand image"
+    },
+    {
+      "coordinates": {
+        "x1": 353.0,
+        "y1": 670.5,
+        "x2": 549.0,
+        "y2": 716.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start reading",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Start reading"
+    },
+    {
+      "coordinates": {
+        "x1": 609.0,
+        "y1": 938.0,
+        "x2": 636.421875,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Help"
+    },
+    {
+      "coordinates": {
+        "x1": 652.421875,
+        "y1": 938.0,
+        "x2": 689.390625,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Status",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Status"
+    },
+    {
+      "coordinates": {
+        "x1": 705.390625,
+        "y1": 938.0,
+        "x2": 741.203125,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 757.203125,
+        "y1": 938.0,
+        "x2": 802.328125,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Careers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Careers"
+    },
+    {
+      "coordinates": {
+        "x1": 818.328125,
+        "y1": 938.0,
+        "x2": 850.625,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Press",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Press"
+    },
+    {
+      "coordinates": {
+        "x1": 866.625,
+        "y1": 938.0,
+        "x2": 893.09375,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Blog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Blog"
+    },
+    {
+      "coordinates": {
+        "x1": 909.09375,
+        "y1": 938.0,
+        "x2": 951.640625,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Privacy"
+    },
+    {
+      "coordinates": {
+        "x1": 967.640625,
+        "y1": 938.0,
+        "x2": 999.859375,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rules",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Rules"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.859375,
+        "y1": 938.0,
+        "x2": 1051.921875,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 1067.921875,
+        "y1": 938.0,
+        "x2": 1151.703125,
+        "y2": 958.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Text to speech",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Text to speech"
+    }
+  ],
+  "dataset_split": "raw"
+}

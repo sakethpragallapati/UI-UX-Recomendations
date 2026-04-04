@@ -1,0 +1,37 @@
+{
+  "url": "https://thesun.co.uk",
+  "category": "news_and_journalism",
+  "timestamp": 1775283017,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 905.078125,
+        "y1": 499.5,
+        "x2": 992.90625,
+        "y2": 530.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try Again",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Try Again"
+    }
+  ],
+  "dataset_split": "raw"
+}

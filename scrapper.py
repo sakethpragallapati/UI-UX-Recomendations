@@ -18,13 +18,18 @@ from urllib.parse import urlparse
 import concurrent.futures
 from tqdm import tqdm
 
-# Define UI element classes for YOLO
+# --- 21-Class Two-Path Ontology ---
 CLASSES = [
-    'link', 'button', 'input', 'select', 'textarea', 'label', 
-    'checkbox', 'radio', 'dropdown', 'slider', 'toggle', 
-    'menu_item', 'clickable', 'icon', 'image', 'text'
+    # Generic Text-Based Elements (Requires OCR)
+    'general_button', 'general_link', 'general_input', 'general_dropdown', 
+    'general_label', 'general_checkbox', 'general_radio', 'general_textarea', 
+    'general_menu_item', 'general_slider', 'general_image', 'general_video', 
+    'general_iframe', 'general_form', 'general_table', 'general_clickable',
+    # Specific Visual Icons (No OCR Needed)
+    'icon_cart', 'icon_menu', 'icon_search', 'icon_profile', 'icon_close'
 ]
 
+# --- Fully Merged & Deduplicated Websites Dictionary ---
 WEBSITES = {
     'google_ecosystem': [
         "https://www.google.com", "https://support.google.com", "https://docs.google.com", 
@@ -189,14 +194,28 @@ WEBSITES = {
         "https://feedburner.com", "https://netvibes.com", "https://cnil.fr", "https://instructables.com", 
         "https://tripadvisor.com", "https://disqus.com", "https://goodreads.com", "https://hubspot.com", 
         "https://office.com", "https://list-manage.com"
+    ],
+    'web_apps': [
+        "https://slack.com", "https://www.evernote.com"
+    ],
+    'dev_tools': [
+        "https://codesandbox.io", "https://codepen.io", "https://jsfiddle.net", 
+        "https://replit.com", "https://jupyter.org", "https://www.jetbrains.com"
+    ],
+    'creative': [
+        "https://www.photopea.com", "https://www.pixilart.com", 
+        "https://www.remove.bg", "https://www.figma.com"
+    ],
+    'ai_platforms': [
+        "https://huggingface.co", "https://www.kaggle.com", 
+        "https://colab.research.google.com", "https://wandb.ai"
     ]
 }
 
 
 class UIScraper:
-    def __init__(self, output_dir="yolo_dataset", max_retries=3, timeout=15): # Upped default timeout
+    def __init__(self, output_dir="yolo_dataset", timeout=15):
         self.output_dir = output_dir
-        self.max_retries = max_retries
         self.timeout = timeout
         self.processed_urls = set()
         self.failed_urls = set()
@@ -209,10 +228,11 @@ class UIScraper:
             'failed_urls': 0,
             'total_elements': 0,
             'elements_by_class': {class_name: 0 for class_name in CLASSES},
-            'elements_by_category': {category: 0 for category in WEBSITES.keys() if category != 'mostvisited'}
+            'elements_by_category': {category: 0 for category in WEBSITES.keys()}
         }
 
     def setup_directories(self):
+        # CHANGED: Output directly to raw images/labels folders (no train/ splits)
         self.images_dir = os.path.join(self.output_dir, "images")
         self.labels_dir = os.path.join(self.output_dir, "labels")
         for directory in [self.images_dir, self.labels_dir]:
@@ -238,6 +258,54 @@ class UIScraper:
         except Exception:
             return class_name
 
+    def get_class_id(self, tag_name, element_type, class_name, aria_label=None, title=None, alt=None):
+        tag_name = str(tag_name).lower() if tag_name else ""
+        class_name = str(class_name).lower() if class_name else ""
+        element_type = str(element_type).lower() if element_type else ""
+        aria_label = str(aria_label).lower() if aria_label else ""
+        title = str(title).lower() if title else ""
+        alt = str(alt).lower() if alt else ""
+        
+        # Helper to search all descriptive attributes
+        def has_kw(kw):
+            return kw in class_name or kw in aria_label or kw in title or kw in alt or kw in element_type
+        
+        # 1. CHECK SPECIFIC ICONS FIRST
+        if has_kw('cart') or has_kw('basket') or has_kw('checkout'):
+            return CLASSES.index('icon_cart')
+        
+        if has_kw('search') or has_kw('magnify'):
+            return CLASSES.index('icon_search')
+            
+        if has_kw('menu') or has_kw('hamburger') or has_kw('nav-toggle'):
+            return CLASSES.index('icon_menu')
+            
+        if has_kw('profile') or has_kw('user') or has_kw('account') or has_kw('avatar'):
+            return CLASSES.index('icon_profile')
+            
+        if has_kw('close') or has_kw('dismiss') or class_name == 'close':
+            return CLASSES.index('icon_close')
+
+        # 2. FALLBACK TO GENERIC SHAPES
+        if 'button' in class_name or tag_name == 'button' or element_type == 'button' or 'btn' in class_name:
+            return CLASSES.index('general_button')
+        elif tag_name == 'a' or element_type == 'link':
+            return CLASSES.index('general_link')
+        elif tag_name == 'input':
+            if element_type == 'checkbox': return CLASSES.index('general_checkbox')
+            elif element_type == 'radio': return CLASSES.index('general_radio')
+            else: return CLASSES.index('general_input')
+        elif tag_name == 'select' or 'dropdown' in class_name or element_type == 'combobox':
+            return CLASSES.index('general_dropdown')
+        elif tag_name == 'textarea': return CLASSES.index('general_textarea')
+        elif tag_name == 'label': return CLASSES.index('general_label')
+        elif 'slider' in class_name or element_type == 'slider': return CLASSES.index('general_slider')
+        elif 'menu-item' in class_name or element_type == 'menuitem': return CLASSES.index('general_menu_item')
+        elif 'clickable' in class_name: return CLASSES.index('general_clickable')
+        elif tag_name == 'img' or 'image' in class_name: return CLASSES.index('general_image')
+        
+        return -1
+
     def get_element_info(self, driver, element, viewport_metrics):
         try:
             rect = driver.execute_script("""
@@ -245,6 +313,9 @@ class UIScraper:
                 return { top: rect.top, left: rect.left, width: rect.width, height: rect.height };
             """, element)
             
+            if rect['width'] == 0 or rect['height'] == 0:
+                return None
+
             metrics = driver.execute_script("""
                 return {
                     devicePixelRatio: window.devicePixelRatio || 1,
@@ -269,15 +340,14 @@ class UIScraper:
                 element_type = element.get_attribute("type") or element.get_attribute("role")
                 class_name = element.get_attribute("class") or ""
                 aria_label = element.get_attribute("aria-label") or ""
-                
-                title = element.get_attribute("title")
+                title = element.get_attribute("title") or ""
+                alt_text = element.get_attribute("alt") if tag_name == "img" else ""
+                text_content = element.text
                 placeholder = element.get_attribute("placeholder")
                 value = element.get_attribute("value")
-                text_content = element.text
                 name = element.get_attribute("name")
-                alt_text = element.get_attribute("alt") if tag_name == "img" else None
                 
-                class_id = self.get_class_id(tag_name, element_type, class_name, aria_label)
+                class_id = self.get_class_id(tag_name, element_type, class_name, aria_label, title, alt_text)
                 
                 if class_id != -1:
                     self.stats['total_elements'] += 1
@@ -311,55 +381,21 @@ class UIScraper:
         file_handler = logging.FileHandler(os.path.join(self.output_dir, 'scraper.log'))
         file_handler.setLevel(logging.INFO)
         file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
-
         stream_handler = logging.StreamHandler()
         stream_handler.setLevel(logging.WARNING) 
-
         logging.basicConfig(level=logging.INFO, handlers=[file_handler, stream_handler])
-
-    def get_class_id(self, tag_name, element_type, class_name, aria_label=None):
-        tag_name = tag_name.lower()
-        class_name = class_name.lower() if class_name else ""
-        element_type = element_type.lower() if element_type else ""
-        aria_label = aria_label.lower() if aria_label else ""
-        
-        if ('button' in class_name or tag_name == 'button' or element_type == 'button' or 'btn' in class_name):
-            return CLASSES.index('button')
-        elif tag_name == 'a' or element_type == 'link':
-            return CLASSES.index('link')
-        elif tag_name == 'input':
-            if element_type == 'checkbox': return CLASSES.index('checkbox')
-            elif element_type == 'radio': return CLASSES.index('radio')
-            else: return CLASSES.index('input')
-        elif (tag_name == 'select' or 'dropdown' in class_name or element_type == 'combobox'):
-            return CLASSES.index('dropdown')
-        elif tag_name == 'textarea': return CLASSES.index('textarea')
-        elif tag_name == 'label': return CLASSES.index('label')
-        elif 'slider' in class_name or element_type == 'slider': return CLASSES.index('slider')
-        elif 'toggle' in class_name or element_type == 'switch': return CLASSES.index('toggle')
-        elif ('menu-item' in class_name or element_type == 'menuitem'): return CLASSES.index('menu_item')
-        elif 'clickable' in class_name: return CLASSES.index('clickable')
-        elif (tag_name in ['i', 'svg'] or 'icon' in class_name): return CLASSES.index('icon')
-        return -1
 
     def get_elements(self, driver, viewport_metrics):
         elements_info = []
         elements = driver.find_elements(By.XPATH, """
             //*[
-                self::a or self::button or self::input or
-                self::select or self::textarea or self::label or
-                self::*[@onclick or @role='button' or @role='link' or
-                        @role='menuitem' or @role='slider' or
-                        @role='scrollbar' or @role='checkbox' or
-                        @role='radio' or @role='textbox' or
-                        @role='combobox' or @role='listbox' or
-                        @role='switch' or @tabindex or
-                        contains(@class, 'button') or
-                        contains(@class, 'btn') or
-                        contains(@class, 'dropdown') or
-                        contains(@class, 'menu-item') or
-                        contains(@class, 'clickable') or
-                        contains(@class, 'link')]
+                self::a or self::button or self::input or self::select or 
+                self::textarea or self::label or self::img or self::svg or self::i or
+                self::*[@role='button' or @role='link' or @role='menuitem' or 
+                        @role='slider' or @role='checkbox' or @role='radio' or 
+                        @role='textbox' or @role='combobox' or @role='switch' or 
+                        contains(@class, 'button') or contains(@class, 'btn') or 
+                        contains(@class, 'icon') or contains(@class, 'menu-item')]
             ]
         """)
         
@@ -374,102 +410,86 @@ class UIScraper:
 
     def setup_driver(self):
         options = webdriver.ChromeOptions()
-        options.add_argument("--headless=new") # Modern headless mode is much harder to detect
+        options.add_argument("--headless=new")
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-notifications")
         options.add_argument("--disable-popup-blocking")
-        
-        # --- NEW MEMORY & BOT EVASION TUNING ---
-        options.add_argument("--disable-gpu") # Saves memory
-        options.add_argument("--disable-blink-features=AutomationControlled") # Bypasses basic Cloudflare/Bot checks
+        options.add_argument("--disable-gpu")
+        options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--disable-extensions")
-        
         options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
         options.add_argument("--window-size=1920,1080")
         options.add_argument("--force-device-scale-factor=1")
-        
         options.add_argument("--log-level=3") 
         options.add_argument("--silent")
         options.add_argument("--disable-logging")
         options.add_argument("--disable-crash-reporter")
-        options.add_experimental_option('excludeSwitches', ['enable-automation', 'enable-logging']) # Hide "Chrome is being controlled" bar
+        options.add_experimental_option('excludeSwitches', ['enable-automation', 'enable-logging'])
         options.add_experimental_option('useAutomationExtension', False)
-
-        prefs = {
-            'profile.default_content_setting_values': {'notifications': 2, 'automatic_downloads': 2},
-            'profile.managed_default_content_settings': {'images': 1}
-        }
-        options.add_experimental_option('prefs', prefs)
         
         service = Service()
         service.creation_flags = 0x08000000 
-
         return webdriver.Chrome(service=service, options=options)
 
     def process_url(self, url, category):
         if url in self.processed_urls:
             return
         
-        # --- NEW IMPLEMENTED RETRY LOGIC ---
-        for attempt in range(self.max_retries):
-            driver = None
-            try:
-                driver = self.setup_driver()
-                driver.set_page_load_timeout(self.timeout)
-                driver.get(url)
+        driver = None
+        try:
+            driver = self.setup_driver()
+            driver.set_page_load_timeout(self.timeout)
+            driver.get(url)
+            
+            WebDriverWait(driver, self.timeout).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
+            
+            driver.execute_script("document.body.style.zoom = '100%'")
+            driver.execute_script("window.scrollTo(0, 300);")
+            time.sleep(1)
+            driver.execute_script("window.scrollTo(0, 0);")
+            time.sleep(1.5)
+            
+            viewport_metrics = driver.execute_script("""
+                return {
+                    width: Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
+                    height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0),
+                    scrollX: window.pageXOffset,
+                    scrollY: window.pageYOffset,
+                    devicePixelRatio: window.devicePixelRatio || 1
+                };
+            """)
+            
+            elements_info = self.get_elements(driver, viewport_metrics)
+            
+            if elements_info:
+                screenshot = driver.get_screenshot_as_png()
+                self.save_data(url, category, elements_info, screenshot)
+                self.processed_urls.add(url)
+                self.stats['processed_urls'] += 1
+                if category in self.stats['elements_by_category']:
+                    self.stats['elements_by_category'][category] += len(elements_info)
+            else:
+                logging.warning(f"No elements found for {url}.")
+                self.failed_urls.add(url)
+                self.stats['failed_urls'] += 1
                 
-                WebDriverWait(driver, self.timeout).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "body"))
-                )
-                
-                driver.execute_script("document.body.style.zoom = '100%'")
-                
-                # --- NEW LAZY LOADING TRIGGER ---
-                # Scroll down slightly and back up to trigger dynamic images/buttons to render
-                driver.execute_script("window.scrollTo(0, 300);")
-                time.sleep(1)
-                driver.execute_script("window.scrollTo(0, 0);")
-                time.sleep(1.5)
-                
-                viewport_metrics = driver.execute_script("""
-                    return {
-                        width: Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
-                        height: Math.max(document.documentElement.clientHeight, window.innerHeight || 0),
-                        scrollX: window.pageXOffset,
-                        scrollY: window.pageYOffset,
-                        devicePixelRatio: window.devicePixelRatio || 1
-                    };
-                """)
-                
-                elements_info = self.get_elements(driver, viewport_metrics)
-                
-                if elements_info:
-                    screenshot = driver.get_screenshot_as_png()
-                    self.save_data(url, category, elements_info, screenshot)
-                    self.processed_urls.add(url)
-                    self.stats['processed_urls'] += 1
-                    if category in self.stats['elements_by_category']:
-                        self.stats['elements_by_category'][category] += len(elements_info)
-                    break # Success! Break out of the retry loop.
-                else:
-                    logging.warning(f"No elements found for {url} on attempt {attempt + 1}")
-                    
-            except TimeoutException:
-                logging.warning(f"Timeout on {url} (Attempt {attempt + 1}/{self.max_retries})")
-            except Exception as e:
-                logging.warning(f"Error processing {url} (Attempt {attempt + 1}/{self.max_retries}): {str(e)}")
-            finally:
-                if driver:
-                    try:
-                        driver.quit() # Safely close driver to prevent memory leaks
-                    except:
-                        pass
-        else:
-            # This block triggers if the loop finishes WITHOUT hitting the 'break' statement (all retries failed)
+        except TimeoutException:
+            logging.warning(f"Timeout on {url}.")
             self.failed_urls.add(url)
             self.stats['failed_urls'] += 1
-            logging.error(f"Completely failed to process {url} after {self.max_retries} attempts.")
+        except Exception as e:
+            logging.warning(f"Error processing {url}: {str(e)}")
+            self.failed_urls.add(url)
+            self.stats['failed_urls'] += 1
+        finally:
+            if driver:
+                try:
+                    driver.quit()
+                except:
+                    pass
 
     def save_class_list(self):
         with open(os.path.join(self.output_dir, "classes.txt"), 'w') as f:
@@ -532,12 +552,7 @@ class UIScraper:
                     'timestamp': int(time.time()),
                     'image_size': {'width': image_width, 'height': image_height},
                     'elements': elements_info,
-                    'dataset_split': 'train',
-                    'additional_info': {
-                        'browser': 'chrome',
-                        'viewport_size': f"{image_width}x{image_height}",
-                        'total_elements': len(elements_info)
-                    }
+                    'dataset_split': 'raw' # CHANGED: Updated metadata tag
                 }
                 json.dump(metadata, f, indent=2)
                 
@@ -554,32 +569,26 @@ class UIScraper:
         print("\nElements by category:")
         print("-" * 30)
         for category, count in self.stats['elements_by_category'].items():
-            print(f"{category}: {count}")
+            if count > 0:
+                print(f"{category}: {count}")
         
         print("\nElements by class:")
         print("-" * 30)
         for class_name, count in self.stats['elements_by_class'].items():
-            print(f"{class_name}: {count}")
+            if count > 0:
+                print(f"{class_name}: {count}")
 
     def run(self, max_workers=5):
         try:
-            # Process each category of websites
             all_tasks = []
             for category, urls in WEBSITES.items():
                 for url in urls:
                     all_tasks.append((url, category))
             
             with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-                futures = [
-                    executor.submit(self.process_url, url, category)
-                    for url, category in all_tasks
-                ]
+                futures = [executor.submit(self.process_url, url, category) for url, category in all_tasks]
                 
-                for _ in tqdm(
-                    concurrent.futures.as_completed(futures),
-                    total=len(all_tasks),
-                    desc="Processing websites"
-                ):
+                for _ in tqdm(concurrent.futures.as_completed(futures), total=len(all_tasks), desc="Processing websites"):
                     pass
             
             self.save_class_list()
@@ -590,27 +599,17 @@ class UIScraper:
             logging.error(f"Error during scraping: {str(e)}")
             raise
 
-def add_custom_websites():
-    WEBSITES['web_apps'] = ['https://www.dropbox.com', 'https://web.whatsapp.com', 'https://discord.com', 'https://slack.com', 'https://www.evernote.com', 'https://workspace.google.com']
-    WEBSITES['dev_tools'] = ['https://codesandbox.io', 'https://codepen.io', 'https://jsfiddle.net', 'https://replit.com', 'https://jupyter.org', 'https://www.jetbrains.com']
-    WEBSITES['creative'] = ['https://www.photopea.com', 'https://www.pixilart.com', 'https://www.remove.bg', 'https://www.canva.com', 'https://www.figma.com']
-    WEBSITES['news'] = ['https://www.bbc.com', 'https://www.reuters.com', 'https://www.bloomberg.com', 'https://www.theverge.com', 'https://techcrunch.com']
-    WEBSITES['ai_platforms'] = ['https://huggingface.co', 'https://www.kaggle.com', 'https://colab.research.google.com', 'https://wandb.ai']
-
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="UI Element Scraper for YOLO Dataset")
     parser.add_argument("--output-dir", default="yolo_dataset", help="Output directory for dataset")
     parser.add_argument("--max-workers", type=int, default=5, help="Maximum concurrent workers")
     parser.add_argument("--timeout", type=int, default=15, help="Page load timeout in seconds")
-    parser.add_argument("--max-retries", type=int, default=3, help="Maximum number of retries per URL")
     
     args = parser.parse_args()
-    add_custom_websites()
     
     scraper = UIScraper(
         output_dir=args.output_dir,
-        max_retries=args.max_retries,
         timeout=args.timeout
     )
     scraper.run(max_workers=args.max_workers)

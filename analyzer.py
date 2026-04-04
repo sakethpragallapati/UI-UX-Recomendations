@@ -3,10 +3,9 @@ import json
 from pathlib import Path
 from collections import defaultdict
 
-def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baseline_rules.json"):
-    print("Starting UI Pattern Analysis...")
+def build_baseline_rules(input_dir="yolo_dataset", output_file="ui_baseline_rules.json"):
+    print("Starting Two-Path UI Pattern Analysis...")
     
-    # Check if input directory exists
     input_path = Path(input_dir)
     if not input_path.exists():
         print(f"Error: Directory '{input_dir}' not found.")
@@ -15,8 +14,18 @@ def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baselin
     # Store raw normalized coordinates: data[category][element_type] = [(x, y, w, h), ...]
     raw_data = defaultdict(lambda: defaultdict(list))
     
-    # --- DEDUPLICATION DICTIONARIES ---
-    # Map synonyms to a single, unique semantic class
+    # --- PATH A: Visual Icon Dictionary ---
+    # Maps native YOLO visual detections directly to semantic classes
+    icon_map = {
+        'icon_cart': 'cart',
+        'icon_menu': 'menu',
+        'icon_search': 'search',
+        'icon_profile': 'profile',
+        'icon_close': 'close'
+    }
+
+    # --- PATH B: Text-Based Overlap Dictionary ---
+    # Maps generic shapes (buttons/links) to semantic classes based on their text/ARIA labels
     ux_keyword_map = {
         'cart': 'cart',
         'checkout': 'cart',
@@ -31,41 +40,31 @@ def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baselin
         'account': 'profile'
     }
     
-    # Map redundant categories to a standard unique name
-    category_map = {
-        'news': 'news_and_journalism'
-    }
-    
-    # 1. Read all metadata files
-    json_files = list(input_path.glob('*_meta.json'))
+    # CHANGED: Using rglob (recursive search) to find metadata files anywhere in the dataset folder
+    json_files = list(input_path.rglob('*_meta.json'))
     print(f"Found {len(json_files)} metadata files to process.")
     
     if not json_files:
         print("No files to process. Exiting.")
         return
 
+    # 1. READ AND ROUTE DATA
     for file_path in json_files:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 meta = json.load(f)
                 
-            raw_category = meta.get('category', 'unknown')
-            # Standardize category name
-            category = category_map.get(raw_category, raw_category)
+            category = meta.get('category', 'unknown')
             
             image_size = meta.get('image_size', {})
             img_w = image_size.get('width', 0)
             img_h = image_size.get('height', 0)
             
-            # Prevent division by zero
             if img_w <= 0 or img_h <= 0:
-                print(f"Skipping {file_path.name}: Invalid image dimensions.")
                 continue
             
             for element in meta.get('elements', []):
                 coords = element.get('coordinates', {})
-                
-                # Ensure all coordinate keys exist
                 if not all(k in coords for k in ('x1', 'y1', 'x2', 'y2')):
                     continue
                     
@@ -80,21 +79,29 @@ def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baselin
                 
                 coord_tuple = (x_center, y_center, width, height)
                 
-                # Store general class positioning
-                raw_data[category][f"general_{class_name}"].append(coord_tuple)
+                # ALWAYS store the raw YOLO detection position (Fixing the double 'general_' prefix bug)
+                raw_data[category][class_name].append(coord_tuple)
                 
-                # Store specific semantic positioning (Mapped to unique classes)
-                for keyword, unified_class in ux_keyword_map.items():
-                    if keyword in desc_label:
-                        raw_data[category][f"specific_{unified_class}"].append(coord_tuple)
-                        break # Prevent double-counting if a label contains multiple keywords
-                        
+                # --- TRAFFIC COP LOGIC ---
+                
+                # ROUTE A: It's a specific visual icon
+                if class_name in icon_map:
+                    unified_class = icon_map[class_name]
+                    raw_data[category][f"specific_{unified_class}"].append(coord_tuple)
+                    
+                # ROUTE B: It's a generic shape, check the text/ARIA label
+                else:
+                    for keyword, unified_class in ux_keyword_map.items():
+                        if keyword in desc_label:
+                            raw_data[category][f"specific_{unified_class}"].append(coord_tuple)
+                            break # Break to prevent double-counting
+                            
         except json.JSONDecodeError:
             print(f"Error: {file_path.name} is not a valid JSON file.")
         except Exception as e:
             print(f"Error processing {file_path.name}: {e}")
 
-    # 2. Calculate Averages
+    # 2. CALCULATE STATISTICAL AVERAGES
     print("Calculating baseline rules...")
     baseline_rules = defaultdict(dict)
     
@@ -102,7 +109,7 @@ def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baselin
         for elem_type, coords_list in elements.items():
             sample_size = len(coords_list)
             
-            # Skip statistically insignificant samples
+            # Skip statistically insignificant samples to prevent noisy baselines
             if sample_size < 3:
                 continue 
                 
@@ -116,7 +123,7 @@ def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baselin
                 "sample_size": sample_size
             }
 
-    # 3. Export to JSON
+    # 3. EXPORT TO JSON
     try:
         with open(output_file, 'w', encoding='utf-8') as out_f:
             json.dump(baseline_rules, out_f, indent=4)
@@ -125,4 +132,4 @@ def analyze_ui_patterns(input_dir="yolo_dataset/labels", output_file="ui_baselin
         print(f"Error saving output file: {e}")
 
 if __name__ == "__main__":
-    analyze_ui_patterns()
+    build_baseline_rules()

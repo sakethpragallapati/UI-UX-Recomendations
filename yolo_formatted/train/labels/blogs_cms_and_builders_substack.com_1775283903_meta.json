@@ -1,0 +1,1162 @@
+{
+  "url": "https://substack.com",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775283903,
+  "image_size": {
+    "width": 1898,
+    "height": 982
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 16.0,
+        "x2": 64.0,
+        "y2": 64.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 80.0,
+        "x2": 216.0,
+        "y2": 128.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 136.0,
+        "x2": 216.0,
+        "y2": 184.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Subscriptions",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Subscriptions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Subscriptions"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 192.0,
+        "x2": 216.0,
+        "y2": 240.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Chat",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Chat",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Chat"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 248.0,
+        "x2": 216.0,
+        "y2": 296.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Activity",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Activity",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Activity"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 304.0,
+        "x2": 216.0,
+        "y2": 352.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Explore",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Explore",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Explore"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 360.0,
+        "x2": 216.0,
+        "y2": 408.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Profile",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Profile",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Profile"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 428.0,
+        "x2": 216.0,
+        "y2": 468.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Create"
+    },
+    {
+      "coordinates": {
+        "x1": 742.390625,
+        "y1": 147.84375,
+        "x2": 850.40625,
+        "y2": 187.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 858.40625,
+        "y1": 147.84375,
+        "x2": 967.609375,
+        "y2": 187.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 565.0,
+        "y1": 276.0,
+        "x2": 641.546875,
+        "y2": 304.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For you",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: For you"
+    },
+    {
+      "coordinates": {
+        "x1": 571.0,
+        "y1": 324.0,
+        "x2": 607.0,
+        "y2": 360.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 571.0,
+        "y1": 324.0,
+        "x2": 607.0,
+        "y2": 360.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Aaron Parnas's avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Aaron Parnas's avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 619.0,
+        "y1": 328.0,
+        "x2": 708.921875,
+        "y2": 348.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Aaron Parnas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Aaron Parnas"
+    },
+    {
+      "coordinates": {
+        "x1": 716.921875,
+        "y1": 327.5,
+        "x2": 757.3125,
+        "y2": 347.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Mar 27, 2026, 7:37 AM",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mar 27",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Mar 27, 2026, 7:37 AM"
+    },
+    {
+      "coordinates": {
+        "x1": 1041.828125,
+        "y1": 324.0,
+        "x2": 1111.0,
+        "y2": 352.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 1113.0,
+        "y1": 322.0,
+        "x2": 1145.0,
+        "y2": 354.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More options",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More options"
+    },
+    {
+      "coordinates": {
+        "x1": 619.0,
+        "y1": 447.0,
+        "x2": 934.0,
+        "y2": 867.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 611.0,
+        "y1": 875.0,
+        "x2": 684.390625,
+        "y2": 907.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Like",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "21.6K",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Like"
+    },
+    {
+      "coordinates": {
+        "x1": 692.390625,
+        "y1": 875.0,
+        "x2": 758.765625,
+        "y2": 907.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Comment",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "1.2K",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Comment"
+    },
+    {
+      "coordinates": {
+        "x1": 766.765625,
+        "y1": 875.0,
+        "x2": 829.796875,
+        "y2": 907.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Restack",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "561",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Restack"
+    },
+    {
+      "coordinates": {
+        "x1": 837.796875,
+        "y1": 875.0,
+        "x2": 871.796875,
+        "y2": 907.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Share",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: Share"
+    },
+    {
+      "coordinates": {
+        "x1": 571.0,
+        "y1": 940.0,
+        "x2": 607.0,
+        "y2": 976.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 571.0,
+        "y1": 940.0,
+        "x2": 607.0,
+        "y2": 976.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The Conscious Lee's avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "icon_profile: The Conscious Lee's avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 619.0,
+        "y1": 944.0,
+        "x2": 744.140625,
+        "y2": 964.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Conscious Lee",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Conscious Lee"
+    },
+    {
+      "coordinates": {
+        "x1": 768.265625,
+        "y1": 943.5,
+        "x2": 782.640625,
+        "y2": 963.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Apr 4, 2026, 3:47 AM",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "8h",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Apr 4, 2026, 3:47 AM"
+    },
+    {
+      "coordinates": {
+        "x1": 1041.828125,
+        "y1": 940.0,
+        "x2": 1111.0,
+        "y2": 968.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Subscribe"
+    },
+    {
+      "coordinates": {
+        "x1": 1113.0,
+        "y1": 938.0,
+        "x2": 1145.0,
+        "y2": 970.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More options",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: More options"
+    },
+    {
+      "coordinates": {
+        "x1": 1504.0,
+        "y1": 34.0,
+        "x2": 1524.0,
+        "y2": 54.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1492.0,
+        "y1": 24.0,
+        "x2": 1849.0,
+        "y2": 64.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Global search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search Substack",
+        "value": "",
+        "name": "search"
+      },
+      "descriptive_label": "icon_search: Global search"
+    },
+    {
+      "coordinates": {
+        "x1": 1508.0,
+        "y1": 244.0,
+        "x2": 1833.0,
+        "y2": 284.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get the app",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Get the app"
+    },
+    {
+      "coordinates": {
+        "x1": 1508.0,
+        "y1": 296.0,
+        "x2": 1833.0,
+        "y2": 336.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.0,
+        "y1": 416.0,
+        "x2": 1841.0,
+        "y2": 504.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Sev-1 Database\nUnlock Full Sev1 Database Premium Access \ud83d\ude80\n1m read \u2219 1 like",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Sev-1 Database\nUnlock F..."
+    },
+    {
+      "coordinates": {
+        "x1": 1508.0,
+        "y1": 426.0,
+        "x2": 1524.0,
+        "y2": 442.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1532.0,
+        "y1": 425.0,
+        "x2": 1645.546875,
+        "y2": 442.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Sev-1 Database",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: The Sev-1 Database"
+    },
+    {
+      "coordinates": {
+        "x1": 1811.0,
+        "y1": 422.0,
+        "x2": 1835.0,
+        "y2": 446.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.0,
+        "y1": 521.0,
+        "x2": 1841.0,
+        "y2": 629.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Vedanjanam's Substack\nThe Actuarial Suez: How Lloyd's Shut the Strait of Hormuz Before Iran's Missiles Did\n34m read",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Vedanjanam's Substack\nThe A..."
+    },
+    {
+      "coordinates": {
+        "x1": 1508.0,
+        "y1": 531.0,
+        "x2": 1524.0,
+        "y2": 547.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1532.0,
+        "y1": 530.0,
+        "x2": 1665.59375,
+        "y2": 547.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Vedanjanam's Substack",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Vedanjanam's Substack"
+    },
+    {
+      "coordinates": {
+        "x1": 1811.0,
+        "y1": 527.0,
+        "x2": 1835.0,
+        "y2": 551.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 1741.0,
+        "y1": 557.0,
+        "x2": 1833.0,
+        "y2": 605.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1500.0,
+        "y1": 646.0,
+        "x2": 1841.0,
+        "y2": 754.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sifu Yik's Substack\n\ud83d\udea8BREAKING NO MORE Uploading the Same Image 10,000 times! HERE is HOW you can create CONSISTENT image/video that AI remember your face or character 100% FREE\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n2m read",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sifu Yik's Substack\n\ud83d\udea8BREAKI..."
+    },
+    {
+      "coordinates": {
+        "x1": 1508.0,
+        "y1": 656.0,
+        "x2": 1524.0,
+        "y2": 672.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1532.0,
+        "y1": 655.0,
+        "x2": 1636.8125,
+        "y2": 672.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sifu Yik's Substack",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "descriptive_label": "general_link: Sifu Yik's Substack"
+    },
+    {
+      "coordinates": {
+        "x1": 1811.0,
+        "y1": 652.0,
+        "x2": 1835.0,
+        "y2": 676.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Bookmark",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Bookmark"
+    },
+    {
+      "coordinates": {
+        "x1": 1782.109375,
+        "y1": 922.0,
+        "x2": 1868.0,
+        "y2": 962.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get app",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "descriptive_label": "general_button: Get app"
+    }
+  ],
+  "dataset_split": "raw"
+}
