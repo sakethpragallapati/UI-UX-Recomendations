@@ -1,93 +1,123 @@
 import cv2
 import easyocr
+import os
 from ultralytics import YOLO
 from auditor import UIAuditor
 
-def run_ui_audit(image_path, predicted_category, yolo_weights_path="runs/detect/ui_detector2/weights/best.pt"):
-    print(f"\n🚀 Starting AI UI Audit for: {image_path}")
-    print(f"📂 Website Category: {predicted_category}")
+def run_ui_audit(
+    image_path, 
+    cls_weights_path="runs/classify/website_classifier/weights/best.pt",
+    det_weights_path="runs/detect/ui_detector/weights/best.pt" # Double check your ui_detector folder number!
+):
+    print(f"\n🚀 Starting Full AI UI Audit for: {image_path}")
     
-    # 1. Initialize AI Models & Logic Engine
-    print("Loading AI Models (YOLO & OCR)...")
+    # --- MODEL 1: CLASSIFY THE WEBSITE ---
+    print("🧠 Step 1: Loading Website Classifier...")
+    if not os.path.exists(cls_weights_path):
+        print("⚠️ Classifier weights not found. Defaulting to 'e_commerce'.")
+        predicted_categories = ["e_commerce"]
+        confidence = 100.0
+    else:
+        cls_model = YOLO(cls_weights_path)
+        cls_results = cls_model(image_path, verbose=False)
+        
+        # Extract the Top 3 predictions to give the Auditor a safety net
+        top3_indices = cls_results[0].probs.top5[:3] 
+        predicted_categories = [cls_results[0].names[i] for i in top3_indices]
+        confidence = cls_results[0].probs.top1conf.item() * 100
+        
+        print(f"📂 Top 3 Category Guesses: {predicted_categories} (Top-1 Conf: {confidence:.1f}%)")
+
+    # --- MODEL 2 & 3: DETECTION AND OCR ---
+    print("\n🧠 Step 2: Loading UI Detector & OCR...")
     try:
-        model = YOLO(yolo_weights_path)
+        det_model = YOLO(det_weights_path)
     except Exception as e:
-        print(f"Error loading YOLO weights. Did you run train.py first? Details: {e}")
+        print(f"❌ Error loading YOLO detection weights: {e}")
         return
 
-    reader = easyocr.Reader(['en'], gpu=False) # Set gpu=True if you have an NVIDIA GPU
+    # gpu=False ensures it runs smoothly on your CPU
+    reader = easyocr.Reader(['en'], gpu=False) 
     auditor = UIAuditor()
     
-    # Load image with OpenCV for cropping later
     img = cv2.imread(image_path)
     if img is None:
-        print(f"Error: Could not read image at {image_path}")
+        print(f"❌ Error: Could not read image at {image_path}")
         return
 
-    # 2. Run YOLO Inference
     print("\n🔍 Scanning image for UI elements...")
-    results = model(image_path, verbose=False)
+    det_results = det_model(image_path, verbose=False)
     
     anomalies_found = []
     
-    # 3. Loop through every detected bounding box
-    for box in results[0].boxes:
-        # Get normalized center X coordinate (0.0 to 1.0)
+    # --- LOOP THROUGH DETECTIONS ---
+    for box in det_results[0].boxes:
         x_center = float(box.xywhn[0][0])
-        
-        # Get predicted YOLO class
         class_id = int(box.cls[0])
-        yolo_class = model.names[class_id]
-        
+        yolo_class = det_model.names[class_id]
         ocr_text = ""
         
-        # 4. PATH B: If the shape is generic, we must read the text
+        # OCR for generic shapes
         if "general_" in yolo_class:
-            # Extract exact pixel coordinates for cropping
             x1, y1, x2, y2 = map(int, box.xyxy[0])
-            
-            # Crop the bounding box out of the original image
             cropped_img = img[y1:y2, x1:x2]
             
-            # Prevent OCR from crashing on tiny 0-pixel boxes
             if cropped_img.size != 0:
-                # Read the text (detail=0 returns just the string, not the bounding boxes)
                 ocr_results = reader.readtext(cropped_img, detail=0)
-                ocr_text = " ".join(ocr_results).lower()
+                ocr_text = " ".join(ocr_results).lower().strip()
         
-        # 5. Feed extracted data to the Auditor
+        # --- AUDIT (Passing the Top 3 List) ---
         audit_result = auditor.audit_element(
-            predicted_category=predicted_category,
+            predicted_categories=predicted_categories,
             yolo_class=yolo_class,
             x_center=x_center,
-            ocr_text=ocr_text
+            ocr_text=ocr_text,
+            confidence=confidence
         )
         
-        # Format the output for the terminal report
         display_text = f"[{ocr_text}]" if ocr_text else "[Visual Icon]"
         report_line = f"- Detected '{yolo_class}' {display_text} -> {audit_result}"
         
+        # Collect severe anomalies for the final summary
         if "🚨" in audit_result or "❌" in audit_result:
             anomalies_found.append(report_line)
         else:
             print(report_line)
 
-    # 6. Print Final Report
-    print("\n" + "="*50)
+    # --- FINAL REPORT ---
+    print("\n" + "="*60)
     print("📊 FINAL UX AUDIT REPORT")
-    print("="*50)
+    print("="*60)
     if not anomalies_found:
         print("🎉 No severe UX structural anomalies detected! Great design.")
     else:
         print(f"⚠️ Found {len(anomalies_found)} Severe UX Anomalies:\n")
         for anomaly in anomalies_found:
             print(anomaly)
-    print("="*50)
+    print("="*60)
+
 
 if __name__ == "__main__":
-    # Example Usage: Replace with a real screenshot from your test set!
-    TEST_IMAGE = "test_images/amazon.png" 
-    CATEGORY = "e_commerce" # This would eventually come from your Classifier Model
+    test_folder = "test_images"
     
-    run_ui_audit(TEST_IMAGE, CATEGORY)
-    print("Main script ready. Update TEST_IMAGE path and uncomment the run function to test.")
+    if not os.path.exists(test_folder):
+        print(f"❌ Error: The folder '{test_folder}' was not found.")
+    else:
+        valid_extensions = ('.png', '.jpg', '.jpeg', '.webp')
+        image_files = [f for f in os.listdir(test_folder) if f.lower().endswith(valid_extensions)]
+        
+        if not image_files:
+            print(f"⚠️ No images found in '{test_folder}'.")
+        else:
+            print(f"🚀 Found {len(image_files)} images in '{test_folder}'. Starting batch audit...\n")
+            
+            for filename in image_files:
+                image_path = os.path.join(test_folder, filename)
+                
+                print("\n\n" + "#"*70)
+                print(f"🆕 AUDITING NEW IMAGE: {filename}")
+                print("#"*70)
+                
+                run_ui_audit(image_path)
+                
+            print("\n✅ Batch audit complete!")

@@ -1,19 +1,19 @@
-task: detect
+task: classify
 mode: train
-model: yolov8n.pt
-data: yolo_formatted/dataset.yaml
-epochs: 50
+model: yolov8n-cls.pt
+data: website_dataset
+epochs: 30
 time: null
-patience: 15
-batch: 8
-imgsz: 640
+patience: 100
+batch: 16
+imgsz: 224
 save: true
 save_period: -1
 cache: false
 device: cpu
 workers: 0
 project: null
-name: ui_detector2
+name: website_classifier
 exist_ok: false
 pretrained: true
 optimizer: Adam
@@ -107,4 +107,4 @@ erasing: 0.4
 cfg: null
 tracker: botsort.yaml
 save_dir: D:\Acadamics\CBIT\UI UX Internship\UI Elements detection\UI Replication
-  (but better)\runs\detect\ui_detector2
+  (but better)\runs\classify\website_classifier

@@ -13,7 +13,7 @@ cache: false
 device: cpu
 workers: 0
 project: null
-name: ui_detector
+name: ui_detector2
 exist_ok: false
 pretrained: true
 optimizer: Adam
@@ -107,4 +107,4 @@ erasing: 0.4
 cfg: null
 tracker: botsort.yaml
 save_dir: D:\Acadamics\CBIT\UI UX Internship\UI Elements detection\UI Replication
-  (but better)\runs\detect\ui_detector
+  (but better)\runs\detect\ui_detector2
