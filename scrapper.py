@@ -14,8 +14,10 @@ import time
 import os
 import json
 import logging
+import threading
 from urllib.parse import urlparse
 import concurrent.futures
+from collections import defaultdict
 from tqdm import tqdm
 
 # --- 21-Class Two-Path Ontology ---
@@ -28,6 +30,10 @@ CLASSES = [
     # Specific Visual Icons (No OCR Needed)
     'icon_cart', 'icon_menu', 'icon_search', 'icon_profile', 'icon_close'
 ]
+
+SCRAPER_CLASS_CAPS = {
+    'general_link': 12
+}
 
 # --- Fully Merged & Deduplicated Websites Dictionary ---
 WEBSITES = {
@@ -219,6 +225,8 @@ class UIScraper:
         self.timeout = timeout
         self.processed_urls = set()
         self.failed_urls = set()
+        self.inflight_urls = set()
+        self.lock = threading.Lock()
         
         self.setup_directories()
         self.setup_logging()
@@ -257,6 +265,122 @@ class UIScraper:
             return class_name
         except Exception:
             return class_name
+
+    def _normalize_text(self, *parts):
+        tokens = []
+        for part in parts:
+            if not part:
+                continue
+            text = " ".join(str(part).split()).strip()
+            if text:
+                tokens.append(text)
+        return " ".join(tokens).strip()
+
+    def _box_area(self, coords):
+        return max(0, coords['x2'] - coords['x1']) * max(0, coords['y2'] - coords['y1'])
+
+    def _box_iou(self, box_a, box_b):
+        x_left = max(box_a['x1'], box_b['x1'])
+        y_top = max(box_a['y1'], box_b['y1'])
+        x_right = min(box_a['x2'], box_b['x2'])
+        y_bottom = min(box_a['y2'], box_b['y2'])
+
+        if x_right <= x_left or y_bottom <= y_top:
+            return 0.0
+
+        intersection = (x_right - x_left) * (y_bottom - y_top)
+        union = self._box_area(box_a) + self._box_area(box_b) - intersection
+        return intersection / union if union > 0 else 0.0
+
+    def _is_low_signal_link(self, element_info):
+        if element_info['class_name'] != 'general_link':
+            return False
+
+        coords = element_info['coordinates']
+        width = coords['x2'] - coords['x1']
+        height = coords['y2'] - coords['y1']
+        area = self._box_area(coords)
+
+        content = element_info.get('content', {})
+        accessibility = element_info.get('accessibility', {})
+        link_text = self._normalize_text(
+            content.get('text'),
+            accessibility.get('aria_label'),
+            accessibility.get('title'),
+            content.get('name')
+        )
+        href = (element_info.get('href') or '').strip().lower()
+
+        if width < 20 or height < 10 or area < 250:
+            return True
+
+        if not link_text and not href:
+            return True
+
+        if len(link_text) <= 1 and area < 1200:
+            return True
+
+        if href.startswith('javascript:') or href in {'#', ''}:
+            return len(link_text) < 3
+
+        return False
+
+    def _score_element(self, element_info):
+        coords = element_info['coordinates']
+        area_score = self._box_area(coords)
+
+        content = element_info.get('content', {})
+        accessibility = element_info.get('accessibility', {})
+        text_score = len(self._normalize_text(
+            content.get('text'),
+            content.get('placeholder'),
+            content.get('value'),
+            content.get('name'),
+            accessibility.get('aria_label'),
+            accessibility.get('title'),
+            accessibility.get('alt_text')
+        ))
+
+        class_bonus = 0
+        if element_info['class_name'] != 'general_link':
+            class_bonus = 5000
+
+        return area_score + min(text_score, 80) * 15 + class_bonus
+
+    def filter_elements(self, elements_info):
+        kept = []
+        class_counts = defaultdict(int)
+
+        for element_info in sorted(elements_info, key=self._score_element, reverse=True):
+            if self._is_low_signal_link(element_info):
+                continue
+
+            class_name = element_info['class_name']
+            class_cap = SCRAPER_CLASS_CAPS.get(class_name)
+            if class_cap is not None and class_counts[class_name] >= class_cap:
+                continue
+
+            is_duplicate = False
+            for existing in kept:
+                same_class = existing['class_name'] == class_name
+                overlapping = self._box_iou(existing['coordinates'], element_info['coordinates']) >= 0.85
+                if same_class and overlapping:
+                    is_duplicate = True
+                    break
+
+                # Drop links that just wrap an already-kept image or button.
+                if class_name == 'general_link' and existing['class_name'] in {'general_image', 'general_button'}:
+                    if self._box_iou(existing['coordinates'], element_info['coordinates']) >= 0.75:
+                        is_duplicate = True
+                        break
+
+            if is_duplicate:
+                continue
+
+            kept.append(element_info)
+            class_counts[class_name] += 1
+
+        return kept
 
     def get_class_id(self, tag_name, element_type, class_name, aria_label=None, title=None, alt=None):
         tag_name = str(tag_name).lower() if tag_name else ""
@@ -346,13 +470,11 @@ class UIScraper:
                 placeholder = element.get_attribute("placeholder")
                 value = element.get_attribute("value")
                 name = element.get_attribute("name")
+                href = element.get_attribute("href") if tag_name == "a" else ""
                 
                 class_id = self.get_class_id(tag_name, element_type, class_name, aria_label, title, alt_text)
                 
                 if class_id != -1:
-                    self.stats['total_elements'] += 1
-                    self.stats['elements_by_class'][CLASSES[class_id]] += 1
-                    
                     return {
                         "coordinates": coordinates,
                         "class_id": class_id,
@@ -371,6 +493,7 @@ class UIScraper:
                             "value": value,
                             "name": name
                         },
+                        "href": href,
                         "descriptive_label": self.get_element_label(element, CLASSES[class_id])
                     }
         except Exception:
@@ -386,7 +509,7 @@ class UIScraper:
         logging.basicConfig(level=logging.INFO, handlers=[file_handler, stream_handler])
 
     def get_elements(self, driver, viewport_metrics):
-        elements_info = []
+        raw_elements = []
         elements = driver.find_elements(By.XPATH, """
             //*[
                 self::a or self::button or self::input or self::select or 
@@ -403,10 +526,10 @@ class UIScraper:
             try:
                 element_info = self.get_element_info(driver, element, viewport_metrics)
                 if element_info:
-                    elements_info.append(element_info)
+                    raw_elements.append(element_info)
             except StaleElementReferenceException:
                 continue
-        return elements_info
+        return self.filter_elements(raw_elements)
 
     def setup_driver(self):
         options = webdriver.ChromeOptions()
@@ -433,8 +556,10 @@ class UIScraper:
         return webdriver.Chrome(service=service, options=options)
 
     def process_url(self, url, category):
-        if url in self.processed_urls:
-            return
+        with self.lock:
+            if url in self.processed_urls or url in self.failed_urls or url in self.inflight_urls:
+                return
+            self.inflight_urls.add(url)
         
         driver = None
         try:
@@ -467,24 +592,33 @@ class UIScraper:
             if elements_info:
                 screenshot = driver.get_screenshot_as_png()
                 self.save_data(url, category, elements_info, screenshot)
-                self.processed_urls.add(url)
-                self.stats['processed_urls'] += 1
-                if category in self.stats['elements_by_category']:
-                    self.stats['elements_by_category'][category] += len(elements_info)
+                with self.lock:
+                    self.processed_urls.add(url)
+                    self.stats['processed_urls'] += 1
+                    if category in self.stats['elements_by_category']:
+                        self.stats['elements_by_category'][category] += len(elements_info)
+                    self.stats['total_elements'] += len(elements_info)
+                    for element in elements_info:
+                        self.stats['elements_by_class'][element['class_name']] += 1
             else:
                 logging.warning(f"No elements found for {url}.")
-                self.failed_urls.add(url)
-                self.stats['failed_urls'] += 1
+                with self.lock:
+                    self.failed_urls.add(url)
+                    self.stats['failed_urls'] += 1
                 
         except TimeoutException:
             logging.warning(f"Timeout on {url}.")
-            self.failed_urls.add(url)
-            self.stats['failed_urls'] += 1
+            with self.lock:
+                self.failed_urls.add(url)
+                self.stats['failed_urls'] += 1
         except Exception as e:
             logging.warning(f"Error processing {url}: {str(e)}")
-            self.failed_urls.add(url)
-            self.stats['failed_urls'] += 1
+            with self.lock:
+                self.failed_urls.add(url)
+                self.stats['failed_urls'] += 1
         finally:
+            with self.lock:
+                self.inflight_urls.discard(url)
             if driver:
                 try:
                     driver.quit()
