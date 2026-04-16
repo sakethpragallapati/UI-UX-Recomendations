@@ -1,0 +1,532 @@
+{
+  "url": "https://upenn.edu",
+  "category": "education_and_reference",
+  "timestamp": 1775666708,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 239.5,
+        "y1": 545.5625,
+        "x2": 999.5,
+        "y2": 688.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solar solutions for farmers in The Gambia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://penntoday.upenn.edu/news/penn-engineering-solar-solutions-farmers-gambia",
+      "descriptive_label": "general_link: Solar solutions for farmers..."
+    },
+    {
+      "coordinates": {
+        "x1": 634.5,
+        "y1": 191.0,
+        "x2": 1254.5,
+        "y2": 233.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "as_q"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 40.0,
+        "x2": 417.5,
+        "y2": 136.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".cls-1 { fill: #fff; } .cls-2 { fill: #900; } .cls-3 { fill: #011f5b; } Penn Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.upenn.edu/",
+      "descriptive_label": "general_link: .cls-1 { fill: #fff; } .cls..."
+    },
+    {
+      "coordinates": {
+        "x1": 1193.09375,
+        "y1": 84.0,
+        "x2": 1453.875,
+        "y2": 130.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "none",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "none"
+      },
+      "content": {
+        "text": "RESEARCH & INNOVATION\nMore Research & Innovation",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: RESEARCH & INNOVATION\nMore ..."
+    },
+    {
+      "coordinates": {
+        "x1": 891.71875,
+        "y1": 84.0,
+        "x2": 1070.828125,
+        "y2": 130.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "none",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "none"
+      },
+      "content": {
+        "text": "ADMISSIONS & AID",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: ADMISSIONS & AID"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.875,
+        "y1": 84.0,
+        "x2": 1623.59375,
+        "y2": 130.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "none",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "none"
+      },
+      "content": {
+        "text": "LIFE AT PENN\nMore Life at Penn",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: LIFE AT PENN\nMore Life at Penn"
+    },
+    {
+      "coordinates": {
+        "x1": 1604.0,
+        "y1": 23.5,
+        "x2": 1744.5,
+        "y2": 79.09375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "GIVE TO PENN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://giving.aws.cloud.upenn.edu/?appeal=UPNWEB",
+      "descriptive_label": "general_button: GIVE TO PENN"
+    },
+    {
+      "coordinates": {
+        "x1": 733.75,
+        "y1": 84.0,
+        "x2": 891.71875,
+        "y2": 130.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "none",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "none"
+      },
+      "content": {
+        "text": "ACADEMICS\nMore Academics",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: ACADEMICS\nMore Academics"
+    },
+    {
+      "coordinates": {
+        "x1": 1444.5,
+        "y1": 900.0,
+        "x2": 1629.5,
+        "y2": 936.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Topics",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Topics"
+    },
+    {
+      "coordinates": {
+        "x1": 1773.953125,
+        "y1": 186.0,
+        "x2": 1879.0,
+        "y2": 245.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1469.5,
+        "y1": 28.5,
+        "x2": 1599.5,
+        "y2": 72.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "RESOURCES",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: RESOURCES"
+    },
+    {
+      "coordinates": {
+        "x1": 1623.59375,
+        "y1": 84.0,
+        "x2": 1744.5,
+        "y2": 130.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "none",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "none"
+      },
+      "content": {
+        "text": "ABOUT\nMore About",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: ABOUT\nMore About"
+    },
+    {
+      "coordinates": {
+        "x1": 1070.828125,
+        "y1": 84.0,
+        "x2": 1193.09375,
+        "y2": 130.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": "none",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "none"
+      },
+      "content": {
+        "text": "ATHLETICS",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: ATHLETICS"
+    },
+    {
+      "coordinates": {
+        "x1": 1402.5,
+        "y1": 29.5,
+        "x2": 1444.5,
+        "y2": 71.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Toggle Site Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Toggle Site Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1212.5,
+        "y1": 191.0,
+        "x2": 1254.5,
+        "y2": 233.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1412.0250244140625,
+        "y1": 87.1500015258789,
+        "x2": 1447.7249755859375,
+        "y2": 122.8499984741211
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More Research & Innovation",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: More Research & Innovation"
+    },
+    {
+      "coordinates": {
+        "x1": 1581.7437744140625,
+        "y1": 87.1500015258789,
+        "x2": 1617.4437255859375,
+        "y2": 122.8499984741211
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More Life at Penn",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: More Life at Penn"
+    },
+    {
+      "coordinates": {
+        "x1": 849.8687744140625,
+        "y1": 87.1500015258789,
+        "x2": 885.5687255859375,
+        "y2": 122.8499984741211
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More Academics",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: More Academics"
+    },
+    {
+      "coordinates": {
+        "x1": 1702.6500244140625,
+        "y1": 87.1500015258789,
+        "x2": 1738.3499755859375,
+        "y2": 122.8499984741211
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More About",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: More About"
+    },
+    {
+      "coordinates": {
+        "x1": 634.5,
+        "y1": 191.0,
+        "x2": 635.5,
+        "y2": 192.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    }
+  ],
+  "dataset_split": "raw"
+}

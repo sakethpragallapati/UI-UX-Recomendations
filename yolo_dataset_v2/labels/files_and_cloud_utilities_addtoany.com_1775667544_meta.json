@@ -1,0 +1,350 @@
+{
+  "url": "https://addtoany.com",
+  "category": "files_and_cloud_utilities",
+  "timestamp": 1775667545,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 465.5,
+        "y1": 391.0,
+        "x2": 1423.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Share\nFacebook\nPinterest\nBluesky\nMastodon\nWhatsApp\nThreads",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Share\nFacebook\nPinterest\nBl..."
+    },
+    {
+      "coordinates": {
+        "x1": 784.5,
+        "y1": 453.0,
+        "x2": 1104.5,
+        "y2": 503.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get the Share Buttons",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/buttons/",
+      "descriptive_label": "general_link: Get the Share Buttons"
+    },
+    {
+      "coordinates": {
+        "x1": 1101.34375,
+        "y1": 0,
+        "x2": 1245.609375,
+        "y2": 70.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Customize the share buttons",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/buttons/customize/",
+      "descriptive_label": "general_link: Customize the share buttons"
+    },
+    {
+      "coordinates": {
+        "x1": 1250.0,
+        "y1": 0,
+        "x2": 1351.53125,
+        "y2": 70.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Share a link",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Share",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/share",
+      "descriptive_label": "general_link: Share a link"
+    },
+    {
+      "coordinates": {
+        "x1": 1355.921875,
+        "y1": 0,
+        "x2": 1444.5,
+        "y2": 70.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Frequently asked questions and answers",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FAQ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/buttons/faq/",
+      "descriptive_label": "general_link: Frequently asked questions ..."
+    },
+    {
+      "coordinates": {
+        "x1": 890.5,
+        "y1": 391.0,
+        "x2": 926.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pinterest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/#pinterest",
+      "descriptive_label": "general_button: Pinterest"
+    },
+    {
+      "coordinates": {
+        "x1": 854.5,
+        "y1": 391.0,
+        "x2": 890.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Facebook",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/#facebook",
+      "descriptive_label": "general_button: Facebook"
+    },
+    {
+      "coordinates": {
+        "x1": 962.5,
+        "y1": 391.0,
+        "x2": 998.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mastodon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/#mastodon",
+      "descriptive_label": "general_button: Mastodon"
+    },
+    {
+      "coordinates": {
+        "x1": 998.5,
+        "y1": 391.0,
+        "x2": 1034.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WhatsApp",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/#whatsapp",
+      "descriptive_label": "general_button: WhatsApp"
+    },
+    {
+      "coordinates": {
+        "x1": 926.5,
+        "y1": 391.0,
+        "x2": 962.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bluesky",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/#bluesky",
+      "descriptive_label": "general_button: Bluesky"
+    },
+    {
+      "coordinates": {
+        "x1": 1034.5,
+        "y1": 391.0,
+        "x2": 1070.5,
+        "y2": 423.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Threads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/#threads",
+      "descriptive_label": "general_button: Threads"
+    },
+    {
+      "coordinates": {
+        "x1": 1013.984375,
+        "y1": 0,
+        "x2": 1096.953125,
+        "y2": 70.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Get the share buttons",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/buttons/",
+      "descriptive_label": "general_link: Get the share buttons"
+    },
+    {
+      "coordinates": {
+        "x1": 818.5,
+        "y1": 391.0,
+        "x2": 854.5,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Share",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.addtoany.com/share#url=https%3A%2F%2Fwww.addtoany.com%2F&title=AddToAny%20Share%20Buttons",
+      "descriptive_label": "general_link: Share"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,558 @@
+{
+  "url": "https://zendesk.com",
+  "category": "miscellaneous",
+  "timestamp": 1775667870,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 450.5,
+        "y1": 671.671875,
+        "x2": 1438.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 644.5,
+        "y1": 551.671875,
+        "x2": 1060.796875,
+        "y2": 599.671875
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "email",
+      "accessibility": {
+        "aria_label": "Work Email",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Enter work email",
+        "value": "",
+        "name": "owner.email"
+      },
+      "href": "",
+      "descriptive_label": "general_input: Work Email"
+    },
+    {
+      "coordinates": {
+        "x1": 938.5625,
+        "y1": 79.5,
+        "x2": 1075.328125,
+        "y2": 171.921875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open resources Selection Menu",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open resources Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 805.71875,
+        "y1": 79.5,
+        "x2": 934.5625,
+        "y2": 171.921875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open solutions Selection Menu",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open solutions Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 675.265625,
+        "y1": 79.5,
+        "x2": 801.71875,
+        "y2": 171.921875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open products Selection Menu",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open products Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 547.453125,
+        "y1": 79.5,
+        "x2": 671.265625,
+        "y2": 171.921875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open platform Selection Menu",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Platform",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open platform Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1676.65625,
+        "y1": 921.0,
+        "x2": 1873.0,
+        "y2": 969.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact Sales",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Contact Sales"
+    },
+    {
+      "coordinates": {
+        "x1": 1080.796875,
+        "y1": 551.671875,
+        "x2": 1244.5,
+        "y2": 599.671875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try it for free",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Try it for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1079.328125,
+        "y1": 79.5,
+        "x2": 1164.5625,
+        "y2": 171.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/pricing/",
+      "descriptive_label": "general_button: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 184.5,
+        "y1": 79.5,
+        "x2": 284.5,
+        "y2": 150.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1446.765625,
+        "y1": 103.703125,
+        "x2": 1573.9375,
+        "y2": 146.703125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try it for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/register/",
+      "descriptive_label": "general_button: Try it for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1589.9375,
+        "y1": 103.703125,
+        "x2": 1704.5,
+        "y2": 146.703125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "View demo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/demo/",
+      "descriptive_label": "general_button: View demo"
+    },
+    {
+      "coordinates": {
+        "x1": 409.828125,
+        "y1": 16.25,
+        "x2": 553.828125,
+        "y2": 41.25
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.734375,
+        "y1": 16.0,
+        "x2": 1487.171875,
+        "y2": 41.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Register for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://virtualevents.zendesk.com/series/relate-26/landing_page?webinar_id=apac&lang=en&utm_medium=webpromo&utm_source=eyebrow&utm_campaign=Relate_2026_DIG_eye_apac_APAC_2026Q1",
+      "descriptive_label": "general_button: Register for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1616.765625,
+        "y1": 59.5,
+        "x2": 1704.5,
+        "y2": 80.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "Open language Selection Menu",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Language",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open language Selection Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 883.890625,
+        "y1": 606.421875,
+        "x2": 980.046875,
+        "y2": 629.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/company/agreements-and-terms/privacy-notice/",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1507.71875,
+        "y1": 59.5,
+        "x2": 1600.765625,
+        "y2": 80.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/contact/",
+      "descriptive_label": "general_button: Contact us"
+    },
+    {
+      "coordinates": {
+        "x1": 1424.734375,
+        "y1": 59.5,
+        "x2": 1491.71875,
+        "y2": 80.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zendesk.com/in/login/",
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1841.0,
+        "y1": 11.25,
+        "x2": 1873.0,
+        "y2": 43.25
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 1.0,
+        "x2": 19.0,
+        "y2": 35.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Click to close video",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Click to close video"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 21.0,
+        "y2": 18.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    }
+  ],
+  "dataset_split": "raw"
+}

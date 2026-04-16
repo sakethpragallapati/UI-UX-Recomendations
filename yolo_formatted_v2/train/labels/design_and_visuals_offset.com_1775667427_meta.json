@@ -1,0 +1,116 @@
+{
+  "url": "https://offset.com",
+  "category": "design_and_visuals",
+  "timestamp": 1775667428,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 344.5,
+        "y1": 616.359375,
+        "x2": 683.1875,
+        "y2": 688.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore Offset on Shutterstock",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.shutterstock.com/search?channel=offset",
+      "descriptive_label": "general_link: Explore Offset on Shutterstock"
+    },
+    {
+      "coordinates": {
+        "x1": 827.96875,
+        "y1": 379.96875,
+        "x2": 1167.171875,
+        "y2": 451.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shutterstock",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://shutterstock.com/",
+      "descriptive_label": "general_link: Shutterstock"
+    },
+    {
+      "coordinates": {
+        "x1": 842.5,
+        "y1": 30.0,
+        "x2": 1046.5,
+        "y2": 78.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 842.5,
+        "y1": 61.0,
+        "x2": 1046.5,
+        "y2": 83.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.offset.com/",
+      "descriptive_label": "general_link"
+    }
+  ],
+  "dataset_split": "raw"
+}

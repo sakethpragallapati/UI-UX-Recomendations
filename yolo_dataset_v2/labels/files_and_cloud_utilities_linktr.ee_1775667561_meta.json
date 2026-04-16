@@ -1,0 +1,298 @@
+{
+  "url": "https://linktr.ee",
+  "category": "files_and_cloud_utilities",
+  "timestamp": 1775667561,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 742.421875,
+        "x2": 487.5,
+        "y2": 806.421875
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "linktr.ee/yourname",
+        "value": "linktr.ee/",
+        "name": "Username"
+      },
+      "href": "",
+      "descriptive_label": "general_input: linktr.ee/yourname"
+    },
+    {
+      "coordinates": {
+        "x1": 495.5,
+        "y1": 741.921875,
+        "x2": 787.796875,
+        "y2": 806.9375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Get started for free",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get started for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1451.71875,
+        "y1": 62.0,
+        "x2": 1714.5,
+        "y2": 124.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in\nSign up free",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Log in\nSign up free"
+    },
+    {
+      "coordinates": {
+        "x1": 1562.078125,
+        "y1": 62.0,
+        "x2": 1714.5,
+        "y2": 124.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://linktr.ee/register",
+      "descriptive_label": "general_button: Sign up free"
+    },
+    {
+      "coordinates": {
+        "x1": 1451.71875,
+        "y1": 62.0,
+        "x2": 1554.078125,
+        "y2": 124.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://linktr.ee/login",
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 371.5,
+        "y1": 69.75,
+        "x2": 469.765625,
+        "y2": 116.25
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 702.875,
+        "y1": 69.75,
+        "x2": 777.75,
+        "y2": 116.25
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Learn",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Learn"
+    },
+    {
+      "coordinates": {
+        "x1": 205.5,
+        "y1": 81.0625,
+        "x2": 323.46875,
+        "y2": 104.9375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 577.890625,
+        "y1": 69.75,
+        "x2": 702.875,
+        "y2": 116.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Marketplace",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://linktr.ee/marketplace",
+      "descriptive_label": "general_link: Marketplace"
+    },
+    {
+      "coordinates": {
+        "x1": 469.765625,
+        "y1": 69.75,
+        "x2": 577.890625,
+        "y2": 116.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://linktr.ee/s/templates",
+      "descriptive_label": "general_link: Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 777.75,
+        "y1": 69.75,
+        "x2": 860.171875,
+        "y2": 116.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://linktr.ee/s/pricing",
+      "descriptive_label": "general_link: Pricing"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,610 @@
+{
+  "url": "https://www.wix.com",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775666937,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 384.953125,
+        "y1": 450.015625,
+        "x2": 1485.703125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Hero section of a homepage built with Wix\u2019s website builder for a furniture store, showcasing a designed chair.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Hero section of a homepage ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1317.78125,
+        "y1": 168.0,
+        "x2": 1793.796875,
+        "y2": 550.546875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/blog/how-to-build-website-from-scratch-guide",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1317.78125,
+        "y1": 223.0,
+        "x2": 1793.796875,
+        "y2": 547.546875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "how to build your own website",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: how to build your own website"
+    },
+    {
+      "coordinates": {
+        "x1": 265.953125,
+        "y1": 676.375,
+        "x2": 662.609375,
+        "y2": 909.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A slider gallery component showcasing three unique furniture pieces dragged into a site.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: A slider gallery component ..."
+    },
+    {
+      "coordinates": {
+        "x1": 114.234375,
+        "y1": 523.265625,
+        "x2": 355.203125,
+        "y2": 842.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Add element panel showing a product component with two unique furniture pieces.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Add element panel showing a..."
+    },
+    {
+      "coordinates": {
+        "x1": 851.375,
+        "y1": 321.015625,
+        "x2": 1037.59375,
+        "y2": 375.015625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Get Started",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://users.wix.com/signin?referralInfo=wix_homepage_hero_section_get_started&loginCompName=wix_homepage_hero_section_get_started&postSignUp=https%3A%2F%2Fwww.wix.com%2Fnew%2Fintro&postLogin=https://manage.wix.com/account/route&overrideLocale=&loginDialogContext=forgot-password&originUrl=https%3A%2F%2Fwww.wix.com&forceRender=true",
+      "descriptive_label": "general_button: Get Started"
+    },
+    {
+      "coordinates": {
+        "x1": 357.578125,
+        "y1": 0,
+        "x2": 487.875,
+        "y2": 71.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 234.515625,
+        "y1": 0,
+        "x2": 357.578125,
+        "y2": 71.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 123.0,
+        "y1": 0,
+        "x2": 234.515625,
+        "y2": 71.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Product",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Product"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 738.75,
+        "x2": 38.078125,
+        "y2": 910.109375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Created with Wix",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://users.wix.com/signin?postLogin=https%3A%2F%2Fwww.wix.com%2Fmy-account%2Fsites&view=sign-up&sendEmail=true&loginCompName=badge&referralInfo=badge",
+      "descriptive_label": "general_button: Created with Wix"
+    },
+    {
+      "coordinates": {
+        "x1": 889.375,
+        "y1": 335.515625,
+        "x2": 999.59375,
+        "y2": 360.515625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get Started"
+    },
+    {
+      "coordinates": {
+        "x1": 658.359375,
+        "y1": 0,
+        "x2": 767.515625,
+        "y2": 71.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wix Studio",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/studio",
+      "descriptive_label": "general_link: Wix Studio"
+    },
+    {
+      "coordinates": {
+        "x1": 767.515625,
+        "y1": 0,
+        "x2": 872.40625,
+        "y2": 71.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/studio/enterprise",
+      "descriptive_label": "general_link: Enterprise"
+    },
+    {
+      "coordinates": {
+        "x1": 1720.25,
+        "y1": 15.5,
+        "x2": 1869.0,
+        "y2": 55.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://users.wix.com/signin?view=sign-up&sendEmail=true&loginCompName=SignUp_H&referralInfo=SignUp_H&postSignUp=https%3A%2F%2Fwww.wix.com%2Fnew%2Fintro%2F&postLogin=https%3A%2F%2Fmanage.wix.com%2Faccount%2Froute&loginDialogContext=signup&originUrl=https%3A%2F%2Fwww.wix.com%2F",
+      "descriptive_label": "general_link: Get Started"
+    },
+    {
+      "coordinates": {
+        "x1": 1604.171875,
+        "y1": 24.5,
+        "x2": 1626.171875,
+        "y2": 46.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "language selector, english selected",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: language selector, english ..."
+    },
+    {
+      "coordinates": {
+        "x1": 487.875,
+        "y1": 0,
+        "x2": 565.8125,
+        "y2": 71.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/plans",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1829.0,
+        "y1": 40.0,
+        "x2": 1849.0,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1009.59375,
+        "y1": 340.015625,
+        "x2": 1025.59375,
+        "y2": 356.015625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 789.671875,
+        "y1": 281.0,
+        "x2": 1016.40625,
+        "y2": 304.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/tools/business-name-generator",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 590.8125,
+        "y1": 0,
+        "x2": 658.359375,
+        "y2": 71.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wixel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/wixel",
+      "descriptive_label": "general_link: Wixel"
+    },
+    {
+      "coordinates": {
+        "x1": 1317.78125,
+        "y1": 168.0,
+        "x2": 1518.671875,
+        "y2": 191.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/studio",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 76.15625,
+        "y1": 394.0,
+        "x2": 275.515625,
+        "y2": 417.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/explore/websites",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 745.078125,
+        "y1": 394.0,
+        "x2": 937.640625,
+        "y2": 417.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wix.com/features/main",
+      "descriptive_label": "general_link"
+    }
+  ],
+  "dataset_split": "raw"
+}

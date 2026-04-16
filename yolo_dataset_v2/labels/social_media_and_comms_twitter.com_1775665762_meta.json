@@ -1,0 +1,350 @@
+{
+  "url": "https://twitter.com",
+  "category": "social_media_and_comms",
+  "timestamp": 1775665762,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1074.953125,
+        "y1": 434.5,
+        "x2": 1374.953125,
+        "y2": 474.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Sign up with Apple",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sign up with Apple"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.953125,
+        "y1": 510.5,
+        "x2": 1374.953125,
+        "y2": 550.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Create account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://x.com/i/flow/signup",
+      "descriptive_label": "general_link: Create account"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.953125,
+        "y1": 746.5,
+        "x2": 1374.953125,
+        "y2": 786.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Get Grok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://grok.com/",
+      "descriptive_label": "general_link: Get Grok"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.953125,
+        "y1": 690.5,
+        "x2": 1374.953125,
+        "y2": 730.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://x.com/login",
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.953125,
+        "y1": 564.5,
+        "x2": 1369.21875,
+        "y2": 591.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://x.com/privacy",
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 301.84375,
+        "y1": 953.0,
+        "x2": 401.125,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Download the X app",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://help.x.com/using-x/download-the-x-app",
+      "descriptive_label": "general_link: Download the X app"
+    },
+    {
+      "coordinates": {
+        "x1": 1229.4375,
+        "y1": 564.5,
+        "x2": 1307.953125,
+        "y2": 579.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://x.com/tos",
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 1043.890625,
+        "y1": 953.0,
+        "x2": 1124.015625,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Brand Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://about.x.com/press/brand-assets",
+      "descriptive_label": "general_link: Brand Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 541.34375,
+        "y1": 953.0,
+        "x2": 619.859375,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://x.com/tos",
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 1156.015625,
+        "y1": 576.5,
+        "x2": 1212.984375,
+        "y2": 591.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Cookie Use.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://help.x.com/rules-and-policies/twitter-cookies",
+      "descriptive_label": "general_link: Cookie Use."
+    },
+    {
+      "coordinates": {
+        "x1": 1287.609375,
+        "y1": 953.0,
+        "x2": 1355.015625,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "X for Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://business.x.com/?ref=web-twc-ao-gbl-twitterforbusiness&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=twitterforbusiness",
+      "descriptive_label": "general_link: X for Business"
+    },
+    {
+      "coordinates": {
+        "x1": 639.5625,
+        "y1": 953.0,
+        "x2": 704.4375,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://x.com/privacy",
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 724.140625,
+        "y1": 953.0,
+        "x2": 788.671875,
+        "y2": 965.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://support.x.com/articles/20170514",
+      "descriptive_label": "general_link: Cookie Policy"
+    }
+  ],
+  "dataset_split": "raw"
+}

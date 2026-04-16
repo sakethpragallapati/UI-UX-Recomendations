@@ -1,0 +1,532 @@
+{
+  "url": "https://stores.jp",
+  "category": "e_commerce",
+  "timestamp": 1775665981,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 864.5,
+        "y1": 166.59375,
+        "x2": 1584.5,
+        "y2": 670.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "STORES \u30ad\u30fc\u30d3\u30b8\u30e5\u30a2\u30eb",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: STORES \u30ad\u30fc\u30d3\u30b8\u30e5\u30a2\u30eb"
+    },
+    {
+      "coordinates": {
+        "x1": 1585.0,
+        "y1": 793.0,
+        "x2": 1865.0,
+        "y2": 961.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30d7\u30e9\u30f3\u5c0e\u5165\u306720,000\u5186\u5206Amazon\u30ae\u30d5\u30c8\u30ab\u30fc\u30c9\u30d7\u30ec\u30bc\u30f3\u30c8\u30012026\u5e744\u670817\u65e5\u307e\u3067\u3002",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u30d7\u30e9\u30f3\u5c0e\u5165\u306720,000\u5186\u5206Amazon\u30ae..."
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 615.78125,
+        "x2": 624.5,
+        "y2": 671.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30b5\u30fc\u30d3\u30b9\u6982\u8981\u3092\u304b\u3093\u305f\u3093\u7406\u89e3\uff01\n\u8cc7\u6599\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\uff08\u7121\u6599\uff09",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://forms.stores.fun/standard-plan_doc_input",
+      "descriptive_label": "general_button: \u30b5\u30fc\u30d3\u30b9\u6982\u8981\u3092\u304b\u3093\u305f\u3093\u7406\u89e3\uff01\n\u8cc7\u6599\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\uff08\u7121\u6599\uff09"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 543.78125,
+        "x2": 624.5,
+        "y2": 599.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u7121\u6599\u3067\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://dashboard.stores.app/sign_up?service=all_bundle",
+      "descriptive_label": "general_button: \u7121\u6599\u3067\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210"
+    },
+    {
+      "coordinates": {
+        "x1": 1443.9375,
+        "y1": 55.796875,
+        "x2": 1584.5,
+        "y2": 97.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u8cc7\u6599\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://forms.stores.fun/standard-plan_doc_input",
+      "descriptive_label": "general_button: \u8cc7\u6599\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9"
+    },
+    {
+      "coordinates": {
+        "x1": 1306.390625,
+        "y1": 55.796875,
+        "x2": 1435.9375,
+        "y2": 97.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://dashboard.stores.app/sign_up?service=all_bundle_standard",
+      "descriptive_label": "general_button: \u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210"
+    },
+    {
+      "coordinates": {
+        "x1": 373.84375,
+        "y1": 640.984375,
+        "x2": 555.140625,
+        "y2": 663.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "p",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u8cc7\u6599\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\uff08\u7121\u6599\uff09",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: \u8cc7\u6599\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\uff08\u7121\u6599\uff09"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.0625,
+        "y1": 56.59375,
+        "x2": 1500.4375,
+        "y2": 86.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "\u304a\u5f79\u7acb\u3061\u60c5\u5831",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: \u304a\u5f79\u7acb\u3061\u60c5\u5831"
+    },
+    {
+      "coordinates": {
+        "x1": 296.5,
+        "y1": 55.59375,
+        "x2": 416.5,
+        "y2": 87.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "STORES \u30ed\u30b4",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: STORES \u30ed\u30b4"
+    },
+    {
+      "coordinates": {
+        "x1": 382.71875,
+        "y1": 560.578125,
+        "x2": 546.28125,
+        "y2": 582.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "p",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u7121\u6599\u3067\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: \u7121\u6599\u3067\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 55.796875,
+        "x2": 499.1875,
+        "y2": 97.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30b9\u30c8\u30a2\u30fc\u30ba\u306f\u6708\u984d0\u5186\u304b\u3089\n\u8907\u6570\u30b5\u30fc\u30d3\u30b9\u307e\u308b\u3063\u3068\u4f7f\u3048\u308b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stores.fun/#",
+      "descriptive_label": "general_link: \u30b9\u30c8\u30a2\u30fc\u30ba\u306f\u6708\u984d0\u5186\u304b\u3089\n\u8907\u6570\u30b5\u30fc\u30d3\u30b9\u307e\u308b\u3063\u3068\u4f7f\u3048\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 371.96875,
+        "y1": 624.1875,
+        "x2": 557.03125,
+        "y2": 640.984375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "p",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30b5\u30fc\u30d3\u30b9\u6982\u8981\u3092\u304b\u3093\u305f\u3093\u7406\u89e3\uff01",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: \u30b5\u30fc\u30d3\u30b9\u6982\u8981\u3092\u304b\u3093\u305f\u3093\u7406\u89e3\uff01"
+    },
+    {
+      "coordinates": {
+        "x1": 1003.671875,
+        "y1": 56.59375,
+        "x2": 1104.4375,
+        "y2": 86.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "\u30b5\u30fc\u30d3\u30b9",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: \u30b5\u30fc\u30d3\u30b9"
+    },
+    {
+      "coordinates": {
+        "x1": 1104.4375,
+        "y1": 56.59375,
+        "x2": 1193.25,
+        "y2": 86.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "\u696d\u7a2e\u5225",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: \u696d\u7a2e\u5225"
+    },
+    {
+      "coordinates": {
+        "x1": 1841.0,
+        "y1": 777.0,
+        "x2": 1881.0,
+        "y2": 817.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "\u30d5\u30ed\u30fc\u30c6\u30a3\u30f3\u30b0\u30d0\u30ca\u30fc\u3092\u975e\u8868\u793a\u306b\u3059\u308b",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: \u30d5\u30ed\u30fc\u30c6\u30a3\u30f3\u30b0\u30d0\u30ca\u30fc\u3092\u975e\u8868\u793a\u306b\u3059\u308b"
+    },
+    {
+      "coordinates": {
+        "x1": 1845.0,
+        "y1": 781.0,
+        "x2": 1877.0,
+        "y2": 813.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 1193.25,
+        "y1": 56.59375,
+        "x2": 1279.65625,
+        "y2": 86.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u6599\u91d1\u4e00\u89a7",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stores.fun/pricing",
+      "descriptive_label": "general_link: \u6599\u91d1\u4e00\u89a7"
+    },
+    {
+      "coordinates": {
+        "x1": 1279.65625,
+        "y1": 56.59375,
+        "x2": 1366.0625,
+        "y2": 86.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u5c0e\u5165\u4e8b\u4f8b",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stores.fun/cases",
+      "descriptive_label": "general_link: \u5c0e\u5165\u4e8b\u4f8b"
+    },
+    {
+      "coordinates": {
+        "x1": 1501.4375,
+        "y1": 56.59375,
+        "x2": 1584.5,
+        "y2": 86.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u30ed\u30b0\u30a4\u30f3",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://dashboard.stores.app/login",
+      "descriptive_label": "general_link: \u30ed\u30b0\u30a4\u30f3"
+    },
+    {
+      "coordinates": {
+        "x1": 1170.078125,
+        "y1": 8.0,
+        "x2": 1219.28125,
+        "y2": 27.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u8a73\u7d30",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stores.fun/campaign/event/2026-03-18?ref=top_banner",
+      "descriptive_label": "general_link: \u8a73\u7d30"
+    }
+  ],
+  "dataset_split": "raw"
+}

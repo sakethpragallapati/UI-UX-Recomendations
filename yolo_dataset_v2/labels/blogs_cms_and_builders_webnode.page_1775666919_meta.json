@@ -1,0 +1,428 @@
+{
+  "url": "https://webnode.page",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775666919,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1904,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 799.5,
+        "y1": 614.0625,
+        "x2": 1104.484375,
+        "y2": 670.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create my website",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Create my website"
+    },
+    {
+      "coordinates": {
+        "x1": 1591.0625,
+        "y1": 11.1875,
+        "x2": 1788.421875,
+        "y2": 49.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create My Website",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Create My Website"
+    },
+    {
+      "coordinates": {
+        "x1": 936.859375,
+        "y1": 14.0,
+        "x2": 1072.109375,
+        "y2": 47.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Affiliate Program",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/affiliate/",
+      "descriptive_label": "general_button: Affiliate Program"
+    },
+    {
+      "coordinates": {
+        "x1": 635.0,
+        "y1": 528.03125,
+        "x2": 787.5625,
+        "y2": 549.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Manage my choices",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Manage my choices"
+    },
+    {
+      "coordinates": {
+        "x1": 1788.421875,
+        "y1": 10.9375,
+        "x2": 1859.0,
+        "y2": 49.4375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 1244.0,
+        "y1": 333.96875,
+        "x2": 1302.0,
+        "y2": 382.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 1601.0625,
+        "y1": 11.1875,
+        "x2": 1778.421875,
+        "y2": 49.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create My Website",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/prompt-input/",
+      "descriptive_label": "general_link: Create My Website"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.109375,
+        "y1": 14.0,
+        "x2": 1206.296875,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Webnode Blog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/blog/",
+      "descriptive_label": "general_link: Webnode Blog"
+    },
+    {
+      "coordinates": {
+        "x1": 821.28125,
+        "y1": 14.0,
+        "x2": 922.859375,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help Center",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/support/home/",
+      "descriptive_label": "general_link: Help Center"
+    },
+    {
+      "coordinates": {
+        "x1": 757.734375,
+        "y1": 481.6875,
+        "x2": 895.234375,
+        "y2": 502.6875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Disclosure",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/cookie-disclosure/",
+      "descriptive_label": "general_link: Cookie Disclosure"
+    },
+    {
+      "coordinates": {
+        "x1": 639.890625,
+        "y1": 14.0,
+        "x2": 728.421875,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/templates/",
+      "descriptive_label": "general_link: Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 549.75,
+        "y1": 14.0,
+        "x2": 625.890625,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Features",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/features/",
+      "descriptive_label": "general_link: Features"
+    },
+    {
+      "coordinates": {
+        "x1": 1788.421875,
+        "y1": 13.9375,
+        "x2": 1859.0,
+        "y2": 46.9375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/#",
+      "descriptive_label": "general_link: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 742.421875,
+        "y1": 14.0,
+        "x2": 807.28125,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.webnode.com/pricing-w2/",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1684.6875,
+        "y1": 900.0,
+        "x2": 1772.0,
+        "y2": 918.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "1093 reviews",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.trustpilot.com/review/www.webnode.com",
+      "descriptive_label": "general_link: 1093 reviews"
+    }
+  ],
+  "dataset_split": "raw"
+}

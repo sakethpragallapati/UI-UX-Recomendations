@@ -1,0 +1,1156 @@
+{
+  "url": "https://disqus.com",
+  "category": "miscellaneous",
+  "timestamp": 1775668238,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 854.734375,
+        "y1": 556.0,
+        "x2": 1034.265625,
+        "y2": 617.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/pricing",
+      "descriptive_label": "general_button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 847.5,
+        "y1": 315.0,
+        "x2": 1041.484375,
+        "y2": 392.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Disqus",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Disqus",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/pricing",
+      "descriptive_label": "general_link: Disqus"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 141.5,
+        "x2": 780.0,
+        "y2": 173.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/platform/overview/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 173.5,
+        "x2": 780.0,
+        "y2": 205.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/platform/engagement/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 205.5,
+        "x2": 780.0,
+        "y2": 237.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/platform/moderation/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 237.5,
+        "x2": 780.0,
+        "y2": 269.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/platform/audience/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 269.5,
+        "x2": 780.0,
+        "y2": 301.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/platform/monetization/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 376.5,
+        "y1": 99.5,
+        "x2": 551.5,
+        "y2": 133.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Disqus",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Disqus"
+    },
+    {
+      "coordinates": {
+        "x1": 1396.5,
+        "y1": 91.5,
+        "x2": 1507.5,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Get Started"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 141.5,
+        "x2": 1013.875,
+        "y2": 173.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://blog.disqus.com/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 173.5,
+        "x2": 1013.875,
+        "y2": 205.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/support/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 205.5,
+        "x2": 1013.875,
+        "y2": 237.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://help.disqus.com/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 237.5,
+        "x2": 1013.875,
+        "y2": 269.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://about.disqus.com/disqus-101",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 269.5,
+        "x2": 1013.875,
+        "y2": 301.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/channel/discussdisqus/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 301.5,
+        "x2": 1013.875,
+        "y2": 333.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://about.disqus.com/case-studies",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 587.5,
+        "y1": 91.5,
+        "x2": 681.40625,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Comments",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Comments"
+    },
+    {
+      "coordinates": {
+        "x1": 851.578125,
+        "y1": 91.5,
+        "x2": 942.265625,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1317.5625,
+        "y1": 141.5,
+        "x2": 1454.265625,
+        "y2": 173.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/publishers/login/?next=https://disqus.com/admin/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1317.5625,
+        "y1": 173.5,
+        "x2": 1454.265625,
+        "y2": 205.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/profile/login/?next=https://disqus.com/home/notifications/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1045.53125,
+        "y1": 91.5,
+        "x2": 1114.703125,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact Us",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Contact Us"
+    },
+    {
+      "coordinates": {
+        "x1": 595.5,
+        "y1": 153.5,
+        "x2": 772.0,
+        "y2": 173.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 595.5,
+        "y1": 185.5,
+        "x2": 772.0,
+        "y2": 205.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 595.5,
+        "y1": 217.5,
+        "x2": 772.0,
+        "y2": 237.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 595.5,
+        "y1": 249.5,
+        "x2": 772.0,
+        "y2": 269.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 595.5,
+        "y1": 281.5,
+        "x2": 772.0,
+        "y2": 301.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 859.578125,
+        "y1": 153.5,
+        "x2": 1005.875,
+        "y2": 173.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 859.578125,
+        "y1": 185.5,
+        "x2": 1005.875,
+        "y2": 205.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 859.578125,
+        "y1": 217.5,
+        "x2": 1005.875,
+        "y2": 237.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 859.578125,
+        "y1": 249.5,
+        "x2": 1005.875,
+        "y2": 269.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 859.578125,
+        "y1": 281.5,
+        "x2": 1005.875,
+        "y2": 301.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 859.578125,
+        "y1": 313.5,
+        "x2": 1005.875,
+        "y2": 333.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1325.5625,
+        "y1": 153.5,
+        "x2": 1446.265625,
+        "y2": 173.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1325.5625,
+        "y1": 185.5,
+        "x2": 1446.265625,
+        "y2": 205.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 775.625,
+        "y1": 91.5,
+        "x2": 819.578125,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 974.265625,
+        "y1": 91.5,
+        "x2": 1013.53125,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: About"
+    },
+    {
+      "coordinates": {
+        "x1": 713.40625,
+        "y1": 91.5,
+        "x2": 743.625,
+        "y2": 141.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Polls",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Polls"
+    },
+    {
+      "coordinates": {
+        "x1": 1396.5,
+        "y1": 91.5,
+        "x2": 1507.5,
+        "y2": 141.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/publishers/signup/",
+      "descriptive_label": "general_link: Get Started"
+    },
+    {
+      "coordinates": {
+        "x1": 1858.34375,
+        "y1": 863.65625,
+        "x2": 1882.34375,
+        "y2": 887.65625
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 1045.53125,
+        "y1": 91.5,
+        "x2": 1114.703125,
+        "y2": 141.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact Us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://about.disqus.com/contact",
+      "descriptive_label": "general_link: Contact Us"
+    },
+    {
+      "coordinates": {
+        "x1": 1055.734375,
+        "y1": 21.0,
+        "x2": 1214.984375,
+        "y2": 38.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More About Badges",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://help.disqus.com/en/articles/5445956-badges#h_3d164c5d7f",
+      "descriptive_label": "general_link: Learn More About Badges"
+    },
+    {
+      "coordinates": {
+        "x1": 775.625,
+        "y1": 91.5,
+        "x2": 819.578125,
+        "y2": 141.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/pricing/",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1475.875,
+        "y1": 909.390625,
+        "x2": 1573.296875,
+        "y2": 929.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://help.disqus.com/en/articles/1717155-use-of-cookies",
+      "descriptive_label": "general_link: Cookie Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 974.265625,
+        "y1": 91.5,
+        "x2": 1013.53125,
+        "y2": 141.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/about-us/",
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 713.40625,
+        "y1": 91.5,
+        "x2": 743.625,
+        "y2": 141.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Polls",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://disqus.com/polls",
+      "descriptive_label": "general_link: Polls"
+    }
+  ],
+  "dataset_split": "raw"
+}

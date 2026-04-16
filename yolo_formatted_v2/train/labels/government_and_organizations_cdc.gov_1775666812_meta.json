@@ -1,0 +1,428 @@
+{
+  "url": "https://cdc.gov",
+  "category": "government_and_organizations",
+  "timestamp": 1775666812,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 36.71875,
+        "x2": 1889.0,
+        "y2": 890.09375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "three doctors standing wearing personal protective equipmen",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: three doctors standing wear..."
+    },
+    {
+      "coordinates": {
+        "x1": 298.0,
+        "y1": 51.71875,
+        "x2": 529.796875,
+        "y2": 105.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Centers for Disease Control and Prevention",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Centers for Disease Control..."
+    },
+    {
+      "coordinates": {
+        "x1": 1044.71875,
+        "y1": 64.71875,
+        "x2": 1198.328125,
+        "y2": 120.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "HEALTH TOPICS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/#",
+      "descriptive_label": "general_button: HEALTH TOPICS"
+    },
+    {
+      "coordinates": {
+        "x1": 1338.90625,
+        "y1": 64.71875,
+        "x2": 1464.734375,
+        "y2": 120.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "ABOUT CDC",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/#",
+      "descriptive_label": "general_button: ABOUT CDC"
+    },
+    {
+      "coordinates": {
+        "x1": 1208.328125,
+        "y1": 64.71875,
+        "x2": 1328.90625,
+        "y2": 120.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "OUTBREAKS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/#",
+      "descriptive_label": "general_button: OUTBREAKS"
+    },
+    {
+      "coordinates": {
+        "x1": 1186.1875,
+        "y1": 914.71875,
+        "x2": 1556.140625,
+        "y2": 945.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Outbreaks You Never Heard About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/global-health-protection/php/campaigns-and-awareness/outbreaks-you-never-heard-about.html",
+      "descriptive_label": "general_link: Outbreaks You Never Heard A..."
+    },
+    {
+      "coordinates": {
+        "x1": 1068.0,
+        "y1": 394.21875,
+        "x2": 1203.390625,
+        "y2": 436.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/ecoli/outbreaks/rawcheese-03-26/index.html",
+      "descriptive_label": "general_button: Learn More"
+    },
+    {
+      "coordinates": {
+        "x1": 1068.0,
+        "y1": 322.21875,
+        "x2": 1203.390625,
+        "y2": 364.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/measles/about/index.html",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 364.734375,
+        "y1": 914.71875,
+        "x2": 670.90625,
+        "y2": 945.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Raw Cheese E. coli Outbreak",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/ecoli/outbreaks/rawcheese-03-26/index.html",
+      "descriptive_label": "general_link: Raw Cheese E. coli Outbreak"
+    },
+    {
+      "coordinates": {
+        "x1": 630.375,
+        "y1": 9.0,
+        "x2": 767.078125,
+        "y2": 26.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/#gov-notice",
+      "descriptive_label": "general_button: Here's how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 1529.5,
+        "y1": 835.09375,
+        "x2": 1569.5,
+        "y2": 876.09375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pause carousel",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Pause carousel"
+    },
+    {
+      "coordinates": {
+        "x1": 1474.734375,
+        "y1": 64.71875,
+        "x2": 1591.0,
+        "y2": 120.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SEARCH",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/#",
+      "descriptive_label": "general_link: SEARCH"
+    },
+    {
+      "coordinates": {
+        "x1": 1483.734375,
+        "y1": 80.21875,
+        "x2": 1502.234375,
+        "y2": 107.21875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 302.5,
+        "y1": 13.21875,
+        "x2": 318.5,
+        "y2": 24.21875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 864.96875,
+        "y1": 914.71875,
+        "x2": 1024.015625,
+        "y2": 945.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About Measles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cdc.gov/measles/about/index.html",
+      "descriptive_label": "general_link: About Measles"
+    },
+    {
+      "coordinates": {
+        "x1": 1540.09375,
+        "y1": 9.0,
+        "x2": 1586.5,
+        "y2": 26.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Espa\u00f1ol",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.cdc.gov/spanish/",
+      "descriptive_label": "general_link: Espa\u00f1ol"
+    }
+  ],
+  "dataset_split": "raw"
+}

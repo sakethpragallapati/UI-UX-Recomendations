@@ -1,0 +1,714 @@
+{
+  "url": "https://unicef.org",
+  "category": "government_and_organizations",
+  "timestamp": 1775666853,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 195.0,
+        "x2": 1889.0,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A young girl carries a baby on her back at an IDP site in Ethiopia.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: A young girl carries a baby..."
+    },
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 939.546875,
+        "x2": 1529.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 30.0,
+        "y1": 74.0,
+        "x2": 416.65625,
+        "y2": 124.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1074.0,
+        "y1": 869.0,
+        "x2": 1414.0,
+        "y2": 905.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all\nReject all",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept all\nReject all"
+    },
+    {
+      "coordinates": {
+        "x1": 1589.0,
+        "y1": 80.0,
+        "x2": 1749.0,
+        "y2": 118.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Press centre",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Press centre"
+    },
+    {
+      "coordinates": {
+        "x1": 1589.0,
+        "y1": 80.0,
+        "x2": 1749.0,
+        "y2": 118.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Press centre",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/media/press-centre",
+      "descriptive_label": "general_button: Press centre"
+    },
+    {
+      "coordinates": {
+        "x1": 1419.0,
+        "y1": 869.0,
+        "x2": 1579.0,
+        "y2": 905.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Open consent dialog",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Customize",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/#",
+      "descriptive_label": "general_button: Open consent dialog"
+    },
+    {
+      "coordinates": {
+        "x1": 1079.0,
+        "y1": 869.0,
+        "x2": 1239.0,
+        "y2": 905.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 1249.0,
+        "y1": 869.0,
+        "x2": 1409.0,
+        "y2": 905.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reject all"
+    },
+    {
+      "coordinates": {
+        "x1": 30.0,
+        "y1": 84.09375,
+        "x2": 416.65625,
+        "y2": 110.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "UNICEF",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/",
+      "descriptive_label": "general_link: UNICEF"
+    },
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 956.546875,
+        "x2": 520.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/child-rights-convention",
+      "descriptive_label": "general_button: Learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 1759.0,
+        "y1": 80.0,
+        "x2": 1859.0,
+        "y2": 118.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Donate",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://help.unicef.org/global/donate",
+      "descriptive_label": "general_button: Donate"
+    },
+    {
+      "coordinates": {
+        "x1": 1758.5625,
+        "y1": 10.0,
+        "x2": 1859.0,
+        "y2": 34.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Current language:\nEnglish\nClick to select different language",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Current language:\nEnglish\nC..."
+    },
+    {
+      "coordinates": {
+        "x1": 1678.0,
+        "y1": 919.0,
+        "x2": 1734.0,
+        "y2": 975.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/#",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1809.0,
+        "y1": 155.0,
+        "x2": 1889.0,
+        "y2": 194.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.828125,
+        "y1": 155.0,
+        "x2": 1558.578125,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Research and reports",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/reports",
+      "descriptive_label": "general_link: Research and reports"
+    },
+    {
+      "coordinates": {
+        "x1": 1809.0,
+        "y1": 155.0,
+        "x2": 1859.0,
+        "y2": 194.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1686.0,
+        "y1": 869.0,
+        "x2": 1726.0,
+        "y2": 909.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Share on facebook",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Share on facebook"
+    },
+    {
+      "coordinates": {
+        "x1": 1686.0,
+        "y1": 769.0,
+        "x2": 1726.0,
+        "y2": 809.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Share on linkedin",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Share on linkedin"
+    },
+    {
+      "coordinates": {
+        "x1": 1686.0,
+        "y1": 819.0,
+        "x2": 1726.0,
+        "y2": 859.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Share on twitter",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Share on twitter"
+    },
+    {
+      "coordinates": {
+        "x1": 1831.0,
+        "y1": 155.5,
+        "x2": 1861.0,
+        "y2": 193.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Toggle search form",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Toggle search form"
+    },
+    {
+      "coordinates": {
+        "x1": 1220.734375,
+        "y1": 155.0,
+        "x2": 1336.828125,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "What we do",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/what-we-do",
+      "descriptive_label": "general_link: What we do"
+    },
+    {
+      "coordinates": {
+        "x1": 1075.3125,
+        "y1": 155.0,
+        "x2": 1190.734375,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Who we are",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/who-we-are",
+      "descriptive_label": "general_link: Who we are"
+    },
+    {
+      "coordinates": {
+        "x1": 1695.859375,
+        "y1": 155.0,
+        "x2": 1809.0,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Take action",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/take-action",
+      "descriptive_label": "general_link: Take action"
+    },
+    {
+      "coordinates": {
+        "x1": 1588.578125,
+        "y1": 155.0,
+        "x2": 1665.859375,
+        "y2": 194.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Stories",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/stories",
+      "descriptive_label": "general_link: Stories"
+    },
+    {
+      "coordinates": {
+        "x1": 1533.0625,
+        "y1": 813.0,
+        "x2": 1645.953125,
+        "y2": 837.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/legal#privacy-policy",
+      "descriptive_label": "general_link: Privacy Policy."
+    },
+    {
+      "coordinates": {
+        "x1": 1407.4375,
+        "y1": 813.0,
+        "x2": 1513.015625,
+        "y2": 837.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.unicef.org/legal#unicef-cookies-policy",
+      "descriptive_label": "general_link: Cookie Policy"
+    }
+  ],
+  "dataset_split": "raw"
+}

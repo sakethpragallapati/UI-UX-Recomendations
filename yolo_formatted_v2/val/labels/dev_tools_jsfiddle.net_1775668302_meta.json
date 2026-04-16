@@ -1,0 +1,506 @@
+{
+  "url": "https://jsfiddle.net",
+  "category": "dev_tools",
+  "timestamp": 1775668302,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 345.0,
+        "y1": 15.5,
+        "x2": 1291.578125,
+        "y2": 49.5
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Untitled fiddle",
+        "value": "",
+        "name": "title"
+      },
+      "href": "",
+      "descriptive_label": "general_input: Untitled fiddle"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 873.796875,
+        "x2": 250.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://server.ethicalads.io/proxy/click/10275/019d6e13-dfc0-7471-8253-467caddec285/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 50.0,
+        "y1": 873.796875,
+        "x2": 200.0,
+        "y2": 981.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Sponsored: Filestack",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Sponsored: Filestack"
+    },
+    {
+      "coordinates": {
+        "x1": 10.0,
+        "y1": 405.0,
+        "x2": 225.0,
+        "y2": 465.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Color Palette Generator",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/color-palette-generator",
+      "descriptive_label": "general_button: Color Palette Generator"
+    },
+    {
+      "coordinates": {
+        "x1": 10.0,
+        "y1": 465.0,
+        "x2": 225.0,
+        "y2": 525.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CSS Flexbox Generator",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/css-flexbox-generator",
+      "descriptive_label": "general_button: CSS Flexbox Generator"
+    },
+    {
+      "coordinates": {
+        "x1": 14.0,
+        "y1": 592.796875,
+        "x2": 144.0,
+        "y2": 692.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ads via Carbon",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: ads via Carbon"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 785.796875,
+        "x2": 238.0,
+        "y2": 859.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "One API to manage all your file uploads.\nEffortless integration; Reliable performance",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://server.ethicalads.io/proxy/click/10275/019d6e13-dfc0-7471-8253-467caddec285/",
+      "descriptive_label": "general_link: One API to manage all your ..."
+    },
+    {
+      "coordinates": {
+        "x1": 10.0,
+        "y1": 360.0,
+        "x2": 225.0,
+        "y2": 405.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Coder Fonts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/coderfonts",
+      "descriptive_label": "general_button: Coder Fonts"
+    },
+    {
+      "coordinates": {
+        "x1": 10.0,
+        "y1": 118.0,
+        "x2": 225.0,
+        "y2": 158.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Your recent fiddles",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/user/fiddles/all/",
+      "descriptive_label": "general_link: Your recent fiddles"
+    },
+    {
+      "coordinates": {
+        "x1": 14.0,
+        "y1": 706.796875,
+        "x2": 236.0,
+        "y2": 742.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Design and Development tips in your inbox. Every weekday.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://srv.carbonads.net/ads/click/x/GTND427UCWSDL2QECE7LYKQUCASD6K3ICAYDKZ3JCASIKKJWCK7IT53KCEADK23LC6SDV23UCYYD42JLFTBIT53KC6SI52QNCYSIKK3EHJNCLSIZ",
+      "descriptive_label": "general_link: Design and Development tips..."
+    },
+    {
+      "coordinates": {
+        "x1": 10.0,
+        "y1": 278.0,
+        "x2": 225.0,
+        "y2": 318.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Changelog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Changelog"
+    },
+    {
+      "coordinates": {
+        "x1": 250.0,
+        "y1": 526.5,
+        "x2": 381.859375,
+        "y2": 576.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "JavaScript",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: JavaScript"
+    },
+    {
+      "coordinates": {
+        "x1": 296.0,
+        "y1": 121.0,
+        "x2": 1061.0,
+        "y2": 122.0
+      },
+      "class_id": 7,
+      "class_name": "general_textarea",
+      "tag_name": "textarea",
+      "element_type": "textarea",
+      "accessibility": {
+        "aria_label": "Editor content",
+        "title": "",
+        "alt_text": "",
+        "role": "textbox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_textarea: Editor content"
+    },
+    {
+      "coordinates": {
+        "x1": 296.0,
+        "y1": 581.5,
+        "x2": 1061.0,
+        "y2": 582.5
+      },
+      "class_id": 7,
+      "class_name": "general_textarea",
+      "tag_name": "textarea",
+      "element_type": "textarea",
+      "accessibility": {
+        "aria_label": "Editor content",
+        "title": "",
+        "alt_text": "",
+        "role": "textbox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_textarea: Editor content"
+    },
+    {
+      "coordinates": {
+        "x1": 1123.5,
+        "y1": 121.0,
+        "x2": 1888.5,
+        "y2": 122.0
+      },
+      "class_id": 7,
+      "class_name": "general_textarea",
+      "tag_name": "textarea",
+      "element_type": "textarea",
+      "accessibility": {
+        "aria_label": "Editor content",
+        "title": "",
+        "alt_text": "",
+        "role": "textbox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_textarea: Editor content"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 75.0,
+        "y2": 65.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 250.0,
+        "y1": 66.0,
+        "x2": 344.59375,
+        "y2": 116.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HTML",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: HTML"
+    },
+    {
+      "coordinates": {
+        "x1": 1201.859375,
+        "y1": 737.75,
+        "x2": 1339.53125,
+        "y2": 764.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Tailwind Checkboxes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/boilerplate/tailwind-css-checkboxes",
+      "descriptive_label": "general_link: Tailwind Checkboxes"
+    },
+    {
+      "coordinates": {
+        "x1": 1349.46875,
+        "y1": 737.75,
+        "x2": 1476.96875,
+        "y2": 764.75
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Import a JS Module",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jsfiddle.net/boilerplate/module-import",
+      "descriptive_label": "general_link: Import a JS Module"
+    }
+  ],
+  "dataset_split": "raw"
+}

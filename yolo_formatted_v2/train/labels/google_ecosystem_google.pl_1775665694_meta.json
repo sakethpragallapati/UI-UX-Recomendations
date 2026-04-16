@@ -1,0 +1,532 @@
+{
+  "url": "https://google.pl",
+  "category": "google_ecosystem",
+  "timestamp": 1775665694,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 659.0,
+        "y1": 377.0,
+        "x2": 1100.875,
+        "y2": 427.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "textarea",
+      "element_type": "textarea",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "Search",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "q"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 950.421875,
+        "y1": 457.0,
+        "x2": 1095.21875,
+        "y2": 493.0
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "I'm Feeling Lucky",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "I'm Feeling Lucky",
+        "name": "btnI"
+      },
+      "href": "",
+      "descriptive_label": "general_input: I'm Feeling Lucky"
+    },
+    {
+      "coordinates": {
+        "x1": 808.765625,
+        "y1": 457.0,
+        "x2": 938.53125,
+        "y2": 493.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Google Search",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Google Search",
+        "name": "btnK"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Google Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1803.40625,
+        "y1": 939.0,
+        "x2": 1884.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Settings",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1188.875,
+        "y1": 384.0,
+        "x2": 1287.0,
+        "y2": 420.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "AI Mode",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: AI Mode"
+    },
+    {
+      "coordinates": {
+        "x1": 206.078125,
+        "y1": 939.0,
+        "x2": 352.78125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How Search works",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://google.com/search/howsearchworks/?fg=1",
+      "descriptive_label": "general_link: How Search works"
+    },
+    {
+      "coordinates": {
+        "x1": 1761.0,
+        "y1": 8.5,
+        "x2": 1801.0,
+        "y2": 48.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Google apps",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.co.in/intl/en/about/products",
+      "descriptive_label": "general_button: Google apps"
+    },
+    {
+      "coordinates": {
+        "x1": 616.0,
+        "y1": 384.0,
+        "x2": 652.0,
+        "y2": 420.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Upload files or images",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Upload files or images"
+    },
+    {
+      "coordinates": {
+        "x1": 1703.359375,
+        "y1": 16.5,
+        "x2": 1746.0,
+        "y2": 40.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Search for Images ",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Images",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/imghp?hl=en&ogbl",
+      "descriptive_label": "icon_search: Search for Images"
+    },
+    {
+      "coordinates": {
+        "x1": 1100.875,
+        "y1": 390.0,
+        "x2": 1140.875,
+        "y2": 414.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Search by voice",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search by voice"
+    },
+    {
+      "coordinates": {
+        "x1": 1140.875,
+        "y1": 390.0,
+        "x2": 1180.875,
+        "y2": 414.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Search by image",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search by image"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 939.0,
+        "x2": 119.265625,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advertising",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1",
+      "descriptive_label": "general_link: Advertising"
+    },
+    {
+      "coordinates": {
+        "x1": 119.265625,
+        "y1": 939.0,
+        "x2": 206.078125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+      "descriptive_label": "general_link: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 1809.0,
+        "y1": 8.5,
+        "x2": 1894.0,
+        "y2": 48.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e",
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1659.375,
+        "y1": 939.0,
+        "x2": 1735.28125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://policies.google.com/privacy?hl=en-IN&fg=1",
+      "descriptive_label": "general_link: Privacy"
+    },
+    {
+      "coordinates": {
+        "x1": 1735.28125,
+        "y1": 939.0,
+        "x2": 1803.40625,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://policies.google.com/terms?hl=en-IN&fg=1",
+      "descriptive_label": "general_link: Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 21.0,
+        "y1": 17.0,
+        "x2": 67.59375,
+        "y2": 43.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header",
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 77.59375,
+        "y1": 17.0,
+        "x2": 121.0625,
+        "y2": 43.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Store",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://store.google.com/IN?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-IN",
+      "descriptive_label": "general_link: Store"
+    },
+    {
+      "coordinates": {
+        "x1": 1091.875,
+        "y1": 542.0,
+        "x2": 1156.390625,
+        "y2": 557.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/setprefs?sig=0_7yQmTXiDqenh1JlAd0mZXi3fBY8%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwiEy_eX1t6TAxXVbvUHHVJxDkEQ2ZgBCCc",
+      "descriptive_label": "general_link: \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02"
+    },
+    {
+      "coordinates": {
+        "x1": 1654.40625,
+        "y1": 16.5,
+        "x2": 1688.359375,
+        "y2": 40.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Gmail ",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Gmail",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mail.google.com/mail/&ogbl",
+      "descriptive_label": "general_link: Gmail"
+    }
+  ],
+  "dataset_split": "raw"
+}

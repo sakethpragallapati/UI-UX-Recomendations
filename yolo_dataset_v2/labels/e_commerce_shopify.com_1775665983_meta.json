@@ -1,0 +1,246 @@
+{
+  "url": "https://shopify.com",
+  "category": "e_commerce",
+  "timestamp": 1775665983,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 234.5,
+        "y1": 639.71875,
+        "x2": 395.234375,
+        "y2": 695.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://admin.shopify.com/signup?locale=en-IN&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fin&signup_types%5B%5D=paid_trial_experience&signup_types%5B%5D=gmv_rw_evgn",
+      "descriptive_label": "general_button: Start for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.484375,
+        "y1": 9.0,
+        "x2": 1654.484375,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://shopify.dev/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 592.828125,
+        "y1": 9.0,
+        "x2": 911.15625,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.shopify.com/in/ucp",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 951.15625,
+        "y1": 9.0,
+        "x2": 1269.484375,
+        "y2": 47.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://apps.shopify.com/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1513.078125,
+        "y1": 14.0,
+        "x2": 1654.5,
+        "y2": 58.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://admin.shopify.com/signup?locale=en-IN&language=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Fin&signup_types%5B%5D=paid_trial_experience&signup_types%5B%5D=gmv_rw_evgn",
+      "descriptive_label": "general_button: Start for free"
+    },
+    {
+      "coordinates": {
+        "x1": 234.5,
+        "y1": 18.0,
+        "x2": 360.546875,
+        "y2": 54.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Shopify",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Shopify"
+    },
+    {
+      "coordinates": {
+        "x1": 739.484375,
+        "y1": 0,
+        "x2": 816.078125,
+        "y2": 72.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.shopify.com/in/enterprise",
+      "descriptive_label": "general_link: Enterprise"
+    },
+    {
+      "coordinates": {
+        "x1": 655.46875,
+        "y1": 0,
+        "x2": 707.484375,
+        "y2": 72.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.shopify.com/in/pricing",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1435.21875,
+        "y1": 26.0,
+        "x2": 1481.078125,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.shopify.com/login?ui_locales=en-IN",
+      "descriptive_label": "general_link: Log in"
+    }
+  ],
+  "dataset_split": "raw"
+}

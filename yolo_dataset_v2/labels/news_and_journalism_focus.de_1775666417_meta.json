@@ -1,0 +1,610 @@
+{
+  "url": "https://focus.de",
+  "category": "news_and_journalism",
+  "timestamp": 1775666417,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 470.0,
+        "y1": 608.0,
+        "x2": 1426.0,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Rauch steigt nach mehreren israelischen Luftangriffen in Beirut auf.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Rauch steigt nach mehreren ..."
+    },
+    {
+      "coordinates": {
+        "x1": 486.0,
+        "y1": 514.0,
+        "x2": 783.625,
+        "y2": 558.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Starkoch Lafer verteidigt Schnitzel-Preise von 35 Euro",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Starkoch Lafer verteidigt Schnitzel-Preise von 35 Euro",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/finanzen/ein-fairer-preis-starkoch-verteidigt-preise-von-35-euro-fuer-ein-wiener-schnitzel_f3d98347-3097-4506-a4da-1850cf1dace7.html",
+      "descriptive_label": "general_link: Starkoch Lafer verteidigt S..."
+    },
+    {
+      "coordinates": {
+        "x1": 809.984375,
+        "y1": 514.0,
+        "x2": 1066.78125,
+        "y2": 558.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Niederl\u00e4ndische Mutter will nicht in Schule mithelfen",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Niederl\u00e4ndische Mutter will nicht in Schule mithelfen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/panorama/welt/jede-woche-ist-irgendetwas-mutter-32-hat-keine-lust-in-der-schule-mitzuhelfen_6a10dddc-c95a-4af8-8ff6-1d0d473085c8.html",
+      "descriptive_label": "general_link: Niederl\u00e4ndische Mutter will..."
+    },
+    {
+      "coordinates": {
+        "x1": 1117.96875,
+        "y1": 514.0,
+        "x2": 1343.96875,
+        "y2": 558.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Lydia wohnt mit 29 noch mit 2 Freunden in Haus-WG ",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lydia wohnt mit 29 noch mit 2 Freunden in Haus-WG",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/finanzen/autorin-lydia-wohnt-mit-29-in-einer-wg-mit-freunden-nicht-da-wo-ich-sein-wollte_ccd04e75-07fd-4c30-bd48-0f95ef08f747.html",
+      "descriptive_label": "general_link: Lydia wohnt mit 29 noch mit..."
+    },
+    {
+      "coordinates": {
+        "x1": 872.890625,
+        "y1": 64.0,
+        "x2": 955.8125,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Unterhaltung",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/kultur/",
+      "descriptive_label": "icon_menu: Unterhaltung"
+    },
+    {
+      "coordinates": {
+        "x1": 788.46875,
+        "y1": 64.0,
+        "x2": 861.421875,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Gesundheit",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/gesundheit/",
+      "descriptive_label": "icon_menu: Gesundheit"
+    },
+    {
+      "coordinates": {
+        "x1": 1257.0625,
+        "y1": 64.0,
+        "x2": 1325.71875,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Immobilien",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/immobilien/",
+      "descriptive_label": "icon_menu: Immobilien"
+    },
+    {
+      "coordinates": {
+        "x1": 967.265625,
+        "y1": 64.0,
+        "x2": 1032.171875,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Panorama",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/panorama/",
+      "descriptive_label": "icon_menu: Panorama"
+    },
+    {
+      "coordinates": {
+        "x1": 520.09375,
+        "y1": 64.0,
+        "x2": 577.984375,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Finanzen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/finanzen/",
+      "descriptive_label": "icon_menu: Finanzen"
+    },
+    {
+      "coordinates": {
+        "x1": 730.078125,
+        "y1": 64.0,
+        "x2": 777.015625,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wissen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/wissen/",
+      "descriptive_label": "icon_menu: Wissen"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.75,
+        "y1": 64.0,
+        "x2": 1202.984375,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reisen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/reisen/",
+      "descriptive_label": "icon_menu: Reisen"
+    },
+    {
+      "coordinates": {
+        "x1": 470.0,
+        "y1": 64.0,
+        "x2": 508.640625,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Politik",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/politik/",
+      "descriptive_label": "icon_menu: Politik"
+    },
+    {
+      "coordinates": {
+        "x1": 1043.640625,
+        "y1": 64.0,
+        "x2": 1079.9375,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sport",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/sport/",
+      "descriptive_label": "icon_menu: Sport"
+    },
+    {
+      "coordinates": {
+        "x1": 683.40625,
+        "y1": 64.0,
+        "x2": 718.609375,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Earth",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/earth/",
+      "descriptive_label": "icon_menu: Earth"
+    },
+    {
+      "coordinates": {
+        "x1": 474.0,
+        "y1": 8.0,
+        "x2": 608.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Nachrichten - FOCUS online",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/",
+      "descriptive_label": "general_link: Nachrichten - FOCUS online"
+    },
+    {
+      "coordinates": {
+        "x1": 1214.453125,
+        "y1": 64.0,
+        "x2": 1245.59375,
+        "y2": 115.234375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Auto",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/auto/",
+      "descriptive_label": "icon_menu: Auto"
+    },
+    {
+      "coordinates": {
+        "x1": 589.453125,
+        "y1": 64.0,
+        "x2": 683.40625,
+        "y2": 115.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Perspektiven",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/perspektiven/",
+      "descriptive_label": "general_link: Perspektiven"
+    },
+    {
+      "coordinates": {
+        "x1": 1091.40625,
+        "y1": 64.0,
+        "x2": 1159.75,
+        "y2": 115.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FOCUS+",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/focusplus/",
+      "descriptive_label": "general_link: FOCUS+"
+    },
+    {
+      "coordinates": {
+        "x1": 1337.1875,
+        "y1": 64.0,
+        "x2": 1392.140625,
+        "y2": 115.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wetter",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/wetter/",
+      "descriptive_label": "general_link: Wetter"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.09375,
+        "y1": 472.5,
+        "x2": 1394.0,
+        "y2": 494.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mehr anzeigen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/schlagzeilen/",
+      "descriptive_label": "general_link: Mehr anzeigen"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.0,
+        "y1": 18.0,
+        "x2": 1302.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "FOCUS lesen und sparen. Jetzt abonnieren!",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://focus-abo.de/?hnr=extern.forwardnews.focus-de.top-navi",
+      "descriptive_label": "general_link: FOCUS lesen und sparen. Jet..."
+    },
+    {
+      "coordinates": {
+        "x1": 1310.0,
+        "y1": 18.0,
+        "x2": 1338.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Kaufberater - Partnerangebot",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/kaufberatung/",
+      "descriptive_label": "general_link: Kaufberater - Partnerangebot"
+    },
+    {
+      "coordinates": {
+        "x1": 1238.0,
+        "y1": 18.0,
+        "x2": 1266.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Deals",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.focus.de/deals/",
+      "descriptive_label": "general_link: Deals"
+    }
+  ],
+  "dataset_split": "raw"
+}

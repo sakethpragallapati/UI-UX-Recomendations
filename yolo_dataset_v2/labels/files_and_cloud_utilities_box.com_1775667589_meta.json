@@ -1,0 +1,766 @@
+{
+  "url": "https://box.com",
+  "category": "files_and_cloud_utilities",
+  "timestamp": 1775667589,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 224.5,
+        "y1": 531.46875,
+        "x2": 1664.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Content + AI",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Content + AI"
+    },
+    {
+      "coordinates": {
+        "x1": 737.484375,
+        "y1": 386.421875,
+        "x2": 1151.484375,
+        "y2": 492.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started\nContact us",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get started\nContact us"
+    },
+    {
+      "coordinates": {
+        "x1": 1053.0,
+        "y1": 200.0,
+        "x2": 1304.0,
+        "y2": 368.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Box Virtual Summit",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Box Virtual Summit"
+    },
+    {
+      "coordinates": {
+        "x1": 1139.171875,
+        "y1": 200.0,
+        "x2": 1367.171875,
+        "y2": 368.359375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Box AI Agents",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Box AI Agents"
+    },
+    {
+      "coordinates": {
+        "x1": 798.5,
+        "y1": 276.0,
+        "x2": 1043.171875,
+        "y2": 376.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/agents",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 798.5,
+        "y1": 452.0,
+        "x2": 1043.171875,
+        "y2": 552.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/esignature",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 531.765625,
+        "y1": 391.796875,
+        "x2": 754.5,
+        "y2": 491.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/mcp-server",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 798.5,
+        "y1": 467.796875,
+        "x2": 1021.234375,
+        "y2": 567.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://developer.box.com/guides/cli/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1067.1875,
+        "y1": 239.796875,
+        "x2": 1315.1875,
+        "y2": 315.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/customer-success/box-consulting",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1067.1875,
+        "y1": 315.796875,
+        "x2": 1315.1875,
+        "y2": 391.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/customer-success/migration",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1067.1875,
+        "y1": 391.796875,
+        "x2": 1315.1875,
+        "y2": 467.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/customer-success/support-services",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1067.1875,
+        "y1": 537.59375,
+        "x2": 1315.1875,
+        "y2": 613.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/partners",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1067.1875,
+        "y1": 613.59375,
+        "x2": 1315.1875,
+        "y2": 689.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/integrations",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1105.234375,
+        "y1": 239.796875,
+        "x2": 1353.234375,
+        "y2": 315.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://account.box.com/signup/developer",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1105.234375,
+        "y1": 315.796875,
+        "x2": 1353.234375,
+        "y2": 391.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://developer.box.com/guides",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1105.234375,
+        "y1": 461.59375,
+        "x2": 1353.234375,
+        "y2": 537.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://blog.box.com/developer",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 737.484375,
+        "y1": 426.421875,
+        "x2": 925.484375,
+        "y2": 476.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/pricing",
+      "descriptive_label": "general_button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 963.484375,
+        "y1": 426.421875,
+        "x2": 1151.484375,
+        "y2": 476.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/quote",
+      "descriptive_label": "general_button: Contact us"
+    },
+    {
+      "coordinates": {
+        "x1": 1136.328125,
+        "y1": 544.0,
+        "x2": 1370.015625,
+        "y2": 572.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1084.5,
+        "y1": 516.0,
+        "x2": 1272.5,
+        "y2": 544.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1535.328125,
+        "y1": 68.0,
+        "x2": 1649.5,
+        "y2": 110.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.box.com/pricing",
+      "descriptive_label": "icon_profile: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 918.25,
+        "y1": 70.0,
+        "x2": 1031.421875,
+        "y2": 105.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Resources",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 807.953125,
+        "y1": 70.0,
+        "x2": 918.25,
+        "y2": 105.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Developer",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Developer",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Developer"
+    },
+    {
+      "coordinates": {
+        "x1": 703.796875,
+        "y1": 70.0,
+        "x2": 807.953125,
+        "y2": 105.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Solutions",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 602.28125,
+        "y1": 70.0,
+        "x2": 703.796875,
+        "y2": 105.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Products",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 1447.515625,
+        "y1": 68.0,
+        "x2": 1525.328125,
+        "y2": 110.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://account.box.com/login",
+      "descriptive_label": "icon_profile: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.0,
+        "y1": 17.5,
+        "x2": 1829.0,
+        "y2": 41.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Right",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Right"
+    },
+    {
+      "coordinates": {
+        "x1": 1845.0,
+        "y1": 16.5,
+        "x2": 1869.0,
+        "y2": 40.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Close",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1777.0,
+        "y1": 17.5,
+        "x2": 1801.0,
+        "y2": 41.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Left",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Left"
+    }
+  ],
+  "dataset_split": "raw"
+}

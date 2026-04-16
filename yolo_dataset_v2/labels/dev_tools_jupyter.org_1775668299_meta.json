@@ -1,0 +1,454 @@
+{
+  "url": "https://jupyter.org",
+  "category": "dev_tools",
+  "timestamp": 1775668299,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 694.390625,
+        "x2": 900.0,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "examples of jupyterlab workspaces in single document and multiple document workspaces",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: examples of jupyterlab work..."
+    },
+    {
+      "coordinates": {
+        "x1": 15.0,
+        "y1": 149.0,
+        "x2": 762.0,
+        "y2": 462.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "white background",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: white background"
+    },
+    {
+      "coordinates": {
+        "x1": 573.765625,
+        "y1": 159.0,
+        "x2": 1250.765625,
+        "y2": 452.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "jupyter logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: jupyter logo"
+    },
+    {
+      "coordinates": {
+        "x1": 959.5,
+        "y1": 872.9375,
+        "x2": 1874.0,
+        "y2": 922.109375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try it in your browser\nInstall JupyterLab",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Try it in your browser\nInst..."
+    },
+    {
+      "coordinates": {
+        "x1": 959.5,
+        "y1": 872.9375,
+        "x2": 1157.625,
+        "y2": 922.109375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try it in your browser",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/try",
+      "descriptive_label": "general_button: Try it in your browser"
+    },
+    {
+      "coordinates": {
+        "x1": 1166.015625,
+        "y1": 872.9375,
+        "x2": 1339.625,
+        "y2": 922.109375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Install JupyterLab",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/install",
+      "descriptive_label": "general_button: Install JupyterLab"
+    },
+    {
+      "coordinates": {
+        "x1": 25.0,
+        "y1": 15.0,
+        "x2": 173.234375,
+        "y2": 55.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Jupyter Home",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Jupyter Home"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.0,
+        "y1": 29.0,
+        "x2": 1473.625,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Documentation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://docs.jupyter.org/",
+      "descriptive_label": "general_link: Documentation"
+    },
+    {
+      "coordinates": {
+        "x1": 1629.21875,
+        "y1": 29.0,
+        "x2": 1716.390625,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Governance",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/governance/",
+      "descriptive_label": "general_link: Governance"
+    },
+    {
+      "coordinates": {
+        "x1": 1261.09375,
+        "y1": 29.0,
+        "x2": 1342.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Community",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/community",
+      "descriptive_label": "general_link: Community"
+    },
+    {
+      "coordinates": {
+        "x1": 1740.390625,
+        "y1": 29.0,
+        "x2": 1798.1875,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Security",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/security",
+      "descriptive_label": "general_link: Security"
+    },
+    {
+      "coordinates": {
+        "x1": 1561.640625,
+        "y1": 29.0,
+        "x2": 1605.21875,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Social",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/social",
+      "descriptive_label": "general_link: Social"
+    },
+    {
+      "coordinates": {
+        "x1": 1195.296875,
+        "y1": 29.0,
+        "x2": 1237.09375,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Install",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/install",
+      "descriptive_label": "general_link: Install"
+    },
+    {
+      "coordinates": {
+        "x1": 1560.390625,
+        "y1": 723.390625,
+        "x2": 1586.984375,
+        "y2": 750.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Anchor",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/#jupyterlab-a-next-generation-notebook-interface",
+      "descriptive_label": "general_link: Anchor"
+    },
+    {
+      "coordinates": {
+        "x1": 1822.1875,
+        "y1": 29.0,
+        "x2": 1864.0,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/about",
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 1497.625,
+        "y1": 29.0,
+        "x2": 1537.640625,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://blog.jupyter.org/",
+      "descriptive_label": "general_link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 1148.78125,
+        "y1": 29.0,
+        "x2": 1171.296875,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://jupyter.org/try",
+      "descriptive_label": "general_link: Try"
+    }
+  ],
+  "dataset_split": "raw"
+}

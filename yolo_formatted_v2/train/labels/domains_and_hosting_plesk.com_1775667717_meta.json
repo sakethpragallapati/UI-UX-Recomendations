@@ -1,0 +1,2950 @@
+{
+  "url": "https://plesk.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1775667717,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 962.0,
+        "y1": 140.0,
+        "x2": 1542.0,
+        "y2": 526.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 585.0,
+        "x2": 300.0,
+        "y2": 965.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 682.0,
+        "y1": 515.296875,
+        "x2": 1222.0,
+        "y2": 616.296875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 484.65625,
+        "y1": 66.0,
+        "x2": 1203.53125,
+        "y2": 114.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solutions\nProduct\nPricing\nExtensions\nFor Partners\nHelp Center",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Solutions\nProduct\nPricing\nE..."
+    },
+    {
+      "coordinates": {
+        "x1": 682.0,
+        "y1": 503.296875,
+        "x2": 1222.0,
+        "y2": 546.296875
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "form_fields[plesk_host]"
+      },
+      "href": "",
+      "descriptive_label": "general_input: form_fields[plesk_host]"
+    },
+    {
+      "coordinates": {
+        "x1": 677.0,
+        "y1": 576.296875,
+        "x2": 1227.0,
+        "y2": 616.296875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 199.0,
+        "x2": 829.75,
+        "y2": 233.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 233.0,
+        "x2": 829.75,
+        "y2": 267.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 267.0,
+        "x2": 829.75,
+        "y2": 301.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 301.0,
+        "x2": 829.75,
+        "y2": 335.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 335.0,
+        "x2": 829.75,
+        "y2": 369.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 369.0,
+        "x2": 829.75,
+        "y2": 403.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 403.0,
+        "x2": 829.75,
+        "y2": 437.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 199.0,
+        "x2": 1169.1875,
+        "y2": 233.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 233.0,
+        "x2": 1169.1875,
+        "y2": 267.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 267.0,
+        "x2": 1169.1875,
+        "y2": 301.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 301.0,
+        "x2": 1169.1875,
+        "y2": 335.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 335.0,
+        "x2": 1169.1875,
+        "y2": 369.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 905.5,
+        "y1": 867.65625,
+        "x2": 998.5,
+        "y2": 974.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Plesk Most Implementable G2Crowd",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Plesk Most Implementable G2..."
+    },
+    {
+      "coordinates": {
+        "x1": 905.5,
+        "y1": 653.65625,
+        "x2": 998.5,
+        "y2": 760.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Plesk Best Usability G2Crowd",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Plesk Best Usability G2Crowd"
+    },
+    {
+      "coordinates": {
+        "x1": 905.5,
+        "y1": 760.65625,
+        "x2": 998.5,
+        "y2": 867.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Plesk Easiest Setup G2Crowd",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Plesk Easiest Setup G2Crowd"
+    },
+    {
+      "coordinates": {
+        "x1": 905.5,
+        "y1": 546.65625,
+        "x2": 998.5,
+        "y2": 653.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Plesk Grid Leader G2Crowd",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Plesk Grid Leader G2Crowd"
+    },
+    {
+      "coordinates": {
+        "x1": 933.765625,
+        "y1": 129.0,
+        "x2": 1168.65625,
+        "y2": 164.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 933.765625,
+        "y1": 164.59375,
+        "x2": 1168.65625,
+        "y2": 200.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 933.765625,
+        "y1": 200.1875,
+        "x2": 1168.65625,
+        "y2": 235.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 933.765625,
+        "y1": 235.78125,
+        "x2": 1168.65625,
+        "y2": 271.375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 933.765625,
+        "y1": 271.375,
+        "x2": 1168.65625,
+        "y2": 306.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1253.1875,
+        "y1": 68.0,
+        "x2": 1416.75,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plesk 360 login",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Plesk 360 login"
+    },
+    {
+      "coordinates": {
+        "x1": 918.765625,
+        "y1": 66.0,
+        "x2": 1062.765625,
+        "y2": 114.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "For Partners",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "For Partners",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: For Partners"
+    },
+    {
+      "coordinates": {
+        "x1": 1062.765625,
+        "y1": 66.0,
+        "x2": 1203.53125,
+        "y2": 114.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Help Center",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Help Center",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Help Center"
+    },
+    {
+      "coordinates": {
+        "x1": 514.65625,
+        "y1": 194.0,
+        "x2": 720.9375,
+        "y2": 228.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 514.65625,
+        "y1": 228.0,
+        "x2": 720.9375,
+        "y2": 262.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 514.65625,
+        "y1": 262.0,
+        "x2": 720.9375,
+        "y2": 296.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 514.65625,
+        "y1": 296.0,
+        "x2": 720.9375,
+        "y2": 330.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 514.65625,
+        "y1": 330.0,
+        "x2": 720.9375,
+        "y2": 364.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 194.0,
+        "x2": 947.21875,
+        "y2": 228.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 228.0,
+        "x2": 947.21875,
+        "y2": 262.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 262.0,
+        "x2": 947.21875,
+        "y2": 296.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 296.0,
+        "x2": 947.21875,
+        "y2": 330.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 330.0,
+        "x2": 947.21875,
+        "y2": 364.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 364.0,
+        "x2": 947.21875,
+        "y2": 398.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 740.9375,
+        "y1": 398.0,
+        "x2": 947.21875,
+        "y2": 432.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 967.21875,
+        "y1": 194.0,
+        "x2": 1173.5,
+        "y2": 228.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 967.21875,
+        "y1": 228.0,
+        "x2": 1173.5,
+        "y2": 262.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 967.21875,
+        "y1": 262.0,
+        "x2": 1173.5,
+        "y2": 296.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 967.21875,
+        "y1": 296.0,
+        "x2": 1173.5,
+        "y2": 330.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 967.21875,
+        "y1": 330.0,
+        "x2": 1173.5,
+        "y2": 364.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 129.0,
+        "x2": 811.6875,
+        "y2": 164.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 164.59375,
+        "x2": 811.6875,
+        "y2": 200.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 200.1875,
+        "x2": 811.6875,
+        "y2": 235.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 235.78125,
+        "x2": 811.6875,
+        "y2": 271.375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 271.375,
+        "x2": 811.6875,
+        "y2": 306.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 306.96875,
+        "x2": 811.6875,
+        "y2": 342.5625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 619.046875,
+        "y1": 342.5625,
+        "x2": 811.6875,
+        "y2": 378.15625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.765625,
+        "y1": 129.0,
+        "x2": 1264.265625,
+        "y2": 164.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.765625,
+        "y1": 164.59375,
+        "x2": 1264.265625,
+        "y2": 200.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.765625,
+        "y1": 200.1875,
+        "x2": 1264.265625,
+        "y2": 235.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.765625,
+        "y1": 235.78125,
+        "x2": 1264.265625,
+        "y2": 271.375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.765625,
+        "y1": 271.375,
+        "x2": 1264.265625,
+        "y2": 306.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1077.765625,
+        "y1": 306.96875,
+        "x2": 1264.265625,
+        "y2": 342.5625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 787.3125,
+        "y1": 66.0,
+        "x2": 918.765625,
+        "y2": 114.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Extensions",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Extensions",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Extensions"
+    },
+    {
+      "coordinates": {
+        "x1": 484.65625,
+        "y1": 66.0,
+        "x2": 604.046875,
+        "y2": 114.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Solutions",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 1253.1875,
+        "y1": 68.0,
+        "x2": 1376.75,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plesk 360 login",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Plesk 360 login"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 199.0,
+        "x2": 829.75,
+        "y2": 233.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/socialbee/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 233.0,
+        "x2": 829.75,
+        "y2": 267.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/wp-toolkit/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 267.0,
+        "x2": 829.75,
+        "y2": 301.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/extensions/wp-guardian-plesk-addon/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 301.0,
+        "x2": 829.75,
+        "y2": 335.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/sitejet-builder-for-plesk/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 335.0,
+        "x2": 829.75,
+        "y2": 369.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/plesk-seo-toolkit/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 369.0,
+        "x2": 829.75,
+        "y2": 403.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/plesk-premium-email/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 520.3125,
+        "y1": 403.0,
+        "x2": 829.75,
+        "y2": 437.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/plesk-email-security/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 199.0,
+        "x2": 1169.1875,
+        "y2": 233.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/plesk-business-and-collaboration-edition/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 233.0,
+        "x2": 1169.1875,
+        "y2": 267.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/plesk-wp-edition/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 859.75,
+        "y1": 267.0,
+        "x2": 1169.1875,
+        "y2": 301.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/extensions/hosting-pack/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 943.765625,
+        "y1": 134.0,
+        "x2": 1158.65625,
+        "y2": 159.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/content-contributor-program/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 604.046875,
+        "y1": 66.0,
+        "x2": 713.625,
+        "y2": 114.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Product",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Product",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Product"
+    },
+    {
+      "coordinates": {
+        "x1": 1434.40625,
+        "y1": 68.0,
+        "x2": 1552.0,
+        "y2": 112.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Free Trial",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Free Trial"
+    },
+    {
+      "coordinates": {
+        "x1": 886.375,
+        "y1": 576.296875,
+        "x2": 1017.625,
+        "y2": 616.296875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 943.765625,
+        "y1": 205.1875,
+        "x2": 1147.578125,
+        "y2": 230.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/partners/developer-program/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 943.765625,
+        "y1": 169.59375,
+        "x2": 1126.234375,
+        "y2": 195.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/partners/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 347.5625,
+        "x2": 801.6875,
+        "y2": 373.15625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/extensions/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.765625,
+        "y1": 169.59375,
+        "x2": 1254.265625,
+        "y2": 195.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/professional-services/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 713.625,
+        "y1": 67.203125,
+        "x2": 787.3125,
+        "y2": 112.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 943.765625,
+        "y1": 240.78125,
+        "x2": 1078.75,
+        "y2": 266.375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://webpros.partnerstack.com/?group=pleskinbound",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.765625,
+        "y1": 134.0,
+        "x2": 1215.5,
+        "y2": 159.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://docs.plesk.com/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 943.765625,
+        "y1": 276.375,
+        "x2": 1069.640625,
+        "y2": 301.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/university/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 311.96875,
+        "x2": 749.671875,
+        "y2": 337.5625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/lifecycle-policy/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 134.0,
+        "x2": 745.71875,
+        "y2": 159.59375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/features/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 169.59375,
+        "x2": 741.125,
+        "y2": 195.1875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/editions/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 924.765625,
+        "y1": 77.203125,
+        "x2": 1023.765625,
+        "y2": 102.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For Partners",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/#",
+      "descriptive_label": "icon_menu: For Partners"
+    },
+    {
+      "coordinates": {
+        "x1": 1068.765625,
+        "y1": 77.203125,
+        "x2": 1164.53125,
+        "y2": 102.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help Center",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/#",
+      "descriptive_label": "icon_menu: Help Center"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 205.1875,
+        "x2": 722.8125,
+        "y2": 230.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://docs.plesk.com/release-notes/obsidian/whats-new/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 793.3125,
+        "y1": 77.203125,
+        "x2": 879.765625,
+        "y2": 102.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Extensions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/#",
+      "descriptive_label": "icon_menu: Extensions"
+    },
+    {
+      "coordinates": {
+        "x1": 1271.1875,
+        "y1": 82.0,
+        "x2": 1398.75,
+        "y2": 98.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plesk 360 login",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Plesk 360 login"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.765625,
+        "y1": 240.78125,
+        "x2": 1175.484375,
+        "y2": 266.375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/contact-us/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 490.65625,
+        "y1": 77.203125,
+        "x2": 565.046875,
+        "y2": 102.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/#",
+      "descriptive_label": "icon_menu: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 276.375,
+        "x2": 708.15625,
+        "y2": 301.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://features.plesk.com/tabs/28-planned-roadmap",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 610.046875,
+        "y1": 77.203125,
+        "x2": 674.625,
+        "y2": 102.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Product",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/#",
+      "descriptive_label": "icon_menu: Product"
+    },
+    {
+      "coordinates": {
+        "x1": 362.0,
+        "y1": 389.375,
+        "x2": 441.5625,
+        "y2": 408.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/plesk-free-download/",
+      "descriptive_label": "general_button: Try for free"
+    },
+    {
+      "coordinates": {
+        "x1": 719.625,
+        "y1": 77.203125,
+        "x2": 781.3125,
+        "y2": 102.796875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/pricing/",
+      "descriptive_label": "icon_menu: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.765625,
+        "y1": 205.1875,
+        "x2": 1153.25,
+        "y2": 230.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://support.plesk.com/hc/en-us",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 629.046875,
+        "y1": 240.78125,
+        "x2": 685.734375,
+        "y2": 266.375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/pricing/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 905.5,
+        "y1": 974.65625,
+        "x2": 998.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Plesk Regional Leader G2Crowd",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Plesk Regional Leader G2Crowd"
+    },
+    {
+      "coordinates": {
+        "x1": 1454.40625,
+        "y1": 82.0,
+        "x2": 1532.0,
+        "y2": 98.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Free Trial",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Free Trial"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.765625,
+        "y1": 311.96875,
+        "x2": 1141.796875,
+        "y2": 337.5625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://talk.plesk.com/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 910.375,
+        "y1": 588.796875,
+        "x2": 993.625,
+        "y2": 603.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 268.0,
+        "y1": 585.0,
+        "x2": 300.0,
+        "y2": 617.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 1220.0,
+        "y1": 338.703125,
+        "x2": 1252.0,
+        "y2": 370.703125
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 1087.765625,
+        "y1": 276.375,
+        "x2": 1123.4375,
+        "y2": 301.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.plesk.com/hosting-wiki/",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 585.046875,
+        "y1": 81.0,
+        "x2": 603.046875,
+        "y2": 99.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 694.625,
+        "y1": 81.0,
+        "x2": 712.625,
+        "y2": 99.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 899.765625,
+        "y1": 81.0,
+        "x2": 917.765625,
+        "y2": 99.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1043.765625,
+        "y1": 81.0,
+        "x2": 1061.765625,
+        "y2": 99.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1184.53125,
+        "y1": 81.0,
+        "x2": 1202.53125,
+        "y2": 99.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    }
+  ],
+  "dataset_split": "raw"
+}

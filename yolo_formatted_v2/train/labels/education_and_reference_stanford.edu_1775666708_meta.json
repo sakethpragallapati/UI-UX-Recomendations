@@ -1,0 +1,688 @@
+{
+  "url": "https://stanford.edu",
+  "category": "education_and_reference",
+  "timestamp": 1775666708,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1896.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1139.984375,
+        "y1": 0,
+        "x2": 1281.375,
+        "y2": 50.65625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Faculty & Staff",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Faculty & Staff"
+    },
+    {
+      "coordinates": {
+        "x1": 820.40625,
+        "y1": 55.65625,
+        "x2": 945.4375,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Campus Life",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Campus Life"
+    },
+    {
+      "coordinates": {
+        "x1": 1558.34375,
+        "y1": 0,
+        "x2": 1685.0,
+        "y2": 50.65625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 668.734375,
+        "y1": 55.65625,
+        "x2": 788.109375,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Health Care",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Health Care"
+    },
+    {
+      "coordinates": {
+        "x1": 402.03125,
+        "y1": 55.65625,
+        "x2": 511.171875,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Academics",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Academics"
+    },
+    {
+      "coordinates": {
+        "x1": 1098.984375,
+        "y1": 55.65625,
+        "x2": 1204.921875,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Admission",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Admission"
+    },
+    {
+      "coordinates": {
+        "x1": 1036.65625,
+        "y1": 0,
+        "x2": 1136.171875,
+        "y2": 50.65625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Students",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Students"
+    },
+    {
+      "coordinates": {
+        "x1": 1285.1875,
+        "y1": 0,
+        "x2": 1379.34375,
+        "y2": 50.65625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Families",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Families"
+    },
+    {
+      "coordinates": {
+        "x1": 543.46875,
+        "y1": 55.65625,
+        "x2": 636.4375,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Research",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Research"
+    },
+    {
+      "coordinates": {
+        "x1": 977.734375,
+        "y1": 55.65625,
+        "x2": 1066.6875,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Athletics",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Athletics"
+    },
+    {
+      "coordinates": {
+        "x1": 1383.15625,
+        "y1": 0,
+        "x2": 1469.6875,
+        "y2": 50.65625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Visitors",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Visitors"
+    },
+    {
+      "coordinates": {
+        "x1": 1473.5,
+        "y1": 0,
+        "x2": 1558.34375,
+        "y2": 50.65625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Alumni",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Alumni"
+    },
+    {
+      "coordinates": {
+        "x1": 1418.890625,
+        "y1": 55.65625,
+        "x2": 1486.96875,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Events",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Events"
+    },
+    {
+      "coordinates": {
+        "x1": 823.15625,
+        "y1": 943.75,
+        "x2": 1065.828125,
+        "y2": 977.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore Stanford",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/#main-content",
+      "descriptive_label": "general_link: Explore Stanford"
+    },
+    {
+      "coordinates": {
+        "x1": 1237.21875,
+        "y1": 55.65625,
+        "x2": 1298.671875,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: About"
+    },
+    {
+      "coordinates": {
+        "x1": 229.5,
+        "y1": 8.0,
+        "x2": 438.203125,
+        "y2": 44.9375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Stanford University",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/",
+      "descriptive_label": "general_link: Stanford University"
+    },
+    {
+      "coordinates": {
+        "x1": 1330.96875,
+        "y1": 55.65625,
+        "x2": 1386.59375,
+        "y2": 106.40625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: News"
+    },
+    {
+      "coordinates": {
+        "x1": 820.40625,
+        "y1": 55.65625,
+        "x2": 945.4375,
+        "y2": 106.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Campus Life",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/campus-life/",
+      "descriptive_label": "general_link: Campus Life"
+    },
+    {
+      "coordinates": {
+        "x1": 668.734375,
+        "y1": 55.65625,
+        "x2": 788.109375,
+        "y2": 106.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Health Care",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/health-care/",
+      "descriptive_label": "general_link: Health Care"
+    },
+    {
+      "coordinates": {
+        "x1": 1154.234375,
+        "y1": 0,
+        "x2": 1267.125,
+        "y2": 50.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Faculty & Staff",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/faculty-staff-gateway/",
+      "descriptive_label": "general_link: Faculty & Staff"
+    },
+    {
+      "coordinates": {
+        "x1": 402.03125,
+        "y1": 55.65625,
+        "x2": 511.171875,
+        "y2": 106.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Academics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/academics/",
+      "descriptive_label": "general_link: Academics"
+    },
+    {
+      "coordinates": {
+        "x1": 1098.984375,
+        "y1": 55.65625,
+        "x2": 1204.921875,
+        "y2": 106.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Admission",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/admission/",
+      "descriptive_label": "general_link: Admission"
+    },
+    {
+      "coordinates": {
+        "x1": 543.46875,
+        "y1": 55.65625,
+        "x2": 636.4375,
+        "y2": 106.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Research",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/research/",
+      "descriptive_label": "general_link: Research"
+    },
+    {
+      "coordinates": {
+        "x1": 977.734375,
+        "y1": 55.65625,
+        "x2": 1066.6875,
+        "y2": 106.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Athletics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://gostanford.com/",
+      "descriptive_label": "general_link: Athletics"
+    },
+    {
+      "coordinates": {
+        "x1": 1050.90625,
+        "y1": 0,
+        "x2": 1121.921875,
+        "y2": 50.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Students",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.stanford.edu/student-gateway/",
+      "descriptive_label": "general_link: Students"
+    }
+  ],
+  "dataset_split": "raw"
+}

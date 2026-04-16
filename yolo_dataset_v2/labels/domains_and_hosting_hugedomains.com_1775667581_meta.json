@@ -1,0 +1,766 @@
+{
+  "url": "https://hugedomains.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1775667581,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 574.5,
+        "y1": 329.421875,
+        "x2": 1158.5,
+        "y2": 389.421875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Home Page Domain Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "domain_name"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Home Page Domain Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1493.609375,
+        "y1": 923.5,
+        "x2": 1864.0,
+        "y2": 967.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize\nReject All\nAccept All",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Customize\nReject All\nAccept..."
+    },
+    {
+      "coordinates": {
+        "x1": 1060.625,
+        "y1": 14.0,
+        "x2": 1295.625,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Header Domain Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "domain_name"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Header Domain Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1178.5,
+        "y1": 329.421875,
+        "x2": 1314.5,
+        "y2": 389.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1011.40625,
+        "y1": 772.1875,
+        "x2": 1096.40625,
+        "y2": 852.1875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Friendly and helpful domain experts",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Friendly and helpful domain..."
+    },
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 14.0,
+        "x2": 555.5,
+        "y2": 49.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1275.421875,
+        "y1": 772.1875,
+        "x2": 1346.421875,
+        "y2": 856.1875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Safe and secure shopping experience",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Safe and secure shopping ex..."
+    },
+    {
+      "coordinates": {
+        "x1": 520.828125,
+        "y1": 772.1875,
+        "x2": 604.828125,
+        "y2": 840.1875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pay later with 0% financing",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pay later with 0% financing"
+    },
+    {
+      "coordinates": {
+        "x1": 768.328125,
+        "y1": 772.1875,
+        "x2": 837.328125,
+        "y2": 854.1875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "30-day money-back guarantee",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: 30-day money-back guarantee"
+    },
+    {
+      "coordinates": {
+        "x1": 1742.234375,
+        "y1": 923.5,
+        "x2": 1864.0,
+        "y2": 967.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Accept All",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept All"
+    },
+    {
+      "coordinates": {
+        "x1": 1616.53125,
+        "y1": 923.5,
+        "x2": 1734.234375,
+        "y2": 967.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Reject All",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reject All"
+    },
+    {
+      "coordinates": {
+        "x1": 1493.609375,
+        "y1": 923.5,
+        "x2": 1608.53125,
+        "y2": 967.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Customize",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Customize"
+    },
+    {
+      "coordinates": {
+        "x1": 1784.0,
+        "y1": 905.0,
+        "x2": 1844.0,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Contact HugeDomains with our FAB Icon",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/contact.cfm",
+      "descriptive_label": "general_button: Contact HugeDomains with ou..."
+    },
+    {
+      "coordinates": {
+        "x1": 1300.046875,
+        "y1": 14.0,
+        "x2": 1390.046875,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1409.5,
+        "y1": 77.75,
+        "x2": 1469.5,
+        "y2": 104.234375
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_cart"
+    },
+    {
+      "coordinates": {
+        "x1": 1469.5,
+        "y1": 77.859375,
+        "x2": 1529.5,
+        "y2": 104.109375
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_cart"
+    },
+    {
+      "coordinates": {
+        "x1": 1469.5,
+        "y1": 77.859375,
+        "x2": 1516.5,
+        "y2": 104.109375
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Shopping Cart",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/shopping_cart.cfm",
+      "descriptive_label": "icon_cart: Shopping Cart"
+    },
+    {
+      "coordinates": {
+        "x1": 1795.0,
+        "y1": 922.0,
+        "x2": 1833.0,
+        "y2": 948.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 20.0,
+        "x2": 50.0,
+        "y2": 39.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Navigation Toggle",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Navigation Toggle"
+    },
+    {
+      "coordinates": {
+        "x1": 1420.5,
+        "y1": 81.234375,
+        "x2": 1445.5,
+        "y2": 104.234375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1480.5,
+        "y1": 81.84375,
+        "x2": 1505.5,
+        "y2": 103.84375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 751.609375,
+        "y1": 73.0,
+        "x2": 886.8125,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/payment-plan-login.cfm",
+      "descriptive_label": "general_link: My account"
+    },
+    {
+      "coordinates": {
+        "x1": 624.046875,
+        "y1": 73.0,
+        "x2": 751.609375,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/contact.cfm",
+      "descriptive_label": "general_link: Contact us"
+    },
+    {
+      "coordinates": {
+        "x1": 1022.0625,
+        "y1": 407.421875,
+        "x2": 1158.5,
+        "y2": 437.171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advanced Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/domain_search.cfm",
+      "descriptive_label": "general_link: Advanced Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1390.046875,
+        "y1": 18.375,
+        "x2": 1529.5,
+        "y2": 44.625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "HugeDomains Phone Number",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "+1-303-893-0552",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "tel:1-303-893-0552",
+      "descriptive_label": "general_link: HugeDomains Phone Number"
+    },
+    {
+      "coordinates": {
+        "x1": 510.53125,
+        "y1": 73.0,
+        "x2": 624.046875,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About us",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/about.cfm",
+      "descriptive_label": "general_link: About us"
+    },
+    {
+      "coordinates": {
+        "x1": 429.71875,
+        "y1": 73.0,
+        "x2": 510.53125,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FAQs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/faq.cfm",
+      "descriptive_label": "general_link: FAQs"
+    },
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 73.0,
+        "x2": 429.71875,
+        "y2": 109.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/index.cfm",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 1409.5,
+        "y1": 77.75,
+        "x2": 1456.5,
+        "y2": 104.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "My favorites",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.hugedomains.com/my-favorites.cfm",
+      "descriptive_label": "general_link: My favorites"
+    }
+  ],
+  "dataset_split": "raw"
+}

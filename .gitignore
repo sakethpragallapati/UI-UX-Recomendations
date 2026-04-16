@@ -209,10 +209,10 @@ __marimo__/
 # Project-generated datasets, runs, caches, and local model files
 runs/
 website_dataset/
-yolo_dataset/
-yolo_dataset_v2/
-yolo_formatted/
-yolo_formatted_v2/
+# yolo_dataset/
+# yolo_dataset_v2/
+# yolo_formatted/
+# yolo_formatted_v2/
 test_images/
 *.cache
 *.pt

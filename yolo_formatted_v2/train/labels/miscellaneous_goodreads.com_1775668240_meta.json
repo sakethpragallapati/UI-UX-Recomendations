@@ -1,0 +1,974 @@
+{
+  "url": "https://goodreads.com",
+  "category": "miscellaneous",
+  "timestamp": 1775668241,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 459.5,
+        "y1": 85.0,
+        "x2": 1429.5,
+        "y2": 380.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/challenges/11680?ref=rc_jan_26_soh",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1124.5,
+        "y1": 643.0,
+        "x2": 1424.5,
+        "y2": 800.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The Goodreads Editors Share Their April Book Picks",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Goodreads Editors Share..."
+    },
+    {
+      "coordinates": {
+        "x1": 887.5,
+        "y1": 625.0,
+        "x2": 1087.5,
+        "y2": 760.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/book/show/220239083-a-marriage-at-sea",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 887.5,
+        "y1": 815.0,
+        "x2": 1087.5,
+        "y2": 950.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/book/show/209594872-fable-for-the-end-of-the-world",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1148.5,
+        "y1": 155.0,
+        "x2": 1398.5,
+        "y2": 204.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Continue with Apple",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/ap/signin?identityProvider=APPLE&language=en_US&openid.assoc_handle=amzn_goodreads_web_apple&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in%3FIDP%3DAPPLE&relyingParty=GOODREADS&siteState=eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cuZ29vZHJlYWRzLmNvbS8ifQ%3D%3D",
+      "descriptive_label": "general_button: Continue with Apple"
+    },
+    {
+      "coordinates": {
+        "x1": 1148.5,
+        "y1": 95.0,
+        "x2": 1398.5,
+        "y2": 141.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Continue with Amazon",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/ap/signin?identityProvider=LoginWithAmazon&language=en_US&openid.assoc_handle=amzn_goodreads_web_lwa&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in%3FIDP%3DLoginWithAmazon&relyingParty=GOODREADS&siteState=eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cuZ29vZHJlYWRzLmNvbS8ifQ%3D%3D",
+      "descriptive_label": "general_button: Continue with Amazon"
+    },
+    {
+      "coordinates": {
+        "x1": 1148.5,
+        "y1": 218.0,
+        "x2": 1398.5,
+        "y2": 264.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up with email",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/ap/register?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fregister&siteState=eyJyZXR1cm5fdXJsIjoiaHR0cHM6Ly93d3cuZ29vZHJlYWRzLmNvbS8ifQ%3D%3D",
+      "descriptive_label": "general_button: Sign up with email"
+    },
+    {
+      "coordinates": {
+        "x1": 887.5,
+        "y1": 815.0,
+        "x2": 967.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Fable for the End of the World by Ava Reid",
+        "alt_text": "Fable for the End of the World by Ava Reid",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Fable for the End of the Wo..."
+    },
+    {
+      "coordinates": {
+        "x1": 887.5,
+        "y1": 625.0,
+        "x2": 967.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "A Marriage at Sea by Sophie Elmhirst",
+        "alt_text": "A Marriage at Sea by Sophie Elmhirst",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: A Marriage at Sea by Sophie..."
+    },
+    {
+      "coordinates": {
+        "x1": 763.5,
+        "y1": 625.0,
+        "x2": 843.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "A Walk in the Park by Kevin Fedarko",
+        "alt_text": "A Walk in the Park by Kevin Fedarko",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: A Walk in the Park by Kevin..."
+    },
+    {
+      "coordinates": {
+        "x1": 487.5,
+        "y1": 815.0,
+        "x2": 567.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Hunger Games by Suzanne Collins",
+        "alt_text": "The Hunger Games by Suzanne Collins",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Hunger Games by Suzanne..."
+    },
+    {
+      "coordinates": {
+        "x1": 579.5,
+        "y1": 625.0,
+        "x2": 659.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Wide Wide Sea by Hampton Sides",
+        "alt_text": "The Wide Wide Sea by Hampton Sides",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Wide Wide Sea by Hampto..."
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 625.0,
+        "x2": 751.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Demon of Unrest by Erik Larson",
+        "alt_text": "The Demon of Unrest by Erik Larson",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Demon of Unrest by Erik..."
+    },
+    {
+      "coordinates": {
+        "x1": 459.5,
+        "y1": 20.0,
+        "x2": 656.5,
+        "y2": 69.25
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Goodreads: Book reviews, recommendations, and discussion",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Goodreads: Book reviews, re..."
+    },
+    {
+      "coordinates": {
+        "x1": 579.5,
+        "y1": 815.0,
+        "x2": 659.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Shatter Me by Tahereh Mafi",
+        "alt_text": "Shatter Me by Tahereh Mafi",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Shatter Me by Tahereh Mafi"
+    },
+    {
+      "coordinates": {
+        "x1": 671.5,
+        "y1": 815.0,
+        "x2": 751.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Beach Read by Emily Henry",
+        "alt_text": "Beach Read by Emily Henry",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Beach Read by Emily Henry"
+    },
+    {
+      "coordinates": {
+        "x1": 487.5,
+        "y1": 625.0,
+        "x2": 567.5,
+        "y2": 745.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Wager by David Grann",
+        "alt_text": "The Wager by David Grann",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Wager by David Grann"
+    },
+    {
+      "coordinates": {
+        "x1": 763.5,
+        "y1": 815.0,
+        "x2": 843.5,
+        "y2": 935.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Bride by Ali Hazelwood",
+        "alt_text": "Bride by Ali Hazelwood",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Bride by Ali Hazelwood"
+    },
+    {
+      "coordinates": {
+        "x1": 1124.5,
+        "y1": 591.0,
+        "x2": 1424.5,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Goodreads Editors Share Their April Book Picks",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/blog/show/3082-the-goodreads-editors-share-their-april-book-picks?ref=Soapbox_Signed_Out_2026_Apr_Blog_3082",
+      "descriptive_label": "general_link: The Goodreads Editors Share..."
+    },
+    {
+      "coordinates": {
+        "x1": 1368.125,
+        "y1": 909.65625,
+        "x2": 1394.78125,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Harry Potter and the Philosopher's Stone by J.K. Rowling",
+        "alt_text": "Harry Potter and the Philosopher's Stone by J.K. Rowling",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Harry Potter and the Philos..."
+    },
+    {
+      "coordinates": {
+        "x1": 1398.375,
+        "y1": 909.65625,
+        "x2": 1424.5,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Great Gatsby by F. Scott Fitzgerald",
+        "alt_text": "The Great Gatsby by F. Scott Fitzgerald",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Great Gatsby by F. Scot..."
+    },
+    {
+      "coordinates": {
+        "x1": 1306.890625,
+        "y1": 909.65625,
+        "x2": 1333.546875,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "To Kill a Mockingbird by Harper Lee",
+        "alt_text": "To Kill a Mockingbird by Harper Lee",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: To Kill a Mockingbird by Ha..."
+    },
+    {
+      "coordinates": {
+        "x1": 1337.140625,
+        "y1": 909.65625,
+        "x2": 1364.53125,
+        "y2": 949.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "1984 by George Orwell",
+        "alt_text": "1984 by George Orwell",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: 1984 by George Orwell"
+    },
+    {
+      "coordinates": {
+        "x1": 1368.65625,
+        "y1": 964.65625,
+        "x2": 1395.3125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Water for Elephants by Sara Gruen",
+        "alt_text": "Water for Elephants by Sara Gruen",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Water for Elephants by Sara..."
+    },
+    {
+      "coordinates": {
+        "x1": 1340.53125,
+        "y1": 964.65625,
+        "x2": 1365.0625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Kite Runner by Khaled Hosseini",
+        "alt_text": "The Kite Runner by Khaled Hosseini",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Kite Runner by Khaled H..."
+    },
+    {
+      "coordinates": {
+        "x1": 1398.90625,
+        "y1": 964.65625,
+        "x2": 1424.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Book Thief by Markus Zusak",
+        "alt_text": "The Book Thief by Markus Zusak",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Book Thief by Markus Zusak"
+    },
+    {
+      "coordinates": {
+        "x1": 1310.28125,
+        "y1": 964.65625,
+        "x2": 1336.9375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Help by Kathryn Stockett",
+        "alt_text": "The Help by Kathryn Stockett",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The Help by Kathryn Stockett"
+    },
+    {
+      "coordinates": {
+        "x1": 1184.515625,
+        "y1": 164.0,
+        "x2": 1215.515625,
+        "y2": 195.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 856.5,
+        "y1": 669.0,
+        "x2": 877.5,
+        "y2": 697.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "&rarr;",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: &rarr;"
+    },
+    {
+      "coordinates": {
+        "x1": 856.5,
+        "y1": 859.0,
+        "x2": 877.5,
+        "y2": 887.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "&rarr;",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: &rarr;"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.5,
+        "y1": 107.5,
+        "x2": 1206.5,
+        "y2": 128.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1124.5,
+        "y1": 911.65625,
+        "x2": 1265.984375,
+        "y2": 943.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Best Books of the 20th Century",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/list/show/6.Best_Books_of_the_20th_Century",
+      "descriptive_label": "general_link: Best Books of the 20th Century"
+    },
+    {
+      "coordinates": {
+        "x1": 1244.625,
+        "y1": 301.0,
+        "x2": 1366.640625,
+        "y2": 331.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/about/privacy",
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1124.5,
+        "y1": 790.65625,
+        "x2": 1424.5,
+        "y2": 802.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/blog/show/3082-the-goodreads-editors-share-their-april-book-picks?ref=Soapbox_Signed_Out_2026_Apr_Blog_3082",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 459.5,
+        "y1": 59.25,
+        "x2": 656.5,
+        "y2": 71.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1124.5,
+        "y1": 966.65625,
+        "x2": 1246.390625,
+        "y2": 980.65625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Best for Book Clubs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/list/show/19.Best_for_Book_Clubs",
+      "descriptive_label": "general_link: Best for Book Clubs"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.421875,
+        "y1": 301.0,
+        "x2": 1302.828125,
+        "y2": 313.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.goodreads.com/about/terms",
+      "descriptive_label": "general_link: Terms of Service"
+    }
+  ],
+  "dataset_split": "raw"
+}

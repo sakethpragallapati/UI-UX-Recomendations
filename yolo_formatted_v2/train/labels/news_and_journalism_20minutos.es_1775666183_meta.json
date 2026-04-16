@@ -1,0 +1,818 @@
+{
+  "url": "https://20minutos.es",
+  "category": "news_and_journalism",
+  "timestamp": 1775666183,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 457.0,
+        "y1": 683.0,
+        "x2": 1106.328125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "GIF libano",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: GIF libano"
+    },
+    {
+      "coordinates": {
+        "x1": 1138.328125,
+        "y1": 700.0,
+        "x2": 1420.203125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ir\u00e1n interrumpe el tr\u00e1fico por el estrecho de Ormuz como respuesta a los bombardeos israel\u00edes en el L\u00edbano\u00a0",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ir\u00e1n interrumpe el tr\u00e1fico por el estrecho de Ormuz como respuesta a los bombardeos israel\u00edes en el L\u00edbano ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/internacional/guerra-eeuu-israel-iran-directo-ultimas-noticias-estrecho-ormuz-petroleo-hezbola-libano_6955346_6.html",
+      "descriptive_label": "general_link: Ir\u00e1n interrumpe el tr\u00e1fico ..."
+    },
+    {
+      "coordinates": {
+        "x1": 692.0,
+        "y1": 421.109375,
+        "x2": 1162.8125,
+        "y2": 460.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pol\u00edtica de Cookies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/estaticos/politica-privacidad.html",
+      "descriptive_label": "general_link: Pol\u00edtica de Cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 692.0,
+        "y1": 70.9375,
+        "x2": 1212.0,
+        "y2": 95.9375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "cmp logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: cmp logo"
+    },
+    {
+      "coordinates": {
+        "x1": 692.0,
+        "y1": 229.125,
+        "x2": 932.0,
+        "y2": 279.125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechazar y pagar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/#",
+      "descriptive_label": "general_button: Rechazar y pagar"
+    },
+    {
+      "coordinates": {
+        "x1": 972.0,
+        "y1": 229.125,
+        "x2": 1212.0,
+        "y2": 279.125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Aceptar y cerrar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/#",
+      "descriptive_label": "general_button: Aceptar y cerrar"
+    },
+    {
+      "coordinates": {
+        "x1": 495.0,
+        "y1": 567.0,
+        "x2": 759.0,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sopa de letras\nEncuentra las palabras escondidas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/estaticos/pasatiempos.html#/sopa-de-letras",
+      "descriptive_label": "general_link: Sopa de letras\nEncuentra la..."
+    },
+    {
+      "coordinates": {
+        "x1": 805.0,
+        "y1": 567.0,
+        "x2": 1069.0,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Memory\nMemoriza y encuentra todas las parejas",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/estaticos/pasatiempos.html#/memory",
+      "descriptive_label": "general_link: Memory\nMemoriza y encuentra..."
+    },
+    {
+      "coordinates": {
+        "x1": 1115.0,
+        "y1": 567.0,
+        "x2": 1379.0,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Puzzle\nMonta el puzzle pieza a pieza",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/estaticos/pasatiempos.html#/puzzle",
+      "descriptive_label": "general_link: Puzzle\nMonta el puzzle piez..."
+    },
+    {
+      "coordinates": {
+        "x1": 185.0,
+        "y1": 567.0,
+        "x2": 449.0,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/estaticos/pasatiempos.html#/las-8-diferencias",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1425.0,
+        "y1": 567.0,
+        "x2": 1689.0,
+        "y2": 627.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/estaticos/pasatiempos.html#/mini-crucigrama",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 640.21875,
+        "y1": 401.0,
+        "x2": 1253.390625,
+        "y2": 417.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Ir\u00e1n interrumpe el tr\u00e1fico de petroleros por el estrecho de Ormuz tras el ataque israel\u00ed al L\u00edbano",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ir\u00e1n interrumpe el tr\u00e1fico de petroleros por el estrecho de Ormuz tras el ataque israel\u00ed al L\u00edbano",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/internacional/guerra-eeuu-israel-iran-directo-ultimas-noticias-estrecho-ormuz-petroleo-hezbola-libano_6955346_6.html",
+      "descriptive_label": "general_link: Ir\u00e1n interrumpe el tr\u00e1fico ..."
+    },
+    {
+      "coordinates": {
+        "x1": 647.375,
+        "y1": 441.0,
+        "x2": 1178.71875,
+        "y2": 457.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Llega a 20minutos 'Campos y Rosa', el repaso semanal de las revistas del coraz\u00f3n",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Llega a 20minutos 'Campos y Rosa', el repaso semanal de las revistas del coraz\u00f3n",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/gente/llega-20minutos-campos-rosa-repaso-semanal-las-revistas-corazon_6955711_0.html",
+      "descriptive_label": "general_link: Llega a 20minutos 'Campos y..."
+    },
+    {
+      "coordinates": {
+        "x1": 1427.0,
+        "y1": 567.0,
+        "x2": 1487.0,
+        "y2": 627.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pasatiempo Mini crucigrama",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pasatiempo Mini crucigrama"
+    },
+    {
+      "coordinates": {
+        "x1": 497.0,
+        "y1": 567.0,
+        "x2": 557.0,
+        "y2": 627.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pasatiempo Sopa de letras",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pasatiempo Sopa de letras"
+    },
+    {
+      "coordinates": {
+        "x1": 187.0,
+        "y1": 567.0,
+        "x2": 247.0,
+        "y2": 627.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pasatiempo 8 diferencias",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pasatiempo 8 diferencias"
+    },
+    {
+      "coordinates": {
+        "x1": 1737.0,
+        "y1": 567.0,
+        "x2": 1797.0,
+        "y2": 627.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pasatiempo Parejas",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pasatiempo Parejas"
+    },
+    {
+      "coordinates": {
+        "x1": 807.0,
+        "y1": 567.0,
+        "x2": 867.0,
+        "y2": 627.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pasatiempo Memory",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pasatiempo Memory"
+    },
+    {
+      "coordinates": {
+        "x1": 1117.0,
+        "y1": 567.0,
+        "x2": 1177.0,
+        "y2": 627.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pasatiempo Puzzle",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pasatiempo Puzzle"
+    },
+    {
+      "coordinates": {
+        "x1": 447.0,
+        "y1": 1.0,
+        "x2": 502.0,
+        "y2": 56.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Menu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 748.84375,
+        "y1": 245.328125,
+        "x2": 875.140625,
+        "y2": 262.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechazar y pagar",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Rechazar y pagar"
+    },
+    {
+      "coordinates": {
+        "x1": 1310.765625,
+        "y1": 23.0,
+        "x2": 1399.0,
+        "y2": 38.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open submenu Ediciones",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open submenu Ediciones"
+    },
+    {
+      "coordinates": {
+        "x1": 1310.765625,
+        "y1": 23.0,
+        "x2": 1399.0,
+        "y2": 38.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "EDICIONES",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: EDICIONES"
+    },
+    {
+      "coordinates": {
+        "x1": 1310.765625,
+        "y1": 23.0,
+        "x2": 1399.0,
+        "y2": 38.0
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 1409.0,
+        "y1": 12.0,
+        "x2": 1442.0,
+        "y2": 45.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Iniciar sesi\u00f3n",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: Iniciar sesi\u00f3n"
+    },
+    {
+      "coordinates": {
+        "x1": 1380.3125,
+        "y1": 48.0,
+        "x2": 1442.0,
+        "y2": 63.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/#",
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 1412.0,
+        "y1": 584.0,
+        "x2": 1438.0,
+        "y2": 610.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Siguiente",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Siguiente"
+    },
+    {
+      "coordinates": {
+        "x1": 466.0,
+        "y1": 584.0,
+        "x2": 492.0,
+        "y2": 610.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Anterior",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Anterior"
+    },
+    {
+      "coordinates": {
+        "x1": 1405.671875,
+        "y1": 48.0,
+        "x2": 1442.0,
+        "y2": 63.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/#",
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 859.46875,
+        "y1": 14.1875,
+        "x2": 1035.296875,
+        "y2": 42.8125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Ir a p\u00e1gina principal",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "20minutos",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.20minutos.es/",
+      "descriptive_label": "general_link: Ir a p\u00e1gina principal"
+    },
+    {
+      "coordinates": {
+        "x1": 1417.0,
+        "y1": 19.0,
+        "x2": 1434.0,
+        "y2": 38.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_profile"
+    }
+  ],
+  "dataset_split": "raw"
+}

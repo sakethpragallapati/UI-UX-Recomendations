@@ -1,0 +1,1104 @@
+{
+  "url": "https://home.pl",
+  "category": "domains_and_hosting",
+  "timestamp": 1775667678,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1028.0,
+        "y1": 520.0,
+        "x2": 1528.0,
+        "y2": 830.765625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 520.0,
+        "x2": 193.09375,
+        "y2": 808.671875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 502.0,
+        "y1": 321.5,
+        "x2": 1286.484375,
+        "y2": 342.5
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Wpisz poszukiwany adres",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_input: Wpisz poszukiwany adres"
+    },
+    {
+      "coordinates": {
+        "x1": 1034.453125,
+        "y1": 72.0,
+        "x2": 1216.109375,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Poczta i Office 365",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Poczta i Office 365"
+    },
+    {
+      "coordinates": {
+        "x1": 719.90625,
+        "y1": 72.0,
+        "x2": 864.125,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Strony WWW",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Strony WWW"
+    },
+    {
+      "coordinates": {
+        "x1": 597.078125,
+        "y1": 72.0,
+        "x2": 719.90625,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WordPress",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: WordPress"
+    },
+    {
+      "coordinates": {
+        "x1": 864.125,
+        "y1": 72.0,
+        "x2": 967.15625,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "E-sklepy",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: E-sklepy"
+    },
+    {
+      "coordinates": {
+        "x1": 495.109375,
+        "y1": 72.0,
+        "x2": 597.078125,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Serwery",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Serwery"
+    },
+    {
+      "coordinates": {
+        "x1": 395.234375,
+        "y1": 72.0,
+        "x2": 495.109375,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hosting",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Hosting"
+    },
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 72.0,
+        "x2": 395.234375,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Domeny",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Domeny"
+    },
+    {
+      "coordinates": {
+        "x1": 1230.40625,
+        "y1": 464.0,
+        "x2": 1430.796875,
+        "y2": 512.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "online",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "4,06 z\u0142 netto / rok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/domeny/online/",
+      "descriptive_label": "general_link: online"
+    },
+    {
+      "coordinates": {
+        "x1": 1289.484375,
+        "y1": 312.0,
+        "x2": 1412.0,
+        "y2": 352.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SZUKAJ",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: SZUKAJ"
+    },
+    {
+      "coordinates": {
+        "x1": 1402.0,
+        "y1": 25.0,
+        "x2": 1528.0,
+        "y2": 63.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Moje konto",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Moje konto"
+    },
+    {
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 372.0,
+        "x2": 576.0,
+        "y2": 412.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Przeniesiemy Twojego WordPressa do home.pl",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/hosting/przenies-hosting/",
+      "descriptive_label": "general_link: Przeniesiemy Twojego WordPr..."
+    },
+    {
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 308.0,
+        "x2": 576.0,
+        "y2": 348.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Zbudujemy Ci stron\u0119 na WordPressie",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/tworzenie-stron-internetowych/",
+      "descriptive_label": "general_link: Zbudujemy Ci stron\u0119 na Word..."
+    },
+    {
+      "coordinates": {
+        "x1": 1027.84375,
+        "y1": 464.0,
+        "x2": 1222.40625,
+        "y2": 512.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "ai",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "789,00 z\u0142 netto / 2 lata",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/domeny/",
+      "descriptive_label": "general_link: ai"
+    },
+    {
+      "coordinates": {
+        "x1": 826.171875,
+        "y1": 464.0,
+        "x2": 1019.84375,
+        "y2": 512.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "com",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "39,90 z\u0142 netto / rok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/domeny/com/",
+      "descriptive_label": "general_link: com"
+    },
+    {
+      "coordinates": {
+        "x1": 967.15625,
+        "y1": 72.0,
+        "x2": 1034.453125,
+        "y2": 136.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SSL",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: SSL"
+    },
+    {
+      "coordinates": {
+        "x1": 400.0,
+        "y1": 727.375,
+        "x2": 614.046875,
+        "y2": 767.375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sprawd\u017a teraz",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SPRAWD\u0179 TERAZ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/wordpress-hosting/",
+      "descriptive_label": "general_link: Sprawd\u017a teraz"
+    },
+    {
+      "coordinates": {
+        "x1": 473.203125,
+        "y1": 464.0,
+        "x2": 641.90625,
+        "y2": 512.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "pl",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "2,99 z\u0142 netto / rok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/domeny/pl/",
+      "descriptive_label": "general_link: pl"
+    },
+    {
+      "coordinates": {
+        "x1": 649.90625,
+        "y1": 464.0,
+        "x2": 818.171875,
+        "y2": 512.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "eu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "9,90 z\u0142 netto / rok",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/domeny/eu/",
+      "descriptive_label": "general_link: eu"
+    },
+    {
+      "coordinates": {
+        "x1": 248.0,
+        "y1": 631.375,
+        "x2": 296.0,
+        "y2": 679.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Poprzedni slajd",
+        "title": "Poprzedni slajd",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Poprzedni slajd"
+    },
+    {
+      "coordinates": {
+        "x1": 1608.0,
+        "y1": 631.375,
+        "x2": 1656.0,
+        "y2": 679.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Nast\u0119pny slajd",
+        "title": "Nast\u0119pny slajd",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Nast\u0119pny slajd"
+    },
+    {
+      "coordinates": {
+        "x1": 1216.109375,
+        "y1": 72.0,
+        "x2": 1329.671875,
+        "y2": 136.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Programy",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Programy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/marketplace/",
+      "descriptive_label": "general_link: Programy"
+    },
+    {
+      "coordinates": {
+        "x1": 1724.796875,
+        "y1": 735.46875,
+        "x2": 1904,
+        "y2": 775.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Sprawd\u017a teraz",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/hosting/",
+      "descriptive_label": "general_link: Sprawd\u017a teraz"
+    },
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 39.921875,
+        "x2": 400.0,
+        "y2": 64.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Logo undefined",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Logo undefined"
+    },
+    {
+      "coordinates": {
+        "x1": 1238.40625,
+        "y1": 472.0,
+        "x2": 1300.40625,
+        "y2": 504.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "online-4",
+        "alt_text": "online-4",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: online-4"
+    },
+    {
+      "coordinates": {
+        "x1": 834.171875,
+        "y1": 472.0,
+        "x2": 884.171875,
+        "y2": 504.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "com-2",
+        "alt_text": "com-2",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: com-2"
+    },
+    {
+      "coordinates": {
+        "x1": 481.203125,
+        "y1": 472.0,
+        "x2": 513.203125,
+        "y2": 504.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "logo domena .pl",
+        "alt_text": "logo domena .pl",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo domena .pl"
+    },
+    {
+      "coordinates": {
+        "x1": 657.90625,
+        "y1": 472.0,
+        "x2": 689.90625,
+        "y2": 504.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "eu-1",
+        "alt_text": "eu-1",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: eu-1"
+    },
+    {
+      "coordinates": {
+        "x1": 1035.84375,
+        "y1": 472.0,
+        "x2": 1064.84375,
+        "y2": 504.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "ai-3",
+        "alt_text": "ai-3",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: ai-3"
+    },
+    {
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 220.0,
+        "x2": 563.265625,
+        "y2": 244.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hosting dla WordPressa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/wordpress-hosting/",
+      "descriptive_label": "general_link: Hosting dla WordPressa"
+    },
+    {
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 176.0,
+        "x2": 563.265625,
+        "y2": 200.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hosting dla WordPressa",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://home.pl/wordpress-hosting/",
+      "descriptive_label": "general_link: Hosting dla WordPressa"
+    },
+    {
+      "coordinates": {
+        "x1": 606.390625,
+        "y1": 974.765625,
+        "x2": 654.390625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 868.796875,
+        "y1": 974.765625,
+        "x2": 916.796875,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1131.1875,
+        "y1": 974.765625,
+        "x2": 1179.1875,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1393.59375,
+        "y1": 974.765625,
+        "x2": 1441.59375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 874.0,
+        "y1": 854.765625,
+        "x2": 918.0,
+        "y2": 862.765625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Slajd 1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Slajd 1"
+    },
+    {
+      "coordinates": {
+        "x1": 930.0,
+        "y1": 854.765625,
+        "x2": 974.0,
+        "y2": 862.765625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Slajd 2",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Slajd 2"
+    },
+    {
+      "coordinates": {
+        "x1": 986.0,
+        "y1": 854.765625,
+        "x2": 1030.0,
+        "y2": 862.765625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Slajd 3",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Slajd 3"
+    },
+    {
+      "coordinates": {
+        "x1": 1370.0,
+        "y1": 322.0,
+        "x2": 1390.0,
+        "y2": 342.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": "img",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "img"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 344.0,
+        "y1": 974.765625,
+        "x2": 381.0,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    }
+  ],
+  "dataset_split": "raw"
+}

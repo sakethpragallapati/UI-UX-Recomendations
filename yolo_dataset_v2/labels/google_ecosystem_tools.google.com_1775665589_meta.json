@@ -1,0 +1,688 @@
+{
+  "url": "https://tools.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1775665589,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 298.5,
+        "y1": 176.0,
+        "x2": 1590.5,
+        "y2": 352.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "h1",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "The browser built to be fast, safe, yours",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The browser\nbuilt to be\ny\no\nu\nr\ns",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: The browser built to be fas..."
+    },
+    {
+      "coordinates": {
+        "x1": 715.5,
+        "y1": 538.0,
+        "x2": 1202.5,
+        "y2": 574.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Help make Google Chrome better by automatically sending usage statistics and crash reports to Google. Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Help make Google Chrome bet..."
+    },
+    {
+      "coordinates": {
+        "x1": 816.71875,
+        "y1": 376.0,
+        "x2": 1072.28125,
+        "y2": 440.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "download-button",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download Chrome",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download Chrome"
+    },
+    {
+      "coordinates": {
+        "x1": 1078.59375,
+        "y1": 8.0,
+        "x2": 1225.765625,
+        "y2": 48.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 912.5,
+        "y1": 104.0,
+        "x2": 976.5,
+        "y2": 168.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "img",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Google Chrome logo.",
+        "role": "img"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Google Chrome logo."
+    },
+    {
+      "coordinates": {
+        "x1": 884.71875,
+        "y1": 396.0,
+        "x2": 1040.28125,
+        "y2": 420.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download Chrome",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download Chrome"
+    },
+    {
+      "coordinates": {
+        "x1": 1070.59375,
+        "y1": 25.0,
+        "x2": 1225.765625,
+        "y2": 45.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "download-button",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 8.0,
+        "x2": 162.0,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Google Chrome Homepage",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/",
+      "descriptive_label": "general_link: Google Chrome Homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 1284.5,
+        "y1": 344.0,
+        "x2": 1392.1875,
+        "y2": 366.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1130.59375,
+        "y1": 16.0,
+        "x2": 1205.765625,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Download",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download"
+    },
+    {
+      "coordinates": {
+        "x1": 132.0,
+        "y1": 48.0,
+        "x2": 274.609375,
+        "y2": 92.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jump to content",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/#jump-content",
+      "descriptive_label": "general_link: Jump to content"
+    },
+    {
+      "coordinates": {
+        "x1": 202.0,
+        "y1": 9.0,
+        "x2": 331.53125,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "ai innovations",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI Innovations",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/ai-innovations/",
+      "descriptive_label": "general_link: ai innovations"
+    },
+    {
+      "coordinates": {
+        "x1": 1283.5,
+        "y1": 288.0,
+        "x2": 1315.5,
+        "y2": 320.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Play/Pause animation",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Play/Pause animation"
+    },
+    {
+      "coordinates": {
+        "x1": 586.28125,
+        "y1": 9.0,
+        "x2": 710.0,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "extensions",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Extensions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://chromewebstore.google.com/category/extensions",
+      "descriptive_label": "general_link: extensions"
+    },
+    {
+      "coordinates": {
+        "x1": 800.609375,
+        "y1": 616.0,
+        "x2": 1088.390625,
+        "y2": 634.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Chrome and ChromeOS Additional Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/terms/",
+      "descriptive_label": "general_link: Chrome and ChromeOS Additio..."
+    },
+    {
+      "coordinates": {
+        "x1": 1098.59375,
+        "y1": 16.0,
+        "x2": 1122.59375,
+        "y2": 40.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 848.71875,
+        "y1": 396.0,
+        "x2": 872.71875,
+        "y2": 420.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 683.25,
+        "y1": 546.25,
+        "x2": 702.75,
+        "y2": 565.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox"
+    },
+    {
+      "coordinates": {
+        "x1": 1291.5,
+        "y1": 296.0,
+        "x2": 1307.5,
+        "y2": 312.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 407.265625,
+        "y1": 9.0,
+        "x2": 508.03125,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "By Google",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "By Google",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/browser-tools/",
+      "descriptive_label": "general_link: By Google"
+    },
+    {
+      "coordinates": {
+        "x1": 951.828125,
+        "y1": 8.0,
+        "x2": 1068.59375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "By Google",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/#by-google",
+      "descriptive_label": "general_link: By Google"
+    },
+    {
+      "coordinates": {
+        "x1": 852.609375,
+        "y1": 490.0,
+        "x2": 1036.375,
+        "y2": 514.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "I want to update Chrome",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/update/",
+      "descriptive_label": "general_link: I want to update Chrome"
+    },
+    {
+      "coordinates": {
+        "x1": 510.03125,
+        "y1": 9.0,
+        "x2": 584.28125,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mobile",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mobile",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/mobile/",
+      "descriptive_label": "general_link: Mobile"
+    },
+    {
+      "coordinates": {
+        "x1": 333.53125,
+        "y1": 9.0,
+        "x2": 405.265625,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "safety",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Safety",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/safety/",
+      "descriptive_label": "general_link: safety"
+    },
+    {
+      "coordinates": {
+        "x1": 868.734375,
+        "y1": 8.0,
+        "x2": 949.828125,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Yours",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/#yours",
+      "descriptive_label": "general_link: Yours"
+    },
+    {
+      "coordinates": {
+        "x1": 793.90625,
+        "y1": 8.0,
+        "x2": 866.734375,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Safe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/chrome/#safe",
+      "descriptive_label": "general_link: Safe"
+    }
+  ],
+  "dataset_split": "raw"
+}

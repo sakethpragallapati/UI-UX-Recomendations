@@ -1,0 +1,610 @@
+{
+  "url": "https://www.remove.bg",
+  "category": "creative",
+  "timestamp": 1775668332,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1329.0,
+        "y1": 894.0,
+        "x2": 1841.0,
+        "y2": 937.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Close",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1092.34375,
+        "y1": 495.5,
+        "x2": 1324.640625,
+        "y2": 551.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Upload Image",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Upload Image"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 0,
+        "x2": 242.0,
+        "y2": 72.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "remove.bg",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/",
+      "descriptive_label": "general_link: remove.bg"
+    },
+    {
+      "coordinates": {
+        "x1": 366.28125,
+        "y1": 16.0,
+        "x2": 478.78125,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Bulk Editing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/f/batch-editing",
+      "descriptive_label": "general_button: Bulk Editing"
+    },
+    {
+      "coordinates": {
+        "x1": 1752.859375,
+        "y1": 894.0,
+        "x2": 1841.0,
+        "y2": 937.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Close",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 274.0,
+        "y1": 16.0,
+        "x2": 362.28125,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Uploads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/upload",
+      "descriptive_label": "general_button: Uploads"
+    },
+    {
+      "coordinates": {
+        "x1": 1775.125,
+        "y1": 16.0,
+        "x2": 1857.0,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/users/sign_up",
+      "descriptive_label": "general_button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 541.78125,
+        "y1": 16.0,
+        "x2": 622.90625,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Plugins",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/i/overview",
+      "descriptive_label": "general_button: Plugins"
+    },
+    {
+      "coordinates": {
+        "x1": 626.90625,
+        "y1": 16.0,
+        "x2": 705.671875,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/pricing",
+      "descriptive_label": "general_button: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1177.5,
+        "y1": 730.5,
+        "x2": 1232.578125,
+        "y2": 785.578125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Example image",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Example image"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.5,
+        "y1": 730.5,
+        "x2": 1296.578125,
+        "y2": 785.578125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Example image",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Example image"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.5,
+        "y1": 730.5,
+        "x2": 1360.578125,
+        "y2": 785.578125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Example image",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Example image"
+    },
+    {
+      "coordinates": {
+        "x1": 1369.5,
+        "y1": 730.5,
+        "x2": 1424.578125,
+        "y2": 785.578125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Example image",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Example image"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.5,
+        "y1": 729.5,
+        "x2": 1232.5,
+        "y2": 785.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1240.5,
+        "y1": 729.5,
+        "x2": 1296.5,
+        "y2": 785.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1304.5,
+        "y1": 729.5,
+        "x2": 1360.5,
+        "y2": 785.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1368.5,
+        "y1": 729.5,
+        "x2": 1424.5,
+        "y2": 785.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1694.9375,
+        "y1": 16.0,
+        "x2": 1767.125,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://accounts.kaleido.ai/oauth/authorize?client_id=Wr--JQP_UWyenrH54zWrGh9OFuYRnRCYntYqsGNeQBM&locale=en&redirect_uri=https%3A%2F%2Fwww.remove.bg%2Fauth%3Fpassback%255Bredirect_to%255D%3D%252F%26passback%255Bstate%255D%3D5dc335434ae89cdee5fa8ca6f123c810ae43fc9aae8c7a2b3996f8f8080b30c74d96f54d222988d254fd918ef6cfc1119004f563e03254c00f68181f11988850&response_type=code",
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 482.78125,
+        "y1": 16.0,
+        "x2": 537.78125,
+        "y2": 56.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "API",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/api",
+      "descriptive_label": "general_button: API"
+    },
+    {
+      "coordinates": {
+        "x1": 1239.171875,
+        "y1": 616.5,
+        "x2": 1262.65625,
+        "y2": 633.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "URL",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/#",
+      "descriptive_label": "general_button: URL"
+    },
+    {
+      "coordinates": {
+        "x1": 1611.234375,
+        "y1": 847.0,
+        "x2": 1713.203125,
+        "y2": 869.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/cookies",
+      "descriptive_label": "general_link: Cookie Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.640625,
+        "y1": 801.5,
+        "x2": 1329.3125,
+        "y2": 816.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms of Service",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/tos",
+      "descriptive_label": "general_link: Terms of Service"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.609375,
+        "y1": 817.5,
+        "x2": 1387.765625,
+        "y2": 832.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.remove.bg/privacy",
+      "descriptive_label": "general_link: Privacy Policy"
+    }
+  ],
+  "dataset_split": "raw"
+}

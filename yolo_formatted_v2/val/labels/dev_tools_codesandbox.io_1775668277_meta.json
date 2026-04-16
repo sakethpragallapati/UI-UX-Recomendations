@@ -1,0 +1,688 @@
+{
+  "url": "https://codesandbox.io",
+  "category": "dev_tools",
+  "timestamp": 1775668277,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1303.0,
+        "y1": 912.0,
+        "x2": 1879.0,
+        "y2": 975.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all\nReject all\nManage preferences",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept all\nReject all\nManag..."
+    },
+    {
+      "coordinates": {
+        "x1": 14.412506103515625,
+        "y1": 862.0,
+        "x2": 228.69375610351562,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 215.36044311523438,
+        "y1": 862.0,
+        "x2": 429.6416931152344,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 418.80999755859375,
+        "y1": 862.0,
+        "x2": 633.0912475585938,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 622.2579345703125,
+        "y1": 862.0,
+        "x2": 836.5391845703125,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 825.70751953125,
+        "y1": 862.0,
+        "x2": 1039.98876953125,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1029.9937744140625,
+        "y1": 862.0,
+        "x2": 1244.2750244140625,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1233.43994140625,
+        "y1": 862.0,
+        "x2": 1447.72119140625,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1435.222900390625,
+        "y1": 862.0,
+        "x2": 1649.504150390625,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1635.33251953125,
+        "y1": 862.0,
+        "x2": 1849.61376953125,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.0,
+        "y1": 923.0,
+        "x2": 1571.5,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all\nReject all",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept all\nReject all"
+    },
+    {
+      "coordinates": {
+        "x1": 1695.546875,
+        "y1": 923.0,
+        "x2": 1866.0,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage preferences",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Manage preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 653.9406127929688,
+        "y1": 222.5,
+        "x2": 929.340576171875,
+        "y2": 265.70001220703125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/code-in-sandboxes",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 653.9406127929688,
+        "y1": 272.8999938964844,
+        "x2": 929.340576171875,
+        "y2": 316.1000061035156
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/learn-and-experiment",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 787.1749877929688,
+        "y1": 222.5,
+        "x2": 1062.574951171875,
+        "y2": 265.70001220703125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/changelog",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 653.9406127929688,
+        "y1": 71.30000305175781,
+        "x2": 929.340576171875,
+        "y2": 114.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/sdk",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 653.9406127929688,
+        "y1": 121.69999694824219,
+        "x2": 929.340576171875,
+        "y2": 164.89999389648438
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://sandpack.codesandbox.io/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 653.9406127929688,
+        "y1": 172.10000610351562,
+        "x2": 929.340576171875,
+        "y2": 215.3000030517578
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/docs/learn/integrations/storybook",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 787.1749877929688,
+        "y1": 71.30000305175781,
+        "x2": 1062.574951171875,
+        "y2": 114.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/templates",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 787.1749877929688,
+        "y1": 121.69999694824219,
+        "x2": 1062.574951171875,
+        "y2": 164.89999389648438
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/blog",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 787.1749877929688,
+        "y1": 172.10000610351562,
+        "x2": 1062.574951171875,
+        "y2": 215.3000030517578
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.codesandbox.community/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1837.950439453125,
+        "y1": 862.0,
+        "x2": 1904,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    },
+    {
+      "coordinates": {
+        "x1": 522.125,
+        "y1": 645.5,
+        "x2": 752.78125,
+        "y2": 687.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Try CodeSandbox SDK",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try CodeSandbox SDK\nchevron_right",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codesandbox.io/docs/sdk#quickstart",
+      "descriptive_label": "general_link: Try CodeSandbox SDK"
+    },
+    {
+      "coordinates": {
+        "x1": 1316.0,
+        "y1": 923.0,
+        "x2": 1439.75,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 1451.5,
+        "y1": 923.0,
+        "x2": 1571.5,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reject all"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 862.0,
+        "x2": 25.24749755859375,
+        "y2": 962.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo"
+    }
+  ],
+  "dataset_split": "raw"
+}

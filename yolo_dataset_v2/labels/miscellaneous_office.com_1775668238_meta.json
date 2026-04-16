@@ -1,0 +1,688 @@
+{
+  "url": "https://office.com",
+  "category": "miscellaneous",
+  "timestamp": 1775668238,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1205.90625,
+        "y1": 71.0,
+        "x2": 1744.484375,
+        "y2": 500.984375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 147.5,
+        "y1": 708.0,
+        "x2": 534.0,
+        "y2": 985
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to Search",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Find what matters fast\nFind files and information with a streamlined search experience.\nGo to Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://m365.cloud.microsoft/search",
+      "descriptive_label": "icon_search: Go to Search"
+    },
+    {
+      "coordinates": {
+        "x1": 550.0,
+        "y1": 708.0,
+        "x2": 936.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to Chat",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Chat with your AI assistant*\nSummarize, draft, analyze, and explore ideas with AI chat.\nGo to Chat",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://m365.cloud.microsoft/chat",
+      "descriptive_label": "general_button: Go to Chat"
+    },
+    {
+      "coordinates": {
+        "x1": 952.5,
+        "y1": 708.0,
+        "x2": 1339.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to Create",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Turn ideas into polished content\nCreate images, posters, banners, videos, surveys and more with easy-to-use templates.\nGo to Create",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://m365.cloud.microsoft/create?ccac=create-rewrite",
+      "descriptive_label": "general_button: Go to Create"
+    },
+    {
+      "coordinates": {
+        "x1": 1355.0,
+        "y1": 708.0,
+        "x2": 1741.5,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Go to Apps",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Access your favorite apps\nEasily access Microsoft 365 apps like Outlook, Word, Excel, PowerPoint, and more.\nGo to Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://m365.cloud.microsoft/apps",
+      "descriptive_label": "general_button: Go to Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 559.0,
+        "y1": 717.0,
+        "x2": 927.5,
+        "y2": 875.1875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Chat with your AI assistant*",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Chat with your AI assistant*"
+    },
+    {
+      "coordinates": {
+        "x1": 1364.0,
+        "y1": 717.0,
+        "x2": 1732.5,
+        "y2": 875.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Access your favorite apps",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Access your favorite apps"
+    },
+    {
+      "coordinates": {
+        "x1": 961.5,
+        "y1": 717.0,
+        "x2": 1330.0,
+        "y2": 874.703125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Turn ideas into polished content",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Turn ideas into polished co..."
+    },
+    {
+      "coordinates": {
+        "x1": 156.5,
+        "y1": 717.0,
+        "x2": 525.0,
+        "y2": 874.703125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Find what matters fast",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Find what matters fast"
+    },
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 408.0,
+        "x2": 1205.90625,
+        "y2": 456.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in\nBuy Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sign in\nBuy Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 280.5,
+        "y1": 408.0,
+        "x2": 449.375,
+        "y2": 456.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Buy Microsoft 365",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Buy Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products?tab=1&ocid=cmmruikv4ct",
+      "descriptive_label": "general_button: Buy Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 313.5,
+        "y1": 1.0,
+        "x2": 511.171875,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Microsoft 365 Copilot",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft 365 Copilot",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://m365.cloud.microsoft/",
+      "descriptive_label": "general_link: Microsoft 365 Copilot"
+    },
+    {
+      "coordinates": {
+        "x1": 1526.53125,
+        "y1": 1.0,
+        "x2": 1640.359375,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "All Microsoft",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: All Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 408.0,
+        "x2": 264.5,
+        "y2": 456.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.office.com/login?es=Click&ru=%2f%3ffromcode%3dcmmiadtp424%26origindomain%3dOffice",
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1641.359375,
+        "y1": 3.0,
+        "x2": 1744.5,
+        "y2": 51.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in to your account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in to your account\nSign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.office.com/login?es=UnauthClick&ru=%2F%3Ffromcode%3Dcmmiadtp424%26origindomain%3DOffice&msafed=0",
+      "descriptive_label": "icon_profile: Sign in to your account"
+    },
+    {
+      "coordinates": {
+        "x1": 513.171875,
+        "y1": 1.0,
+        "x2": 611.53125,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 609.09375,
+        "y1": 1.0,
+        "x2": 705.453125,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Features",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Features"
+    },
+    {
+      "coordinates": {
+        "x1": 513.171875,
+        "y1": 0,
+        "x2": 605.53125,
+        "y2": 52.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 780.765625,
+        "y1": 1.0,
+        "x2": 874.859375,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 609.09375,
+        "y1": 0,
+        "x2": 699.453125,
+        "y2": 52.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Features",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Features"
+    },
+    {
+      "coordinates": {
+        "x1": 780.765625,
+        "y1": 0,
+        "x2": 868.859375,
+        "y2": 52.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Support",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Support"
+    },
+    {
+      "coordinates": {
+        "x1": 703.015625,
+        "y1": 0,
+        "x2": 777.203125,
+        "y2": 49.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Prompts",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Prompts"
+    },
+    {
+      "coordinates": {
+        "x1": 144.5,
+        "y1": 1.0,
+        "x2": 281.5,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Microsoft",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Microsoft",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.microsoft.com/",
+      "descriptive_label": "general_link: Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 154.5,
+        "y1": 14.0,
+        "x2": 262.5,
+        "y2": 37.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 891.421875,
+        "y1": 11.0,
+        "x2": 1016.875,
+        "y2": 42.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Buy Microsoft 365",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?=&activetab=tab:primaryr1&ocid=cmm9nmmzcxp",
+      "descriptive_label": "general_link: Buy Microsoft 365"
+    },
+    {
+      "coordinates": {
+        "x1": 707.015625,
+        "y1": 1.0,
+        "x2": 773.203125,
+        "y2": 49.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Prompts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://m365.cloud.microsoft/copilot-prompts",
+      "descriptive_label": "general_link: Prompts"
+    }
+  ],
+  "dataset_split": "raw"
+}

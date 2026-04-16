@@ -1,0 +1,246 @@
+{
+  "url": "https://afternic.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1775667569,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 459.109375,
+        "x2": 1889.0,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Welcome",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Welcome"
+    },
+    {
+      "coordinates": {
+        "x1": 256.609375,
+        "y1": 12.0,
+        "x2": 425.265625,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sell Your Domains",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sell Your Domains"
+    },
+    {
+      "coordinates": {
+        "x1": 830.34375,
+        "y1": 345.03125,
+        "x2": 953.65625,
+        "y2": 389.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Start Selling your Domain",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start Selling",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.afternic.com/sell-domains",
+      "descriptive_label": "general_button: Start Selling your Domain"
+    },
+    {
+      "coordinates": {
+        "x1": 76.15625,
+        "y1": 16.0,
+        "x2": 242.609375,
+        "y2": 48.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Afternic",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Afternic"
+    },
+    {
+      "coordinates": {
+        "x1": 429.265625,
+        "y1": 12.0,
+        "x2": 543.171875,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 969.65625,
+        "y1": 355.03125,
+        "x2": 1058.65625,
+        "y2": 379.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Start Buying Domains",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start Buying",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.afternic.com/#",
+      "descriptive_label": "general_button: Start Buying Domains"
+    },
+    {
+      "coordinates": {
+        "x1": 848.34375,
+        "y1": 355.03125,
+        "x2": 935.65625,
+        "y2": 379.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start Selling",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Start Selling"
+    },
+    {
+      "coordinates": {
+        "x1": 1787.84375,
+        "y1": 79.453125,
+        "x2": 1811.84375,
+        "y2": 103.453125
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "close-button",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: close-button"
+    },
+    {
+      "coordinates": {
+        "x1": 1533.84375,
+        "y1": 321.453125,
+        "x2": 1665.984375,
+        "y2": 343.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://sso.afternic.com/account/create?app=www&path=%2F&plid=497036&prog_id=AfterNIC&realm=idp",
+      "descriptive_label": "general_link"
+    }
+  ],
+  "dataset_split": "raw"
+}

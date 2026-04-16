@@ -1,0 +1,584 @@
+{
+  "url": "https://people.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775666534,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 160.0,
+        "x2": 1889.0,
+        "y2": 632.25
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 588.5,
+        "y1": 682.25,
+        "x2": 1056.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Rex Heuermann",
+        "role": ""
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Rex Heuermann"
+    },
+    {
+      "coordinates": {
+        "x1": 1096.5,
+        "y1": 682.25,
+        "x2": 1552.5,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "2",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jennie Garth Reveals Trauma from Divorce, Miscarriages and Body Issues: How She Got Sober and Finally Found Peace (Exclusive)\n4 hours ago\n50 Comments",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/jennie-garth-90210-drama-depression-divorce-learning-love-herself-exclusive-11944240",
+      "descriptive_label": "general_link: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 799.25,
+        "x2": 556.5,
+        "y2": 909.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Title 1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Law Roach Shares the 'Storytelling' Behind Zendaya's The Drama Press Tour Looks (Exclusive)",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/law-roach-zendayas-the-drama-press-tour-looks-exclusive-11945307",
+      "descriptive_label": "general_link: Title 1"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 803.25,
+        "x2": 412.5,
+        "y2": 862.25
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Zendaya posing elegantly a split layout showing another individual on the left with glasses and a suit",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Zendaya posing elegantly a ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1427.5,
+        "y1": 83.0,
+        "x2": 1554.5,
+        "y2": 143.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people-app.onelink.me/HNIa/emh3lhl3",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1212.53125,
+        "y1": 44.0,
+        "x2": 1313.828125,
+        "y2": 68.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Magazine",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Magazine"
+    },
+    {
+      "coordinates": {
+        "x1": 1225.53125,
+        "y1": 44.0,
+        "x2": 1313.828125,
+        "y2": 68.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Magazine",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Magazine"
+    },
+    {
+      "coordinates": {
+        "x1": 1121.859375,
+        "y1": 44.0,
+        "x2": 1200.53125,
+        "y2": 68.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1422.1875,
+        "y1": 46.890625,
+        "x2": 1514.5,
+        "y2": 65.09375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sweepstakes",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Sweepstakes"
+    },
+    {
+      "coordinates": {
+        "x1": 1325.828125,
+        "y1": 46.890625,
+        "x2": 1410.1875,
+        "y2": 65.09375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 1338.828125,
+        "y1": 46.890625,
+        "x2": 1410.1875,
+        "y2": 64.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Newsletters",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/#",
+      "descriptive_label": "general_button: Newsletters"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 32.0,
+        "x2": 454.5,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Visit PEOPLE's homepage",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PEOPLE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/",
+      "descriptive_label": "general_link: Visit PEOPLE's homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 980.453125,
+        "x2": 412.5,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Love on The Spectrum.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Love on The Spectrum."
+    },
+    {
+      "coordinates": {
+        "x1": 1085.859375,
+        "y1": 44.421875,
+        "x2": 1109.859375,
+        "y2": 68.421875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1134.859375,
+        "y1": 44.0,
+        "x2": 1158.859375,
+        "y2": 68.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 1314.9375,
+        "y1": 108.0,
+        "x2": 1399.5,
+        "y2": 143.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SUBSCRIBE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/#",
+      "descriptive_label": "general_link: SUBSCRIBE"
+    },
+    {
+      "coordinates": {
+        "x1": 575.015625,
+        "y1": 110.0,
+        "x2": 712.078125,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HUMAN INTEREST",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/human-interest/",
+      "descriptive_label": "general_link: HUMAN INTEREST"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 110.0,
+        "x2": 462.265625,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ENTERTAINMENT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/entertainment/",
+      "descriptive_label": "general_link: ENTERTAINMENT"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 913.25,
+        "x2": 420.34375,
+        "y2": 931.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Beauty & Style",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/beauty-style/",
+      "descriptive_label": "general_link: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1028.71875,
+        "y1": 110.0,
+        "x2": 1112.890625,
+        "y2": 128.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SHOPPING",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/shopping/",
+      "descriptive_label": "general_link: SHOPPING"
+    },
+    {
+      "coordinates": {
+        "x1": 1435.1875,
+        "y1": 46.890625,
+        "x2": 1514.5,
+        "y2": 64.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sweepstakes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://people.com/sweepstakes",
+      "descriptive_label": "general_link: Sweepstakes"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,480 @@
+{
+  "url": "https://wiley.com",
+  "category": "education_and_reference",
+  "timestamp": 1775666657,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 976.5,
+        "y1": 192.0,
+        "x2": 1643.15625,
+        "y2": 566.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 16.0,
+        "x2": 813.984375,
+        "y2": 72.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": "term"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1234.75,
+        "y1": 8.0,
+        "x2": 1449.625,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solutions & Partnerships",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Solutions & Partnerships"
+    },
+    {
+      "coordinates": {
+        "x1": 1260.828125,
+        "y1": 330.390625,
+        "x2": 1358.828125,
+        "y2": 428.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Play Video",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Play Video",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Play Video"
+    },
+    {
+      "coordinates": {
+        "x1": 1687.5,
+        "y1": 8.0,
+        "x2": 1799.5,
+        "y2": 80.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 837.984375,
+        "y1": 8.0,
+        "x2": 996.109375,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Publish My Work",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Publish My Work"
+    },
+    {
+      "coordinates": {
+        "x1": 89.5,
+        "y1": 8.0,
+        "x2": 237.5,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wiley.com/en-in/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1098.15625,
+        "y1": 8.0,
+        "x2": 1234.75,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Teach & Grow",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Teach & Grow"
+    },
+    {
+      "coordinates": {
+        "x1": 1809.0,
+        "y1": 905.0,
+        "x2": 1873.0,
+        "y2": 969.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Back To Top",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Back To Top"
+    },
+    {
+      "coordinates": {
+        "x1": 1687.5,
+        "y1": 16.0,
+        "x2": 1743.5,
+        "y2": 72.0
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Shop Button",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://customer.sg.wiley.com/CGI-BIN/lansaweb?procfun+shopcart+shcfn01+funcparms+parmurl(l0760):https%3A%2F%2Fwww.wiley.com+parmhybrs(a0010):Y",
+      "descriptive_label": "icon_cart: Shop Button"
+    },
+    {
+      "coordinates": {
+        "x1": 1743.5,
+        "y1": 16.0,
+        "x2": 1799.5,
+        "y2": 72.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://customer.sg.wiley.com/CGI-BIN/lansaweb?procfun+shopcart+shcfn11+funcparms+parmurl(l0500):https%3A%2F%2Fwwwwiley.com+source(A0100):HYBRIS_SG",
+      "descriptive_label": "icon_profile: Account"
+    },
+    {
+      "coordinates": {
+        "x1": 996.109375,
+        "y1": 8.0,
+        "x2": 1098.15625,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Research",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Research"
+    },
+    {
+      "coordinates": {
+        "x1": 12.0,
+        "y1": 933.0,
+        "x2": 52.0,
+        "y2": 973.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Cookie Preferences",
+        "title": "Cookie Preferences",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Cookie Preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 1526.40625,
+        "y1": 8.0,
+        "x2": 1616.6875,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Insights",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Insights"
+    },
+    {
+      "coordinates": {
+        "x1": 1449.625,
+        "y1": 8.0,
+        "x2": 1526.40625,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: About"
+    },
+    {
+      "coordinates": {
+        "x1": 1857.0,
+        "y1": 901.0,
+        "x2": 1881.0,
+        "y2": 925.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 1616.6875,
+        "y1": 8.0,
+        "x2": 1687.5,
+        "y2": 80.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shop",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: Shop"
+    },
+    {
+      "coordinates": {
+        "x1": 1264.84375,
+        "y1": 937.0,
+        "x2": 1359.953125,
+        "y2": 957.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wiley.com/privacy",
+      "descriptive_label": "general_link: Privacy Policy"
+    }
+  ],
+  "dataset_split": "raw"
+}

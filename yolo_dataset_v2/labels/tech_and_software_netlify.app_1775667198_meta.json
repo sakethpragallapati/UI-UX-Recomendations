@@ -1,0 +1,974 @@
+{
+  "url": "https://netlify.app",
+  "category": "tech_and_software",
+  "timestamp": 1775667199,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 871.390625,
+        "x2": 352.0,
+        "y2": 953.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject All\nAccept All\nCookies Settings",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reject All\nAccept All\nCooki..."
+    },
+    {
+      "coordinates": {
+        "x1": 177.4573974609375,
+        "y1": 802.796875,
+        "x2": 364.4573974609375,
+        "y2": 839.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Stack Overflow",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Stack Overflow"
+    },
+    {
+      "coordinates": {
+        "x1": 1723.640625,
+        "y1": 929.0,
+        "x2": 1873.0,
+        "y2": 969.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ask Netlify",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Ask Netlify"
+    },
+    {
+      "coordinates": {
+        "x1": 562.7967529296875,
+        "y1": 804.796875,
+        "x2": 743.7967529296875,
+        "y2": 837.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Kubernetes",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Kubernetes"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 546.1875,
+        "x2": 442.5,
+        "y2": 586.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start building",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://app.netlify.com/signup",
+      "descriptive_label": "general_button: Start building"
+    },
+    {
+      "coordinates": {
+        "x1": 193.65625,
+        "y1": 887.390625,
+        "x2": 352.0,
+        "y2": 921.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept All"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 887.390625,
+        "x2": 185.65625,
+        "y2": 921.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reject All"
+    },
+    {
+      "coordinates": {
+        "x1": 454.5,
+        "y1": 546.1875,
+        "x2": 581.3125,
+        "y2": 586.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Talk to sales",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/contact/sales?attr=homepage&ref=talk-to-sales&id=cta-hero-contact-sales",
+      "descriptive_label": "general_button: Talk to sales"
+    },
+    {
+      "coordinates": {
+        "x1": 32.0,
+        "y1": 937.0,
+        "x2": 352.0,
+        "y2": 952.609375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookies Settings",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Cookies Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1731.5806884765625,
+        "y1": 805.296875,
+        "x2": 1871.5806884765625,
+        "y2": 837.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Zscaler",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Zscaler"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 805.296875,
+        "x2": 128.427490234375,
+        "y2": 837.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ServiceTitan",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: ServiceTitan"
+    },
+    {
+      "coordinates": {
+        "x1": 1451.375,
+        "y1": 53.890625,
+        "x2": 1544.5,
+        "y2": 93.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://app.netlify.com/signup",
+      "descriptive_label": "general_button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 1098.89111328125,
+        "y1": 805.296875,
+        "x2": 1202.89111328125,
+        "y2": 837.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Mighty",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Mighty"
+    },
+    {
+      "coordinates": {
+        "x1": 795.67724609375,
+        "y1": 803.796875,
+        "x2": 888.67724609375,
+        "y2": 838.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Figma",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Figma"
+    },
+    {
+      "coordinates": {
+        "x1": 1374.51611328125,
+        "y1": 812.296875,
+        "x2": 1549.51611328125,
+        "y2": 830.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Autodesk",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Autodesk"
+    },
+    {
+      "coordinates": {
+        "x1": 412.0596923828125,
+        "y1": 806.796875,
+        "x2": 513.0596923828125,
+        "y2": 835.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Riot Games",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Riot Games"
+    },
+    {
+      "coordinates": {
+        "x1": 931.2843017578125,
+        "y1": 809.296875,
+        "x2": 1051.2843017578125,
+        "y2": 833.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Meta",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Meta"
+    },
+    {
+      "coordinates": {
+        "x1": 1249.779052734375,
+        "y1": 808.296875,
+        "x2": 1324.779052734375,
+        "y2": 834.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Finn",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Finn"
+    },
+    {
+      "coordinates": {
+        "x1": 1594.26806640625,
+        "y1": 811.296875,
+        "x2": 1683.26806640625,
+        "y2": 831.296875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Navan",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Navan"
+    },
+    {
+      "coordinates": {
+        "x1": 72.0,
+        "y1": 851.875,
+        "x2": 352.0,
+        "y2": 871.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read our Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/privacy/",
+      "descriptive_label": "general_link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 1255.71875,
+        "y1": 53.890625,
+        "x2": 1291.71875,
+        "y2": 93.890625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 322.109375,
+        "y1": 50.0,
+        "x2": 444.109375,
+        "y2": 99.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Go to homepage",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/",
+      "descriptive_label": "general_link: Go to homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 756.921875,
+        "y1": 63.484375,
+        "x2": 777.71875,
+        "y2": 84.28125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Toggle developers submenu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle developers submenu"
+    },
+    {
+      "coordinates": {
+        "x1": 641.3125,
+        "y1": 63.484375,
+        "x2": 662.109375,
+        "y2": 84.28125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Toggle solutions submenu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle solutions submenu"
+    },
+    {
+      "coordinates": {
+        "x1": 866.5,
+        "y1": 63.484375,
+        "x2": 887.296875,
+        "y2": 84.28125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Toggle resources submenu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle resources submenu"
+    },
+    {
+      "coordinates": {
+        "x1": 539.390625,
+        "y1": 63.484375,
+        "x2": 560.1875,
+        "y2": 84.28125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Toggle platform submenu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle platform submenu"
+    },
+    {
+      "coordinates": {
+        "x1": 1861.0,
+        "y1": 8.5,
+        "x2": 1881.0,
+        "y2": 28.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "reset",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Close announcement bar",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close announcement bar"
+    },
+    {
+      "coordinates": {
+        "x1": 836.84375,
+        "y1": 9.0,
+        "x2": 1043.734375,
+        "y2": 27.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start a project from a prompt \u2192",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://app.netlify.com/start",
+      "descriptive_label": "general_link: Start a project from a prom..."
+    },
+    {
+      "coordinates": {
+        "x1": 1291.71875,
+        "y1": 53.890625,
+        "x2": 1375.171875,
+        "y2": 93.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/contact/?attr=homepage&ref=contact&id=main-nav-contact",
+      "descriptive_label": "general_link: Contact"
+    },
+    {
+      "coordinates": {
+        "x1": 750.3759155273438,
+        "y1": 389.0212707519531,
+        "x2": 924.7018432617188,
+        "y2": 407.8212585449219
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/enterprise/contact/?attr=homepage&ref=&id=nav-solutions-chat-with-netlify-expert",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 887.296875,
+        "y1": 53.890625,
+        "x2": 961.828125,
+        "y2": 93.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/pricing/",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1375.171875,
+        "y1": 53.890625,
+        "x2": 1443.375,
+        "y2": 93.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://app.netlify.com/login",
+      "descriptive_label": "general_link: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 486.796875,
+        "y1": 235.06686401367188,
+        "x2": 625.77001953125,
+        "y2": 254.61593627929688
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/platform/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 583.6875,
+        "y1": 175.6559295654297,
+        "x2": 704.31591796875,
+        "y2": 195.2050018310547
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/agent-experience/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 685.609375,
+        "y1": 175.6559295654297,
+        "x2": 803.30029296875,
+        "y2": 195.2050018310547
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://developers.netlify.com/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 583.6875,
+        "y1": 206.48500061035156,
+        "x2": 698.6465454101562,
+        "y2": 226.0340576171875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/agency-directory/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 801.21875,
+        "y1": 233.18687438964844,
+        "x2": 916.1777954101562,
+        "y2": 252.73593139648438
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.netlify.com/agency-directory/",
+      "descriptive_label": "general_link"
+    }
+  ],
+  "dataset_split": "raw"
+}

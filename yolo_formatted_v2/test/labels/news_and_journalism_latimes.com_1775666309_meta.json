@@ -1,0 +1,688 @@
+{
+  "url": "https://latimes.com",
+  "category": "news_and_journalism",
+  "timestamp": 1775666309,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1232.390625,
+        "y1": 444.0,
+        "x2": 1551.984375,
+        "y2": 763.59375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Front Page of Today's L.A. Times",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Front Page of Today's L.A. ..."
+    },
+    {
+      "coordinates": {
+        "x1": 637.734375,
+        "y1": 900.59375,
+        "x2": 1192.390625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Defense Secretary Pete Hegseth speaks with reporters in the James Brady Press Briefing Room at the White House, Monday, April 6, 2026, in Washington, as President Donald Trump looks on. (AP Photo/Alex Brandon)",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Defense Secretary Pete Hegs..."
+    },
+    {
+      "coordinates": {
+        "x1": 1232.390625,
+        "y1": 900.59375,
+        "x2": 1551.984375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "SOUTH PASADENA, CA - MARCH 21: Tina LaMonica and Warren Wellen's 230-square-foot ADU seen from the entrance on Saturday, March 21, 2026 in South Pasadena, CA. (Ariana Drehsler / For The Times)",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: SOUTH PASADENA, CA - MARCH ..."
+    },
+    {
+      "coordinates": {
+        "x1": 889.03125,
+        "y1": 462.0,
+        "x2": 1190.078125,
+        "y2": 530.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LA Times Media Group Streaming",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/00000192-788e-ddaa-a39a-7abfc6b30000-123",
+      "descriptive_label": "general_link: LA Times Media Group Streaming"
+    },
+    {
+      "coordinates": {
+        "x1": 352.0,
+        "y1": 929.59375,
+        "x2": 596.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hegseth: U.S. \u2018will be hanging around\u2019 during 2-week ceasefire with Iran",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/world-nation/live/iran-war-updates-trump-deadline-news",
+      "descriptive_label": "general_link: Hegseth: U.S. \u2018will be hang..."
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 313.5,
+        "x2": 120.0,
+        "y2": 353.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sections",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sections"
+    },
+    {
+      "coordinates": {
+        "x1": 1844.0,
+        "y1": 313.5,
+        "x2": 1884.0,
+        "y2": 353.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Show Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Show Search"
+    },
+    {
+      "coordinates": {
+        "x1": 493.171875,
+        "y1": 365.0,
+        "x2": 586.765625,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Entertainment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/entertainment-arts",
+      "descriptive_label": "general_link: Entertainment"
+    },
+    {
+      "coordinates": {
+        "x1": 1336.109375,
+        "y1": 365.0,
+        "x2": 1429.015625,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Live Stream",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/00000192-788e-ddaa-a39a-7abfc6b30000-123",
+      "descriptive_label": "general_link: Live Stream"
+    },
+    {
+      "coordinates": {
+        "x1": 797.0,
+        "y1": 323.078125,
+        "x2": 1107.0,
+        "y2": 340.078125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "home page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/",
+      "descriptive_label": "general_link: home page"
+    },
+    {
+      "coordinates": {
+        "x1": 889.03125,
+        "y1": 620.0,
+        "x2": 1163.40625,
+        "y2": 637.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Real-time camera feeds: Live from L.A.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/about/0000018a-fbfe-dd7b-a38b-fffe4d790000-123",
+      "descriptive_label": "general_link: Real-time camera feeds: Liv..."
+    },
+    {
+      "coordinates": {
+        "x1": 458.171875,
+        "y1": 386.5,
+        "x2": 469.171875,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 590.765625,
+        "y1": 386.5,
+        "x2": 601.765625,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 673.125,
+        "y1": 386.5,
+        "x2": 684.125,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 767.3125,
+        "y1": 386.5,
+        "x2": 778.3125,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 837.5625,
+        "y1": 386.5,
+        "x2": 848.5625,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 924.5,
+        "y1": 386.5,
+        "x2": 935.5,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1013.921875,
+        "y1": 386.5,
+        "x2": 1024.921875,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1111.421875,
+        "y1": 386.5,
+        "x2": 1122.421875,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1192.9375,
+        "y1": 386.5,
+        "x2": 1203.9375,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1272.265625,
+        "y1": 386.5,
+        "x2": 1283.265625,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1502.34375,
+        "y1": 386.5,
+        "x2": 1513.34375,
+        "y2": 401.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1232.390625,
+        "y1": 771.59375,
+        "x2": 1403.53125,
+        "y2": 796.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Read today\u2019s eNewspaper",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://enewspaper.latimes.com/desktop/latimes/default.aspx?pubid=50435180-e58e-48b5-8e0c-236bf740270e",
+      "descriptive_label": "general_link: Read today\u2019s eNewspaper"
+    },
+    {
+      "coordinates": {
+        "x1": 390.65625,
+        "y1": 365.0,
+        "x2": 454.171875,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "California",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/california",
+      "descriptive_label": "general_link: California"
+    },
+    {
+      "coordinates": {
+        "x1": 1048.921875,
+        "y1": 365.0,
+        "x2": 1107.421875,
+        "y2": 423.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/business",
+      "descriptive_label": "general_link: Business"
+    },
+    {
+      "coordinates": {
+        "x1": 1752.265625,
+        "y1": 313.5,
+        "x2": 1829.0,
+        "y2": 353.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Log In",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LOG IN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.latimes.com/#",
+      "descriptive_label": "general_link: Log In"
+    }
+  ],
+  "dataset_split": "raw"
+}

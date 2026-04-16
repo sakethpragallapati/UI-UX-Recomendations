@@ -1,0 +1,636 @@
+{
+  "url": "https://paypal.com",
+  "category": "miscellaneous",
+  "timestamp": 1775667835,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1143.15625,
+        "y1": 935.421875,
+        "x2": 1492.46875,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Shop online with confidence",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Shop online with confidence"
+    },
+    {
+      "coordinates": {
+        "x1": 769.828125,
+        "y1": 935.421875,
+        "x2": 1119.140625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Link a Card Now",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Link a Card Now"
+    },
+    {
+      "coordinates": {
+        "x1": 396.5,
+        "y1": 935.421875,
+        "x2": 745.8125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Shop Now",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Shop Now"
+    },
+    {
+      "coordinates": {
+        "x1": 1242.640625,
+        "y1": 897.0,
+        "x2": 1520.5,
+        "y2": 945.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept\nDecline",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept\nDecline"
+    },
+    {
+      "coordinates": {
+        "x1": 1340.28125,
+        "y1": 0,
+        "x2": 1615.5,
+        "y2": 28.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In\nSign Up",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Log In\nSign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 1302.9375,
+        "y1": 633.4375,
+        "x2": 1472.5,
+        "y2": 669.421875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "PayPal for business",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.paypal.com/in/business?locale.x=en_IN",
+      "descriptive_label": "general_button: PayPal for business"
+    },
+    {
+      "coordinates": {
+        "x1": 1387.765625,
+        "y1": 897.0,
+        "x2": 1496.5,
+        "y2": 945.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Decline",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Decline"
+    },
+    {
+      "coordinates": {
+        "x1": 1266.640625,
+        "y1": 897.0,
+        "x2": 1371.765625,
+        "y2": 945.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept"
+    },
+    {
+      "coordinates": {
+        "x1": 454.203125,
+        "y1": 0,
+        "x2": 624.5,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Small Business",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Small Business"
+    },
+    {
+      "coordinates": {
+        "x1": 1480.09375,
+        "y1": 0,
+        "x2": 1615.5,
+        "y2": 28.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.paypal.com/in/webapps/mpp/account-selection?locale.x=en_IN",
+      "descriptive_label": "general_button: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 1349.28125,
+        "y1": 0,
+        "x2": 1471.09375,
+        "y2": 28.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.paypal.com/signin?locale.x=en_IN",
+      "descriptive_label": "general_button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 396.5,
+        "y1": 442.84375,
+        "x2": 489.5,
+        "y2": 477.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.paypal.com/in/webapps/mpp/account-selection?locale.x=en_IN",
+      "descriptive_label": "general_button: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 880.15625,
+        "y1": 0,
+        "x2": 1013.078125,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Useful Info",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Useful Info"
+    },
+    {
+      "coordinates": {
+        "x1": 628.5,
+        "y1": 0,
+        "x2": 757.9375,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enterprise",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Enterprise"
+    },
+    {
+      "coordinates": {
+        "x1": 333.5,
+        "y1": 0,
+        "x2": 450.203125,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Personal",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Personal"
+    },
+    {
+      "coordinates": {
+        "x1": 761.9375,
+        "y1": 0,
+        "x2": 876.15625,
+        "y2": 24.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Partners",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Partners"
+    },
+    {
+      "coordinates": {
+        "x1": 1520.5,
+        "y1": 897.0,
+        "x2": 1568.5,
+        "y2": 945.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Close",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 22.78679656982422,
+        "y1": 281.50555419921875,
+        "x2": 65.21320343017578,
+        "y2": 323.93194580078125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Go to previous slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Go to previous slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1823.7867431640625,
+        "y1": 281.50555419921875,
+        "x2": 1866.2132568359375,
+        "y2": 323.93194580078125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Go to next slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Go to next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1532.5,
+        "y1": 909.0,
+        "x2": 1556.5,
+        "y2": 933.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 928.5,
+        "y1": 525.4375,
+        "x2": 944.5,
+        "y2": 541.4375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Go to slide 0",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Go to slide 0"
+    },
+    {
+      "coordinates": {
+        "x1": 964.5,
+        "y1": 525.4375,
+        "x2": 980.5,
+        "y2": 541.4375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Go to slide 1",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Go to slide 1"
+    },
+    {
+      "coordinates": {
+        "x1": 724.390625,
+        "y1": 922.0,
+        "x2": 948.34375,
+        "y2": 939.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage cookies and learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_IN",
+      "descriptive_label": "general_link: Manage cookies and learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 273.5,
+        "y1": 0,
+        "x2": 309.5,
+        "y2": 24.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "PayPal logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.paypal.com/in/home?locale.x=en_IN",
+      "descriptive_label": "general_link: PayPal logo"
+    }
+  ],
+  "dataset_split": "raw"
+}

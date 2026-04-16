@@ -1,0 +1,3210 @@
+{
+  "url": "https://stackoverflow.com",
+  "category": "tech_and_software",
+  "timestamp": 1775667321,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 48.0,
+        "y1": 844.875,
+        "x2": 405.328125,
+        "y2": 937.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Necessary cookies only\nCustomize settings",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Necessary cookies only\nCust..."
+    },
+    {
+      "coordinates": {
+        "x1": 617.5,
+        "y1": 716.5,
+        "x2": 1184.03125,
+        "y2": 758.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How can I format a private SSH key as an environment variable for an Azure Function?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions/79922348/how-can-i-format-a-private-ssh-key-as-an-environment-variable-for-an-azure-funct",
+      "descriptive_label": "general_link: How can I format a private ..."
+    },
+    {
+      "coordinates": {
+        "x1": 887.796875,
+        "y1": 12.703125,
+        "x2": 1427.828125,
+        "y2": 45.296875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search\u2026",
+        "value": "",
+        "name": "q"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 48.0,
+        "y1": 898.9375,
+        "x2": 405.328125,
+        "y2": 937.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Customize settings, Opens the preference center dialog",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize settings",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Customize settings, Opens t..."
+    },
+    {
+      "coordinates": {
+        "x1": 48.0,
+        "y1": 852.875,
+        "x2": 405.328125,
+        "y2": 890.9375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Necessary cookies only",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Necessary cookies only"
+    },
+    {
+      "coordinates": {
+        "x1": 778.265625,
+        "y1": 141.9375,
+        "x2": 1143.828125,
+        "y2": 177.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newest\nActive\nBountied\n5\nUnanswered\nMore",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Newest\nActive\nBountied\n5\nUn..."
+    },
+    {
+      "coordinates": {
+        "x1": 617.5,
+        "y1": 863.125,
+        "x2": 1183.90625,
+        "y2": 883.125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Performance of wildcard middle-path vs. prefix searches in PostgreSQL ltree",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions/79922345/performance-of-wildcard-middle-path-vs-prefix-searches-in-postgresql-ltree",
+      "descriptive_label": "general_link: Performance of wildcard mid..."
+    },
+    {
+      "coordinates": {
+        "x1": 999.140625,
+        "y1": 288.453125,
+        "x2": 1203.796875,
+        "y2": 317.453125
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "e.g. javascript or python",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_input: e.g. javascript or python"
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 590.5172119140625,
+        "x2": 1068.4906005859375,
+        "y2": 614.9859619140625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 622.1859130859375,
+        "x2": 1068.4906005859375,
+        "y2": 646.6546630859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 752.6765747070312,
+        "x2": 1068.4906005859375,
+        "y2": 772.2328491210938
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "password",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "8+ characters (at least 1 letter & 1 number)",
+        "value": "",
+        "name": "password"
+      },
+      "href": "",
+      "descriptive_label": "general_input: 8+ characters (at least 1 l..."
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 787.8328247070312,
+        "x2": 1068.4906005859375,
+        "y2": 810.5015869140625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 741.15625,
+        "y1": 10.109375,
+        "x2": 879.796875,
+        "y2": 47.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try new site\nBETA",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Try new site\nBETA"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 3.0,
+        "x2": 503.5,
+        "y2": 55.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Stack Overflow",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/",
+      "descriptive_label": "general_link: Stack Overflow"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 750.5750122070312,
+        "x2": 1051.690673828125,
+        "y2": 773.2437744140625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 709.3546752929688,
+        "x2": 1068.4906005859375,
+        "y2": 728.9109497070312
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "email"
+      },
+      "href": "",
+      "descriptive_label": "general_input: email"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 715.1749877929688,
+        "x2": 1051.690673828125,
+        "y2": 736.1749877929688
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "div",
+      "element_type": "combobox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 320.5,
+        "y1": 700.828125,
+        "x2": 468.5,
+        "y2": 729.515625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams",
+      "descriptive_label": "general_button: Try for free"
+    },
+    {
+      "coordinates": {
+        "x1": 531.5,
+        "y1": 257.84375,
+        "x2": 753.65625,
+        "y2": 277.453125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 320.5,
+        "y1": 730.515625,
+        "x2": 468.5,
+        "y2": 758.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.co/internal/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams",
+      "descriptive_label": "general_button: Learn more"
+    },
+    {
+      "coordinates": {
+        "x1": 1129.78125,
+        "y1": 80.0,
+        "x2": 1228.5,
+        "y2": 117.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ask Question",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions/ask",
+      "descriptive_label": "general_button: Ask Question"
+    },
+    {
+      "coordinates": {
+        "x1": 853.5499877929688,
+        "y1": 718.1749877929688,
+        "x2": 1045.6343994140625,
+        "y2": 733.1749877929688
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "tags",
+        "title": "",
+        "alt_text": "",
+        "role": "search"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: tags"
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 695.1890869140625,
+        "x2": 1068.4906005859375,
+        "y2": 706.9547119140625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 820.4937744140625,
+        "y1": 738.5109252929688,
+        "x2": 1068.4906005859375,
+        "y2": 750.2765502929688
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 514.5,
+        "y1": 444.5,
+        "x2": 593.625,
+        "y2": 479.53125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 340.671875,
+        "x2": 940.140625,
+        "y2": 360.28125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 986.6875,
+        "y1": 145.9375,
+        "x2": 1076.28125,
+        "y2": 173.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Unanswered",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions?tab=Unanswered",
+      "descriptive_label": "general_button: Unanswered"
+    },
+    {
+      "coordinates": {
+        "x1": 1291.65625,
+        "y1": 247.0,
+        "x2": 1507.578125,
+        "y2": 279.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Policy: Generative AI (e.g., ChatGPT) is banned",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://meta.stackoverflow.com/questions/421831/policy-generative-ai-e-g-chatgpt-is-banned?cb=1",
+      "descriptive_label": "general_link: Policy: Generative AI (e.g...."
+    },
+    {
+      "coordinates": {
+        "x1": 531.5,
+        "y1": 285.453125,
+        "x2": 663.828125,
+        "y2": 305.0625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 899.359375,
+        "y1": 145.9375,
+        "x2": 986.6875,
+        "y2": 173.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bountied\n5",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions?tab=Bounties",
+      "descriptive_label": "general_button: Bountied\n5"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.828125,
+        "y1": 141.78125,
+        "x2": 1228.5,
+        "y2": 177.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Filter",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Filter"
+    },
+    {
+      "coordinates": {
+        "x1": 989.140625,
+        "y1": 257.84375,
+        "x2": 1118.0625,
+        "y2": 277.453125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 320.5,
+        "y1": 454.0,
+        "x2": 476.5,
+        "y2": 468.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "COLLECTIVES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "javascript:void(0)",
+      "descriptive_label": "general_button: COLLECTIVES"
+    },
+    {
+      "coordinates": {
+        "x1": 1291.65625,
+        "y1": 125.0,
+        "x2": 1502.671875,
+        "y2": 157.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "He designed C++ to solve your code problems",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/?cb=1",
+      "descriptive_label": "general_link: He designed C++ to solve yo..."
+    },
+    {
+      "coordinates": {
+        "x1": 569.578125,
+        "y1": 14.5,
+        "x2": 647.578125,
+        "y2": 43.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 1498.078125,
+        "y1": 12.5,
+        "x2": 1564.5,
+        "y2": 45.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions",
+      "descriptive_label": "general_button: Sign up"
+    },
+    {
+      "coordinates": {
+        "x1": 989.140625,
+        "y1": 230.234375,
+        "x2": 1105.65625,
+        "y2": 249.84375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 514.5,
+        "y1": 340.671875,
+        "x2": 578.5,
+        "y2": 373.265625
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "number",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "days"
+      },
+      "href": "",
+      "descriptive_label": "general_input: days"
+    },
+    {
+      "coordinates": {
+        "x1": 617.5,
+        "y1": 592.09375,
+        "x2": 938.21875,
+        "y2": 612.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How to fix android app that breaks on PiP?",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions/79922353/how-to-fix-android-app-that-breaks-on-pip",
+      "descriptive_label": "general_link: How to fix android app that..."
+    },
+    {
+      "coordinates": {
+        "x1": 1435.828125,
+        "y1": 12.5,
+        "x2": 1494.078125,
+        "y2": 45.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions",
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 358.328125,
+        "y1": 623.09375,
+        "x2": 402.328125,
+        "y2": 667.09375
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1159.25,
+        "y1": 444.5,
+        "x2": 1215.5,
+        "y2": 479.53125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 257.84375,
+        "x2": 901.9375,
+        "y2": 277.453125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 313.0625,
+        "x2": 900.96875,
+        "y2": 332.671875
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 285.453125,
+        "x2": 896.8125,
+        "y2": 305.0625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 1076.28125,
+        "y1": 145.9375,
+        "x2": 1139.828125,
+        "y2": 173.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 782.265625,
+        "y1": 145.9375,
+        "x2": 844.203125,
+        "y2": 173.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newest",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions?tab=Newest",
+      "descriptive_label": "general_button: Newest"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 395.890625,
+        "x2": 890.921875,
+        "y2": 415.5
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 844.203125,
+        "y1": 145.9375,
+        "x2": 899.359375,
+        "y2": 173.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Active",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions?tab=Active",
+      "descriptive_label": "general_button: Active"
+    },
+    {
+      "coordinates": {
+        "x1": 531.5,
+        "y1": 230.234375,
+        "x2": 612.375,
+        "y2": 249.84375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 531.5,
+        "y1": 313.0625,
+        "x2": 611.1875,
+        "y2": 332.671875
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 1493.296875,
+        "y1": 357.0,
+        "x2": 1535.5,
+        "y2": 392.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Join",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Join"
+    },
+    {
+      "coordinates": {
+        "x1": 1493.296875,
+        "y1": 467.1875,
+        "x2": 1535.5,
+        "y2": 502.21875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Join",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Join"
+    },
+    {
+      "coordinates": {
+        "x1": 1493.296875,
+        "y1": 577.375,
+        "x2": 1535.5,
+        "y2": 612.40625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Join",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Join"
+    },
+    {
+      "coordinates": {
+        "x1": 947.0093994140625,
+        "y1": 638.609375,
+        "x2": 1029.9312744140625,
+        "y2": 656.609375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 368.28125,
+        "x2": 864.546875,
+        "y2": 387.890625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 582.5,
+        "y1": 347.15625,
+        "x2": 643.640625,
+        "y2": 366.765625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 996.6875,
+        "y1": 152.78125,
+        "x2": 1066.28125,
+        "y2": 166.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Unanswered",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Unanswered"
+    },
+    {
+      "coordinates": {
+        "x1": 879.0125122070312,
+        "y1": 638.609375,
+        "x2": 937.4093627929688,
+        "y2": 656.609375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 802.65625,
+        "y1": 230.234375,
+        "x2": 855.859375,
+        "y2": 249.84375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label"
+    },
+    {
+      "coordinates": {
+        "x1": 815.6937255859375,
+        "y1": 516.4921875,
+        "x2": 844.4937744140625,
+        "y2": 545.2921752929688
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "site logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: site logo"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 611.0093383789062,
+        "x2": 883.9156494140625,
+        "y2": 629.0093383789062
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 880.4937744140625,
+        "y1": 555.8093872070312,
+        "x2": 930.921875,
+        "y2": 573.8093872070312
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 909.359375,
+        "y1": 152.78125,
+        "x2": 960.921875,
+        "y2": 166.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bountied",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bountied"
+    },
+    {
+      "coordinates": {
+        "x1": 1056.4906005859375,
+        "y1": 497.29217529296875,
+        "x2": 1082.890625,
+        "y2": 525.4921875
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1039.690673828125,
+        "y1": 497.29998779296875,
+        "x2": 1066.090576171875,
+        "y2": 525.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 583.4093627929688,
+        "x2": 873.8937377929688,
+        "y2": 601.4093627929688
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 982.5406494140625,
+        "y1": 611.0093383789062,
+        "x2": 1023.453125,
+        "y2": 629.0093383789062
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 997.5218505859375,
+        "y1": 583.4093627929688,
+        "x2": 1037.4312744140625,
+        "y2": 601.4093627929688
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 555.8093872070312,
+        "x2": 870.8937377929688,
+        "y2": 573.8093872070312
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1003.796875,
+        "y1": 407.953125,
+        "x2": 1019.796875,
+        "y2": 423.953125
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "panshul solanki's user avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: panshul solanki's user avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 976.5593872070312,
+        "y1": 666.2093505859375,
+        "x2": 1014.4812622070312,
+        "y2": 684.2093505859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 968.5343627929688,
+        "y1": 555.8093872070312,
+        "x2": 1005.9593505859375,
+        "y2": 573.8093872070312
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 792.265625,
+        "y1": 152.78125,
+        "x2": 834.203125,
+        "y2": 166.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newest",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Newest"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 638.609375,
+        "x2": 869.4124755859375,
+        "y2": 656.609375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1021.484375,
+        "y1": 276.953125,
+        "x2": 1037.484375,
+        "y2": 292.953125
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ninja hattori's user avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: ninja hattori's user avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.296875,
+        "y1": 934.390625,
+        "x2": 1031.296875,
+        "y2": 950.390625
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "shaf shafiq's user avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: shaf shafiq's user avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 920.4968872070312,
+        "y1": 583.4093627929688,
+        "x2": 954.3968505859375,
+        "y2": 601.4093627929688
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.140625,
+        "y1": 809.984375,
+        "x2": 1031.140625,
+        "y2": 825.984375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "gigagondy's user avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: gigagondy's user avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 1027.375,
+        "y1": 663.359375,
+        "x2": 1043.375,
+        "y2": 679.359375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "BalHendo's user avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: BalHendo's user avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 854.203125,
+        "y1": 152.78125,
+        "x2": 889.359375,
+        "y2": 166.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Active",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Active"
+    },
+    {
+      "coordinates": {
+        "x1": 617.5,
+        "y1": 403.03125,
+        "x2": 641.5,
+        "y2": 427.03125
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/collectives/mobile-dev",
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 617.5,
+        "y1": 658.4375,
+        "x2": 641.5,
+        "y2": 682.4375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/collectives/mobile-dev",
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 617.5,
+        "y1": 805.0625,
+        "x2": 641.5,
+        "y2": 829.0625
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/collectives/azure",
+      "descriptive_label": "icon_profile"
+    },
+    {
+      "coordinates": {
+        "x1": 935.046875,
+        "y1": 666.2093505859375,
+        "x2": 966.9593505859375,
+        "y2": 684.2093505859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 863.5062255859375,
+        "y1": 666.2093505859375,
+        "x2": 894.4343872070312,
+        "y2": 684.2093505859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1042.296875,
+        "y1": 532.359375,
+        "x2": 1058.296875,
+        "y2": 548.359375
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "nathan's user avatar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: nathan's user avatar"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 113.0,
+        "x2": 476.5,
+        "y2": 146.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Questions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/questions",
+      "descriptive_label": "general_link: Questions"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 389.0,
+        "x2": 476.5,
+        "y2": 422.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Companies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav",
+      "descriptive_label": "general_link: Companies"
+    },
+    {
+      "coordinates": {
+        "x1": 514.5,
+        "y1": 261.140625,
+        "x2": 527.5,
+        "y2": 274.140625
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "NoAcceptedAnswer",
+        "name": "filterId"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: NoAcceptedAnswer"
+    },
+    {
+      "coordinates": {
+        "x1": 514.5,
+        "y1": 288.75,
+        "x2": 527.5,
+        "y2": 301.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "NoStagingGround",
+        "name": "filterId"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: NoStagingGround"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 343.96875,
+        "x2": 798.65625,
+        "y2": 356.96875
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "BountyEndingSoon",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: BountyEndingSoon"
+    },
+    {
+      "coordinates": {
+        "x1": 883.4937744140625,
+        "y1": 583.4093627929688,
+        "x2": 910.8968505859375,
+        "y2": 601.4093627929688
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 332.0,
+        "x2": 476.5,
+        "y2": 365.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Users",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/users",
+      "descriptive_label": "general_link: Users"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 261.140625,
+        "x2": 798.65625,
+        "y2": 274.140625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "RecentActivity",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: RecentActivity"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.28125,
+        "y1": 152.78125,
+        "x2": 1116.328125,
+        "y2": 166.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: More"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 80.0,
+        "x2": 476.5,
+        "y2": 113.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 178.0,
+        "x2": 476.5,
+        "y2": 211.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Tags",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://stackoverflow.com/tags",
+      "descriptive_label": "general_link: Tags"
+    },
+    {
+      "coordinates": {
+        "x1": 312.5,
+        "y1": 267.0,
+        "x2": 476.5,
+        "y2": 300.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Chat",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://chat.stackoverflow.com/?tab=explore",
+      "descriptive_label": "general_link: Chat"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.5593872070312,
+        "y1": 555.8093872070312,
+        "x2": 1041.481201171875,
+        "y2": 573.8093872070312
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 316.359375,
+        "x2": 798.65625,
+        "y2": 329.359375
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "MostFrequent",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: MostFrequent"
+    },
+    {
+      "coordinates": {
+        "x1": 972.140625,
+        "y1": 261.140625,
+        "x2": 985.140625,
+        "y2": 274.140625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Specified",
+        "name": "tagModeId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: Specified"
+    },
+    {
+      "coordinates": {
+        "x1": 948.0406494140625,
+        "y1": 611.0093383789062,
+        "x2": 972.9406127929688,
+        "y2": 629.0093383789062
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 514.5,
+        "y1": 233.53125,
+        "x2": 527.5,
+        "y2": 246.53125
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "NoAnswers",
+        "name": "filterId"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: NoAnswers"
+    },
+    {
+      "coordinates": {
+        "x1": 963.9968872070312,
+        "y1": 583.4093627929688,
+        "x2": 987.921875,
+        "y2": 601.4093627929688
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 972.140625,
+        "y1": 233.53125,
+        "x2": 985.140625,
+        "y2": 246.53125
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Watched",
+        "name": "tagModeId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: Watched"
+    },
+    {
+      "coordinates": {
+        "x1": 893.515625,
+        "y1": 611.0093383789062,
+        "x2": 916.9343872070312,
+        "y2": 629.0093383789062
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 288.75,
+        "x2": 798.65625,
+        "y2": 301.75
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "MostVotes",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: MostVotes"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 399.1875,
+        "x2": 798.65625,
+        "y2": 412.1875
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "HotNoTime",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: HotNoTime"
+    },
+    {
+      "coordinates": {
+        "x1": 514.5,
+        "y1": 316.359375,
+        "x2": 527.5,
+        "y2": 329.359375
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Bounty",
+        "name": "filterId"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Bounty"
+    },
+    {
+      "coordinates": {
+        "x1": 904.0343627929688,
+        "y1": 666.2093505859375,
+        "x2": 925.4468994140625,
+        "y2": 684.2093505859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 832.4937744140625,
+        "y1": 666.2093505859375,
+        "x2": 853.90625,
+        "y2": 684.2093505859375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 233.53125,
+        "x2": 798.65625,
+        "y2": 246.53125
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Newest",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: Newest"
+    },
+    {
+      "coordinates": {
+        "x1": 940.5218505859375,
+        "y1": 555.8093872070312,
+        "x2": 958.9343872070312,
+        "y2": 573.8093872070312
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 896.890625,
+        "y1": 20.0,
+        "x2": 914.890625,
+        "y2": 38.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 785.65625,
+        "y1": 371.578125,
+        "x2": 798.65625,
+        "y2": 384.578125
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "Hot",
+        "name": "sortId"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: Hot"
+    },
+    {
+      "coordinates": {
+        "x1": 964.21875,
+        "y1": 150.78125,
+        "x2": 976.6875,
+        "y2": 166.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "5",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: 5"
+    },
+    {
+      "coordinates": {
+        "x1": 926.5343627929688,
+        "y1": 611.0093383789062,
+        "x2": 938.4406127929688,
+        "y2": 629.0093383789062
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1052.890625,
+        "y1": 757.4765625,
+        "x2": 1063.690673828125,
+        "y2": 768.2765502929688
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1047.4906005859375,
+        "y1": 505.0999755859375,
+        "x2": 1058.2906494140625,
+        "y2": 515.8999633789062
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 838.5499877929688,
+        "y1": 720.2750244140625,
+        "x2": 849.3499755859375,
+        "y2": 731.0750122070312
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1064.2906494140625,
+        "y1": 505.0921936035156,
+        "x2": 1075.090576171875,
+        "y2": 515.8922119140625
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 967.21875,
+        "y1": 151.78125,
+        "x2": 973.6875,
+        "y2": 165.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "5",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: 5"
+    }
+  ],
+  "dataset_split": "raw"
+}

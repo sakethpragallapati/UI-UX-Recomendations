@@ -1,0 +1,1364 @@
+{
+  "url": "https://mailchimp.com",
+  "category": "miscellaneous",
+  "timestamp": 1775667961,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 952.0,
+        "y1": 180.140625,
+        "x2": 1592.0,
+        "y2": 680.9375
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Mailchimp marketing automation flow showing integration between Canva, Shopify, and Wix platforms for abandoned cart recovery email campaign",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_cart: Mailchimp marketing automat..."
+    },
+    {
+      "coordinates": {
+        "x1": 1071.0,
+        "y1": 282.75,
+        "x2": 1487.0,
+        "y2": 698.75
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 394.75,
+        "x2": 817.0,
+        "y2": 438.75
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Select",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Select"
+    },
+    {
+      "coordinates": {
+        "x1": 1262.375,
+        "y1": 778.75,
+        "x2": 1471.0,
+        "y2": 822.25
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize my experience",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Customize my experience"
+    },
+    {
+      "coordinates": {
+        "x1": 746.65625,
+        "y1": 965.53125,
+        "x2": 1157.328125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "An abstract example of a Mailchimp email, alongside easy-to-understand stats breaking down the total number of opens and the clickthrough percentage.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: An abstract example of a Ma..."
+    },
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 965.53125,
+        "x2": 722.65625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "An example of a seasonal Mailchimp SMS message highlighting promotions related to Black History Month.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: An example of a seasonal Ma..."
+    },
+    {
+      "coordinates": {
+        "x1": 1181.328125,
+        "y1": 965.53125,
+        "x2": 1591.984375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "An example of AI-generated content creation. Here, a business can select any marketing objective they have \u2014 like advertise a sale, promote an event, sell a product, and others \u2014 and have Mailchimp\u2019s AI suggest a complete email to accomplish that goal. ",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: An example of AI-generated ..."
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 702.75,
+        "x2": 1057.0,
+        "y2": 726.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Switch from another marketing tool",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Switch from another marketi..."
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 622.75,
+        "x2": 1057.0,
+        "y2": 646.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Optimize marketing performance",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Optimize marketing performance"
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 662.75,
+        "x2": 1057.0,
+        "y2": 686.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage customer relationships",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Manage customer relationships"
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 582.75,
+        "x2": 1057.0,
+        "y2": 606.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Save time with automation",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Save time with automation"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 702.75,
+        "x2": 725.0,
+        "y2": 726.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Design effective emails",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Design effective emails"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 622.75,
+        "x2": 725.0,
+        "y2": 646.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Attract more customers",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Attract more customers"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 582.75,
+        "x2": 725.0,
+        "y2": 606.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Drive sales revenue",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Drive sales revenue"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 662.75,
+        "x2": 725.0,
+        "y2": 686.75
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Send SMS campaigns",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Send SMS campaigns"
+    },
+    {
+      "coordinates": {
+        "x1": 1399.375,
+        "y1": 865.78125,
+        "x2": 1592.0,
+        "y2": 897.28125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize my experience",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Customize my experience"
+    },
+    {
+      "coordinates": {
+        "x1": 172.828125,
+        "y1": 90.734375,
+        "x2": 360.578125,
+        "y2": 121.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Industries and Solutions",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Industries and Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 1682.671875,
+        "y1": 931.5,
+        "x2": 1839.578125,
+        "y2": 962.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Customize settings, Opens the preference center dialog",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Customize settings",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Customize settings, Opens t..."
+    },
+    {
+      "coordinates": {
+        "x1": 1116.90625,
+        "y1": 778.75,
+        "x2": 1246.375,
+        "y2": 822.25
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "No thank you",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: No thank you"
+    },
+    {
+      "coordinates": {
+        "x1": 1791.375,
+        "y1": 84.140625,
+        "x2": 1888.0,
+        "y2": 127.640625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/pricing/marketing/",
+      "descriptive_label": "general_button: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 459.0,
+        "y1": 550.859375,
+        "x2": 603.0,
+        "y2": 576.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "TrustRadius",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: TrustRadius"
+    },
+    {
+      "coordinates": {
+        "x1": 1419.375,
+        "y1": 87.890625,
+        "x2": 1496.0,
+        "y2": 123.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "summary",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "English. This page is now available in other languages.",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: English. This page is now a..."
+    },
+    {
+      "coordinates": {
+        "x1": 375.578125,
+        "y1": 90.734375,
+        "x2": 488.890625,
+        "y2": 121.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Integrations",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Integrations"
+    },
+    {
+      "coordinates": {
+        "x1": 503.890625,
+        "y1": 90.734375,
+        "x2": 606.53125,
+        "y2": 121.03125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 548.859375,
+        "x2": 402.0,
+        "y2": 578.859375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "capterra badge",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: capterra badge"
+    },
+    {
+      "coordinates": {
+        "x1": 1870.0,
+        "y1": 454.609375,
+        "x2": 1904,
+        "y2": 529.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "Feedback",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Feedback"
+    },
+    {
+      "coordinates": {
+        "x1": 16.0,
+        "y1": 82.890625,
+        "x2": 157.828125,
+        "y2": 128.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mailchimp Home",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/",
+      "descriptive_label": "general_link: Mailchimp Home"
+    },
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 509.359375,
+        "x2": 404.03125,
+        "y2": 526.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 702.75,
+        "x2": 773.0,
+        "y2": 726.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Switch from another marketing tool",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "switch.tool",
+        "name": "goals[switch.tool]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Switch from another marketi..."
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 662.75,
+        "x2": 773.0,
+        "y2": 686.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Manage customer relationships",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "relationships",
+        "name": "goals[relationships]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Manage customer relationships"
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 622.75,
+        "x2": 773.0,
+        "y2": 646.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Optimize marketing performance",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "analytics",
+        "name": "goals[analytics]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Optimize marketing performance"
+    },
+    {
+      "coordinates": {
+        "x1": 1368.375,
+        "y1": 87.890625,
+        "x2": 1404.375,
+        "y2": 123.890625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/search/",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 749.0,
+        "y1": 582.75,
+        "x2": 773.0,
+        "y2": 606.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Save time with automation",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "automation",
+        "name": "goals[automation]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Save time with automation"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 622.75,
+        "x2": 441.0,
+        "y2": 646.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Attract more customers",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "customers",
+        "name": "goals[customers]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Attract more customers"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 702.75,
+        "x2": 441.0,
+        "y2": 726.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Design effective emails",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "email",
+        "name": "goals[email]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Design effective emails"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 582.75,
+        "x2": 441.0,
+        "y2": 606.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Drive sales revenue",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "sales",
+        "name": "goals[sales]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Drive sales revenue"
+    },
+    {
+      "coordinates": {
+        "x1": 417.0,
+        "y1": 662.75,
+        "x2": 441.0,
+        "y2": 686.75
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Send SMS campaigns",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "sms",
+        "name": "goals[sms]"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Send SMS campaigns"
+    },
+    {
+      "coordinates": {
+        "x1": 1473.0,
+        "y1": 146.75,
+        "x2": 1503.0,
+        "y2": 176.75
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 418.0,
+        "y1": 551.359375,
+        "x2": 443.0,
+        "y2": 576.359375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "G2 Logo Red RGB 1",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: G2 Logo Red RGB 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1862.0,
+        "y1": 933.5,
+        "x2": 1886.0,
+        "y2": 957.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close"
+    },
+    {
+      "coordinates": {
+        "x1": 1511.0,
+        "y1": 90.734375,
+        "x2": 1675.125,
+        "y2": 121.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sales: +1 (855) 526-7579",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "tel:+18555267579",
+      "descriptive_label": "general_link: Sales: +1 (855) 526-7579"
+    },
+    {
+      "coordinates": {
+        "x1": 1481.0,
+        "y1": 154.75,
+        "x2": 1495.0,
+        "y2": 168.75
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 621.53125,
+        "y1": 90.734375,
+        "x2": 763.84375,
+        "y2": 121.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Switch to Mailchimp",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/switch-to-mailchimp/",
+      "descriptive_label": "general_link: Switch to Mailchimp"
+    },
+    {
+      "coordinates": {
+        "x1": 312.0,
+        "y1": 396.359375,
+        "x2": 408.625,
+        "y2": 439.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign Up",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/pricing/marketing/",
+      "descriptive_label": "general_link: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 1690.125,
+        "y1": 84.140625,
+        "x2": 1776.375,
+        "y2": 127.640625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://login.mailchimp.com/?locale=en",
+      "descriptive_label": "general_link: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 300.28125,
+        "y1": 949.0,
+        "x2": 395.671875,
+        "y2": 963.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "More information about your privacy, opens in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookie Statement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/legal/cookies/",
+      "descriptive_label": "general_link: More information about your..."
+    },
+    {
+      "coordinates": {
+        "x1": 1030.734375,
+        "y1": 42.59375,
+        "x2": 1139.71875,
+        "y2": 59.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started today.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/pricing/marketing/",
+      "descriptive_label": "general_link: Get started today."
+    },
+    {
+      "coordinates": {
+        "x1": 778.84375,
+        "y1": 90.734375,
+        "x2": 838.578125,
+        "y2": 121.03125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/pricing/marketing/",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 104.0,
+        "y1": 5.0,
+        "x2": 167.328125,
+        "y2": 25.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Quickbooks",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://quickbooks.intuit.com/",
+      "descriptive_label": "general_link: Quickbooks"
+    },
+    {
+      "coordinates": {
+        "x1": 191.328125,
+        "y1": 5.0,
+        "x2": 249.984375,
+        "y2": 25.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mailchimp",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/",
+      "descriptive_label": "general_link: Mailchimp"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 5.0,
+        "x2": 80.0,
+        "y2": 25.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Intuit",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.intuit.com/",
+      "descriptive_label": "general_link: Intuit"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 54.0,
+        "y2": 22.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "___",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mailchimp.com/#",
+      "descriptive_label": "general_link: ___"
+    }
+  ],
+  "dataset_split": "raw"
+}

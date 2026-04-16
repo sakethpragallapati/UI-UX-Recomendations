@@ -1,0 +1,1676 @@
+{
+  "url": "https://dropcatch.com",
+  "category": "domains_and_hosting",
+  "timestamp": 1775667689,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1129.5,
+        "y1": 118.5,
+        "x2": 1529.5,
+        "y2": 158.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search for domains",
+        "title": "Search for domains",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search for domains",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search for domains"
+    },
+    {
+      "coordinates": {
+        "x1": 375.5,
+        "y1": 768.921875,
+        "x2": 552.5,
+        "y2": 816.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 774.921875,
+        "x2": 553.5,
+        "y2": 810.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Show More",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Show More"
+    },
+    {
+      "coordinates": {
+        "x1": 359.5,
+        "y1": 56.0,
+        "x2": 540.28125,
+        "y2": 86.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "DropCatch.com",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: DropCatch.com"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 445.578125,
+        "x2": 553.5,
+        "y2": 469.171875
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pending Delete\n (753,350)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Pending Delete\n (753,350)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 413.984375,
+        "x2": 553.5,
+        "y2": 437.578125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Private Seller\n (11,153)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Private Seller\n (11,153)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 477.171875,
+        "x2": 553.5,
+        "y2": 500.765625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pre-Release\n (13,613)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Pre-Release\n (13,613)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 855.921875,
+        "x2": 553.5,
+        "y2": 879.515625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ending Today\n (5,177)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Ending Today\n (5,177)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 382.390625,
+        "x2": 553.5,
+        "y2": 405.984375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Dropped\n (6,351)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Dropped\n (6,351)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 932.515625,
+        "x2": 553.5,
+        "y2": 956.109375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "With Bids\n (696)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: With Bids\n (696)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 553.765625,
+        "x2": 553.5,
+        "y2": 577.359375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".com\n (599,789)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .com\n (599,789)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 743.328125,
+        "x2": 553.5,
+        "y2": 766.921875
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".info\n (30,660)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .info\n (30,660)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 585.359375,
+        "x2": 553.5,
+        "y2": 608.953125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".org\n (34,950)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .org\n (34,950)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 616.953125,
+        "x2": 553.5,
+        "y2": 640.546875
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".net\n (40,394)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .net\n (40,394)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 648.546875,
+        "x2": 553.5,
+        "y2": 672.140625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".cc\n (14,424)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .cc\n (14,424)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 711.734375,
+        "x2": 553.5,
+        "y2": 735.328125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".io\n (3,677)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .io\n (3,677)"
+    },
+    {
+      "coordinates": {
+        "x1": 374.5,
+        "y1": 680.140625,
+        "x2": 553.5,
+        "y2": 703.734375
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".tv\n (3)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: .tv\n (3)"
+    },
+    {
+      "coordinates": {
+        "x1": 1491.5,
+        "y1": 47.0,
+        "x2": 1539.5,
+        "y2": 95.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Language Menu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "language",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Language Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1313.046875,
+        "y1": 51.0,
+        "x2": 1371.453125,
+        "y2": 91.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/",
+      "descriptive_label": "general_button: Log In"
+    },
+    {
+      "coordinates": {
+        "x1": 1491.5,
+        "y1": 47.0,
+        "x2": 1539.5,
+        "y2": 95.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.765625,
+        "y1": 352.390625,
+        "x2": 1512.9375,
+        "y2": 388.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.78125,
+        "y1": 409.390625,
+        "x2": 1511.953125,
+        "y2": 445.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.765625,
+        "y1": 466.390625,
+        "x2": 1512.9375,
+        "y2": 502.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.78125,
+        "y1": 523.390625,
+        "x2": 1511.953125,
+        "y2": 559.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.765625,
+        "y1": 580.390625,
+        "x2": 1512.9375,
+        "y2": 616.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.78125,
+        "y1": 637.390625,
+        "x2": 1511.953125,
+        "y2": 673.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.765625,
+        "y1": 694.390625,
+        "x2": 1512.9375,
+        "y2": 730.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.78125,
+        "y1": 751.390625,
+        "x2": 1511.953125,
+        "y2": 787.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.765625,
+        "y1": 808.390625,
+        "x2": 1512.9375,
+        "y2": 844.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.78125,
+        "y1": 865.390625,
+        "x2": 1511.953125,
+        "y2": 901.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.765625,
+        "y1": 922.390625,
+        "x2": 1512.9375,
+        "y2": 958.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 1188.5625,
+        "y1": 307.390625,
+        "x2": 1244.234375,
+        "y2": 332.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "numberOfBids",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "# of Bids",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_button: numberOfBids"
+    },
+    {
+      "coordinates": {
+        "x1": 1080.4375,
+        "y1": 307.390625,
+        "x2": 1132.90625,
+        "y2": 332.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "highBid",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "High Bid",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_button: highBid"
+    },
+    {
+      "coordinates": {
+        "x1": 1488.5,
+        "y1": 122.5,
+        "x2": 1524.5,
+        "y2": 158.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Submit",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Submit"
+    },
+    {
+      "coordinates": {
+        "x1": 423.859375,
+        "y1": 784.921875,
+        "x2": 504.140625,
+        "y2": 800.921875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Show More",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Show More"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 307.390625,
+        "x2": 637.703125,
+        "y2": 332.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "name",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Domain",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_button: name"
+    },
+    {
+      "coordinates": {
+        "x1": 864.1875,
+        "y1": 307.390625,
+        "x2": 895.65625,
+        "y2": 332.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "expirationDate",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Time",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_button: expirationDate"
+    },
+    {
+      "coordinates": {
+        "x1": 972.3125,
+        "y1": 307.390625,
+        "x2": 1002.09375,
+        "y2": 332.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "recordType",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Type",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_button: recordType"
+    },
+    {
+      "coordinates": {
+        "x1": 1494.5,
+        "y1": 126.5,
+        "x2": 1518.5,
+        "y2": 150.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "mat-icon",
+      "element_type": "img",
+      "accessibility": {
+        "aria_label": "Search Icon",
+        "title": "",
+        "alt_text": "",
+        "role": "img"
+      },
+      "content": {
+        "text": "search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search Icon"
+    },
+    {
+      "coordinates": {
+        "x1": 526.5,
+        "y1": 307.390625,
+        "x2": 551.5,
+        "y2": 332.390625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "arrow_left",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_button: arrow_left"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 861.21875,
+        "x2": 392.5,
+        "y2": 874.21875
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": "AuctionsEndingToday"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 937.8125,
+        "x2": 392.5,
+        "y2": 950.8125
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": "AuctionsWithBids"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 419.28125,
+        "x2": 392.5,
+        "y2": 432.28125
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": "PrivateSeller"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 450.875,
+        "x2": 392.5,
+        "y2": 463.875
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": "PendingDelete"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 482.46875,
+        "x2": 392.5,
+        "y2": 495.46875
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": "PreRelease"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 1462.78125,
+        "y1": 979.390625,
+        "x2": 1511.953125,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Bid",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Bid"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 387.6875,
+        "x2": 392.5,
+        "y2": 400.6875
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": "Dropped"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 748.625,
+        "x2": 392.5,
+        "y2": 761.625
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".info"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 559.0625,
+        "x2": 392.5,
+        "y2": 572.0625
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".com"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 590.65625,
+        "x2": 392.5,
+        "y2": 603.65625
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".org"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 622.25,
+        "x2": 392.5,
+        "y2": 635.25
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".net"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 653.84375,
+        "x2": 392.5,
+        "y2": 666.84375
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".cc"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 685.4375,
+        "x2": 392.5,
+        "y2": 698.4375
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".tv"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 379.5,
+        "y1": 717.03125,
+        "x2": 392.5,
+        "y2": 730.03125
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ".io"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: on"
+    },
+    {
+      "coordinates": {
+        "x1": 1373.453125,
+        "y1": 51.0,
+        "x2": 1489.5,
+        "y2": 91.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/create",
+      "descriptive_label": "general_link: Create Account"
+    },
+    {
+      "coordinates": {
+        "x1": 535.875,
+        "y1": 118.0,
+        "x2": 650.828125,
+        "y2": 158.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "How It Works",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/hiw",
+      "descriptive_label": "general_link: How It Works"
+    },
+    {
+      "coordinates": {
+        "x1": 434.390625,
+        "y1": 118.0,
+        "x2": 533.875,
+        "y2": 158.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Downloads",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/downloads",
+      "descriptive_label": "general_link: Downloads"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 585.890625,
+        "x2": 726.09375,
+        "y2": 610.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "DigitalHarvest.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/DigitalHarvest.com",
+      "descriptive_label": "general_link: DigitalHarvest.com"
+    },
+    {
+      "coordinates": {
+        "x1": 590.5,
+        "y1": 642.890625,
+        "x2": 717.671875,
+        "y2": 667.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "wordsandpics.org",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/wordsandpics.org",
+      "descriptive_label": "general_link: wordsandpics.org"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 813.890625,
+        "x2": 716.15625,
+        "y2": 838.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "MozartEffect.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/MozartEffect.com",
+      "descriptive_label": "general_link: MozartEffect.com"
+    },
+    {
+      "coordinates": {
+        "x1": 590.5,
+        "y1": 870.890625,
+        "x2": 714.3125,
+        "y2": 895.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "think2speak.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/think2speak.com",
+      "descriptive_label": "general_link: think2speak.com"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 357.890625,
+        "x2": 706.75,
+        "y2": 382.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CoinGames.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/CoinGames.com",
+      "descriptive_label": "general_link: CoinGames.com"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 927.890625,
+        "x2": 704.21875,
+        "y2": 952.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "DimokRates.net",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/DimokRates.net",
+      "descriptive_label": "general_link: DimokRates.net"
+    },
+    {
+      "coordinates": {
+        "x1": 589.5,
+        "y1": 699.890625,
+        "x2": 695.84375,
+        "y2": 724.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "masscopy.com",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.dropcatch.com/domain/masscopy.com",
+      "descriptive_label": "general_link: masscopy.com"
+    }
+  ],
+  "dataset_split": "raw"
+}

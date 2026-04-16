@@ -1,0 +1,402 @@
+{
+  "url": "https://who.int",
+  "category": "government_and_organizations",
+  "timestamp": 1775666802,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 159.5,
+        "y1": 78.0,
+        "x2": 368.796875,
+        "y2": 156.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": ".cls-1{fill:#0093d5;}World Health Organization",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 1507.859375,
+        "y1": 0,
+        "x2": 1747.859375,
+        "y2": 48.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Search input",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search input"
+    },
+    {
+      "coordinates": {
+        "x1": 824.28125,
+        "y1": 785.78125,
+        "x2": 1044.703125,
+        "y2": 825.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Find out more",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Find out more"
+    },
+    {
+      "coordinates": {
+        "x1": 1566.328125,
+        "y1": 0,
+        "x2": 1725.328125,
+        "y2": 44.0
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "select",
+      "element_type": "select-one",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "    Select language\n        English\n        \u0627\u0644\u0639\u0631\u0628\u064a\u0629\n        \u4e2d\u6587\n        Fran\u00e7ais\n        \u0420\u0443\u0441\u0441\u043a\u0438\u0439\n        Espa\u00f1ol",
+        "placeholder": null,
+        "value": "Select language",
+        "name": "language-selector"
+      },
+      "href": "",
+      "descriptive_label": "general_dropdown: Select language\n        Eng..."
+    },
+    {
+      "coordinates": {
+        "x1": 249.734375,
+        "y1": 193.390625,
+        "x2": 424.046875,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Health Topics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/mega-menu/health-topics",
+      "descriptive_label": "general_link: Health Topics"
+    },
+    {
+      "coordinates": {
+        "x1": 902.15625,
+        "y1": 193.390625,
+        "x2": 1070.6875,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Emergencies",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/mega-menu/emergencies",
+      "descriptive_label": "general_link: Emergencies"
+    },
+    {
+      "coordinates": {
+        "x1": 1274.625,
+        "y1": 193.390625,
+        "x2": 1433.328125,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About WHO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/mega-menu/about-us",
+      "descriptive_label": "general_link: About WHO"
+    },
+    {
+      "coordinates": {
+        "x1": 690.625,
+        "y1": 193.390625,
+        "x2": 841.828125,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Newsroom",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/news-room",
+      "descriptive_label": "general_link: Newsroom"
+    },
+    {
+      "coordinates": {
+        "x1": 492.609375,
+        "y1": 193.390625,
+        "x2": 633.84375,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Countries",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/mega-menu/countries",
+      "descriptive_label": "general_link: Countries"
+    },
+    {
+      "coordinates": {
+        "x1": 235.140625,
+        "y1": 0,
+        "x2": 360.5625,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Regions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/#",
+      "descriptive_label": "general_link: Regions"
+    },
+    {
+      "coordinates": {
+        "x1": 1483.859375,
+        "y1": 12.0,
+        "x2": 1507.859375,
+        "y2": 36.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1459.859375,
+        "y1": 12.0,
+        "x2": 1483.859375,
+        "y2": 36.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "i",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1137.1875,
+        "y1": 193.390625,
+        "x2": 1233.75,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Data",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/mega-menu/data",
+      "descriptive_label": "general_link: Data"
+    },
+    {
+      "coordinates": {
+        "x1": 147.5,
+        "y1": 0,
+        "x2": 235.140625,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Global",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/",
+      "descriptive_label": "general_link: Global"
+    },
+    {
+      "coordinates": {
+        "x1": 161.890625,
+        "y1": 193.390625,
+        "x2": 221.890625,
+        "y2": 243.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.who.int/",
+      "descriptive_label": "general_link: Home"
+    }
+  ],
+  "dataset_split": "raw"
+}

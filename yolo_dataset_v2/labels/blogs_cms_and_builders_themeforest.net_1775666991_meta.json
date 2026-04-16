@@ -1,0 +1,1052 @@
+{
+  "url": "https://themeforest.net",
+  "category": "blogs_cms_and_builders",
+  "timestamp": 1775666991,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 976.5,
+        "y1": 275.5,
+        "x2": 1622.5,
+        "y2": 622.359375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ThemeForest: Professional WordPress Themes & Website Templates for any project",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: ThemeForest: Professional W..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 50.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI tools + unlimited creative stock assets. All in one subscription.\nStart now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://elements.envato.com/pricing?utm_campaign=elements_mkt-header_mixed_19Nov2025&utm_content=tf_marketing-banner&utm_medium=promos&utm_source=themeforest.net",
+      "descriptive_label": "general_link: AI tools + unlimited creati..."
+    },
+    {
+      "coordinates": {
+        "x1": 266.5,
+        "y1": 525.921875,
+        "x2": 912.5,
+        "y2": 599.921875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "e.g. responsive WordPress",
+        "value": "",
+        "name": "term"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: search"
+    },
+    {
+      "coordinates": {
+        "x1": 1224.34375,
+        "y1": 903.25,
+        "x2": 1480.671875,
+        "y2": 954.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage preferences",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Manage preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 960.5,
+        "y1": 903.25,
+        "x2": 1216.84375,
+        "y2": 954.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept all"
+    },
+    {
+      "coordinates": {
+        "x1": 1488.171875,
+        "y1": 903.25,
+        "x2": 1744.5,
+        "y2": 954.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Reject all",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reject all"
+    },
+    {
+      "coordinates": {
+        "x1": 774.859375,
+        "y1": 826.359375,
+        "x2": 1114.125,
+        "y2": 869.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "View eCommerce Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "eCommerce Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/ecommerce",
+      "descriptive_label": "general_link: View eCommerce Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 328.21875,
+        "y1": 826.359375,
+        "x2": 614.09375,
+        "y2": 869.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "View WordPress Themes",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WordPress Themes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/wordpress",
+      "descriptive_label": "general_link: View WordPress Themes"
+    },
+    {
+      "coordinates": {
+        "x1": 1393.875,
+        "y1": 50.0,
+        "x2": 1525.046875,
+        "y2": 99.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Our Products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/#",
+      "descriptive_label": "icon_menu: Our Products"
+    },
+    {
+      "coordinates": {
+        "x1": 256.5,
+        "y1": 107.5,
+        "x2": 440.265625,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Web Themes & Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/?auto_signin=true",
+      "descriptive_label": "general_link: Web Themes & Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 1293.71875,
+        "y1": 50.0,
+        "x2": 1393.875,
+        "y2": 99.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Start Selling",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://author.envato.com/",
+      "descriptive_label": "icon_menu: Start Selling"
+    },
+    {
+      "coordinates": {
+        "x1": 781.5,
+        "y1": 541.7265625,
+        "x2": 896.5,
+        "y2": 584.1171875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1308.890625,
+        "y1": 826.359375,
+        "x2": 1526.765625,
+        "y2": 869.359375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "View Site Templates",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Site Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/site-templates",
+      "descriptive_label": "general_link: View Site Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 1509.5,
+        "y1": 137.5,
+        "x2": 1624.5,
+        "y2": 172.265625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "ThemeForest",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: ThemeForest"
+    },
+    {
+      "coordinates": {
+        "x1": 1565.046875,
+        "y1": 50.0,
+        "x2": 1632.5,
+        "y2": 99.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/sign_in",
+      "descriptive_label": "icon_menu: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 256.5,
+        "y1": 66.0,
+        "x2": 403.890625,
+        "y2": 86.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Market logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Envato Market logo"
+    },
+    {
+      "coordinates": {
+        "x1": 904.984375,
+        "y1": 170.5,
+        "x2": 992.9375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "UI Templates",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/ui-templates",
+      "descriptive_label": "icon_menu: UI Templates"
+    },
+    {
+      "coordinates": {
+        "x1": 821.296875,
+        "y1": 170.5,
+        "x2": 904.984375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "eCommerce",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/ecommerce",
+      "descriptive_label": "icon_menu: eCommerce"
+    },
+    {
+      "coordinates": {
+        "x1": 312.3125,
+        "y1": 170.5,
+        "x2": 388.6875,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "WordPress",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/wordpress",
+      "descriptive_label": "icon_menu: WordPress"
+    },
+    {
+      "coordinates": {
+        "x1": 702.578125,
+        "y1": 170.5,
+        "x2": 776.703125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Marketing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/marketing",
+      "descriptive_label": "icon_menu: Marketing"
+    },
+    {
+      "coordinates": {
+        "x1": 388.6875,
+        "y1": 170.5,
+        "x2": 462.625,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Elementor",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/elementor",
+      "descriptive_label": "icon_menu: Elementor"
+    },
+    {
+      "coordinates": {
+        "x1": 635.078125,
+        "y1": 170.5,
+        "x2": 702.578125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Jamstack",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/jamstack",
+      "descriptive_label": "icon_menu: Jamstack"
+    },
+    {
+      "coordinates": {
+        "x1": 246.5,
+        "y1": 170.5,
+        "x2": 312.3125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "All Items",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/all",
+      "descriptive_label": "icon_menu: All Items"
+    },
+    {
+      "coordinates": {
+        "x1": 462.625,
+        "y1": 170.5,
+        "x2": 524.109375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hosting",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/wordpress-hosting",
+      "descriptive_label": "icon_menu: Hosting"
+    },
+    {
+      "coordinates": {
+        "x1": 575.34375,
+        "y1": 170.5,
+        "x2": 635.078125,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Shopify",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/ecommerce/shopify",
+      "descriptive_label": "icon_menu: Shopify"
+    },
+    {
+      "coordinates": {
+        "x1": 992.9375,
+        "y1": 170.5,
+        "x2": 1051.21875,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Plugins",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://codecanyon.net/category/wordpress",
+      "descriptive_label": "icon_menu: Plugins"
+    },
+    {
+      "coordinates": {
+        "x1": 1525.046875,
+        "y1": 50.0,
+        "x2": 1565.046875,
+        "y2": 97.75
+      },
+      "class_id": 16,
+      "class_name": "icon_cart",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Cart",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/cart",
+      "descriptive_label": "icon_cart: Cart"
+    },
+    {
+      "coordinates": {
+        "x1": 524.109375,
+        "y1": 170.5,
+        "x2": 575.34375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HTML",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/site-templates",
+      "descriptive_label": "icon_menu: HTML"
+    },
+    {
+      "coordinates": {
+        "x1": 1051.21875,
+        "y1": 170.5,
+        "x2": 1099.484375,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category",
+      "descriptive_label": "icon_menu: More"
+    },
+    {
+      "coordinates": {
+        "x1": 776.703125,
+        "y1": 170.5,
+        "x2": 821.296875,
+        "y2": 204.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CMS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/category/cms-themes",
+      "descriptive_label": "icon_menu: CMS"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.723388671875,
+        "y1": 152.8000030517578,
+        "x2": 1353.448486328125,
+        "y2": 159.1999969482422
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Placeit",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Envato Placeit"
+    },
+    {
+      "coordinates": {
+        "x1": 980.25,
+        "y1": 124.5,
+        "x2": 1218.046875,
+        "y2": 145.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI Tools & Unlimited Stock Assets",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://elements.envato.com/?utm_campaign=elements_mkt-switcher_DEC2025&utm_medium=referral&utm_source=themeforest.net&utm_content=tf_search",
+      "descriptive_label": "general_link: AI Tools & Unlimited Stock ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1309.723388671875,
+        "y1": 130.60000610351562,
+        "x2": 1351.6546630859375,
+        "y2": 137.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Tuts+",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Envato Tuts+"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.723388671875,
+        "y1": 108.4000015258789,
+        "x2": 1337.3609619140625,
+        "y2": 114.80000305175781
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Envato Elements",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Envato Elements"
+    },
+    {
+      "coordinates": {
+        "x1": 256.5,
+        "y1": 66.0,
+        "x2": 403.890625,
+        "y2": 99.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Envato Market",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://themeforest.net/",
+      "descriptive_label": "general_link: Envato Market"
+    },
+    {
+      "coordinates": {
+        "x1": 705.9375,
+        "y1": 107.5,
+        "x2": 767.140625,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Graphics",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://graphicriver.net/?auto_signin=true",
+      "descriptive_label": "general_link: Graphics"
+    },
+    {
+      "coordinates": {
+        "x1": 888.90625,
+        "y1": 107.5,
+        "x2": 943.859375,
+        "y2": 163.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "3D Files",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://3docean.net/?auto_signin=true",
+      "descriptive_label": "general_link: 3D Files"
+    },
+    {
+      "coordinates": {
+        "x1": 1296.9234619140625,
+        "y1": 126.5999984741211,
+        "x2": 1414.1796875,
+        "y2": 148.8000030517578
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Free creative tutorials and courses",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://tutsplus.com/?utm_source=envatomarket&utm_medium=promos&utm_campaign=tutsplus_mkt-headernav_our_products_26AUG2024&utm_content=headernav",
+      "descriptive_label": "general_link: Free creative tutorials and..."
+    },
+    {
+      "coordinates": {
+        "x1": 1296.9234619140625,
+        "y1": 104.4000015258789,
+        "x2": 1414.1796875,
+        "y2": 126.5999984741211
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The unlimited creative subscription",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://elements.envato.com/?utm_source=envatomarket&utm_medium=promos&utm_campaign=elements_mkt-headernav_our_products_26AUG2024&utm_content=headernav",
+      "descriptive_label": "general_link: The unlimited creative subs..."
+    },
+    {
+      "coordinates": {
+        "x1": 1296.9234619140625,
+        "y1": 148.8000030517578,
+        "x2": 1414.1796875,
+        "y2": 171.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Customize mockups, design and video",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://placeit.net/?utm_source=envatomarket&utm_medium=promos&utm_campaign=placeit_mkt-headernav_our_products_26AUG2024&utm_content=headernav",
+      "descriptive_label": "general_link: Customize mockups, design a..."
+    }
+  ],
+  "dataset_split": "raw"
+}

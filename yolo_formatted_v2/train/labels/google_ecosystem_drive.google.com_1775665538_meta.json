@@ -1,0 +1,1260 @@
+{
+  "url": "https://drive.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1775665538,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 838.5,
+        "y1": 640.0,
+        "x2": 1522.5,
+        "y2": 985
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A user starts typing a file name into the Google Drive search tool, and a list of potential matches appears.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: A user starts typing a file..."
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 89.0,
+        "x2": 1522.5,
+        "y2": 407.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Sharing project files in Google Drive and exploring more file actions with Gemini",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Sharing project files in Go..."
+    },
+    {
+      "coordinates": {
+        "x1": 366.5,
+        "y1": 358.0,
+        "x2": 674.1875,
+        "y2": 408.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in\nTry Drive for work",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sign in\nTry Drive for work"
+    },
+    {
+      "coordinates": {
+        "x1": 832.75,
+        "y1": 521.0,
+        "x2": 915.359375,
+        "y2": 703.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Online Events & Webinars page in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://cloudonair.withgoogle.com/gws-events?utm_source=wgc&utm_medium=et&utm_campaign=FY25-gws-global-webinar-program-&utm_content=gws-nav-bar&utm_term=-",
+      "descriptive_label": "general_link: Open the Online Events & We..."
+    },
+    {
+      "coordinates": {
+        "x1": 832.75,
+        "y1": 703.0,
+        "x2": 915.359375,
+        "y2": 885.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Gen AI At Work Event Series page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/events/gen-ai-work-hub?utm_source=wgc&utm_medium=et&utm_campaign=FY24-Q2-global-WKSP296-website-er-gen-ai-at-work-hub-page&utm_content=globalnav&utm_term=-",
+      "descriptive_label": "general_link: Open the Gen AI At Work Eve..."
+    },
+    {
+      "coordinates": {
+        "x1": 488.40625,
+        "y1": 358.0,
+        "x2": 674.1875,
+        "y2": 408.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Try Google Drive for work page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try Drive for work",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/products/drive/for-work/?from=gafb-drive-def-en",
+      "descriptive_label": "general_button: Open the Try Google Drive f..."
+    },
+    {
+      "coordinates": {
+        "x1": 741.328125,
+        "y1": 386.0,
+        "x2": 867.40625,
+        "y2": 496.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the AppSheet page in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://about.appsheet.com/home/",
+      "descriptive_label": "general_link: Open the AppSheet page in a..."
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 100.0,
+        "x2": 519.453125,
+        "y2": 210.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Gmail page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/products/gmail/?from=gafb-drive-def-en",
+      "descriptive_label": "general_link: Open the Gmail page"
+    },
+    {
+      "coordinates": {
+        "x1": 961.359375,
+        "y1": 515.0,
+        "x2": 1045.375,
+        "y2": 675.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Refer Google Workspace page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/referral-program/",
+      "descriptive_label": "general_link: Open the Refer Google Works..."
+    },
+    {
+      "coordinates": {
+        "x1": 832.75,
+        "y1": 361.0,
+        "x2": 915.359375,
+        "y2": 521.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Training and certification page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/training/",
+      "descriptive_label": "general_link: Open the Training and certi..."
+    },
+    {
+      "coordinates": {
+        "x1": 543.53125,
+        "y1": 355.0,
+        "x2": 631.546875,
+        "y2": 501.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Frontline Workers page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/enterprise/frontline-workers/",
+      "descriptive_label": "general_link: Open the Frontline Workers ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1619.890625,
+        "y1": 12.0,
+        "x2": 1773.15625,
+        "y2": 52.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Try Google Drive for work page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try Drive for work",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/products/drive/for-work/?from=gafb-drive-def-en",
+      "descriptive_label": "general_button: Open the Try Google Drive f..."
+    },
+    {
+      "coordinates": {
+        "x1": 543.53125,
+        "y1": 501.0,
+        "x2": 631.546875,
+        "y2": 633.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Work Safer page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/security/",
+      "descriptive_label": "general_link: Open the Work Safer page"
+    },
+    {
+      "coordinates": {
+        "x1": 419.46875,
+        "y1": 355.0,
+        "x2": 497.53125,
+        "y2": 501.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Small Business page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/business/small-business/",
+      "descriptive_label": "general_link: Open the Small Business page"
+    },
+    {
+      "coordinates": {
+        "x1": 565.453125,
+        "y1": 254.0,
+        "x2": 695.328125,
+        "y2": 342.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Slides page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/products/slides/?from=gafb-drive-def-en",
+      "descriptive_label": "general_link: Open the Slides page"
+    },
+    {
+      "coordinates": {
+        "x1": 366.5,
+        "y1": 88.0,
+        "x2": 539.5,
+        "y2": 124.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Google Drive product logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Google Drive product logo"
+    },
+    {
+      "coordinates": {
+        "x1": 366.5,
+        "y1": 358.0,
+        "x2": 464.40625,
+        "y2": 406.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Sign in to Google Drive page in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://drive.google.com/drive/?dmr=1&ec=wgc-drive-[module]-goto",
+      "descriptive_label": "general_button: Open the Sign in to Google ..."
+    },
+    {
+      "coordinates": {
+        "x1": 841.25,
+        "y1": 94.0,
+        "x2": 938.25,
+        "y2": 134.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the See more page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/resources/",
+      "descriptive_label": "general_button: Open the See more page"
+    },
+    {
+      "coordinates": {
+        "x1": 1789.15625,
+        "y1": 13.0,
+        "x2": 1865.0,
+        "y2": 51.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Sign in to Google Drive page in a new tab",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://drive.google.com/drive/?dmr=1&ec=wgc-drive-[module]-goto",
+      "descriptive_label": "general_button: Open the Sign in to Google ..."
+    },
+    {
+      "coordinates": {
+        "x1": 513.40625,
+        "y1": 371.0,
+        "x2": 649.1875,
+        "y2": 395.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try Drive for work",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Try Drive for work"
+    },
+    {
+      "coordinates": {
+        "x1": 1808.0,
+        "y1": 905.0,
+        "x2": 1864.0,
+        "y2": 961.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Chat with us",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Chat with us"
+    },
+    {
+      "coordinates": {
+        "x1": 1636.890625,
+        "y1": 21.0,
+        "x2": 1756.15625,
+        "y2": 43.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try Drive for work",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Try Drive for work"
+    },
+    {
+      "coordinates": {
+        "x1": 593.625,
+        "y1": 10.0,
+        "x2": 638.796875,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the Pricing page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/pricing?source=gafb-drive-globalnav-en&hl=en&ga_region=amer&ga_country=us&ga_lang=en",
+      "descriptive_label": "general_button: Open the Pricing page"
+    },
+    {
+      "coordinates": {
+        "x1": 223.734375,
+        "y1": 89.0,
+        "x2": 271.734375,
+        "y2": 137.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 318.34375,
+        "y1": 89.0,
+        "x2": 366.34375,
+        "y2": 137.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 418.71875,
+        "y1": 89.0,
+        "x2": 466.71875,
+        "y2": 137.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 652.75,
+        "y1": 89.0,
+        "x2": 700.75,
+        "y2": 137.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    },
+    {
+      "coordinates": {
+        "x1": 858.25,
+        "y1": 103.0,
+        "x2": 921.25,
+        "y2": 125.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 370.0,
+        "x2": 440.40625,
+        "y2": 394.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.15625,
+        "y1": 21.0,
+        "x2": 1849.0,
+        "y2": 43.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 544.71875,
+        "y1": 10.0,
+        "x2": 557.625,
+        "y2": 54.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Open the AI page",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/solutions/ai/",
+      "descriptive_label": "general_button: Open the AI page"
+    },
+    {
+      "coordinates": {
+        "x1": 741.328125,
+        "y1": 100.0,
+        "x2": 765.328125,
+        "y2": 124.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Gemini app",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Gemini app"
+    },
+    {
+      "coordinates": {
+        "x1": 741.328125,
+        "y1": 166.0,
+        "x2": 765.328125,
+        "y2": 190.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "NotebookLM",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: NotebookLM"
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 474.0,
+        "x2": 417.734375,
+        "y2": 498.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Calendar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Calendar"
+    },
+    {
+      "coordinates": {
+        "x1": 741.328125,
+        "y1": 386.0,
+        "x2": 765.328125,
+        "y2": 410.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "AppSheet",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: AppSheet"
+    },
+    {
+      "coordinates": {
+        "x1": 565.453125,
+        "y1": 188.0,
+        "x2": 589.453125,
+        "y2": 212.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Sheets",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Sheets"
+    },
+    {
+      "coordinates": {
+        "x1": 565.453125,
+        "y1": 254.0,
+        "x2": 589.453125,
+        "y2": 278.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Slides",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Slides"
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 100.0,
+        "x2": 417.734375,
+        "y2": 124.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Gmail",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Gmail"
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 210.0,
+        "x2": 417.734375,
+        "y2": 234.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Drive",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Drive"
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 562.0,
+        "x2": 417.734375,
+        "y2": 586.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Tasks",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Tasks"
+    },
+    {
+      "coordinates": {
+        "x1": 565.453125,
+        "y1": 342.0,
+        "x2": 589.453125,
+        "y2": 366.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Forms",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Forms"
+    },
+    {
+      "coordinates": {
+        "x1": 565.453125,
+        "y1": 430.0,
+        "x2": 589.453125,
+        "y2": 454.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Sites",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Sites"
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 298.0,
+        "x2": 417.734375,
+        "y2": 322.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Meet",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Meet"
+    },
+    {
+      "coordinates": {
+        "x1": 393.734375,
+        "y1": 386.0,
+        "x2": 417.734375,
+        "y2": 410.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Chat",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Chat"
+    },
+    {
+      "coordinates": {
+        "x1": 565.453125,
+        "y1": 100.0,
+        "x2": 589.453125,
+        "y2": 124.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Docs",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Docs"
+    },
+    {
+      "coordinates": {
+        "x1": 741.328125,
+        "y1": 254.0,
+        "x2": 765.328125,
+        "y2": 278.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Vids",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Vids"
+    },
+    {
+      "coordinates": {
+        "x1": 741.328125,
+        "y1": 320.0,
+        "x2": 765.328125,
+        "y2": 344.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Keep",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Keep"
+    },
+    {
+      "coordinates": {
+        "x1": 1830.0,
+        "y1": 921.0,
+        "x2": 1848.0,
+        "y2": 939.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close"
+    }
+  ],
+  "dataset_split": "raw"
+}

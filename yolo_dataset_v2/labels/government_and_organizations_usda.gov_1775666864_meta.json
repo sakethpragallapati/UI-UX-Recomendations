@@ -1,0 +1,636 @@
+{
+  "url": "https://usda.gov",
+  "category": "government_and_organizations",
+  "timestamp": 1775666864,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 80.5,
+        "y1": 253.140625,
+        "x2": 1904,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 759.078125,
+        "y1": 113.0,
+        "x2": 1212.828125,
+        "y2": 155.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "U.S. Department of Agriculture",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "U.S. Department of Agriculture",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/",
+      "descriptive_label": "general_link: U.S. Department of Agriculture"
+    },
+    {
+      "coordinates": {
+        "x1": 577.703125,
+        "y1": 186.765625,
+        "x2": 775.484375,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Farming and Ranching",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Farming and Ranching"
+    },
+    {
+      "coordinates": {
+        "x1": 1125.515625,
+        "y1": 186.765625,
+        "x2": 1295.140625,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Trade and Markets",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Trade and Markets"
+    },
+    {
+      "coordinates": {
+        "x1": 951.03125,
+        "y1": 186.765625,
+        "x2": 1084.421875,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sustainability",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Sustainability"
+    },
+    {
+      "coordinates": {
+        "x1": 676.15625,
+        "y1": 107.0,
+        "x2": 756.15625,
+        "y2": 161.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "USDA Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: USDA Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 1453.109375,
+        "y1": 186.765625,
+        "x2": 1566.0,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 816.59375,
+        "y1": 186.765625,
+        "x2": 909.9375,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Forestry",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Forestry"
+    },
+    {
+      "coordinates": {
+        "x1": 1336.234375,
+        "y1": 186.765625,
+        "x2": 1412.015625,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: About"
+    },
+    {
+      "coordinates": {
+        "x1": 469.5,
+        "y1": 186.765625,
+        "x2": 536.609375,
+        "y2": 221.15625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Food",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Food"
+    },
+    {
+      "coordinates": {
+        "x1": 110.5,
+        "y1": 1.0,
+        "x2": 150.5,
+        "y2": 41.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "America's 250th Anniversary",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: America's 250th Anniversary"
+    },
+    {
+      "coordinates": {
+        "x1": 444.6875,
+        "y1": 53.5,
+        "x2": 560.609375,
+        "y2": 67.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Here's how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 444.6875,
+        "y1": 54.5,
+        "x2": 573.53125,
+        "y2": 66.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Here's how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 271.25,
+        "y1": 9.5,
+        "x2": 501.3125,
+        "y2": 32.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "(opens in a new window)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "America's 250th Anniversary",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://freedom250.org/",
+      "descriptive_label": "general_link: (opens in a new window)"
+    },
+    {
+      "coordinates": {
+        "x1": 110.5,
+        "y1": 51.0,
+        "x2": 130.5,
+        "y2": 71.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "U.S. flag",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: U.S. flag"
+    },
+    {
+      "coordinates": {
+        "x1": 867.765625,
+        "y1": 549.140625,
+        "x2": 1007.21875,
+        "y2": 580.4375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Farmers First",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/farmers-first",
+      "descriptive_label": "general_link: Farmers First"
+    },
+    {
+      "coordinates": {
+        "x1": 364.09375,
+        "y1": 186.765625,
+        "x2": 428.40625,
+        "y2": 223.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Home",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 903.296875,
+        "y1": 590.4375,
+        "x2": 971.703125,
+        "y2": 621.734375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "MAHA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/maha",
+      "descriptive_label": "general_link: MAHA"
+    },
+    {
+      "coordinates": {
+        "x1": 1675.21875,
+        "y1": 52.5,
+        "x2": 1778.5,
+        "y2": 67.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Employee Resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/our-agency/employee-services",
+      "descriptive_label": "general_link: Employee Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 676.15625,
+        "y1": 147.71875,
+        "x2": 759.078125,
+        "y2": 165.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 110.5,
+        "y1": 23.0,
+        "x2": 150.5,
+        "y2": 46.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "(opens in a new window)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://freedom250.org/",
+      "descriptive_label": "general_link: (opens in a new window)"
+    },
+    {
+      "coordinates": {
+        "x1": 323.0,
+        "y1": 186.765625,
+        "x2": 343.0,
+        "y2": 223.15625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 1572.3125,
+        "y1": 52.5,
+        "x2": 1599.734375,
+        "y2": 67.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/about-usda/news/press-releases",
+      "descriptive_label": "general_link: News"
+    },
+    {
+      "coordinates": {
+        "x1": 1626.140625,
+        "y1": 52.5,
+        "x2": 1648.8125,
+        "y2": 67.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Blog",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.usda.gov/about-usda/news/blog",
+      "descriptive_label": "general_link: Blog"
+    }
+  ],
+  "dataset_split": "raw"
+}

@@ -1,0 +1,272 @@
+{
+  "url": "https://canada.ca",
+  "category": "government_and_organizations",
+  "timestamp": 1775666873,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1904,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 732.0,
+        "y1": 205.765625,
+        "x2": 1015.0,
+        "y2": 232.015625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Government of Canada",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Government of Canada"
+    },
+    {
+      "coordinates": {
+        "x1": 967.0,
+        "y1": 274.515625,
+        "x2": 1105.0,
+        "y2": 315.515625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Fran\u00e7ais",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.canada.ca/fr.html",
+      "descriptive_label": "general_button: Fran\u00e7ais"
+    },
+    {
+      "coordinates": {
+        "x1": 799.0,
+        "y1": 274.515625,
+        "x2": 937.0,
+        "y2": 315.515625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "English",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.canada.ca/en.html",
+      "descriptive_label": "general_button: English"
+    },
+    {
+      "coordinates": {
+        "x1": 1045.328125,
+        "y1": 390.015625,
+        "x2": 1171.984375,
+        "y2": 420.125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Symbol of the Government of Canada",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Symbol of the Government of..."
+    },
+    {
+      "coordinates": {
+        "x1": 983.0,
+        "y1": 841.8125,
+        "x2": 1049.03125,
+        "y2": 886.8125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Yes \naccess the website survey.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.canada.ca/en/surveys/gc-task-success-survey.html?srvsrc=pp-site-10-canada-ca:y:y:y:y:y:y",
+      "descriptive_label": "general_button: Yes \naccess the website sur..."
+    },
+    {
+      "coordinates": {
+        "x1": 1059.03125,
+        "y1": 841.8125,
+        "x2": 1110.03125,
+        "y2": 886.8125
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "No\nI do not want to take the website survey,\n.",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: No\nI do not want to take th..."
+    },
+    {
+      "coordinates": {
+        "x1": 1463.0,
+        "y1": 605.453125,
+        "x2": 1507.0,
+        "y2": 647.453125
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Close: Website survey (escape key)",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "\u00d7\nClose: Website survey (escape key)",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close: Website survey (esca..."
+    },
+    {
+      "coordinates": {
+        "x1": 732.0,
+        "y1": 392.015625,
+        "x2": 913.234375,
+        "y2": 419.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Terms & conditions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.canada.ca/en/transparency/terms.html",
+      "descriptive_label": "general_link: Terms & conditions"
+    },
+    {
+      "coordinates": {
+        "x1": 928.640625,
+        "y1": 392.015625,
+        "x2": 966.328125,
+        "y2": 419.015625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Avis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.canada.ca/fr/transparence/avis.html",
+      "descriptive_label": "general_link: Avis"
+    }
+  ],
+  "dataset_split": "raw"
+}

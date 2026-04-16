@@ -1,0 +1,922 @@
+{
+  "url": "https://zoom.us",
+  "category": "social_media_and_comms",
+  "timestamp": 1775665817,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 795.7220458984375,
+        "y1": 557.265625,
+        "x2": 1093.2532958984375,
+        "y2": 954.46875
+      },
+      "class_id": 9,
+      "class_name": "general_slider",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Visual of the Zoom Whiteboard app, illustrating its note-taking capabilities and intuitive interface.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_slider: Visual of the Zoom Whiteboa..."
+    },
+    {
+      "coordinates": {
+        "x1": 160.65625,
+        "y1": 557.265625,
+        "x2": 458.1875,
+        "y2": 953.96875
+      },
+      "class_id": 9,
+      "class_name": "general_slider",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Automatically captures, summarizes, and extracts action items from any virtual or in-person meeting.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_slider: Automatically captures, sum..."
+    },
+    {
+      "coordinates": {
+        "x1": 1113.2548828125,
+        "y1": 557.265625,
+        "x2": 1410.7861328125,
+        "y2": 953.96875
+      },
+      "class_id": 9,
+      "class_name": "general_slider",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Live video chat screenshot from a webinar, featuring multiple participants interacting and presenting information.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_slider: Live video chat screenshot ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1430.787841796875,
+        "y1": 557.265625,
+        "x2": 1728.319091796875,
+        "y2": 953.96875
+      },
+      "class_id": 9,
+      "class_name": "general_slider",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Screenshot from a document kickoff session, featuring a list of topics and attendees on a collaborative workspace.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_slider: Screenshot from a document ..."
+    },
+    {
+      "coordinates": {
+        "x1": 478.18914794921875,
+        "y1": 557.265625,
+        "x2": 775.7203979492188,
+        "y2": 954.46875
+      },
+      "class_id": 9,
+      "class_name": "general_slider",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "A woman engaged in a conversation on Zoom Phone, smiling as she talks.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_slider: A woman engaged in a conver..."
+    },
+    {
+      "coordinates": {
+        "x1": 795.7220458984375,
+        "y1": 557.265625,
+        "x2": 1093.2532958984375,
+        "y2": 954.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Whiteboard",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/online-whiteboard/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: Whiteboard"
+    },
+    {
+      "coordinates": {
+        "x1": 478.18914794921875,
+        "y1": 557.265625,
+        "x2": 775.7203979492188,
+        "y2": 954.46875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Phone",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/voip-phone/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: Phone"
+    },
+    {
+      "coordinates": {
+        "x1": 160.65625,
+        "y1": 557.265625,
+        "x2": 458.1875,
+        "y2": 953.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "My notes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/ai-assistant/features/ai-note-taking/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: My notes"
+    },
+    {
+      "coordinates": {
+        "x1": 1113.2548828125,
+        "y1": 557.265625,
+        "x2": 1410.7861328125,
+        "y2": 953.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Webinars",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/webinars/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: Webinars"
+    },
+    {
+      "coordinates": {
+        "x1": 1430.787841796875,
+        "y1": 557.265625,
+        "x2": 1728.319091796875,
+        "y2": 953.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI Docs",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/collaborative-docs/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: AI Docs"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 77.890625,
+        "x2": 1869.0,
+        "y2": 127.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": "alert",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "alert"
+      },
+      "content": {
+        "text": "Learn more\nMy notes - Meet your new AI note taker\nLearn more",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/ai-assistant/features/ai-note-taking/?utm_source=homepagebanner&utm_medium=website&utm_campaign=FY27_Q1_AMER_EC_Keynote_Move_work_forward_AMER_Webinar_AM79188&utm_zcid=28917&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: Learn more\nMy notes - Meet ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1403.5,
+        "y1": 118.0,
+        "x2": 1728.5,
+        "y2": 388.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "my-notes-promo.webp",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: my-notes-promo.webp"
+    },
+    {
+      "coordinates": {
+        "x1": 1748.3233642578125,
+        "y1": 557.265625,
+        "x2": 1904,
+        "y2": 953.96875
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Chatbot screen showing the prompt, \"How can I assist you?quot; inviting user interaction.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: Chatbot screen showing the ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1748.3233642578125,
+        "y1": 557.265625,
+        "x2": 1904,
+        "y2": 953.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Virtual Agent",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/virtual-agent/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link: Virtual Agent"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 557.265625,
+        "x2": 140.65460205078125,
+        "y2": 953.96875
+      },
+      "class_id": 9,
+      "class_name": "general_slider",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Visual of an AI Companion being prompted to list action items from a meeting",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_slider: Visual of an AI Companion b..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 557.265625,
+        "x2": 140.65460205078125,
+        "y2": 953.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/ai-assistant/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 120.5,
+        "y1": 147.59375,
+        "x2": 410.5,
+        "y2": 201.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Zoom Business Services",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Zoom Business Services"
+    },
+    {
+      "coordinates": {
+        "x1": 120.5,
+        "y1": 94.0,
+        "x2": 410.5,
+        "y2": 147.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Zoom Workplace",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Zoom Workplace"
+    },
+    {
+      "coordinates": {
+        "x1": 120.5,
+        "y1": 254.78125,
+        "x2": 410.5,
+        "y2": 308.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Developers",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 120.5,
+        "y1": 201.1875,
+        "x2": 410.5,
+        "y2": 254.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Zoom AI",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Zoom AI"
+    },
+    {
+      "coordinates": {
+        "x1": 120.5,
+        "y1": 308.375,
+        "x2": 410.5,
+        "y2": 369.96875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/zoom-apps/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 788.09375,
+        "y1": 419.265625,
+        "x2": 949.125,
+        "y2": 465.265625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Explore products",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore products\nExplore products",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_button: Explore products"
+    },
+    {
+      "coordinates": {
+        "x1": 961.125,
+        "y1": 419.265625,
+        "x2": 1100.890625,
+        "y2": 465.265625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Find your plan",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Find your plan\nFind your plan",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://zoom.us/pricing?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_button: Find your plan"
+    },
+    {
+      "coordinates": {
+        "x1": 1463.796875,
+        "y1": 16.0,
+        "x2": 1598.671875,
+        "y2": 62.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact Sales",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/contact/contact-sales/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_button: Contact Sales"
+    },
+    {
+      "coordinates": {
+        "x1": 1603.671875,
+        "y1": 16.0,
+        "x2": 1730.5,
+        "y2": 62.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up Free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://zoom.us/signup?signUpFrom=homepage&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_button: Sign Up Free"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 201.0,
+        "x2": 687.859375,
+        "y2": 241.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/virtual-meetings/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 707.859375,
+        "y1": 201.0,
+        "x2": 923.21875,
+        "y2": 241.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/hub/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 249.0,
+        "x2": 687.859375,
+        "y2": 289.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.zoom.com/en/products/team-chat/?ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined&ampDeviceId=5df3c734-a32a-438e-a14a-00d59b82b813&ampSessionId=undefined",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1813.0,
+        "y1": 909.0,
+        "x2": 1869.0,
+        "y2": 965.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Open chat dialog",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Open chat dialog"
+    },
+    {
+      "coordinates": {
+        "x1": 104.5,
+        "y1": 25.96875,
+        "x2": 218.5,
+        "y2": 52.03125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "logo-zoom-white@2x.png",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: logo-zoom-white@2x.png"
+    },
+    {
+      "coordinates": {
+        "x1": 18.875,
+        "y1": 925.0,
+        "x2": 68.875,
+        "y2": 975.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Open Preferences",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Open Preferences"
+    },
+    {
+      "coordinates": {
+        "x1": 1228.953125,
+        "y1": 20.953125,
+        "x2": 1298.625,
+        "y2": 57.046875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Meet",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Meet"
+    },
+    {
+      "coordinates": {
+        "x1": 1742.5,
+        "y1": 18.0,
+        "x2": 1784.5,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "More products and services",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: More products and services"
+    },
+    {
+      "coordinates": {
+        "x1": 1176.953125,
+        "y1": 19.0,
+        "x2": 1216.953125,
+        "y2": 59.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Open search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Open search"
+    },
+    {
+      "coordinates": {
+        "x1": 1759.03125,
+        "y1": 94.875,
+        "x2": 1774.5,
+        "y2": 110.875
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "close banner",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: close banner"
+    }
+  ],
+  "dataset_split": "raw"
+}

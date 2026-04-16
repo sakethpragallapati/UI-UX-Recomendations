@@ -1,0 +1,1104 @@
+{
+  "url": "https://www.figma.com",
+  "category": "creative",
+  "timestamp": 1775668337,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1469.0,
+        "y1": 887.8125,
+        "x2": 1841.0,
+        "y2": 937.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Do not allow cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Do not allow cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1469.0,
+        "y1": 814.625,
+        "x2": 1841.0,
+        "y2": 863.8125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Allow all cookies",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Allow all cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 556.484375,
+        "y1": 20.0,
+        "x2": 684.6875,
+        "y2": 61.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Community",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Community"
+    },
+    {
+      "coordinates": {
+        "x1": 519.0,
+        "y1": 907.78125,
+        "x2": 659.0,
+        "y2": 943.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Duolingo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Duolingo"
+    },
+    {
+      "coordinates": {
+        "x1": 684.6875,
+        "y1": 20.0,
+        "x2": 805.34375,
+        "y2": 61.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1405.53125,
+        "y1": 16.0,
+        "x2": 1604.5,
+        "y2": 65.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started for free",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.figma.com/signup?locale=en-us",
+      "descriptive_label": "general_link: Get started for free"
+    },
+    {
+      "coordinates": {
+        "x1": 992.0,
+        "y1": 901.78125,
+        "x2": 1092.0,
+        "y2": 949.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Netflix",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Netflix"
+    },
+    {
+      "coordinates": {
+        "x1": 443.9375,
+        "y1": 20.0,
+        "x2": 556.484375,
+        "y2": 61.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Solutions",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Solutions"
+    },
+    {
+      "coordinates": {
+        "x1": 334.5,
+        "y1": 20.0,
+        "x2": 443.9375,
+        "y2": 61.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 1571.890625,
+        "y1": 899.8125,
+        "x2": 1738.09375,
+        "y2": 925.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Do not allow cookies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Do not allow cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1426.53125,
+        "y1": 28.0,
+        "x2": 1583.5,
+        "y2": 53.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started for free",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get started for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1365.0,
+        "y1": 911.78125,
+        "x2": 1506.0,
+        "y2": 939.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pentagram",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pentagram"
+    },
+    {
+      "coordinates": {
+        "x1": 1705.0,
+        "y1": 901.78125,
+        "x2": 1781.0,
+        "y2": 949.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Stripe",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Stripe"
+    },
+    {
+      "coordinates": {
+        "x1": 1640.21875,
+        "y1": 757.4375,
+        "x2": 1775.09375,
+        "y2": 782.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cookies settings",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Cookies settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1588.046875,
+        "y1": 826.625,
+        "x2": 1721.953125,
+        "y2": 851.8125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Allow all cookies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Allow all cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1571.890625,
+        "y1": 901.8125,
+        "x2": 1738.09375,
+        "y2": 921.8125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Do not allow cookies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Do not allow cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 1426.53125,
+        "y1": 30.0,
+        "x2": 1583.5,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started for free",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get started for free"
+    },
+    {
+      "coordinates": {
+        "x1": 1152.0,
+        "y1": 915.78125,
+        "x2": 1305.0,
+        "y2": 935.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The New York Times",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The New York Times"
+    },
+    {
+      "coordinates": {
+        "x1": 1264.875,
+        "y1": 28.0,
+        "x2": 1376.53125,
+        "y2": 53.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact sales",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Contact sales"
+    },
+    {
+      "coordinates": {
+        "x1": 1588.046875,
+        "y1": 828.625,
+        "x2": 1721.953125,
+        "y2": 848.625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Allow all cookies",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Allow all cookies"
+    },
+    {
+      "coordinates": {
+        "x1": 161.0,
+        "y1": 916.78125,
+        "x2": 307.0,
+        "y2": 934.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Atlassian",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Atlassian"
+    },
+    {
+      "coordinates": {
+        "x1": 1243.875,
+        "y1": 16.0,
+        "x2": 1397.53125,
+        "y2": 65.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact sales",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.figma.com/contact/",
+      "descriptive_label": "general_link: Contact sales"
+    },
+    {
+      "coordinates": {
+        "x1": 1201.484375,
+        "y1": 516.8125,
+        "x2": 1294.5,
+        "y2": 542.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 1264.875,
+        "y1": 30.0,
+        "x2": 1376.53125,
+        "y2": 50.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Contact sales",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Contact sales"
+    },
+    {
+      "coordinates": {
+        "x1": 1201.484375,
+        "y1": 518.8125,
+        "x2": 1294.5,
+        "y2": 538.8125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 367.0,
+        "y1": 916.78125,
+        "x2": 459.0,
+        "y2": 934.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Dropbox",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Dropbox"
+    },
+    {
+      "coordinates": {
+        "x1": 1181.484375,
+        "y1": 504.8125,
+        "x2": 1314.5,
+        "y2": 554.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get started",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.figma.com/signup?locale=en-us",
+      "descriptive_label": "general_link: Get started"
+    },
+    {
+      "coordinates": {
+        "x1": 846.0,
+        "y1": 916.78125,
+        "x2": 932.0,
+        "y2": 934.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Microsoft",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Microsoft"
+    },
+    {
+      "coordinates": {
+        "x1": 1566.0,
+        "y1": 915.78125,
+        "x2": 1645.0,
+        "y2": 935.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Slack",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Slack"
+    },
+    {
+      "coordinates": {
+        "x1": 30.0,
+        "y1": 914.78125,
+        "x2": 101.0,
+        "y2": 936.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "AirBnb",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: AirBnb"
+    },
+    {
+      "coordinates": {
+        "x1": 1472.5,
+        "y1": 681.0,
+        "x2": 1508.5,
+        "y2": 717.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Previous slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1568.5,
+        "y1": 681.0,
+        "x2": 1604.5,
+        "y2": 717.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next slide",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Next slide"
+    },
+    {
+      "coordinates": {
+        "x1": 1819.0,
+        "y1": 617.5,
+        "x2": 1855.0,
+        "y2": 653.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Dismiss",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Dismiss"
+    },
+    {
+      "coordinates": {
+        "x1": 1520.5,
+        "y1": 681.0,
+        "x2": 1556.5,
+        "y2": 717.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "play",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: play"
+    },
+    {
+      "coordinates": {
+        "x1": 719.0,
+        "y1": 916.78125,
+        "x2": 786.0,
+        "y2": 934.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "GitHub",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: GitHub"
+    },
+    {
+      "coordinates": {
+        "x1": 1841.0,
+        "y1": 916.78125,
+        "x2": 1904,
+        "y2": 934.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Zoom",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Zoom"
+    },
+    {
+      "coordinates": {
+        "x1": 1565.046875,
+        "y1": 828.71875,
+        "x2": 1586.046875,
+        "y2": 849.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1548.890625,
+        "y1": 901.90625,
+        "x2": 1569.890625,
+        "y2": 922.90625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1241.875,
+        "y1": 30.09375,
+        "x2": 1262.875,
+        "y2": 51.09375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1403.53125,
+        "y1": 30.09375,
+        "x2": 1424.53125,
+        "y2": 51.09375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 805.34375,
+        "y1": 20.0,
+        "x2": 876.265625,
+        "y2": 61.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.figma.com/pricing/",
+      "descriptive_label": "general_link: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1169.28125,
+        "y1": 20.0,
+        "x2": 1231.875,
+        "y2": 61.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.figma.com/login?locale=en-us",
+      "descriptive_label": "general_link: Log in"
+    }
+  ],
+  "dataset_split": "raw"
+}

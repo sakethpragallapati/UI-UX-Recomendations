@@ -1,0 +1,90 @@
+{
+  "url": "https://g.co",
+  "category": "google_ecosystem",
+  "timestamp": 1775665673,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 462.0,
+        "y1": 20.0,
+        "x2": 578.0,
+        "y2": 61.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Google",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Google"
+    },
+    {
+      "coordinates": {
+        "x1": 514.28125,
+        "y1": 323.53125,
+        "x2": 593.546875,
+        "y2": 335.53125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy & Terms",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "http://www.google.com/policies/",
+      "descriptive_label": "general_link: Privacy & Terms"
+    },
+    {
+      "coordinates": {
+        "x1": 463.0,
+        "y1": 323.53125,
+        "x2": 498.484375,
+        "y2": 335.53125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Google",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "http://www.google.com/",
+      "descriptive_label": "general_link: Google"
+    }
+  ],
+  "dataset_split": "raw"
+}

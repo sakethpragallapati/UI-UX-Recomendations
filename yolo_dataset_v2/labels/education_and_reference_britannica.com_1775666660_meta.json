@@ -1,0 +1,662 @@
+{
+  "url": "https://britannica.com",
+  "category": "education_and_reference",
+  "timestamp": 1775666660,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 394.5,
+        "y1": 519.09375,
+        "x2": 1121.15625,
+        "y2": 929.765625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "The famous sculpture of Venus is displayed at the Louvre museum in Paris, France. Aphrodite of Milos, better known as the Venus de Milo, is an ancient Greek statue and one of the most famous works of ancient Greek sculpture.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: The famous sculpture of Ven..."
+    },
+    {
+      "coordinates": {
+        "x1": 618.0,
+        "y1": 60.0,
+        "x2": 1271.0,
+        "y2": 100.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Search Britannica",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search Britannica...",
+        "value": "",
+        "name": "query"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search Britannica"
+    },
+    {
+      "coordinates": {
+        "x1": 394.5,
+        "y1": 245.1875,
+        "x2": 853.828125,
+        "y2": 281.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "A \u201cGoddess\u201d-send to France",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/topic/Venus-de-Milo",
+      "descriptive_label": "general_link: A \u201cGoddess\u201d-send to France"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.15625,
+        "y1": 926.40625,
+        "x2": 1480.28125,
+        "y2": 962.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Min Aung Hlaing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/biography/Min-Aung-Hlaing",
+      "descriptive_label": "general_link: Min Aung Hlaing"
+    },
+    {
+      "coordinates": {
+        "x1": 852.609375,
+        "y1": 13.5,
+        "x2": 1036.390625,
+        "y2": 41.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Encyclopedia Britannica",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Encyclopedia Britannica"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.15625,
+        "y1": 602.5,
+        "x2": 1457.5,
+        "y2": 638.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lai Ching-te",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/biography/Lai-Ching-te",
+      "descriptive_label": "general_link: Lai Ching-te"
+    },
+    {
+      "coordinates": {
+        "x1": 261.5,
+        "y1": 5.0,
+        "x2": 358.03125,
+        "y2": 51.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Explore",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Explore"
+    },
+    {
+      "coordinates": {
+        "x1": 1523.140625,
+        "y1": 6.703125,
+        "x2": 1612.5,
+        "y2": 49.296875
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Login",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: Login"
+    },
+    {
+      "coordinates": {
+        "x1": 1405.390625,
+        "y1": 12.203125,
+        "x2": 1513.140625,
+        "y2": 43.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SUBSCRIBE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=global-nav&utm_campaign=blue-evergreen",
+      "descriptive_label": "general_button: SUBSCRIBE"
+    },
+    {
+      "coordinates": {
+        "x1": 394.5,
+        "y1": 938.765625,
+        "x2": 707.6875,
+        "y2": 959.765625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "From Buried Treasure to Louvre Superstar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/topic/Venus-de-Milo",
+      "descriptive_label": "general_link: From Buried Treasure to Lou..."
+    },
+    {
+      "coordinates": {
+        "x1": 1225.0,
+        "y1": 60.0,
+        "x2": 1271.0,
+        "y2": 100.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Click here to search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Click here to search"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.15625,
+        "y1": 758.65625,
+        "x2": 1494.5,
+        "y2": 778.25
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The general and the general secretary",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/news/628349/9e2e66ff044145f3411617e422424b78",
+      "descriptive_label": "general_link: The general and the general..."
+    },
+    {
+      "coordinates": {
+        "x1": 394.5,
+        "y1": 163.1875,
+        "x2": 444.5,
+        "y2": 195.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1385.046875,
+        "y1": 163.1875,
+        "x2": 1435.046875,
+        "y2": 195.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 1171.15625,
+        "y1": 434.75,
+        "x2": 1494.5,
+        "y2": 454.34375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Crossing the strait",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/place/Taiwan-Strait",
+      "descriptive_label": "general_link: Crossing the strait"
+    },
+    {
+      "coordinates": {
+        "x1": 272.015625,
+        "y1": 107.6875,
+        "x2": 304.015625,
+        "y2": 139.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1584.984375,
+        "y1": 107.6875,
+        "x2": 1616.984375,
+        "y2": 139.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 1236.0,
+        "y1": 68.0,
+        "x2": 1260.0,
+        "y2": 92.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "em",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 617.0,
+        "y1": 59.0,
+        "x2": 618.0,
+        "y2": 60.0
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search Britannica",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Search Britannica"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.328125,
+        "y1": 169.390625,
+        "x2": 1416.046875,
+        "y2": 188.984375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Downed Pilots Who Made History",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/topic/Five-Downed-Fighter-Pilots-Who-Made-History",
+      "descriptive_label": "general_link: Downed Pilots Who Made History"
+    },
+    {
+      "coordinates": {
+        "x1": 287.015625,
+        "y1": 110.0,
+        "x2": 450.203125,
+        "y2": 136.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Ask the Chatbot",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/chatbot",
+      "descriptive_label": "general_link: Ask the Chatbot"
+    },
+    {
+      "coordinates": {
+        "x1": 1131.953125,
+        "y1": 112.0,
+        "x2": 1272.171875,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Geography & Travel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/Geography-Travel",
+      "descriptive_label": "general_link: Geography & Travel"
+    },
+    {
+      "coordinates": {
+        "x1": 986.03125,
+        "y1": 112.0,
+        "x2": 1111.953125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Animals & Nature",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/Animals-Nature",
+      "descriptive_label": "general_link: Animals & Nature"
+    },
+    {
+      "coordinates": {
+        "x1": 470.203125,
+        "y1": 112.0,
+        "x2": 594.453125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Games & Quizzes",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/quiz/browse",
+      "descriptive_label": "general_link: Games & Quizzes"
+    },
+    {
+      "coordinates": {
+        "x1": 614.453125,
+        "y1": 112.0,
+        "x2": 736.828125,
+        "y2": 137.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "History & Society",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.britannica.com/History-Society",
+      "descriptive_label": "general_link: History & Society"
+    }
+  ],
+  "dataset_split": "raw"
+}

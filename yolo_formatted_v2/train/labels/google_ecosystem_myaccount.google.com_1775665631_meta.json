@@ -1,0 +1,194 @@
+{
+  "url": "https://myaccount.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1775665631,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1657.765625,
+        "y1": 7.0,
+        "x2": 1881.0,
+        "y2": 57.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Go to your Google Account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Go to Google Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://accounts.google.com/ServiceLogin?service=accountsettings&amp;continue=https%3A%2F%2Fmyaccount%2Egoogle%2Ecom%3Futm%5Fsource%3Daccount%2Dmarketing%2Dpage%26utm%5Fmedium%3Dgo%2Dto%2Daccount%2Dbutton%26gar%3DWzEzMywiMjM2NzM2Il0%26sl%3Dtrue",
+      "descriptive_label": "icon_profile: Go to your Google Account"
+    },
+    {
+      "coordinates": {
+        "x1": 1483.15625,
+        "y1": 7.0,
+        "x2": 1649.765625,
+        "y2": 57.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Create a google account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create an account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button",
+      "descriptive_label": "icon_profile: Create a google account"
+    },
+    {
+      "coordinates": {
+        "x1": 212.421875,
+        "y1": 8.0,
+        "x2": 310.1875,
+        "y2": 56.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Google Account Overview",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Overview",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_profile: Google Account Overview"
+    },
+    {
+      "coordinates": {
+        "x1": 548.484375,
+        "y1": 8.0,
+        "x2": 720.390625,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in with Google",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in with Google",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/account/about/sign-in-with-google/",
+      "descriptive_label": "general_link: Sign in with Google"
+    },
+    {
+      "coordinates": {
+        "x1": 8.0,
+        "y1": 8.0,
+        "x2": 186.421875,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Google",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Account",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/",
+      "descriptive_label": "general_link: Google"
+    },
+    {
+      "coordinates": {
+        "x1": 310.1875,
+        "y1": 8.0,
+        "x2": 455.421875,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Privacy settings",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy settings",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://myaccount.google.com/intro/data-and-personalization",
+      "descriptive_label": "general_link: Privacy settings"
+    },
+    {
+      "coordinates": {
+        "x1": 455.421875,
+        "y1": 8.0,
+        "x2": 548.484375,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Passkeys",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Passkeys",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/account/about/passkeys/",
+      "descriptive_label": "general_link: Passkeys"
+    }
+  ],
+  "dataset_split": "raw"
+}

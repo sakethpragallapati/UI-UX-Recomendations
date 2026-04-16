@@ -1,0 +1,1234 @@
+{
+  "url": "https://fr.wikipedia.org",
+  "category": "education_and_reference",
+  "timestamp": 1775666598,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 217.6875,
+        "y1": 648.21875,
+        "x2": 857.203125,
+        "y2": 691.21875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "The Silent Force",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "The Silent Force",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/The_Silent_Force",
+      "descriptive_label": "general_link: The Silent Force"
+    },
+    {
+      "coordinates": {
+        "x1": 772.125,
+        "y1": 420.21875,
+        "x2": 892.125,
+        "y2": 600.21875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Sharon den Adel au Hellfest 2025.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Sharon den Adel au Hellfest..."
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "form",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechercher",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Rechercher"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 846.453125,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Rechercher sur Wikip\u00e9dia",
+        "title": "Rechercher sur Wikip\u00e9dia [alt-f]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Rechercher sur Wikip\u00e9dia",
+        "value": "",
+        "name": "search"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Rechercher sur Wikip\u00e9dia"
+    },
+    {
+      "coordinates": {
+        "x1": 1282.34375,
+        "y1": 93.84375,
+        "x2": 1430.5,
+        "y2": 125.84375
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Aller \u00e0 un article dans une autre langue. Disponible en 347 langues.",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Aller \u00e0 un article dans une..."
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 622.40625,
+        "x2": 1674.5,
+        "y2": 648.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Automatique",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Automatique"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 213.40625,
+        "x2": 1674.5,
+        "y2": 239.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "D\u00e9sactiv\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: D\u00e9sactiv\u00e9"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 400.40625,
+        "x2": 1674.5,
+        "y2": 426.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Standard",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Standard"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 511.40625,
+        "x2": 1674.5,
+        "y2": 537.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Standard",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Standard"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 245.40625,
+        "x2": 1674.5,
+        "y2": 271.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Activ\u00e9",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Activ\u00e9"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 368.40625,
+        "x2": 1674.5,
+        "y2": 394.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Petite",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Petite"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 432.40625,
+        "x2": 1674.5,
+        "y2": 458.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Grande",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Grande"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 686.40625,
+        "x2": 1674.5,
+        "y2": 712.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sombre",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Sombre"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 543.40625,
+        "x2": 1674.5,
+        "y2": 569.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Large",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Large"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 654.40625,
+        "x2": 1674.5,
+        "y2": 680.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Clair",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Clair"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 277.40625,
+        "x2": 1674.5,
+        "y2": 321.40625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "En savoir plus sur le mode anniversaire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://wikimediafoundation.org/wikipedia25/wikipedia-mascot/?utm_campaign=wpam&utm_source=wpam&utm_medium=wpamen",
+      "descriptive_label": "general_link: En savoir plus sur le mode ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1282.34375,
+        "y1": 93.84375,
+        "x2": 1430.5,
+        "y2": 125.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "347 langues",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: 347 langues"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 89.5625,
+        "x2": 382.25,
+        "y2": 111.5625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 204.203125,
+        "x2": 1377.25,
+        "y2": 226.203125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 845.453125,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Rechercher",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Rechercher"
+    },
+    {
+      "coordinates": {
+        "x1": 238.5,
+        "y1": 8.0,
+        "x2": 288.5,
+        "y2": 58.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 299.0,
+        "y1": 15.0,
+        "x2": 418.0,
+        "y2": 33.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Wikip\u00e9dia",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Wikip\u00e9dia"
+    },
+    {
+      "coordinates": {
+        "x1": 1364.703125,
+        "y1": 129.640625,
+        "x2": 1418.5,
+        "y2": 164.640625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Outils",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Outils"
+    },
+    {
+      "coordinates": {
+        "x1": 1364.703125,
+        "y1": 129.640625,
+        "x2": 1418.5,
+        "y2": 163.640625
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Outils",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Outils"
+    },
+    {
+      "coordinates": {
+        "x1": 298.5,
+        "y1": 38.0,
+        "x2": 418.5,
+        "y2": 51.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "l'encyclop\u00e9die libre",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: l'encyclop\u00e9die libre"
+    },
+    {
+      "coordinates": {
+        "x1": 1542.75,
+        "y1": 136.84375,
+        "x2": 1605.4375,
+        "y2": 158.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "masquer",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: masquer"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Menu principal",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Menu principal",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Menu principal"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 340.515625,
+        "x2": 392.5,
+        "y2": 368.515625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "\u00c0 propos du projet, ce que vous pouvez faire, o\u00f9 trouver les informations",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9",
+      "descriptive_label": "general_link: \u00c0 propos du projet, ce que ..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 303.59375,
+        "x2": 1387.5,
+        "y2": 331.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Liste des modifications r\u00e9centes des pages appel\u00e9es par celle-ci [alt-k]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Suivi_des_liens/Wikip%C3%A9dia:Accueil_principal",
+      "descriptive_label": "general_link: Liste des modifications r\u00e9c..."
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 369.40625,
+        "x2": 1478.5,
+        "y2": 389.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 401.40625,
+        "x2": 1478.5,
+        "y2": 421.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 433.40625,
+        "x2": 1478.5,
+        "y2": 453.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "2",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Menu principal",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Menu principal"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 512.40625,
+        "x2": 1478.5,
+        "y2": 532.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 544.40625,
+        "x2": 1478.5,
+        "y2": 564.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 214.40625,
+        "x2": 1478.5,
+        "y2": 234.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-wp25eastereggs-enable-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 246.40625,
+        "x2": 1478.5,
+        "y2": 266.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-wp25eastereggs-enable-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 274.203125,
+        "x2": 1387.5,
+        "y2": 302.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Liste des pages li\u00e9es qui pointent sur celle-ci [alt-j]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Wikip%C3%A9dia:Accueil_principal",
+      "descriptive_label": "general_link: Liste des pages li\u00e9es qui p..."
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 687.40625,
+        "x2": 1478.5,
+        "y2": 707.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "night",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: night"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 399.296875,
+        "x2": 392.5,
+        "y2": 427.296875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Liste des modifications r\u00e9centes sur le wiki [alt-r]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes",
+      "descriptive_label": "general_link: Liste des modifications r\u00e9c..."
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 655.40625,
+        "x2": 1478.5,
+        "y2": 675.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "day",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: day"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 623.40625,
+        "x2": 1478.5,
+        "y2": 643.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "os",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: os"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 362.375,
+        "x2": 1387.5,
+        "y2": 390.375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Adresse permanente de cette version de cette page",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Accueil_principal&oldid=231227364",
+      "descriptive_label": "general_link: Adresse permanente de cette..."
+    },
+    {
+      "coordinates": {
+        "x1": 981.703125,
+        "y1": 596.21875,
+        "x2": 1255.609375,
+        "y2": 613.21875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Wikip\u00e9dia:Citation et r\u00e9utilisation du contenu de Wikip\u00e9dia",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "copi\u00e9 et r\u00e9utilis\u00e9 sous la m\u00eame licence",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia",
+      "descriptive_label": "general_link: Wikip\u00e9dia:Citation et r\u00e9uti..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 281.734375,
+        "x2": 392.5,
+        "y2": 309.734375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Guide pour apprendre \u00e0 contribuer \u00e0 Wikip\u00e9dia",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Aide:D%C3%A9buter",
+      "descriptive_label": "general_link: Guide pour apprendre \u00e0 cont..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 369.90625,
+        "x2": 392.5,
+        "y2": 397.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Outils pour contribuer \u00e0 Wikip\u00e9dia [alt-q]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales",
+      "descriptive_label": "general_link: Outils pour contribuer \u00e0 Wi..."
+    },
+    {
+      "coordinates": {
+        "x1": 198.5,
+        "y1": 23.0,
+        "x2": 218.5,
+        "y2": 43.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    }
+  ],
+  "dataset_split": "raw"
+}

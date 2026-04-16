@@ -1,0 +1,584 @@
+{
+  "url": "https://mit.edu",
+  "category": "education_and_reference",
+  "timestamp": 1775666728,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 35.0,
+        "y1": 184.0,
+        "x2": 425.0,
+        "y2": 254.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": "q"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: q"
+    },
+    {
+      "coordinates": {
+        "x1": 45.0,
+        "y1": 577.421875,
+        "x2": 415.0,
+        "y2": 655.078125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Updates from campus\nRead the latest from MIT and its leaders regarding events on campus.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/updates-from-campus",
+      "descriptive_label": "general_link: Updates from campus\nRead th..."
+    },
+    {
+      "coordinates": {
+        "x1": 45.0,
+        "y1": 516.671875,
+        "x2": 415.0,
+        "y2": 576.421875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "MIT's response to government activity\nRead the latest about government activity affecting MIT.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/response-government-activity",
+      "descriptive_label": "general_link: MIT's response to governmen..."
+    },
+    {
+      "coordinates": {
+        "x1": 35.0,
+        "y1": 154.390625,
+        "x2": 425.0,
+        "y2": 180.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore websites, people, and locations",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Explore websites, people, a..."
+    },
+    {
+      "coordinates": {
+        "x1": 544.0625,
+        "y1": 0,
+        "x2": 637.78125,
+        "y2": 84.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Education",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Education"
+    },
+    {
+      "coordinates": {
+        "x1": 637.78125,
+        "y1": 0,
+        "x2": 727.078125,
+        "y2": 84.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Research",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Research"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 84.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "open search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/search",
+      "descriptive_label": "icon_search: open search"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 84.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 552.5625,
+        "y1": 0,
+        "x2": 629.28125,
+        "y2": 84.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Education",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/education",
+      "descriptive_label": "icon_menu: Education"
+    },
+    {
+      "coordinates": {
+        "x1": 1309.84375,
+        "y1": 0,
+        "x2": 1440.4375,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Lifelong Learning",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "http://learn.mit.edu/",
+      "descriptive_label": "general_link: Lifelong Learning"
+    },
+    {
+      "coordinates": {
+        "x1": 646.28125,
+        "y1": 0,
+        "x2": 718.578125,
+        "y2": 84.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Research",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/research",
+      "descriptive_label": "icon_menu: Research"
+    },
+    {
+      "coordinates": {
+        "x1": 831.234375,
+        "y1": 0,
+        "x2": 958.40625,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Admissions + Aid",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/admissions-aid",
+      "descriptive_label": "general_link: Admissions + Aid"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 20.0,
+        "x2": 243.0,
+        "y2": 66.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Massachusetts Institute of Technology",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/",
+      "descriptive_label": "general_link: Massachusetts Institute of ..."
+    },
+    {
+      "coordinates": {
+        "x1": 975.40625,
+        "y1": 0,
+        "x2": 1069.453125,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Campus Life",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/campus-life",
+      "descriptive_label": "general_link: Campus Life"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 909.203125,
+        "x2": 430.0,
+        "y2": 926.375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "77 Massachusetts Avenue, Cambridge, MA, USA",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.google.com/maps/place/Massachusetts+Institute+of+Technology/@42.360091,-71.09416,15z/data=!4m5!3m4!1s0x0:0xd0e08ea5b308203c!8m2!3d42.360091!4d-71.09416",
+      "descriptive_label": "general_link: 77 Massachusetts Avenue, Ca..."
+    },
+    {
+      "coordinates": {
+        "x1": 1834.0,
+        "y1": 0,
+        "x2": 1860.0,
+        "y2": 84.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 735.578125,
+        "y1": 0,
+        "x2": 814.234375,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Innovation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/innovation",
+      "descriptive_label": "general_link: Innovation"
+    },
+    {
+      "coordinates": {
+        "x1": 1215.03125,
+        "y1": 0,
+        "x2": 1292.84375,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About MIT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/about",
+      "descriptive_label": "general_link: About MIT"
+    },
+    {
+      "coordinates": {
+        "x1": 55.0,
+        "y1": 205.0,
+        "x2": 85.0,
+        "y2": 235.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1145.828125,
+        "y1": 0,
+        "x2": 1198.03125,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Alumni",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/alumni",
+      "descriptive_label": "general_link: Alumni"
+    },
+    {
+      "coordinates": {
+        "x1": 381.234375,
+        "y1": 0,
+        "x2": 432.0,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://web.mit.edu/#",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.453125,
+        "y1": 0,
+        "x2": 1128.828125,
+        "y2": 84.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://news.mit.edu/",
+      "descriptive_label": "general_link: News"
+    }
+  ],
+  "dataset_split": "raw"
+}

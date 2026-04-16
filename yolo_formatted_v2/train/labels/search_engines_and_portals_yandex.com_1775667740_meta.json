@@ -1,0 +1,454 @@
+{
+  "url": "https://yandex.com",
+  "category": "search_engines_and_portals",
+  "timestamp": 1775667740,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 428.40625,
+        "y1": 86.390625,
+        "x2": 1475.59375,
+        "y2": 506.890625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "form",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Web Search",
+        "title": "",
+        "alt_text": "",
+        "role": "search"
+      },
+      "content": {
+        "text": "Search with Yandex AI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Web Search"
+    },
+    {
+      "coordinates": {
+        "x1": 449.59375,
+        "y1": 446.484375,
+        "x2": 1392.0625,
+        "y2": 495.296875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Request",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search with Yandex AI",
+        "value": "",
+        "name": "text"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Request"
+    },
+    {
+      "coordinates": {
+        "x1": 1348.28125,
+        "y1": 298.125,
+        "x2": 1472.0,
+        "y2": 391.71875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "All services",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://yandex.com/all",
+      "descriptive_label": "general_button: All services"
+    },
+    {
+      "coordinates": {
+        "x1": 824.6875,
+        "y1": 298.125,
+        "x2": 948.40625,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Translate",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://translate.yandex.com/?utm_source=yandex&utm_medium=com&utm_campaign=morda",
+      "descriptive_label": "general_link: Translate"
+    },
+    {
+      "coordinates": {
+        "x1": 955.59375,
+        "y1": 298.125,
+        "x2": 1079.296875,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Weather",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://meteum.ai/?utm_source=yandex&utm_medium=com&utm_campaign=morda",
+      "descriptive_label": "general_link: Weather"
+    },
+    {
+      "coordinates": {
+        "x1": 432.0,
+        "y1": 298.125,
+        "x2": 555.703125,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Images",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://yandex.com/images/?utm_source=yandex&utm_medium=com&utm_campaign=morda",
+      "descriptive_label": "general_link: Images"
+    },
+    {
+      "coordinates": {
+        "x1": 562.890625,
+        "y1": 298.125,
+        "x2": 686.609375,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Video",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://yandex.com/video/?utm_source=yandex&utm_medium=com&utm_campaign=morda",
+      "descriptive_label": "general_link: Video"
+    },
+    {
+      "coordinates": {
+        "x1": 1217.390625,
+        "y1": 298.125,
+        "x2": 1341.09375,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Games",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://yandex.com/games/?utm_source=yandex&utm_medium=com&utm_campaign=morda",
+      "descriptive_label": "general_link: Games"
+    },
+    {
+      "coordinates": {
+        "x1": 1086.484375,
+        "y1": 298.125,
+        "x2": 1210.203125,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Mail",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://mail.yandex.com/?utm_source=yandex&utm_medium=com&utm_campaign=morda?utm_source=yandexall",
+      "descriptive_label": "general_link: Mail"
+    },
+    {
+      "coordinates": {
+        "x1": 693.796875,
+        "y1": 298.125,
+        "x2": 817.5,
+        "y2": 391.71875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Maps",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://yandex.com/maps/?utm_source=maps&utm_medium=search&utm_campaign=desktop",
+      "descriptive_label": "general_link: Maps"
+    },
+    {
+      "coordinates": {
+        "x1": 872.203125,
+        "y1": 240.84375,
+        "x2": 1031.796875,
+        "y2": 280.4375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "svg",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 449.59375,
+        "y1": 457.890625,
+        "x2": 664.9375,
+        "y2": 483.890625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search with Yandex AI",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search with Yandex AI"
+    },
+    {
+      "coordinates": {
+        "x1": 901.0288696289062,
+        "y1": 240.84605407714844,
+        "x2": 1031.5643310546875,
+        "y2": 279.2227783203125
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "path",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1404.03125,
+        "y1": 446.484375,
+        "x2": 1454.40625,
+        "y2": 495.296875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Image search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Image search"
+    },
+    {
+      "coordinates": {
+        "x1": 1815.203125,
+        "y1": 35.984375,
+        "x2": 1863.203125,
+        "y2": 83.984375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Profile, not logged in",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://passport.yandex.com/auth?origin=morda&retpath=https%3A%2F%2Fyandex.com%2F",
+      "descriptive_label": "icon_menu: Profile, not logged in"
+    },
+    {
+      "coordinates": {
+        "x1": 1353.65625,
+        "y1": 446.484375,
+        "x2": 1404.03125,
+        "y2": 495.296875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Keyboard",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Keyboard"
+    },
+    {
+      "coordinates": {
+        "x1": 872.4505004882812,
+        "y1": 240.84605407714844,
+        "x2": 903.80517578125,
+        "y2": 278.6784362792969
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "path",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    }
+  ],
+  "dataset_split": "raw"
+}

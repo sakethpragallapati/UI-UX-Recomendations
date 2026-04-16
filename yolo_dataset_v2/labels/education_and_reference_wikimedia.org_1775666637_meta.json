@@ -1,0 +1,558 @@
+{
+  "url": "https://wikimedia.org",
+  "category": "education_and_reference",
+  "timestamp": 1775666637,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1162.5,
+        "y1": 128.0,
+        "x2": 1442.5,
+        "y2": 378.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 449.0,
+        "y1": 776.0,
+        "x2": 679.0,
+        "y2": 829.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikipedia\nThe Free Encyclopedia",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wikipedia.org/",
+      "descriptive_label": "general_link: Wikipedia\nThe Free Encyclop..."
+    },
+    {
+      "coordinates": {
+        "x1": 933.0,
+        "y1": 776.0,
+        "x2": 1163.0,
+        "y2": 829.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikiquote\nFree quote compendium",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wikiquote.org/",
+      "descriptive_label": "general_link: Wikiquote\nFree quote compen..."
+    },
+    {
+      "coordinates": {
+        "x1": 691.0,
+        "y1": 776.0,
+        "x2": 921.0,
+        "y2": 829.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wiktionary\nFree dictionary",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wiktionary.org/",
+      "descriptive_label": "general_link: Wiktionary\nFree dictionary"
+    },
+    {
+      "coordinates": {
+        "x1": 1175.0,
+        "y1": 776.0,
+        "x2": 1405.0,
+        "y2": 829.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikibooks\nFree textbooks",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wikibooks.org/",
+      "descriptive_label": "general_link: Wikibooks\nFree textbooks"
+    },
+    {
+      "coordinates": {
+        "x1": 933.0,
+        "y1": 933.0,
+        "x2": 1163.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikiversity\nFree learning resources",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wikiversity.org/",
+      "descriptive_label": "general_link: Wikiversity\nFree learning r..."
+    },
+    {
+      "coordinates": {
+        "x1": 1175.0,
+        "y1": 933.0,
+        "x2": 1405.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikispecies\nFree content library",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wikispecies.org/",
+      "descriptive_label": "general_link: Wikispecies\nFree content li..."
+    },
+    {
+      "coordinates": {
+        "x1": 691.0,
+        "y1": 933.0,
+        "x2": 921.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikisource\nFree content library",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.wikisource.org/",
+      "descriptive_label": "general_link: Wikisource\nFree content lib..."
+    },
+    {
+      "coordinates": {
+        "x1": 449.0,
+        "y1": 933.0,
+        "x2": 679.0,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Commons\nFree media collection",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://commons.wikimedia.org/",
+      "descriptive_label": "general_link: Commons\nFree media collection"
+    },
+    {
+      "coordinates": {
+        "x1": 449.0,
+        "y1": 776.0,
+        "x2": 497.0,
+        "y2": 824.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 691.0,
+        "y1": 776.0,
+        "x2": 739.0,
+        "y2": 824.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 933.0,
+        "y1": 776.0,
+        "x2": 981.0,
+        "y2": 824.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1175.0,
+        "y1": 776.0,
+        "x2": 1223.0,
+        "y2": 824.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 449.0,
+        "y1": 933.0,
+        "x2": 497.0,
+        "y2": 981.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 691.0,
+        "y1": 933.0,
+        "x2": 739.0,
+        "y2": 981.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 933.0,
+        "y1": 933.0,
+        "x2": 981.0,
+        "y2": 981.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1175.0,
+        "y1": 933.0,
+        "x2": 1223.0,
+        "y2": 981.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 443.0,
+        "y1": 16.0,
+        "x2": 483.0,
+        "y2": 56.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1100.203125,
+        "y1": 651.0,
+        "x2": 1258.5,
+        "y2": 668.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikimedia Foundation",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://wikimediafoundation.org/",
+      "descriptive_label": "general_link: Wikimedia Foundation"
+    },
+    {
+      "coordinates": {
+        "x1": 668.890625,
+        "y1": 651.0,
+        "x2": 821.828125,
+        "y2": 668.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Wikimedia movement",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_movement",
+      "descriptive_label": "general_link: Wikimedia movement"
+    },
+    {
+      "coordinates": {
+        "x1": 934.859375,
+        "y1": 675.0,
+        "x2": 1008.65625,
+        "y2": 692.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "MediaWiki",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.mediawiki.org/",
+      "descriptive_label": "general_link: MediaWiki"
+    }
+  ],
+  "dataset_split": "raw"
+}

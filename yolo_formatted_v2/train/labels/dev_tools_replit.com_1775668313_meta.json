@@ -1,0 +1,974 @@
+{
+  "url": "https://replit.com",
+  "category": "dev_tools",
+  "timestamp": 1775668314,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 632.5,
+        "y1": 446.1875,
+        "x2": 1256.5,
+        "y2": 476.1875
+      },
+      "class_id": 7,
+      "class_name": "general_textarea",
+      "tag_name": "textarea",
+      "element_type": "textarea",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Describe your idea, Replit will bring it to life...",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_textarea: Describe your idea, Replit ..."
+    },
+    {
+      "coordinates": {
+        "x1": 413.875,
+        "y1": 139.0,
+        "x2": 634.1875,
+        "y2": 218.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/enterprise",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 413.875,
+        "y1": 78.0,
+        "x2": 634.1875,
+        "y2": 139.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/pro",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 1023.09375,
+        "y1": 657.1875,
+        "x2": 1183.84375,
+        "y2": 689.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Student budget tracker",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Student budget tracker"
+    },
+    {
+      "coordinates": {
+        "x1": 1620.25,
+        "y1": 24.0,
+        "x2": 1754.0625,
+        "y2": 63.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Create account",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Create account"
+    },
+    {
+      "coordinates": {
+        "x1": 705.140625,
+        "y1": 657.1875,
+        "x2": 862.015625,
+        "y2": 689.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Retail sales dashboard",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Retail sales dashboard"
+    },
+    {
+      "coordinates": {
+        "x1": 870.015625,
+        "y1": 657.1875,
+        "x2": 1015.09375,
+        "y2": 689.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mobile app proposal",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Mobile app proposal"
+    },
+    {
+      "coordinates": {
+        "x1": 496.9375,
+        "y1": 29.0,
+        "x2": 602.5,
+        "y2": 61.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Resources",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Resources"
+    },
+    {
+      "coordinates": {
+        "x1": 1441.953125,
+        "y1": 27.5,
+        "x2": 1542.234375,
+        "y2": 59.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Contact sales",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/enterprise",
+      "descriptive_label": "general_button: Contact sales"
+    },
+    {
+      "coordinates": {
+        "x1": 388.875,
+        "y1": 29.0,
+        "x2": 484.9375,
+        "y2": 61.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "For Work",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: For Work"
+    },
+    {
+      "coordinates": {
+        "x1": 280.921875,
+        "y1": 29.0,
+        "x2": 376.875,
+        "y2": 61.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Products",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Products"
+    },
+    {
+      "coordinates": {
+        "x1": 1123.203125,
+        "y1": 87.0,
+        "x2": 1204.53125,
+        "y2": 119.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Claim now",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/~?referral.show=true",
+      "descriptive_label": "general_button: Claim now"
+    },
+    {
+      "coordinates": {
+        "x1": 1220.5,
+        "y1": 541.1875,
+        "x2": 1268.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Data Visualization",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Data Visualization"
+    },
+    {
+      "coordinates": {
+        "x1": 1520.5,
+        "y1": 541.1875,
+        "x2": 1568.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Spreadsheet",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Spreadsheet"
+    },
+    {
+      "coordinates": {
+        "x1": 1120.5,
+        "y1": 541.1875,
+        "x2": 1168.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Animation",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Animation"
+    },
+    {
+      "coordinates": {
+        "x1": 1420.5,
+        "y1": 541.1875,
+        "x2": 1468.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Document",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Document"
+    },
+    {
+      "coordinates": {
+        "x1": 720.5,
+        "y1": 541.1875,
+        "x2": 768.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Website",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Website"
+    },
+    {
+      "coordinates": {
+        "x1": 1320.5,
+        "y1": 541.1875,
+        "x2": 1368.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "3D Game",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: 3D Game"
+    },
+    {
+      "coordinates": {
+        "x1": 820.5,
+        "y1": 541.1875,
+        "x2": 868.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mobile",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Mobile"
+    },
+    {
+      "coordinates": {
+        "x1": 920.5,
+        "y1": 541.1875,
+        "x2": 968.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Design",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Design"
+    },
+    {
+      "coordinates": {
+        "x1": 1020.5,
+        "y1": 541.1875,
+        "x2": 1068.5,
+        "y2": 589.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Slides",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Slides"
+    },
+    {
+      "coordinates": {
+        "x1": 686.015625,
+        "y1": 29.0,
+        "x2": 750.625,
+        "y2": 61.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Careers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/careers",
+      "descriptive_label": "general_button: Careers"
+    },
+    {
+      "coordinates": {
+        "x1": 614.5,
+        "y1": 29.0,
+        "x2": 674.015625,
+        "y2": 61.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": "link",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "link"
+      },
+      "content": {
+        "text": "Pricing",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/pricing",
+      "descriptive_label": "general_button: Pricing"
+    },
+    {
+      "coordinates": {
+        "x1": 1554.234375,
+        "y1": 27.5,
+        "x2": 1608.25,
+        "y2": 59.5
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Log in",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Log in"
+    },
+    {
+      "coordinates": {
+        "x1": 628.5,
+        "y1": 484.1875,
+        "x2": 660.5,
+        "y2": 516.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Add attachment",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Add attachment"
+    },
+    {
+      "coordinates": {
+        "x1": 1228.5,
+        "y1": 484.1875,
+        "x2": 1260.5,
+        "y2": 516.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 698.875,
+        "y1": 113.1875,
+        "x2": 878.875,
+        "y2": 146.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/usecases/business-apps",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 698.875,
+        "y1": 150.1875,
+        "x2": 878.875,
+        "y2": 183.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/mobile-apps",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 698.875,
+        "y1": 187.1875,
+        "x2": 878.875,
+        "y2": 220.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/usecases/rapid-prototyping",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 910.875,
+        "y1": 113.1875,
+        "x2": 1090.875,
+        "y2": 146.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/enterprise",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 910.875,
+        "y1": 150.1875,
+        "x2": 1090.875,
+        "y2": 183.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/usecases/product-managers",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 910.875,
+        "y1": 187.1875,
+        "x2": 1090.875,
+        "y2": 220.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/usecases/designers",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 910.875,
+        "y1": 224.1875,
+        "x2": 1090.875,
+        "y2": 257.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/usecases/operations",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 910.875,
+        "y1": 261.1875,
+        "x2": 1090.875,
+        "y2": 294.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://replit.com/usecases/software-engineers",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 660.5,
+        "y1": 551.1875,
+        "x2": 688.5,
+        "y2": 579.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Previous",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Previous"
+    },
+    {
+      "coordinates": {
+        "x1": 1200.5,
+        "y1": 551.1875,
+        "x2": 1228.5,
+        "y2": 579.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Next",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Next"
+    },
+    {
+      "coordinates": {
+        "x1": 1008.53125,
+        "y1": 625.1875,
+        "x2": 1028.53125,
+        "y2": 645.1875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Reshuffle",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Reshuffle"
+    }
+  ],
+  "dataset_split": "raw"
+}

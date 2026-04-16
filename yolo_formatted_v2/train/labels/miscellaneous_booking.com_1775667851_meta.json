@@ -1,0 +1,740 @@
+{
+  "url": "https://booking.com",
+  "category": "miscellaneous",
+  "timestamp": 1775667851,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 224.5,
+        "y1": 124.0,
+        "x2": 1664.5,
+        "y2": 534.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Family with two children walking along a tropical beach at sunset, with boats, palm trees and beach huts in the background.",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Family with two children wa..."
+    },
+    {
+      "coordinates": {
+        "x1": 680.0,
+        "y1": 576.5,
+        "x2": 1224.0,
+        "y2": 624.5
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in or register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&prompt=signin&state=UtcB-22TqFGHK6BxUmgs8QjAm7lhCxWf-uJAFrXRWHVj02dEVyI0AD8L6CsMX9JudyKZNZN5iF7xxZs-1v8Xv_pbVg3CZaJOd49YFIH1WGYT3uZKnVvMmEzvOpPInRCPYwbinCgKQcEOZsgnPWC_ONJzcv_g6LL1xVrZIGGg37IDDw_uLHncUXNMtAph8xYSvBTi2NtPm2rJeGc3eyoAg4fiH8T1AKdfLbgEt6xSueh1fXaMXJZx6eWEYFGnDsPjwICRpBit8V3y__uP76f5HkWyshq78vPf8Cg%3D*eyJpZCI6Imdlbml1c19pbmRleF9zaGVldCJ9",
+      "descriptive_label": "general_link: Sign in or register"
+    },
+    {
+      "coordinates": {
+        "x1": 434.5,
+        "y1": 507.078125,
+        "x2": 764.265625,
+        "y2": 543.078125
+      },
+      "class_id": 2,
+      "class_name": "general_input",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "Where are you going?",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Where are you going?",
+        "value": "",
+        "name": "ss"
+      },
+      "href": "",
+      "descriptive_label": "general_input: Where are you going?"
+    },
+    {
+      "coordinates": {
+        "x1": 1085.265625,
+        "y1": 508.078125,
+        "x2": 1366.265625,
+        "y2": 542.078125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Number of travelers and rooms. Currently selected: 2 adults \u00b7 0 children \u00b7 1 room",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "2 adults \u00b7 0 children \u00b7 1 room",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Number of travelers and roo..."
+    },
+    {
+      "coordinates": {
+        "x1": 784.265625,
+        "y1": 508.078125,
+        "x2": 1065.265625,
+        "y2": 542.078125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Check-in date\n\u2014\nCheck-out date",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Check-in date\n\u2014\nCheck-out date"
+    },
+    {
+      "coordinates": {
+        "x1": 594.546875,
+        "y1": 68.0,
+        "x2": 741.921875,
+        "y2": 112.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Flight + Hotel",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://booking.com/pxgo?url=https%3A%2F%2Fbooking.lastminute.com%3FuserLanguage%3Den-us%26utm_source%3Dbooking%26utm_medium%3Dwhitelabel%26utm_campaign%3Dhomepage_tab&lang=en&aid=304142&token=UmFuZG9tSVYkc2RlIyh9YWktmrwAPG7dBQFty4spAI6DDyEZCfGLS9jLw2jwHmcjhiSihggaXWbRsg8JKhGEKg7NpbqhBZUttrzqwmwvci7HkaZbfr83m7Bu6N4kFlLFi0b_q3zulIOlkhGxov1BLCXK8lqtO1S5PciHlDQeasvZCVZqWbFtw8DwhfNY1st64rRDq2ATRuYVct7Jel2pKiSP6o8vLWBZERJi7g8ElTrAf75nUQWOjSXlY1YPAWA8YiEOKRbYZewdDRz2LTz_51-4vZOLlYOL5fxV_64QSPKPnXFHlSvzw1rnGfAuXh5Mcd9jmwFSCWikrhLtKtkicQ",
+      "descriptive_label": "icon_menu: Flight + Hotel"
+    },
+    {
+      "coordinates": {
+        "x1": 1378.265625,
+        "y1": 498.078125,
+        "x2": 1494.5,
+        "y2": 552.078125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1004.984375,
+        "y1": 68.0,
+        "x2": 1141.78125,
+        "y2": 112.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Airport taxis",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.booking.com/taxi/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&adplat=cross_product_bar&selected_currency=INR&sid=428fdbad04506008682dda54ddb2cac9",
+      "descriptive_label": "icon_menu: Airport taxis"
+    },
+    {
+      "coordinates": {
+        "x1": 871.796875,
+        "y1": 68.0,
+        "x2": 1000.984375,
+        "y2": 112.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Attractions",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.booking.com/attractions/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&selected_currency=INR&sid=428fdbad04506008682dda54ddb2cac9&source=cross_product_header_link",
+      "descriptive_label": "icon_menu: Attractions"
+    },
+    {
+      "coordinates": {
+        "x1": 745.921875,
+        "y1": 68.0,
+        "x2": 867.796875,
+        "y2": 112.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Car rental",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.booking.com/cars/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&adplat=cross_product_bar&from_index=1&selected_currency=INR&sid=428fdbad04506008682dda54ddb2cac9",
+      "descriptive_label": "icon_menu: Car rental"
+    },
+    {
+      "coordinates": {
+        "x1": 488.078125,
+        "y1": 68.0,
+        "x2": 590.546875,
+        "y2": 112.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Flights",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://booking.com/pxgo?aid=304142&url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fsid%3D428fdbad04506008682dda54ddb2cac9%26mc%3DINR%26bdclc%3Den-us%26p%3Dsearchbox_link%26a%3Dbdc%252Fsearchbox&lang=en-us&token=UmFuZG9tSVYkc2RlIyh9YY_oTPIGnIwxsTOANoogQKFnLgOF5Le9MfbI2ztS601Fc3m3KFYGYGWC5YHshh_mztxDkxuQI677BWsC-F4AsjcldoyJHRjt3-8y5_vIOFpZbxl9bXJKdpMKDsg1ItUp0sVjmhUda8DJvFeS6LgwoSKa5vDDyW7j3nXkAR1MwHMLDCRkO8T06Hlf7ZbNuLqWThht3ffD_A-h_1pnupxV2PaV3c1M3xGtgFF2Y45Gb2iE5vRO1VXxqc2nQgqYucvTKnyJHxPo2TDu4ZVWdQH-nPCywTdUF4BqZ9JPWockBXJ3Uvjm9M4RMa-JvmO-_xXvYeeWXVd7IPrVsxZU8_4mKYO24ZwvS639tx7RAkgRM69khihSv0lvOCjuA_t-4ANpegnQdBTtgQ9qChAV4WPIWvjBxxAqf3Yswnj6WVVHuTHpwn427KUow-XSkWXWL1bLz26CEsT259f_3Gi4_LBHUYgWitr1N1QW5RMGR6dilm_s&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB",
+      "descriptive_label": "icon_menu: Flights"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 68.0,
+        "x2": 484.078125,
+        "y2": 112.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": "menuitem",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "menuitem"
+      },
+      "content": {
+        "text": "Stays",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.booking.com/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&selected_currency=INR&sid=428fdbad04506008682dda54ddb2cac9",
+      "descriptive_label": "icon_menu: Stays"
+    },
+    {
+      "coordinates": {
+        "x1": 407.5,
+        "y1": 689.078125,
+        "x2": 471.5,
+        "y2": 753.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 688.5,
+        "y1": 689.078125,
+        "x2": 752.5,
+        "y2": 753.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 969.5,
+        "y1": 689.078125,
+        "x2": 1033.5,
+        "y2": 753.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1250.5,
+        "y1": 689.078125,
+        "x2": 1314.5,
+        "y2": 753.078125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 572.078125,
+        "x2": 568.796875,
+        "y2": 592.078125
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Add flights to my search",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Add flights to my search"
+    },
+    {
+      "coordinates": {
+        "x1": 1331.421875,
+        "y1": 18.0,
+        "x2": 1406.9375,
+        "y2": 54.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Register an account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Register",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&prompt=signin&state=UtcB-22TqFGHK6BxUmgs8QjAm7lhCxWf-uJAFrXRWHVj02dEVyI0AD8L6CsMX9JudyKZNZN5iF7xxZs-1v8Xv_pbVg3CZaJOd49YFIH1WGYT3uZKnVvMmEzvOpPInRCPYwbinCgKQcEOZsgnPWC_ONJzcv_g6LL1xVrZIGGg37IDDw_uLHncUXNMtAph8xYSvBTi2NtPm2rJeGc3eyoAg4fiH8T1AKdfLbgEt6xSueh1fXaMXJZx6eWEYFGnDsPjwICRpBit8V3y__uP76f5HkWyshq78vPf8Cg%3D*eyJpZCI6InRyYXZlbGxlcl9oZWFkZXIifQ%3D%3D",
+      "descriptive_label": "icon_profile: Register an account"
+    },
+    {
+      "coordinates": {
+        "x1": 998.796875,
+        "y1": 12.0,
+        "x2": 1049.703125,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Prices in Indian Rupee",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "INR",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Prices in Indian Rupee"
+    },
+    {
+      "coordinates": {
+        "x1": 1169.703125,
+        "y1": 12.0,
+        "x2": 1323.421875,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "List your property",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://join.booking.com/?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&lang=en-us&sid=428fdbad04506008682dda54ddb2cac9&utm_medium=frontend&utm_source=topbar",
+      "descriptive_label": "general_link: List your property"
+    },
+    {
+      "coordinates": {
+        "x1": 1057.703125,
+        "y1": 12.0,
+        "x2": 1105.703125,
+        "y2": 60.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Language: English (US)",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Language: English (US)"
+    },
+    {
+      "coordinates": {
+        "x1": 394.5,
+        "y1": 408.078125,
+        "x2": 522.421875,
+        "y2": 456.078125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Book a Getaway Deal for the summer holidays",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Explore deals",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.booking.com/dealspage.en-us.html?aid=304142&label=getaway&campaign_id=getaway",
+      "descriptive_label": "general_link: Book a Getaway Deal for the..."
+    },
+    {
+      "coordinates": {
+        "x1": 1196.0,
+        "y1": 354.5,
+        "x2": 1232.0,
+        "y2": 390.5
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Dismiss sign-in info.",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Dismiss sign-in info."
+    },
+    {
+      "coordinates": {
+        "x1": 1069.703125,
+        "y1": 24.0,
+        "x2": 1093.703125,
+        "y2": 48.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": "presentation",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "presentation"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 390.5,
+        "y1": 572.078125,
+        "x2": 391.5,
+        "y2": 573.078125
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "flight",
+        "name": "sb_flight_search"
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: flight"
+    },
+    {
+      "coordinates": {
+        "x1": 406.5,
+        "y1": 24.0,
+        "x2": 550.5,
+        "y2": 48.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Booking.com",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.booking.com/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&sid=428fdbad04506008682dda54ddb2cac9",
+      "descriptive_label": "general_link: Booking.com"
+    },
+    {
+      "coordinates": {
+        "x1": 1414.9375,
+        "y1": 18.0,
+        "x2": 1482.5,
+        "y2": 54.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Sign in",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign in",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=code&lang=en-us&aid=304142&bkng_action=index&prompt=signin&state=UtcB-22TqFGHK6BxUmgs8QjAm7lhCxWf-uJAFrXRWHVj02dEVyI0AD8L6CsMX9JudyKZNZN5iF7xxZs-1v8Xv_pbVg3CZaJOd49YFIH1WGYT3uZKnVvMmEzvOpPInRCPYwbinCgKQcEOZsgnPWC_ONJzcv_g6LL1xVrZIGGg37IDDw_uLHncUXNMtAph8xYSvBTi2NtPm2rJeGc3eyoAg4fiH8T1AKdfLbgEt6xSueh1fXaMXJZx6eWEYFGnDsPjwICRpBit8V3y__uP76f5HkWyshq78vPf8Cg%3D*eyJpZCI6InRyYXZlbGxlcl9oZWFkZXIifQ%3D%3D",
+      "descriptive_label": "general_link: Sign in"
+    },
+    {
+      "coordinates": {
+        "x1": 1113.703125,
+        "y1": 12.0,
+        "x2": 1161.703125,
+        "y2": 60.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Customer support",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://secure.booking.com/help.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AvGU2s4GwAIB0gIkOTYyN2ZlMjItM2VlNi00YWJkLTg1ZWEtMDFlYTE0ZGI4ODNj2AIB4AIB&sid=428fdbad04506008682dda54ddb2cac9&source=header&src=profile_contact_cs",
+      "descriptive_label": "general_link: Customer support"
+    }
+  ],
+  "dataset_split": "raw"
+}

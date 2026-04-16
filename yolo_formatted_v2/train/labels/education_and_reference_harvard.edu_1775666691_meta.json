@@ -1,0 +1,714 @@
+{
+  "url": "https://harvard.edu",
+  "category": "education_and_reference",
+  "timestamp": 1775666691,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 765.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "section",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Mental Health\nAcross Harvard, researchers and scholars are working to better understand the full scope of mental health, including what causes disorders and how to best implement preventions and treatments.",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Mental Health\nAcross Harvar..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 765.0,
+        "x2": 1889.0,
+        "y2": 985
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "section",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "An overview\nIn addressing the global mental health crisis, it\u2019s important to understand the full scope of the problem so experts can properly provide care and support.\n\n50%\nof the world\u2019s population will experience a mental health disorder (Source)\n\n1 in 5\npeople under 18 experience a mental illness each year (Source)\n\n11 years\nis the average delay between onset of mental health symptoms and treatment (Source)\n\n35%\nincrease in suicide rates over the past two decades (Source)",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: An overview\nIn addressing t..."
+    },
+    {
+      "coordinates": {
+        "x1": 1176.96875,
+        "y1": 2.0,
+        "x2": 1699.96875,
+        "y2": 88.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "search",
+        "title": "search",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search Harvard University",
+        "value": "",
+        "name": "search"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: search"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 106.0,
+        "x2": 302.75,
+        "y2": 170.390625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sub-Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle Sub-Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1558.640625,
+        "y1": 0,
+        "x2": 1725.96875,
+        "y2": 90.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Open Site Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Open Site Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1726.96875,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 90.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Menu",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 284.78125,
+        "x2": 244.671875,
+        "y2": 349.171875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sub-Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle Sub-Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 195.390625,
+        "x2": 242.859375,
+        "y2": 259.78125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sub-Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle Sub-Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 268.0,
+        "y1": 32.0,
+        "x2": 809.796875,
+        "y2": 59.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn about our lawsuits to protect our students and researchers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.harvard.edu/federal-lawsuits/",
+      "descriptive_label": "general_link: Learn about our lawsuits to..."
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 463.5625,
+        "x2": 192.390625,
+        "y2": 527.953125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sub-Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle Sub-Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 552.953125,
+        "x2": 170.53125,
+        "y2": 617.34375
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sub-Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle Sub-Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 374.171875,
+        "x2": 147.984375,
+        "y2": 438.5625
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "Toggle Sub-Menu",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Toggle Sub-Menu"
+    },
+    {
+      "coordinates": {
+        "x1": 40.0,
+        "y1": 21.0,
+        "x2": 230.0,
+        "y2": 69.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Harvard University",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.harvard.edu/",
+      "descriptive_label": "general_link: Harvard University"
+    },
+    {
+      "coordinates": {
+        "x1": 1750.28125,
+        "y1": 27.0,
+        "x2": 1849.0,
+        "y2": 63.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close Site Navigation",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close Site Navigation"
+    },
+    {
+      "coordinates": {
+        "x1": 1174.96875,
+        "y1": 148.0,
+        "x2": 1257.875,
+        "y2": 168.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.harvard.edu/a-to-z/",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1813.0,
+        "y1": 27.0,
+        "x2": 1849.0,
+        "y2": 63.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Close Site Navigation",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Close Site Navigation"
+    },
+    {
+      "coordinates": {
+        "x1": 1665.96875,
+        "y1": 27.0,
+        "x2": 1701.96875,
+        "y2": 63.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "Close Site Search",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Close Site Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1757.96875,
+        "y1": 29.5,
+        "x2": 1788.71875,
+        "y2": 60.5
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Open Site Navigation",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Open Site Navigation"
+    },
+    {
+      "coordinates": {
+        "x1": 1589.640625,
+        "y1": 29.5,
+        "x2": 1620.390625,
+        "y2": 60.5
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Open Site Search",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Open Site Search"
+    },
+    {
+      "coordinates": {
+        "x1": 1175.96875,
+        "y1": 1.0,
+        "x2": 1176.96875,
+        "y2": 2.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 564.421875,
+        "y1": 33.0,
+        "x2": 699.15625,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.harvard.edu/media-relations",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 330.359375,
+        "y1": 33.0,
+        "x2": 443.453125,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://connections.harvard.edu/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 198.90625,
+        "y1": 33.0,
+        "x2": 297.921875,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.harvard.edu/a-to-z/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 935.296875,
+        "y1": 33.0,
+        "x2": 1028.015625,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.harvard.edu/emergency/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 824.421875,
+        "y1": 33.0,
+        "x2": 902.859375,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://alumni.harvard.edu/giving/givenow",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 731.59375,
+        "y1": 33.0,
+        "x2": 791.984375,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://alumni.harvard.edu/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 475.890625,
+        "y1": 33.0,
+        "x2": 531.984375,
+        "y2": 56.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://news.harvard.edu/gazette/harvard-events/",
+      "descriptive_label": "general_link"
+    }
+  ],
+  "dataset_split": "raw"
+}

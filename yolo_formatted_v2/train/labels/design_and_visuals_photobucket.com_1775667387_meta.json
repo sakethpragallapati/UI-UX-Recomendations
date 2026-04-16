@@ -1,0 +1,454 @@
+{
+  "url": "https://photobucket.com",
+  "category": "design_and_visuals",
+  "timestamp": 1775667388,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 998.28125,
+        "y1": 161.578125,
+        "x2": 1682.5,
+        "y2": 845.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Pictures of friends and family shared in PhotoBucket",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Pictures of friends and fam..."
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 161.578125,
+        "x2": 146.5,
+        "y2": 845.796875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Man taking a selfie on a mountain top with his phone",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Man taking a selfie on a mo..."
+    },
+    {
+      "coordinates": {
+        "x1": 236.5,
+        "y1": 650.140625,
+        "x2": 495.53125,
+        "y2": 723.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Try it today!",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Try it today!"
+    },
+    {
+      "coordinates": {
+        "x1": 216.5,
+        "y1": 26.0,
+        "x2": 516.5,
+        "y2": 95.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Photobucket Homepage",
+        "title": "home page",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Photobucket Logo",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://photobucket.com/",
+      "descriptive_label": "general_link: Photobucket Homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 1516.375,
+        "y1": 26.0,
+        "x2": 1672.5,
+        "y2": 95.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign Up",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://photobucket.com/auth/register",
+      "descriptive_label": "general_button: Sign Up"
+    },
+    {
+      "coordinates": {
+        "x1": 1185.859375,
+        "y1": 26.0,
+        "x2": 1331.375,
+        "y2": 95.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Sign In",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://photobucket.com/auth/login",
+      "descriptive_label": "general_button: Sign In"
+    },
+    {
+      "coordinates": {
+        "x1": 1772.5,
+        "y1": 690.03125,
+        "x2": 1904,
+        "y2": 763.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://my.photobucket.com/sync-whatsapp-images-to-photobucket",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1331.375,
+        "y1": 26.0,
+        "x2": 1424.375,
+        "y2": 95.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Download iOS",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download iOS"
+    },
+    {
+      "coordinates": {
+        "x1": 1424.375,
+        "y1": 26.0,
+        "x2": 1516.375,
+        "y2": 95.578125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "Download Android",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Download Android"
+    },
+    {
+      "coordinates": {
+        "x1": 798.5,
+        "y1": 917.796875,
+        "x2": 944.5,
+        "y2": 961.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Monthly",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Monthly"
+    },
+    {
+      "coordinates": {
+        "x1": 944.5,
+        "y1": 917.796875,
+        "x2": 1090.5,
+        "y2": 961.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Yearly",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Yearly"
+    },
+    {
+      "coordinates": {
+        "x1": 176.5,
+        "y1": 463.6875,
+        "x2": 216.5,
+        "y2": 503.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1672.5,
+        "y1": 463.6875,
+        "x2": 1712.5,
+        "y2": 503.6875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 918.390625,
+        "y1": 785.796875,
+        "x2": 929.125,
+        "y2": 830.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "slide item 1",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "\u2022",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: slide item 1"
+    },
+    {
+      "coordinates": {
+        "x1": 949.125,
+        "y1": 785.796875,
+        "x2": 959.859375,
+        "y2": 830.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "slide item 2",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "\u2022",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: slide item 2"
+    },
+    {
+      "coordinates": {
+        "x1": 979.859375,
+        "y1": 785.796875,
+        "x2": 990.59375,
+        "y2": 830.796875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "slide item 3",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "\u2022",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: slide item 3"
+    },
+    {
+      "coordinates": {
+        "x1": 307.875,
+        "y1": 735.796875,
+        "x2": 424.15625,
+        "y2": 756.796875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "New sign-ups only",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: New sign-ups only"
+    }
+  ],
+  "dataset_split": "raw"
+}

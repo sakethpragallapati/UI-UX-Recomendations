@@ -1,0 +1,1338 @@
+{
+  "url": "https://de.wikipedia.org",
+  "category": "education_and_reference",
+  "timestamp": 1775666597,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 830.28125,
+        "y1": 531.859375,
+        "x2": 1394.46875,
+        "y2": 574.859375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Internationaler Tag der Roma",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Inter\u00adnationaler Tag der Roma",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Internationaler_Tag_der_Roma",
+      "descriptive_label": "general_link: Internationaler Tag der Roma"
+    },
+    {
+      "coordinates": {
+        "x1": 212.296875,
+        "y1": 532.671875,
+        "x2": 404.296875,
+        "y2": 612.671875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "form",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Suchen",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Suchen"
+    },
+    {
+      "coordinates": {
+        "x1": 855.875,
+        "y1": 592.84375,
+        "x2": 1301.40625,
+        "y2": 635.84375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Kommunistische Partei Vietnams",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Kom\u00admunist\u00adischen Partei Vietnams",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Kommunistische_Partei_Vietnams",
+      "descriptive_label": "general_link: Kommunistische Partei Vietnams"
+    },
+    {
+      "coordinates": {
+        "x1": 472.5,
+        "y1": 17.0,
+        "x2": 872.921875,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Wikipedia durchsuchen",
+        "title": "Durchsuche die Wikipedia [alt-f]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Wikipedia durchsuchen",
+        "value": "",
+        "name": "search"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Wikipedia durchsuchen"
+    },
+    {
+      "coordinates": {
+        "x1": 855.875,
+        "y1": 618.84375,
+        "x2": 1253.984375,
+        "y2": 661.84375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Pr\u00e4sident Vietnams",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Staats\u00adpr\u00e4sidenten",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Pr%C3%A4sident_Vietnams",
+      "descriptive_label": "general_link: Pr\u00e4sident Vietnams"
+    },
+    {
+      "coordinates": {
+        "x1": 1318.671875,
+        "y1": 595.234375,
+        "x2": 1404.671875,
+        "y2": 710.234375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "T\u00f4 L\u00e2m",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: T\u00f4 L\u00e2m"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 467.40625,
+        "x2": 1674.5,
+        "y2": 493.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Automatisch",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Automatisch"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 245.40625,
+        "x2": 1674.5,
+        "y2": 271.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Standard",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Standard"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 356.40625,
+        "x2": 1674.5,
+        "y2": 382.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Standard",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Standard"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 531.40625,
+        "x2": 1674.5,
+        "y2": 557.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Dunkel",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Dunkel"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 213.40625,
+        "x2": 1674.5,
+        "y2": 239.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Klein",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Klein"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 388.40625,
+        "x2": 1674.5,
+        "y2": 414.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Breit",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Breit"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 277.40625,
+        "x2": 1674.5,
+        "y2": 303.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Gro\u00df",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Gro\u00df"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 499.40625,
+        "x2": 1674.5,
+        "y2": 525.40625
+      },
+      "class_id": 4,
+      "class_name": "general_label",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hell",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_label: Hell"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 264.0,
+        "x2": 1387.5,
+        "y2": 308.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Letzte \u00c4nderungen an Seiten, die von hier verlinkt sind [alt-k]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Wikipedia:Hauptseite",
+      "descriptive_label": "general_link: Letzte \u00c4nderungen an Seiten..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 89.5625,
+        "x2": 386.28125,
+        "y2": 111.5625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 164.609375,
+        "x2": 1381.28125,
+        "y2": 186.609375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 1329.9375,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 125.046875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Werkzeuge",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Werkzeuge"
+    },
+    {
+      "coordinates": {
+        "x1": 1329.9375,
+        "y1": 90.046875,
+        "x2": 1418.5,
+        "y2": 124.046875
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Werkzeuge",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Werkzeuge"
+    },
+    {
+      "coordinates": {
+        "x1": 871.921875,
+        "y1": 17.0,
+        "x2": 946.5,
+        "y2": 49.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Suchen",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Suchen"
+    },
+    {
+      "coordinates": {
+        "x1": 298.5,
+        "y1": 15.0,
+        "x2": 418.5,
+        "y2": 33.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Wikipedia",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Wikipedia"
+    },
+    {
+      "coordinates": {
+        "x1": 1587.859375,
+        "y1": 136.84375,
+        "x2": 1659.25,
+        "y2": 158.84375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Verbergen",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Verbergen"
+    },
+    {
+      "coordinates": {
+        "x1": 1367.703125,
+        "y1": 405.71875,
+        "x2": 1404.703125,
+        "y2": 444.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Hauptmen\u00fc",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hauptmen\u00fc",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Hauptmen\u00fc"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 214.40625,
+        "x2": 1478.5,
+        "y2": 234.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 246.40625,
+        "x2": 1478.5,
+        "y2": 266.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 278.40625,
+        "x2": 1478.5,
+        "y2": 298.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "2",
+        "name": "skin-client-pref-vector-feature-custom-font-size-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 2"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 5,
+      "class_name": "general_checkbox",
+      "tag_name": "input",
+      "element_type": "checkbox",
+      "accessibility": {
+        "aria_label": "Hauptmen\u00fc",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "on",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_checkbox: Hauptmen\u00fc"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 357.40625,
+        "x2": 1478.5,
+        "y2": 377.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "1",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 1"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 389.40625,
+        "x2": 1478.5,
+        "y2": 409.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "0",
+        "name": "skin-client-pref-vector-feature-limited-width-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 192.5,
+        "y1": 17.0,
+        "x2": 224.5,
+        "y2": 49.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Hauptmen\u00fc",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Hauptmen\u00fc"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 532.40625,
+        "x2": 1478.5,
+        "y2": 552.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "night",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: night"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 500.40625,
+        "x2": 1478.5,
+        "y2": 520.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "day",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: day"
+    },
+    {
+      "coordinates": {
+        "x1": 1458.5,
+        "y1": 468.40625,
+        "x2": 1478.5,
+        "y2": 488.40625
+      },
+      "class_id": 6,
+      "class_name": "general_radio",
+      "tag_name": "input",
+      "element_type": "radio",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "os",
+        "name": "skin-client-pref-skin-theme-group"
+      },
+      "href": "",
+      "descriptive_label": "general_radio: os"
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 399.296875,
+        "x2": 392.5,
+        "y2": 427.296875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Liste der letzten \u00c4nderungen in Wikipedia [alt-r]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Spezial:Letzte_%C3%84nderungen",
+      "descriptive_label": "general_link: Liste der letzten \u00c4nderunge..."
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 234.609375,
+        "x2": 1387.5,
+        "y2": 262.609375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Liste aller Seiten, die hierher verlinken [alt-j]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Spezial:Linkliste/Wikipedia:Hauptseite",
+      "descriptive_label": "general_link: Liste aller Seiten, die hie..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 340.515625,
+        "x2": 392.5,
+        "y2": 368.515625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Info-Zentrum \u00fcber Beteiligungsm\u00f6glichkeiten",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Wikipedia:Autorenportal",
+      "descriptive_label": "general_link: Info-Zentrum \u00fcber Beteiligu..."
+    },
+    {
+      "coordinates": {
+        "x1": 237.03125,
+        "y1": 248.5625,
+        "x2": 267.03125,
+        "y2": 275.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 388.84375,
+        "y1": 248.5625,
+        "x2": 418.84375,
+        "y2": 275.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 696.078125,
+        "y1": 248.5625,
+        "x2": 726.078125,
+        "y2": 275.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 889.625,
+        "y1": 248.5625,
+        "x2": 919.625,
+        "y2": 275.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1120.328125,
+        "y1": 248.5625,
+        "x2": 1150.328125,
+        "y2": 275.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1242.515625,
+        "y1": 248.5625,
+        "x2": 1272.515625,
+        "y2": 275.5625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 309.390625,
+        "x2": 1387.5,
+        "y2": 337.390625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Dauerhafter Link zu dieser Seitenversion",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/w/index.php?title=Wikipedia:Hauptseite&oldid=247114458",
+      "descriptive_label": "general_link: Dauerhafter Link zu dieser ..."
+    },
+    {
+      "coordinates": {
+        "x1": 538.015625,
+        "y1": 249.0625,
+        "x2": 568.015625,
+        "y2": 275.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1015.640625,
+        "y1": 249.0625,
+        "x2": 1045.640625,
+        "y2": 275.0625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.5,
+        "y1": 338.78125,
+        "x2": 1387.5,
+        "y2": 366.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Weitere Informationen \u00fcber diese Seite",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/w/index.php?title=Wikipedia:Hauptseite&action=info",
+      "descriptive_label": "general_link: Weitere Informationen \u00fcber ..."
+    },
+    {
+      "coordinates": {
+        "x1": 207.5,
+        "y1": 212.734375,
+        "x2": 392.5,
+        "y2": 240.734375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Liste aller Spezialseiten [alt-q]",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://de.wikipedia.org/wiki/Spezial:Spezialseiten",
+      "descriptive_label": "general_link: Liste aller Spezialseiten [..."
+    },
+    {
+      "coordinates": {
+        "x1": 198.5,
+        "y1": 23.0,
+        "x2": 218.5,
+        "y2": 43.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu"
+    },
+    {
+      "coordinates": {
+        "x1": 703.4375,
+        "y1": 901.21875,
+        "x2": 715.4375,
+        "y2": 913.21875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    }
+  ],
+  "dataset_split": "raw"
+}

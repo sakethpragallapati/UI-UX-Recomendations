@@ -1,0 +1,740 @@
+{
+  "url": "https://softonic.com",
+  "category": "tech_and_software",
+  "timestamp": 1775667297,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 456.5,
+        "y1": 384.0,
+        "x2": 1368.5,
+        "y2": 448.0
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "search",
+      "accessibility": {
+        "aria_label": "Query",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "What would you like to find today?",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Query"
+    },
+    {
+      "coordinates": {
+        "x1": 956.5,
+        "y1": 661.1875,
+        "x2": 1246.5,
+        "y2": 737.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Creativity by Adobe",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://en.softonic.com/articles/graphic-design",
+      "descriptive_label": "general_link: Creativity by Adobe"
+    },
+    {
+      "coordinates": {
+        "x1": 642.5,
+        "y1": 661.1875,
+        "x2": 932.5,
+        "y2": 737.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Cybersecurity",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://en.softonic.com/articles/antivirus",
+      "descriptive_label": "general_link: Cybersecurity"
+    },
+    {
+      "coordinates": {
+        "x1": 1270.5,
+        "y1": 661.1875,
+        "x2": 1560.5,
+        "y2": 737.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Roblox games",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://roblox.en.softonic.com/games",
+      "descriptive_label": "general_link: Roblox games"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 661.1875,
+        "x2": 618.5,
+        "y2": 737.1875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "AI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://en.softonic.com/web-apps/ai",
+      "descriptive_label": "general_link: AI"
+    },
+    {
+      "coordinates": {
+        "x1": 1366.3125,
+        "y1": 0,
+        "x2": 1503.5,
+        "y2": 80.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Developers",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://publishing-center.softonic.com/home?utm_campaign=navbar&utm_source=softonic&utm_medium=homepage",
+      "descriptive_label": "icon_menu: Developers"
+    },
+    {
+      "coordinates": {
+        "x1": 956.484375,
+        "y1": 905.375,
+        "x2": 1141.8125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Minecraft: Java & Bedrock Edition",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "3.7\nPaid\nMinecraft: Java & Bedrock Edition",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://minecraft.en.softonic.com/",
+      "descriptive_label": "general_link: Minecraft: Java & Bedrock E..."
+    },
+    {
+      "coordinates": {
+        "x1": 747.15625,
+        "y1": 905.375,
+        "x2": 932.484375,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Grand Theft Auto: Vice City",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "3.9\nPaid\nGrand Theft Auto: Vice City",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://grand-theft-auto-vice-city.en.softonic.com/",
+      "descriptive_label": "general_link: Grand Theft Auto: Vice City"
+    },
+    {
+      "coordinates": {
+        "x1": 537.828125,
+        "y1": 905.375,
+        "x2": 723.15625,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Euro Truck Simulator 2",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "4\nPaid\nEuro Truck Simulator 2",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://euro-truck-simulator-2.en.softonic.com/",
+      "descriptive_label": "general_link: Euro Truck Simulator 2"
+    },
+    {
+      "coordinates": {
+        "x1": 1165.8125,
+        "y1": 905.375,
+        "x2": 1351.140625,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Grand Theft Auto V",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "4\nPaid\nGrand Theft Auto V",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://gta-v.en.softonic.com/",
+      "descriptive_label": "general_link: Grand Theft Auto V"
+    },
+    {
+      "coordinates": {
+        "x1": 1375.140625,
+        "y1": 905.375,
+        "x2": 1560.46875,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Project IGI",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "4.2\nFree\nProject IGI",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://project-igi.en.softonic.com/",
+      "descriptive_label": "general_link: Project IGI"
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 905.375,
+        "x2": 513.828125,
+        "y2": 985
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Free Fire",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "4.4\nFree\nFree Fire",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://free-fire-gameloop.en.softonic.com/",
+      "descriptive_label": "general_link: Free Fire"
+    },
+    {
+      "coordinates": {
+        "x1": 768.15625,
+        "y1": 926.375,
+        "x2": 911.484375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Icon of program: Grand Theft Auto: Vice Ci\u2026",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Icon of program: Grand Thef..."
+    },
+    {
+      "coordinates": {
+        "x1": 977.484375,
+        "y1": 926.375,
+        "x2": 1120.8125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Icon of program: Minecraft: Java & Bedrock\u2026",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Icon of program: Minecraft:..."
+    },
+    {
+      "coordinates": {
+        "x1": 558.828125,
+        "y1": 926.375,
+        "x2": 702.15625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Icon of program: Euro Truck Simulator 2",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Icon of program: Euro Truck..."
+    },
+    {
+      "coordinates": {
+        "x1": 1186.8125,
+        "y1": 926.375,
+        "x2": 1330.140625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Icon of program: Grand Theft Auto V",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Icon of program: Grand Thef..."
+    },
+    {
+      "coordinates": {
+        "x1": 1396.140625,
+        "y1": 926.375,
+        "x2": 1539.46875,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Icon of program: Project IGI",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Icon of program: Project IGI"
+    },
+    {
+      "coordinates": {
+        "x1": 349.5,
+        "y1": 926.375,
+        "x2": 492.828125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Icon of program: Free Fire",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Icon of program: Free Fire"
+    },
+    {
+      "coordinates": {
+        "x1": 1167.078125,
+        "y1": 0,
+        "x2": 1271.578125,
+        "y2": 80.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Games",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://en.softonic.com/windows/games",
+      "descriptive_label": "icon_menu: Games"
+    },
+    {
+      "coordinates": {
+        "x1": 1271.578125,
+        "y1": 0,
+        "x2": 1366.3125,
+        "y2": 80.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://en.softonic.com/articles",
+      "descriptive_label": "icon_menu: News"
+    },
+    {
+      "coordinates": {
+        "x1": 1076.390625,
+        "y1": 0,
+        "x2": 1167.078125,
+        "y2": 80.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Apps",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://en.softonic.com/windows",
+      "descriptive_label": "icon_menu: Apps"
+    },
+    {
+      "coordinates": {
+        "x1": 1504.5,
+        "y1": 0,
+        "x2": 1584.5,
+        "y2": 80.0
+      },
+      "class_id": 19,
+      "class_name": "icon_profile",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Login to Softonic Account",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://auth.softonic.com/auth/login?redirect=https%3A%2F%2Fen.softonic.com%2F%3Fex%3DRAMP-4201.2%26rex%3Dtrue",
+      "descriptive_label": "icon_profile: Login to Softonic Account"
+    },
+    {
+      "coordinates": {
+        "x1": 304.5,
+        "y1": 0,
+        "x2": 384.5,
+        "y2": 80.0
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "label",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Main menu",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Main menu"
+    },
+    {
+      "coordinates": {
+        "x1": 1368.5,
+        "y1": 384.0,
+        "x2": 1432.5,
+        "y2": 448.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "What would you like to find today?",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: What would you like to find..."
+    },
+    {
+      "coordinates": {
+        "x1": 328.5,
+        "y1": 834.375,
+        "x2": 423.53125,
+        "y2": 880.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "Windows",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Windows"
+    },
+    {
+      "coordinates": {
+        "x1": 423.53125,
+        "y1": 834.375,
+        "x2": 507.21875,
+        "y2": 880.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "Android",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Android"
+    },
+    {
+      "coordinates": {
+        "x1": 567.390625,
+        "y1": 834.375,
+        "x2": 644.578125,
+        "y2": 880.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "iPhone",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: iPhone"
+    },
+    {
+      "coordinates": {
+        "x1": 507.21875,
+        "y1": 834.375,
+        "x2": 567.390625,
+        "y2": 880.375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "tab"
+      },
+      "content": {
+        "text": "Mac",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Mac"
+    }
+  ],
+  "dataset_split": "raw"
+}

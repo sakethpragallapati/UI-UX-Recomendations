@@ -1,0 +1,922 @@
+{
+  "url": "https://ftc.gov",
+  "category": "government_and_organizations",
+  "timestamp": 1775666841,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 332.5,
+        "y1": 877.78125,
+        "x2": 713.828125,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "child wearing headphones and sitting in front of a laptop",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: child wearing headphones an..."
+    },
+    {
+      "coordinates": {
+        "x1": 1175.15625,
+        "y1": 877.78125,
+        "x2": 1556.484375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "computer mouse on top of $100 bills",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: computer mouse on top of $1..."
+    },
+    {
+      "coordinates": {
+        "x1": 753.828125,
+        "y1": 877.78125,
+        "x2": 1135.15625,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "woman calculating expenses",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: woman calculating expenses"
+    },
+    {
+      "coordinates": {
+        "x1": 1290.484375,
+        "y1": 676.234375,
+        "x2": 1474.78125,
+        "y2": 739.140625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Report to the FTC",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Report to the FTC",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://reportfraud.ftc.gov/",
+      "descriptive_label": "general_button: Report to the FTC"
+    },
+    {
+      "coordinates": {
+        "x1": 332.5,
+        "y1": 384.984375,
+        "x2": 473.40625,
+        "y2": 447.890625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Lean More",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Learn More",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.ftc.gov/business-guidance/resources/scams-your-small-business-guide-business",
+      "descriptive_label": "general_button: Lean More"
+    },
+    {
+      "coordinates": {
+        "x1": 1088.890625,
+        "y1": 72.46875,
+        "x2": 1261.765625,
+        "y2": 123.46875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advice and Guidance",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Advice and Guidance"
+    },
+    {
+      "coordinates": {
+        "x1": 1088.890625,
+        "y1": 72.46875,
+        "x2": 1261.765625,
+        "y2": 123.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advice and Guidance",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Advice and Guidance"
+    },
+    {
+      "coordinates": {
+        "x1": 272.5,
+        "y1": 95.890625,
+        "x2": 617.4375,
+        "y2": 134.890625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "Home",
+        "title": "Home",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.ftc.gov/",
+      "descriptive_label": "general_link: Home"
+    },
+    {
+      "coordinates": {
+        "x1": 1277.765625,
+        "y1": 72.46875,
+        "x2": 1421.265625,
+        "y2": 123.46875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News and Events",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: News and Events"
+    },
+    {
+      "coordinates": {
+        "x1": 1277.765625,
+        "y1": 72.46875,
+        "x2": 1421.265625,
+        "y2": 123.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News and Events",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: News and Events"
+    },
+    {
+      "coordinates": {
+        "x1": 1437.265625,
+        "y1": 72.46875,
+        "x2": 1560.5,
+        "y2": 123.46875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About the FTC",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: About the FTC"
+    },
+    {
+      "coordinates": {
+        "x1": 1437.265625,
+        "y1": 72.46875,
+        "x2": 1560.5,
+        "y2": 123.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About the FTC",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: About the FTC"
+    },
+    {
+      "coordinates": {
+        "x1": 882.0625,
+        "y1": 72.46875,
+        "x2": 993.734375,
+        "y2": 123.46875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enforcement",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Enforcement"
+    },
+    {
+      "coordinates": {
+        "x1": 882.0625,
+        "y1": 72.46875,
+        "x2": 993.734375,
+        "y2": 123.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enforcement",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Enforcement"
+    },
+    {
+      "coordinates": {
+        "x1": 1009.734375,
+        "y1": 72.46875,
+        "x2": 1072.890625,
+        "y2": 123.46875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Policy",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1009.734375,
+        "y1": 72.46875,
+        "x2": 1072.890625,
+        "y2": 123.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Policy",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1088.890625,
+        "y1": 87.46875,
+        "x2": 1241.765625,
+        "y2": 106.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Advice and Guidance",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Advice and Guidance"
+    },
+    {
+      "coordinates": {
+        "x1": 1470.609375,
+        "y1": 0,
+        "x2": 1647.5,
+        "y2": 40.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Search the Legal Library",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.ftc.gov/legal-library",
+      "descriptive_label": "general_link: Search the Legal Library"
+    },
+    {
+      "coordinates": {
+        "x1": 1277.765625,
+        "y1": 87.46875,
+        "x2": 1401.265625,
+        "y2": 106.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "News and Events",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: News and Events"
+    },
+    {
+      "coordinates": {
+        "x1": 598.421875,
+        "y1": 14.3125,
+        "x2": 733.5625,
+        "y2": 28.59375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Here's how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 1437.265625,
+        "y1": 87.46875,
+        "x2": 1540.5,
+        "y2": 106.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "About the FTC",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: About the FTC"
+    },
+    {
+      "coordinates": {
+        "x1": 598.421875,
+        "y1": 13.3125,
+        "x2": 719.6875,
+        "y2": 28.3125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Here's how you know",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Here's how you know"
+    },
+    {
+      "coordinates": {
+        "x1": 882.0625,
+        "y1": 87.46875,
+        "x2": 973.734375,
+        "y2": 106.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Enforcement",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Enforcement"
+    },
+    {
+      "coordinates": {
+        "x1": 1312.375,
+        "y1": 0,
+        "x2": 1467.40625,
+        "y2": 40.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get Consumer Alerts",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8",
+      "descriptive_label": "general_link: Get Consumer Alerts"
+    },
+    {
+      "coordinates": {
+        "x1": 914.265625,
+        "y1": 660.40625,
+        "x2": 1128.21875,
+        "y2": 687.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Merger/Antitrust Comment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment",
+      "descriptive_label": "general_link: Merger/Antitrust Comment"
+    },
+    {
+      "coordinates": {
+        "x1": 348.125,
+        "y1": 716.59375,
+        "x2": 558.203125,
+        "y2": 743.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Get your free credit report",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.consumer.ftc.gov/articles/free-credit-reports",
+      "descriptive_label": "general_link: Get your free credit report"
+    },
+    {
+      "coordinates": {
+        "x1": 1009.734375,
+        "y1": 87.46875,
+        "x2": 1052.890625,
+        "y2": 106.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "span",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Policy",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 636.515625,
+        "y1": 660.40625,
+        "x2": 840.375,
+        "y2": 687.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Submit a public comment",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.ftc.gov/policy/public-comments",
+      "descriptive_label": "general_link: Submit a public comment"
+    },
+    {
+      "coordinates": {
+        "x1": 1576.5,
+        "y1": 85.96875,
+        "x2": 1600.5,
+        "y2": 109.96875
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "li",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "0",
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_menu: 0"
+    },
+    {
+      "coordinates": {
+        "x1": 1576.5,
+        "y1": 85.96875,
+        "x2": 1600.5,
+        "y2": 109.96875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button"
+    },
+    {
+      "coordinates": {
+        "x1": 922.765625,
+        "y1": 716.59375,
+        "x2": 1111.328125,
+        "y2": 743.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Register for Do Not Call",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.donotcall.gov/",
+      "descriptive_label": "general_link: Register for Do Not Call"
+    },
+    {
+      "coordinates": {
+        "x1": 277.5,
+        "y1": 15.953125,
+        "x2": 293.5,
+        "y2": 26.953125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "U.S. flag",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: U.S. flag"
+    },
+    {
+      "coordinates": {
+        "x1": 638.640625,
+        "y1": 716.59375,
+        "x2": 798.046875,
+        "y2": 743.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Report identity theft",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.identitytheft.gov/",
+      "descriptive_label": "general_link: Report identity theft"
+    },
+    {
+      "coordinates": {
+        "x1": 1202.125,
+        "y1": 0,
+        "x2": 1309.171875,
+        "y2": 40.90625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Report Fraud",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://reportfraud.ftc.gov/",
+      "descriptive_label": "general_link: Report Fraud"
+    },
+    {
+      "coordinates": {
+        "x1": 354.5,
+        "y1": 660.40625,
+        "x2": 455.421875,
+        "y2": 687.59375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Report fraud",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://reportfraud.ftc.gov/",
+      "descriptive_label": "general_link: Report fraud"
+    }
+  ],
+  "dataset_split": "raw"
+}

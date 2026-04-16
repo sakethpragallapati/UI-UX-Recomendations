@@ -1,0 +1,532 @@
+{
+  "url": "https://plus.google.com",
+  "category": "google_ecosystem",
+  "timestamp": 1775665552,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 636.703125,
+        "y1": 157.0,
+        "x2": 1244.28125,
+        "y2": 247.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 743.609375,
+        "y1": 506.625,
+        "x2": 1590.359375,
+        "y2": 557.78125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "see this post",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://blog.google/technology/safety-security/expediting-changes-google-plus/",
+      "descriptive_label": "general_link: see this post"
+    },
+    {
+      "coordinates": {
+        "x1": 1305.5,
+        "y1": 352.46875,
+        "x2": 1553.5,
+        "y2": 392.46875
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "Search blog",
+        "value": "",
+        "name": "q"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: Search blog"
+    },
+    {
+      "coordinates": {
+        "x1": 1672.015625,
+        "y1": 38.0,
+        "x2": 1829.0,
+        "y2": 88.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Subscribe email",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html#subscribe",
+      "descriptive_label": "general_button: Subscribe email"
+    },
+    {
+      "coordinates": {
+        "x1": 851.953125,
+        "y1": 714.140625,
+        "x2": 1189.03125,
+        "y2": 736.140625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "announced plans to wind down Currents",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspaceupdates.googleblog.com/2022/02/currents-spaces-migration.html",
+      "descriptive_label": "general_link: announced plans to wind dow..."
+    },
+    {
+      "coordinates": {
+        "x1": 743.609375,
+        "y1": 801.609375,
+        "x2": 1050.75,
+        "y2": 823.609375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "automated migration of Currents data",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://support.google.com/a/answer/12129320?p=currentsfaq&visit_id=637801097348316846-2249159324&rd=2",
+      "descriptive_label": "general_link: automated migration of Curr..."
+    },
+    {
+      "coordinates": {
+        "x1": 993.078125,
+        "y1": 918.234375,
+        "x2": 1277.140625,
+        "y2": 940.234375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "export Currents data using Takeout",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://support.google.com/a/answer/100458",
+      "descriptive_label": "general_link: export Currents data using ..."
+    },
+    {
+      "coordinates": {
+        "x1": 100.0,
+        "y1": 45.0,
+        "x2": 136.0,
+        "y2": 81.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Logo"
+    },
+    {
+      "coordinates": {
+        "x1": 336.5,
+        "y1": 822.625,
+        "x2": 360.5,
+        "y2": 846.625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 384.5,
+        "y1": 822.625,
+        "x2": 408.5,
+        "y2": 846.625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 432.5,
+        "y1": 822.625,
+        "x2": 456.5,
+        "y2": 846.625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 480.5,
+        "y1": 822.625,
+        "x2": 504.5,
+        "y2": 846.625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 534.140625,
+        "y1": 363.0,
+        "x2": 729.5,
+        "y2": 381.921875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Content & Collaboration \u25be",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "javascript:void(0);",
+      "descriptive_label": "general_link: Content & Collaboration \u25be"
+    },
+    {
+      "coordinates": {
+        "x1": 855.09375,
+        "y1": 772.453125,
+        "x2": 999.671875,
+        "y2": 794.453125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "detailed guidance",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://support.google.com/a/answer/13137538",
+      "descriptive_label": "general_link: detailed guidance"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 363.0,
+        "x2": 486.03125,
+        "y2": 381.921875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Comms & Meetings \u25be",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "javascript:void(0);",
+      "descriptive_label": "general_link: Comms & Meetings \u25be"
+    },
+    {
+      "coordinates": {
+        "x1": 1501.578125,
+        "y1": 51.0,
+        "x2": 1626.015625,
+        "y2": 75.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Release Calendar",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspace.google.com/whatsnew/calendar/",
+      "descriptive_label": "general_link: Release Calendar"
+    },
+    {
+      "coordinates": {
+        "x1": 896.21875,
+        "y1": 363.0,
+        "x2": 1041.09375,
+        "y2": 381.921875
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Admin & Security \u25be",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "javascript:void(0);",
+      "descriptive_label": "general_link: Admin & Security \u25be"
+    },
+    {
+      "coordinates": {
+        "x1": 372.5,
+        "y1": 810.625,
+        "x2": 420.5,
+        "y2": 858.625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Share on LinkedIn",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html#",
+      "descriptive_label": "general_link: Share on LinkedIn"
+    },
+    {
+      "coordinates": {
+        "x1": 420.5,
+        "y1": 810.625,
+        "x2": 468.5,
+        "y2": 858.625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Share on Facebook",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html#",
+      "descriptive_label": "general_link: Share on Facebook"
+    },
+    {
+      "coordinates": {
+        "x1": 324.5,
+        "y1": 810.625,
+        "x2": 372.5,
+        "y2": 858.625
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "Share via Email",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html#",
+      "descriptive_label": "general_link: Share via Email"
+    }
+  ],
+  "dataset_split": "raw"
+}

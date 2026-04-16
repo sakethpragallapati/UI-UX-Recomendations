@@ -1,0 +1,870 @@
+{
+  "url": "https://flickr.com",
+  "category": "design_and_visuals",
+  "timestamp": 1775667414,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 1433.125,
+        "y1": 148.984375,
+        "x2": 1889.0,
+        "y2": 574.78125
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Photo by Alwen KQLIM",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Photo by Alwen KQLIM"
+    },
+    {
+      "coordinates": {
+        "x1": 1333.046875,
+        "y1": 574.78125,
+        "x2": 1889.0,
+        "y2": 879.65625
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Photo by Ave Kalvar",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Photo by Ave Kalvar"
+    },
+    {
+      "coordinates": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 1889.0,
+        "y2": 71.578125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Upgrade everything you do with Flickr Pro\nUnlock unlimited storage, ad-free browsing, advanced stats, exclusive discounts, and more.\nUpgrade everything you do with Flickr Pro\nUnlock unlimited storage, ad-free browsing, advanced stats, exclusive discounts, and more.",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.flickr.com/account/upgrade/pro?select&utm_campaign=marketing&utm_source=flickr&utm_medium=website&utm_content=pro-upgrade",
+      "descriptive_label": "general_link: Upgrade everything you do w..."
+    },
+    {
+      "coordinates": {
+        "x1": 1656.625,
+        "y1": 708.0,
+        "x2": 1889.0,
+        "y2": 900.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept All\nDecline All\nManage Settings",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept All\nDecline All\nMana..."
+    },
+    {
+      "coordinates": {
+        "x1": 712.96875,
+        "y1": 47.71875,
+        "x2": 1158.265625,
+        "y2": 95.4375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "text",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "photos, people, or groups",
+        "value": "",
+        "name": "text"
+      },
+      "href": "",
+      "descriptive_label": "icon_search: photos, people, or groups"
+    },
+    {
+      "coordinates": {
+        "x1": 1513.796875,
+        "y1": 85.46875,
+        "x2": 1877.078125,
+        "y2": 135.09375
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LOGIN\nSIGN UP",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: LOGIN\nSIGN UP"
+    },
+    {
+      "coordinates": {
+        "x1": 11.921875,
+        "y1": 83.8125,
+        "x2": 250.578125,
+        "y2": 136.75
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Flickr Homepage",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Flickr Homepage"
+    },
+    {
+      "coordinates": {
+        "x1": 808.65625,
+        "y1": 83.5,
+        "x2": 986.203125,
+        "y2": 137.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "COMMUNITY",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: COMMUNITY"
+    },
+    {
+      "coordinates": {
+        "x1": 1024.359375,
+        "y1": 83.5,
+        "x2": 1176.46875,
+        "y2": 137.0625
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "COMPANY",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: COMPANY"
+    },
+    {
+      "coordinates": {
+        "x1": 35.796875,
+        "y1": 611.0,
+        "x2": 159.703125,
+        "y2": 664.78125
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "JOIN US",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "http://flickr.com/signup?utm_campaign=marketing&utm_source=flickr&utm_medium=website&utm_content=signup",
+      "descriptive_label": "general_button: JOIN US"
+    },
+    {
+      "coordinates": {
+        "x1": 1686.625,
+        "y1": 836.0,
+        "x2": 1859.0,
+        "y2": 870.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Manage Settings",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Manage Settings"
+    },
+    {
+      "coordinates": {
+        "x1": 1686.625,
+        "y1": 792.0,
+        "x2": 1859.0,
+        "y2": 826.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Decline All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Decline All"
+    },
+    {
+      "coordinates": {
+        "x1": 1686.625,
+        "y1": 748.0,
+        "x2": 1859.0,
+        "y2": 782.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "button",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Accept All",
+        "placeholder": null,
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_button: Accept All"
+    },
+    {
+      "coordinates": {
+        "x1": 1654.265625,
+        "y1": 90.28125,
+        "x2": 1793.5625,
+        "y2": 130.28125
+      },
+      "class_id": 17,
+      "class_name": "icon_menu",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SIGN UP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "http://flickr.com/signup?utm_campaign=marketing&utm_source=flickr&utm_medium=website&utm_content=signup",
+      "descriptive_label": "icon_menu: SIGN UP"
+    },
+    {
+      "coordinates": {
+        "x1": 1158.265625,
+        "y1": 47.71875,
+        "x2": 1238.03125,
+        "y2": 95.4375
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "input",
+      "element_type": "submit",
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": "",
+        "value": "",
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1790.484375,
+        "y1": 930.0,
+        "x2": 1869.0,
+        "y2": 970.0
+      },
+      "class_id": 20,
+      "class_name": "icon_close",
+      "tag_name": "div",
+      "element_type": "combobox",
+      "accessibility": {
+        "aria_label": "Language Switcher",
+        "title": "",
+        "alt_text": "",
+        "role": "combobox"
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_close: Language Switcher"
+    },
+    {
+      "coordinates": {
+        "x1": 1819.765625,
+        "y1": 898.5,
+        "x2": 1869.0,
+        "y2": 924.5
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "cookie notice provider logo",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: cookie notice provider logo"
+    },
+    {
+      "coordinates": {
+        "x1": 465.375,
+        "y1": 88.359375,
+        "x2": 607.25,
+        "y2": 132.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FLICKR\nPRO",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://flickr.com/flickr-pro",
+      "descriptive_label": "general_link: FLICKR\nPRO"
+    },
+    {
+      "coordinates": {
+        "x1": 1513.796875,
+        "y1": 95.03125,
+        "x2": 1550.71875,
+        "y2": 125.515625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://flickr.com/#",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 1826.953125,
+        "y1": 85.46875,
+        "x2": 1851.953125,
+        "y2": 110.46875
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": "button",
+      "accessibility": {
+        "aria_label": "View Dark Mode",
+        "title": "",
+        "alt_text": "",
+        "role": "button"
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: View Dark Mode"
+    },
+    {
+      "coordinates": {
+        "x1": 297.453125,
+        "y1": 88.359375,
+        "x2": 427.21875,
+        "y2": 132.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FEATURES",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://flickr.com/features",
+      "descriptive_label": "general_link: FEATURES"
+    },
+    {
+      "coordinates": {
+        "x1": 1513.796875,
+        "y1": 95.03125,
+        "x2": 1538.796875,
+        "y2": 125.515625
+      },
+      "class_id": 18,
+      "class_name": "icon_search",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "icon_search"
+    },
+    {
+      "coordinates": {
+        "x1": 645.40625,
+        "y1": 88.359375,
+        "x2": 770.5,
+        "y2": 132.203125
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "THE APPS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://flickr.com/features/apps",
+      "descriptive_label": "general_link: THE APPS"
+    },
+    {
+      "coordinates": {
+        "x1": 154.1417236328125,
+        "y1": 23.859375,
+        "x2": 178.0010986328125,
+        "y2": 47.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1524.5296630859375,
+        "y1": 23.859375,
+        "x2": 1548.3890380859375,
+        "y2": 47.71875
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.484375,
+        "y1": 942.0,
+        "x2": 1825.484375,
+        "y2": 958.0
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "English flag",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: English flag"
+    },
+    {
+      "coordinates": {
+        "x1": 959.96875,
+        "y1": 99.65625,
+        "x2": 981.203125,
+        "y2": 120.890625
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 1150.234375,
+        "y1": 99.65625,
+        "x2": 1171.46875,
+        "y2": 120.890625
+      },
+      "class_id": 3,
+      "class_name": "general_dropdown",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_dropdown"
+    },
+    {
+      "coordinates": {
+        "x1": 1814.6533203125,
+        "y1": 982.0,
+        "x2": 1837.474609375,
+        "y2": 985
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "Espa\u00f1ol flag",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image: Espa\u00f1ol flag"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.484375,
+        "y1": 87.234375,
+        "x2": 1819.484375,
+        "y2": 101.234375
+      },
+      "class_id": 10,
+      "class_name": "general_image",
+      "tag_name": "img",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "",
+      "descriptive_label": "general_image"
+    },
+    {
+      "coordinates": {
+        "x1": 1558.0625,
+        "y1": 85.46875,
+        "x2": 1648.3125,
+        "y2": 135.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LOGIN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://identity.flickr.com/login?",
+      "descriptive_label": "general_link: LOGIN"
+    },
+    {
+      "coordinates": {
+        "x1": 20.0,
+        "y1": 905.890625,
+        "x2": 79.84375,
+        "y2": 964.09375
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "Privacy Policy",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://www.flickr.com/help/privacy",
+      "descriptive_label": "general_link: Privacy Policy"
+    },
+    {
+      "coordinates": {
+        "x1": 1805.484375,
+        "y1": 940.0,
+        "x2": 1854.0,
+        "y2": 960.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "EN",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "EN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://flickr.com/#",
+      "descriptive_label": "general_link: EN"
+    }
+  ],
+  "dataset_split": "raw"
+}

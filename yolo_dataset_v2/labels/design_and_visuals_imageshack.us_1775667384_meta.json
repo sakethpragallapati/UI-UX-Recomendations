@@ -1,0 +1,402 @@
+{
+  "url": "https://imageshack.us",
+  "category": "design_and_visuals",
+  "timestamp": 1775667384,
+  "image_size": {
+    "width": 1904,
+    "height": 985
+  },
+  "elements": [
+    {
+      "coordinates": {
+        "x1": 832.0,
+        "y1": 530.75,
+        "x2": 1072.0,
+        "y2": 578.75
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "START UPLOADING",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/signup",
+      "descriptive_label": "general_button: START UPLOADING"
+    },
+    {
+      "coordinates": {
+        "x1": 1515.546875,
+        "y1": 6.0,
+        "x2": 1687.546875,
+        "y2": 34.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LOG IN WITH FACEBOOK",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: LOG IN WITH FACEBOOK"
+    },
+    {
+      "coordinates": {
+        "x1": 1702.546875,
+        "y1": 6.0,
+        "x2": 1790.546875,
+        "y2": 34.0
+      },
+      "class_id": 0,
+      "class_name": "general_button",
+      "tag_name": "div",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "SIGN UP",
+        "placeholder": null,
+        "value": null,
+        "name": null
+      },
+      "href": "",
+      "descriptive_label": "general_button: SIGN UP"
+    },
+    {
+      "coordinates": {
+        "x1": 1806.546875,
+        "y1": 0,
+        "x2": 1904,
+        "y2": 40.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LOG IN",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": null,
+      "descriptive_label": "general_link: LOG IN"
+    },
+    {
+      "coordinates": {
+        "x1": 802.015625,
+        "y1": 0,
+        "x2": 882.5,
+        "y2": 39.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "LEARN MORE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/about",
+      "descriptive_label": "general_link: LEARN MORE"
+    },
+    {
+      "coordinates": {
+        "x1": 1012.3125,
+        "y1": 0,
+        "x2": 1075.796875,
+        "y2": 39.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FEATURED",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/featured",
+      "descriptive_label": "general_link: FEATURED"
+    },
+    {
+      "coordinates": {
+        "x1": 916.65625,
+        "y1": 0,
+        "x2": 978.15625,
+        "y2": 39.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "DISCOVER",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/discover",
+      "descriptive_label": "general_link: DISCOVER"
+    },
+    {
+      "coordinates": {
+        "x1": 708.203125,
+        "y1": 0,
+        "x2": 767.859375,
+        "y2": 39.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "UPGRADE",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/upgrade",
+      "descriptive_label": "general_link: UPGRADE"
+    },
+    {
+      "coordinates": {
+        "x1": 24.0,
+        "y1": 13.0,
+        "x2": 152.0,
+        "y2": 29.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/",
+      "descriptive_label": "general_link"
+    },
+    {
+      "coordinates": {
+        "x1": 660.0,
+        "y1": 918.0,
+        "x2": 723.34375,
+        "y2": 937.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "CONTACT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/contact",
+      "descriptive_label": "general_link: CONTACT"
+    },
+    {
+      "coordinates": {
+        "x1": 906.359375,
+        "y1": 918.0,
+        "x2": 953.0625,
+        "y2": 937.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "ABOUT",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/about",
+      "descriptive_label": "general_link: ABOUT"
+    },
+    {
+      "coordinates": {
+        "x1": 841.953125,
+        "y1": 918.0,
+        "x2": 886.359375,
+        "y2": 937.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "TERMS",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/terms",
+      "descriptive_label": "general_link: TERMS"
+    },
+    {
+      "coordinates": {
+        "x1": 743.34375,
+        "y1": 918.0,
+        "x2": 780.765625,
+        "y2": 937.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "BLOG",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "http://blog.imageshack.com/",
+      "descriptive_label": "general_link: BLOG"
+    },
+    {
+      "coordinates": {
+        "x1": 1020.03125,
+        "y1": 918.0,
+        "x2": 1053.875,
+        "y2": 937.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "HELP",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/help",
+      "descriptive_label": "general_link: HELP"
+    },
+    {
+      "coordinates": {
+        "x1": 973.0625,
+        "y1": 918.0,
+        "x2": 1000.03125,
+        "y2": 937.0
+      },
+      "class_id": 1,
+      "class_name": "general_link",
+      "tag_name": "a",
+      "element_type": null,
+      "accessibility": {
+        "aria_label": "",
+        "title": "",
+        "alt_text": "",
+        "role": null
+      },
+      "content": {
+        "text": "FAQ",
+        "placeholder": null,
+        "value": null,
+        "name": ""
+      },
+      "href": "https://imageshack.com/faq",
+      "descriptive_label": "general_link: FAQ"
+    }
+  ],
+  "dataset_split": "raw"
+}
