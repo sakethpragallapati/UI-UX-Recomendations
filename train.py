@@ -23,7 +23,7 @@ def verify_dataset(data_path):
     print("✅ System checks passed. Ready for CPU training.\n")
 
 def train_yolo_model(
-    data_yaml="yolo_formatted/dataset.yaml", 
+    data_yaml="yolo_formatted_v2/dataset.yaml", 
     model_size="n",  # Nano is highly recommended for CPU
     epochs=50,       # Reduced for realistic CPU training times
     batch_size=8,    # Lowered batch size to prevent CPU RAM overflow

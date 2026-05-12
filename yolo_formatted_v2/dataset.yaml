@@ -3,7 +3,7 @@ path: D:\Acadamics\CBIT\UI UX Internship\UI Elements detection\UI Replication (b
 train: train/images
 val: val/images
 test: test/images
-nc: 21
+nc: 15
 names:
   0: general_button
   1: general_link
@@ -13,16 +13,10 @@ names:
   5: general_checkbox
   6: general_radio
   7: general_textarea
-  8: general_menu_item
-  9: general_slider
-  10: general_image
-  11: general_video
-  12: general_iframe
-  13: general_form
-  14: general_table
-  15: general_clickable
-  16: icon_cart
-  17: icon_menu
-  18: icon_search
-  19: icon_profile
-  20: icon_close
+  8: general_slider
+  9: general_image
+  10: icon_cart
+  11: icon_menu
+  12: icon_search
+  13: icon_profile
+  14: icon_close

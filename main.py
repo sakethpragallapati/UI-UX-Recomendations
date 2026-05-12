@@ -149,7 +149,7 @@ def draw_detections(image_bgr, detections):
     return cv2.cvtColor(canvas, cv2.COLOR_BGR2RGB)
 
 
-def run_ui_audit(image_path, selected_category, det_weights_path="runs/detect/ui_detector/weights/best.pt"):
+def run_ui_audit(image_path, selected_category, det_weights_path="runs/detect/ui_detector2/weights/best.pt"):
     if not os.path.exists(det_weights_path):
         raise FileNotFoundError(f"Detector weights not found at '{det_weights_path}'.")
 
@@ -261,7 +261,7 @@ def main():
         )
         det_weights_path = st.text_input(
             "Detector weights path",
-            value="runs/detect/ui_detector/weights/best.pt",
+            value="runs/detect/ui_detector2/weights/best.pt",
         )
         uploaded_file = st.file_uploader(
             "Upload a Figma or website image",
@@ -291,7 +291,9 @@ def main():
                 return
 
             suffix = Path(uploaded_file.name).suffix or ".png"
-            with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp_file:
+            temp_dir = os.path.join(os.getcwd(), "temp_uploads")
+            os.makedirs(temp_dir, exist_ok=True)
+            with tempfile.NamedTemporaryFile(delete=False, suffix=suffix, dir=temp_dir) as tmp_file:
                 tmp_file.write(image_bytes)
                 temp_path = tmp_file.name
 
